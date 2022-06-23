@@ -1,0 +1,836 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RFzfKf7zHAPMfEpr1Icpv2tKwAQoi+jlgzEJSAyEy5XlBzIPd9nD3kstUhMDZCFq
+ wDqsnleHRxaEp8iiggYb4A==
+
+<SEC-DOCUMENT>0000950159-09-001782.txt : 20090810
+<SEC-HEADER>0000950159-09-001782.hdr.sgml : 20090810
+<ACCEPTANCE-DATETIME>20090810150855
+ACCESSION NUMBER:		0000950159-09-001782
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090810
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090810
+DATE AS OF CHANGE:		20090810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		09999396
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.htm
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>ktron8k.htm</title>
+<!-- Licensed to: The Scullin Group-->
+<!-- Document Created using EDGARizerAgent 5.1.0.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED STATES</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">WASHINGTON, D.C.&#160;&#160;20549</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">_____________</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">FORM 8-K</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT REPORT</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">PURSUANT TO SECTION 13 OR 15(d) OF THE</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES EXCHANGE ACT OF 1934</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date of report (Date of earliest event reported):&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">August 10, 2009</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">K-TRON INTERNATIONAL, INC.</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Exact Name of Registrant Specified in Charter)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">New Jersey</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State or Other</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jurisdiction of</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Incorporation)</font></div></td>
+<td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">&#160;0-9576</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission File</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Number)</font></div></td>
+<td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">22-1759452</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(I.R.S. Employer</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification No.)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="67%" style="BORDER-TOP: #ffffff 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="33%" style="BORDER-TOP: #ffffff 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="67%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Routes 55 &amp; 553</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">P.O. Box 888</font></div></td>
+<td valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="67%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">Pitman, New Jersey</font></div></td>
+<td valign="top" width="33%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">08071-0888</font></td></tr><tr>
+<td valign="top" width="67%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address of Principal Executive Offices)</font></div></td>
+<td valign="top" width="33%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip Code)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Registrant's telephone number, including area code:&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">(856) 589-0500</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Not Applicable</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt">(Former Name or Former Address, if Changed Since Last Report)</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160; Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160; </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div></div>
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160; </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item 2.02&#160;&#160; Results of Operations and Financial Condition.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>On August 10, 2009, K-Tron International, Inc. issued a press release announcing its second quarter financial results.&#160;&#160;The press release is being furnished with this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The information in this Form 8-K and the exhibit attached hereto shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item 9.01&#160;&#160; Financial Statements and Exhibits.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(a) Financial Statements of Businesses Acquired.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(b) Pro Forma Financial Information.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(c) Shell Company Transactions.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(d) Exhibits.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit No.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Description</font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="ex99-1.htm">&#160;Press
+Release dated August 10, 2009 issued by</a></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 144pt"></font><a href="ex99-1.htm">K-Tron International, Inc.</a></font></div>
+<div>
+<br>&#160;</div>
+<div>&#160;</div>
+<div>
+<br>&#160;</div>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2</font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div></div></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="56%" style="BORDER-TOP: medium none"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="44%" style="BORDER-TOP: medium none">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON INTERNATIONAL, INC.</font></div></td></tr><tr>
+<td valign="top" width="56%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="44%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="56%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="44%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="56%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By <font style="DISPLAY: inline; TEXT-DECORATION: underline">ROBERT E. WISNIEWSKI</font></font></div></td></tr><tr>
+<td align="left" valign="top" width="56%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div></td>
+<td align="left" valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160; Robert E. Wisniewski</font></div></td></tr><tr>
+<td align="left" valign="top" width="56%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div></td>
+<td align="left" valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160; Senior Vice President and</font></div></td></tr><tr>
+<td align="left" valign="top" width="56%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div></td>
+<td align="left" valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160; Chief Financial Officer</font></div></td></tr></table></div>
+<br>
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dated: August 10, 2009</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3</font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div></div></div>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit Index</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="19%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Exhibit Number</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div></td>
+<td align="left" valign="top" width="54%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Description</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div></td></tr><tr>
+<td valign="top" width="19%" style="TEXT-ALIGN: left">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex99-1.htm">99.1</a></font></div></td>
+<td align="left" valign="top" width="54%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex99-1.htm">Press Release dated August 10, 2009 issued by K-Tron International, Inc.</a></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<br>&#160;</div>
+<div>&#160;</div>
+<div>
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4</font>
+<hr style="COLOR: black" align="left" noshade size="2" width="100%"></div>
+<br></div></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+    <title>ex99-1.htm</title>
+<!-- Licensed to: The Scullin Group-->
+<!-- Document Created using EDGARizerAgent 5.1.0.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="70%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="70%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="24%" bgcolor="black">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div></td></tr><tr>
+<td rowspan="6" valign="top" width="6%">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><img src="ktron.jpg" alt=""></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div></td>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON INTERNATIONAL, INC.</font></div></td>
+<td align="left" rowspan="4" valign="center" width="24%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 24pt; FONT-FAMILY: times new roman">NEWS</font></div></td></tr><tr>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Routes 55 &amp; 553, PO Box 888</font></div></td></tr><tr>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pitman, NJ 08071-0888</font></div></td></tr><tr>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(856) 589-0500</font></div></td></tr><tr>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">FAX (856) 582-7968</font></div></td>
+<td valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">www.ktroninternational.com</font></div></td>
+<td valign="top" width="24%">
+<div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></div></td></tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="70%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">E-mail: ktii@ktron.com</font></div></td>
+<td valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" valign="top" width="70%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="24%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">EXHIBIT 99.1</font></font></td></tr></table></div></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br>&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For Release:</font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Immediately</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contact:</font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Robert E. Wisniewski, Senior Vice President and Chief Financial Officer</font></div></td></tr></table></div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 315px">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Tel: (856) 256-3311</font></div></td>
+<td width="1322">
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">E-mail: <font style="DISPLAY: inline; TEXT-DECORATION: underline">rwisniewski@ktron.com</font></font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-TRON REPORTS SECOND QUARTER 2009 RESULTS</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">STRONG CASH FLOW PRODUCES $6.531 MILLION INCREASE IN CASH AND $2.602 MILLION REDUCTION IN DEBT DURING THE QUARTER</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Pitman, New Jersey - - August 10, 2009 </font>- -&#160;&#160;K-Tron International, Inc. (NASDAQ-GS: KTII) today reported net income of $5.258 million and diluted earnings per share (&#8220;EPS&#8221;) of $1.82 for its fiscal second quarter ended July 4, 2009.&#160;&#160;This represented
+a 26.5 percent decrease in net income and a 26.9 percent decrease in diluted EPS from the same period in 2008.&#160;&#160;Revenues were $50.037 million in this year&#8217;s second quarter, a decline of 16.9 percent from last year.&#160;&#160;These results reflected weaker sales and unfavorable foreign currency exchange rates compared to 2008&#8217;s second quarter, which was the best quarter in the Company&#8217;s history, while net income and EPS were also adversely affected by a higher effective income tax
+rate this year (35.5 percent versus 28.5 percent in last year&#8217;s second quarter).</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the first half of 2009, K-Tron reported net income of $9.705 million, diluted EPS of $3.37 and revenues of $99.723 million, compared to net income of $12.809 million, diluted EPS of $4.47 and revenues of $117.608 million in the first half of 2008.&#160;&#160;The percentage decreases in 2009 versus the prior year were 24.2 percent for
+net income, 24.6 percent for EPS and 15.2 percent for revenues.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company noted that if the average foreign currency exchange rates for the second quarter and first six months of 2008 were applied to the same periods of 2009, the Company&#8217;s revenues would have decreased approximately 14.7 percent for the second quarter of 2009 instead of 16.9 percent and 12.7 percent for the first six months
+of 2009 instead of 15.2 percent.&#160;&#160;&#160;The differences were primarily due to a stronger U.S. dollar against the Swiss franc, the euro and other relevant foreign currencies in this year&#8217;s second quarter and first half compared to the same periods last year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#8220;K-Tron posted a good second quarter performance in a challenging global environment,&#8221; said the Company&#8217;s Chairman and Chief Executive Officer, Edward B. Cloues, II.&#160;&#160;&#8220;While our net income and EPS were well below last year&#8217;s record numbers, both were up 18.2 percent over the first quarter of this
+year on a less than one percent increase in revenues.&#160;&#160;We have worked hard to control costs, and our success in this effort is reflected in our improved second quarter results versus the first quarter.&#160;&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div></div></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our global employee headcount is down nearly 10 percent from the beginning of the year, and we have also implemented selective furloughs and shorter work schedules in our operations most affected by lower volumes.&#8221;</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr. Cloues commented that the Company&#8217;s order backlog declined by $6.242 million, or 10.4%, in the second quarter on a constant foreign currency exchange basis, and, looking ahead, he said that &#8220;K-Tron does not expect any recovery in 2009 in many of its key markets.&#160;&#160;As a result, we have extended our existing worldwide
+salary and wage freeze through the end of the first quarter of 2010, and the salaries of our five executive officers have been reduced by 8 percent for the second half of this year.&#160;&#160;With these and the other aggressive cost actions we have taken, we believe that the Company is well-positioned to continue to deliver good earnings and cash flow despite the tough conditions we still face.&#8221;</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr. Cloues also highlighted a significant increase in cash and a substantial reduction in debt during the second quarter, noting that cash grew by $6.531 million to a record $49.644 million while debt was paid down by $2.602 million to $20.0 million.&#160;&#160;As a result, the Company had cash in excess of debt of $29.644 million at
+the end of the second quarter.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -4.5pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron International, Inc. and its subsidiaries design, produce, market and service material handling equipment and systems for a wide variety of industrial markets. The Company has manufacturing facilities in the United States, Switzerland and the People&#8217;s Republic of China, and its equipment is sold throughout the world.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SAFE HARBOR</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain statements in this release, including those with respect to economic conditions and prospects and also profit and cash flow expectations, relate to future events and expectations and as such constitute forward-looking statements involving known and unknown factors that may cause the actual results of K-Tron International, Inc. to
+be different from those expressed or implied in the forward-looking statements. In this context, words such as &#8220;believe,&#8221; &#8220;would,&#8221; &#8220;expect,&#8221; &#8220;should&#8221; and other similar words and phrases often identify forward-looking statements made on behalf of the Company.&#160;&#160;It is important to note that actual results of the Company may differ materially from those described or implied in such forward-looking statements based on a number of factors and uncertainties,
+including, but not limited to, (i) adverse changes in general economic conditions; (ii) adverse changes in the industries the Company serves, including plastics compounding, base resin production, food, pharmaceutical, chemical, power generation, mining, pulp and paper, wood and forest products and biomass energy generation; (iii) the Company&#8217;s ability to manage its costs; (iv) the Company&#8217;s ability to generate cash from operations and manage its liquidity needs; (v) material adverse changes in customers&#8217;
+access to liquidity and capital; (vi) currency exchange or interest rate changes; (vii) epidemic diseases; (viii) changes in laws, regulations and tax rates; and (ix) other general economic, business and financing conditions and factors described in more detail in the Company&#8217;s Form 10-K filed with the Securities and Exchange Commission on March 13, 2009.&#160;&#160;We do not undertake to update our forward-looking statements to reflect events or circumstances after the date hereof.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Financial Data Follows)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2</font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;K-TRON INTERNATIONAL, INC. &amp; SUBSIDIARIES</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FINANCIAL SUMMARY</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Unaudited)</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Dollars in thousands, except share data)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+</table>
+<div>&#160;</div>
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="6" valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Three Months Ended</font></font></div></font></td>
+<td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="6" valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Six Months Ended</font></font></div></font></td>
+<td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="bottom" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="bottom" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="bottom" style="BORDER-BOTTOM: black 4px double">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">July 4,</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2009</font></font></div></td>
+<td nowrap valign="bottom" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="bottom" style="BORDER-BOTTOM: black 4px double">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">June 28,</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2008</font></font></div></td>
+<td nowrap valign="bottom" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="bottom" style="BORDER-BOTTOM: black 4px double">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">July 4,</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2009</font></font></div></td>
+<td nowrap valign="bottom" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="bottom" style="BORDER-BOTTOM: black 4px double">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">June 28,</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2008</font></font></div></td>
+<td nowrap valign="bottom" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Revenues</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">50,037</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">60,210</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">99,723</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">117,608</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Operating income</font></div></td>
+<td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">8,436</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">10,256</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">15,409</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">18,791</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Interest expense, net</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">(282</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">(246</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+<td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;(594</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+<td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;(625</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Income before income taxes</font></div></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">8,154</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">10,010</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">14,815</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">18,166</font></td>
+<td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Income taxes</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;2,896</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;2,852</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;5,110</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">&#160;5,357</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Net income</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">5,258</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">7,158</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">9,705</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">12,809</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Basic earnings per share</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">1.87</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2.62</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">3.46</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">4.70</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Diluted earnings per share</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">1.82</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2.49</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">3.37</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">4.47</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Weighted average number of </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">common shares outstanding </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(basic)</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,816,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,733,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,808,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,725,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="bottom" width="52%" style="PADDING-BOTTOM: 4px">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Weighted average number of </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">common and common </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">equivalent&#160;&#160;shares </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">outstanding (diluted)</font></div></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,891,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,877,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,879,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">2,868,000</font></font></td>
+<td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr></table></div></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3</font>
+<br>
+<div>
+<hr style="COLOR: black" align="left" noshade size="2" width="100%"></div>
+<br></div></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ktron.jpg
+<TEXT>
+begin 644 ktron.jpg
+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
+*,8^7AY]>'@?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1260 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Obt80nlTkNNkqWGrrV8PiAQzvYB7op1PM2YIwkyNrb0u1ssX+p2KHI5FBv2SzImQ
+ qK/WWGE9YxdxBAROMqcfSw==
+
+<SEC-DOCUMENT>0000893220-03-000304.txt : 20030317
+<SEC-HEADER>0000893220-03-000304.hdr.sgml : 20030317
+<ACCEPTANCE-DATETIME>20030317155439
+ACCESSION NUMBER:		0000893220-03-000304
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030102
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20030317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03605986
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>w84466e8vkza.txt
+<DESCRIPTION>FORM 8-K/A AMENDMENT NO.1 DATED JANUARY 2, 2003
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 8-K/A
+
+                                 AMENDMENT NO. 1
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+        Date of report (Date of earliest event reported): January 2, 2003
+
+                           K-TRON INTERNATIONAL, INC.
+                 (Exact Name of Registrant Specified in Charter)
+
+        New Jersey                     0-9576                   22-1759452
+      (State or Other             (Commission File           (I.R.S. Employer
+      Jurisdiction of                  Number)              Identification No.)
+       Incorporation)
+
+            Routes 55 & 553
+              P.O. Box 888
+             Pitman, New Jersey                                 08071-0888
+(Address of Principal Executive Offices)                        (Zip Code)
+
+       Registrant's telephone number, including area code: (856) 589-0500
+
+                                 Not Applicable
+         (Former Name or Former Address, if Changed Since Last Report)
+<PAGE>
+
+      This Amendment No. 1 to the Current Report on Form 8-K filed by K-Tron
+International, Inc. ("K-Tron") with the Securities and Exchange Commission on
+January 15, 2003 (the "Form 8-K") amends and modifies the Form 8-K to amend and
+restate Item 7 in its entirety.
+
+ITEM 7. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+
+      (a)   Consolidated Financial Statements of Pennsylvania Crusher
+            Corporation ("PCC") and its Subsidiary
+
+            (1)   Independent Auditors' Report
+
+            (2)   Previously Issued Report of Independent Public Accountants
+
+            (3)   Consolidated Balance Sheets, December 31, 2002 and 2001
+
+            (4)   Consolidated Statements of Income, Years ended December 31,
+                  2002, 2001, and 2000
+
+            (5)   Consolidated Statements of Shareholders' Equity, Years ended
+                  December 31, 2002, 2001, and 2000
+
+            (6)   Consolidated Statements of Cash Flows, Years ended December
+                  31, 2002, 2001, and 2000
+
+            (7)   Notes to Consolidated Financial Statements
+
+      (b)   Pro Forma Financial Statements (Unaudited)
+
+            (1)   Unaudited Pro Forma Condensed Consolidated Balance Sheet of
+                  K-Tron as of December 28, 2002
+
+            (2)   Unaudited Pro Forma Condensed Consolidated Statement of Income
+                  of K-Tron for the year ended December 28, 2002
+
+            (3)   Unaudited Notes to Pro Forma Condensed Consolidated Financial
+                  Statements of K-Tron
+
+<TABLE>
+<CAPTION>
+      (c)   Exhibit No.             Exhibit
+            -----------             -------
+<S>                                 <C>
+             23.1                   Consent of KPMG LLP
+</TABLE>
+<PAGE>
+
+                                    SIGNATURE
+
+      Pursuant to the requirements of the Securities and Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                        K-TRON INTERNATIONAL, INC.
+
+
+Date:   March 17, 2003                  By: /s/ Edward B. Cloues, II
+                                            ------------------------------------
+                                            Edward B. Cloues, II
+                                            Chairman of the Board and
+                                            Chief Executive Officer
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                       Consolidated Financial Statements
+
+                       December 31, 2002, 2001, and 2000
+
+                  (With Independent Auditors' Report Thereon)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                       PAGE
+
+<S>                                                                                    <C>
+Independent Auditors' Report                                                              1
+
+Previously Issued Report of Independent Public Accountants                                2
+
+Consolidated Balance Sheets, December 31, 2002 and 2001                                   3
+
+Consolidated Statements of Income, Years ended December 31, 2002, 2001, and 2000          4
+
+Consolidated Statements of Shareholders' Equity, Years ended December 31, 2002,
+  2001, and 2000                                                                          5
+
+Consolidated Statements of Cash Flows, Years ended December 31, 2002, 2001, and 2000      6
+
+Notes to Consolidated Financial Statements                                                7
+</TABLE>
+
+<PAGE>
+
+                              [LETTERHEAD OF KPMG]
+
+                          INDEPENDENT AUDITORS' REPORT
+
+The Shareholders
+Pennsylvania Crusher Corporation:
+
+We have audited the 2002 financial statements of Pennsylvania Crusher
+Corporation (a Delaware corporation) as listed in the accompanying index. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audit. The 2001 and 2000 financial statements of Pennsylvania Crusher
+Corporation as listed in the accompanying index were audited by other auditors
+who have ceased operations. Those auditors expressed an unqualified opinion on
+those financial statements in their report dated January 17, 2002.
+
+We conducted our audit in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, the 2002 financial statements referred to above present fairly,
+in all material respects, the financial position of Pennsylvania Crusher
+Corporation as of December 31, 2002, and the results of its operations and its
+cash flows for the year then ended, in conformity with accounting principles
+generally accepted in the United States of America.
+
+
+                                  /s/ KPMG LLP
+
+January 22, 2003
+
+<PAGE>
+
+                       [LETTERHEAD OF ARTHUR ANDERSEN LLP]
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Shareholders
+Pennsylvania Crusher Corporation:
+
+We have audited the accompanying consolidated balance sheets of Pennsylvania
+Crusher Corporation (a Delaware corporation) and subsidiary as of December 31,
+2001 and 2000, and the related consolidated statements of income, shareholders'
+equity, and cash flows for the years then ended. These financial statements are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Pennsylvania Crusher
+Corporation and subsidiary as of December 31, 2001 and 2000, and the results of
+its operations and its cash flows for the years then ended in conformity with
+accounting principles generally accepted in the United States of America.
+
+
+
+                                          /s/ Arthur Andersen LLP
+
+January 17, 2002
+
+Note: The report above is copy of a previously issued Arthur Andersen LLP
+(Andersen) report, and the report has not been reissued by Andersen. The
+Andersen report refers to the consolidated balance sheet as of December 31,
+2000, which is no longer included in the accompanying financial statements.
+
+
+                                       2
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                           Consolidated Balance Sheets
+
+                           December 31, 2002 and 2001
+
+<TABLE>
+<CAPTION>
+                                     ASSETS                            2002          2001
+                                                                   ------------     ---------
+<S>                                                                <C>              <C>
+Current assets:
+  Cash and cash equivalents                                        $  1,516,564     5,546,334
+  Accounts receivable, net of allowance for doubtful accounts of
+    $122,845 in 2002 and $130,478 in 2001                             3,183,433     3,748,020
+  Inventories                                                         4,255,033     4,466,338
+  Prepaid expenses and deposits                                         274,797       311,007
+                                                                   ------------    ----------
+        Total current assets                                          9,229,827    14,071,699
+Property and equipment, net                                           3,980,939     4,574,756
+Deferred financing costs                                                     --        57,750
+                                                                   ------------    ----------
+                                                                   $ 13,210,766    18,704,205
+                                                                   ============     =========
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Current portion of long-term debt                                $         --       550,000
+  Accounts payable                                                    1,732,210     1,656,130
+  Accrued expenses                                                      867,092       744,706
+  Accrued salaries and benefits                                         625,565     1,060,796
+  Advances from customers                                               780,697       989,771
+                                                                   ------------    ----------
+        Total current liabilities                                     4,005,564     5,001,403
+                                                                   ------------    ----------
+Long-term debt (note 4)                                                      --     2,420,000
+                                                                   ------------    ----------
+Other long-term liabilities                                                  --       174,158
+                                                                   ------------    ----------
+Commitments and contingencies (note 8)
+
+Shareholders' equity:
+  Common stock:
+    Class A - voting shares, $0.01 par value; authorized 50,000
+      shares; issued 15,626 and 15,626 shares at December 31,
+      2002 and 2001, respectively; outstanding 12,826 and
+      15,626 shares at December 31, 2002 and 2001, respectively             156           156
+    Class B - nonvoting shares, $0.01 par value; authorized
+      50,000 shares; issued and outstanding 0 and 0 shares at
+      December 31, 2002 and 2001, respectively                               --            --
+  Additional paid-in capital                                            156,104       156,104
+  Retained earnings                                                  11,062,562    10,952,384
+  Treasury stock, at cost - 2,800 and 0 shares outstanding at
+    December 31, 2002 and 2001, respectively                         (2,013,620)           --
+                                                                   ------------    ----------
+        Total shareholders' equity                                    9,205,202    11,108,644
+                                                                   ------------    ----------
+                                                                   $ 13,210,766    18,704,205
+                                                                   ============    ==========
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       3
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                        Consolidated Statements of Income
+
+                  Years ended December 31, 2002, 2001, and 2000
+
+<TABLE>
+<CAPTION>
+                                             2002           2001           2000
+                                         ------------     ----------     ----------
+<S>                                      <C>              <C>            <C>
+Net sales                                $ 35,178,276     37,918,071     40,601,800
+Cost of sales                              19,703,438     22,014,202     25,010,136
+                                         ------------     ----------     ----------
+        Gross profit                       15,474,838     15,903,869     15,591,664
+Operating expenses:
+  Selling, general, and administrative     11,590,102     10,770,164     11,404,780
+                                         ------------     ----------     ----------
+        Operating income                    3,884,736      5,133,705      4,186,884
+
+Other income (expense)                        198,672        279,346        (19,139)
+Interest income                                81,920        127,697        178,734
+Interest expense                             (165,328)      (158,375)      (337,447)
+                                         ------------     ----------     ----------
+Net income                               $  4,000,000      5,382,373      4,009,032
+                                         ============     ==========      =========
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       4
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                 Consolidated Statements of Shareholders' Equity
+
+                 Years ended December 31, 2002, 2001, and 2000
+
+<TABLE>
+<CAPTION>
+                                                 COMMON STOCK
+                                    ---------------------------------------
+                                     CLASS A VOTING       CLASS B NONVOTING     ADDITIONAL
+                                    ----------------      -----------------       PAID-IN       RETAINED
+                                    SHARES    AMOUNT      SHARES     AMOUNT       CAPITAL       EARNINGS
+                                    ------    ------      ------     ------     ----------     -----------
+<S>                                 <C>       <C>         <C>        <C>        <C>            <C>
+Balance, December 31, 1999           9,125      $ 91       6,501       $ 65       156,104        6,445,943
+Net income                              --        --          --         --            --        4,009,032
+Distributions to shareholders,
+  $156.87 per share                     --        --          --         --            --       (2,451,405)
+Exchange of common
+  stock shares                       6,501        65      (6,501)       (65)           --               --
+                                    ------      ----      ------       ----       -------      -----------
+Balance, December 31, 2000          15,626       156          --         --       156,104        8,003,570
+Net income                              --        --          --         --            --        5,382,373
+Distributions to shareholders,
+  $155.73 per share                     --        --          --         --            --       (2,433,559)
+                                    ------      ----      ------       ----       -------      -----------
+Balance, December 31, 2001          15,626       156          --         --       156,104       10,952,384
+Net income                              --        --          --         --            --        4,000,000
+Distributions to shareholders,
+  $268.46 per share                     --        --          --         --            --       (3,889,822)
+Purchase of treasury shares             --        --          --         --            --               --
+                                    ------      ----      ------       ----       -------      -----------
+Balance, December 31, 2002          15,626      $156          --       $ --       156,104       11,062,562
+                                    ======      ====      ======       ====       =======      ===========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+
+                                          TREASURY STOCK                TOTAL
+                                        ----------------------      SHAREHOLDERS'
+                                        SHARES       AMOUNT            EQUITY
+                                        ------     -----------      -------------
+<S>                                     <C>        <C>              <C>
+Balance, December 31, 1999                 --      $        --         6,602,203
+Net income                                 --               --         4,009,032
+Distributions to shareholders,
+  $156.87 per share                        --               --        (2,451,405)
+Exchange of common
+  stock shares                             --               --                --
+                                        -----      -----------       -----------
+Balance, December 31, 2000                 --               --         8,159,830
+Net income                                 --               --         5,382,373
+Distributions to shareholders,
+  $155.73 per share                        --               --        (2,433,559)
+                                        -----      -----------       -----------
+Balance, December 31, 2001                 --               --        11,108,644
+Net income                                 --               --         4,000,000
+Distributions to shareholders,
+  $268.46 per share                        --               --        (3,889,822)
+Purchase of treasury shares             2,800       (2,013,620)       (2,013,620)
+                                        -----      -----------       -----------
+Balance, December 31, 2002              2,800      $(2,013,620)        9,205,202
+                                        =====      ===========       ===========
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       5
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                      Consolidated Statements of Cash Flows
+
+                 Years ended December 31, 2002, 2001, and 2000
+
+
+<TABLE>
+<CAPTION>
+                                                       2002              2001             2000
+                                                    -----------       ----------       ----------
+<S>                                                 <C>                <C>              <C>
+Cash flows from operating activities:
+  Net income                                        $ 4,000,000        5,382,373        4,009,032
+  Adjustments to reconcile net income to
+    net cash provided by operating activities:
+      Depreciation and amortization                     888,109          808,301          763,475
+      Loss on retirement of fixed assets                 14,773            3,993               --
+      Net book value of fixed
+        assets contribution                                  --               --          323,896
+      Change in bad debt provision                       (7,633)         (11,548)           4,433
+      Change in assets and liabilities:
+        Decrease (increase) in:
+          Accounts receivable                           572,220        2,216,873       (1,606,221)
+          Inventories                                   211,305        1,113,152          (79,478)
+          Prepaid expenses and deposits                  36,210         (141,708)          43,409
+        Increase (decrease) in:
+          Accounts payable                               76,080       (1,014,617)         589,126
+          Accrued expenses, salaries and
+            benefits, and other
+            long-term liabilities                      (487,003)         (11,131)         (15,709)
+          Advances from customers                      (209,074)        (307,209)         855,039
+                                                    -----------       ----------       ----------
+            Net cash provided by
+              operating activities                    5,094,987        8,038,479        4,887,002
+                                                    -----------       ----------       ----------
+Cash flows from investing activities:
+  Purchases of property and equipment                  (251,315)        (612,768)      (1,260,607)
+  Decrease of restricted investments                         --           41,160          466,080
+                                                    -----------       ----------       ----------
+            Net cash used in
+              investing activities                     (251,315)        (571,608)        (794,527)
+                                                    -----------       ----------       ----------
+Cash flows from financing activities:
+  Decrease of loan from related party (note 3)               --               --       (2,000,000)
+  Decrease of debt                                   (2,970,000)        (530,000)        (500,000)
+  Distributions to shareholders                      (3,889,822)      (2,433,559)      (2,451,405)
+  Purchase of treasury stock                         (2,013,620)              --               --
+                                                    -----------       ----------       ----------
+            Net cash used in
+              financing activities                   (8,873,442)      (2,963,559)      (4,951,405)
+                                                    -----------       ----------       ----------
+            (Decrease) increase in cash
+              and cash equivalents                   (4,029,770)       4,503,312         (858,930)
+
+Cash and cash equivalents, beginning of year          5,546,334        1,043,022        1,901,952
+                                                    -----------       ----------       ----------
+Cash and cash equivalents, end of year              $ 1,516,564        5,546,334        1,043,022
+                                                    ===========       ==========       ==========
+Supplemental disclosures:
+  Cash paid for interest                            $   165,328          158,375          337,447
+                                                    ===========       ==========       ==========
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+                                       6
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                       December 31, 2002, 2001, and 2000
+
+(1)   DESCRIPTION OF BUSINESS
+
+      Pennsylvania Crusher Corporation (PCC) is a manufacturer of crushing and
+      feeding equipment and replacement parts, with locations in Pennsylvania,
+      Ohio, and South Carolina. The sales base is both domestic and
+      international.
+
+(2)   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+      (a)   PRINCIPLES OF CONSOLIDATION
+
+            The financial statements include the accounts of PCC and Jeffrey
+            Specialty Equipment, Inc. (Jeffrey), its wholly owned subsidiary
+            (the Company). All significant intercompany accounts and
+            transactions have been eliminated in consolidation.
+
+      (b)   USE OF ESTIMATES
+
+            The preparation of financial statements in conformity with
+            accounting principles generally accepted in the United States of
+            America requires management to make estimates and assumptions that
+            affect the reported amount of assets and liabilities and disclosure
+            of contingent assets and liabilities at the date of the financial
+            statements and the reported amounts of revenues and expenses during
+            the reporting period. Actual results could differ from those
+            estimates.
+
+      (c)   REVENUE RECOGNITION
+
+            Sales are recorded upon transfer of title, which occurs upon
+            shipment of goods. Amounts billed to customers related to shipping
+            and handling are recorded in revenues, with the corresponding
+            shipping and handling costs recorded in cost of sales.
+
+            The Company, as part of normal business practice, offers warranties
+            on products sold to its customers. These warranties vary in length
+            and amount. The Company estimates the exposure related to warranties
+            based on experience. As of December 31, 2002 and 2001, the warranty
+            reserve was $553,515 and $423,547, respectively, and is included as
+            part of accrued expenses. For the years ended December 31, 2002,
+            2001, and 2000, warranty expense was $267,000, $346,615, and
+            $450,750, respectively.
+
+      (d)   CONCENTRATION OF CREDIT RISK
+
+            A majority of the Company's accounts receivable and a substantial
+            portion of the Company's revenues are attributable to worldwide
+            electric utility companies and independent power producers.
+
+      (e)   CASH AND CASH EQUIVALENTS
+
+            The Company considers cash and overnight or highly liquid
+            investments with original maturities of three months or less to be
+            cash equivalents for the purpose of reporting cash flows. As of
+            December 31, 2002, the Company had restricted cash of $719,488
+            representing advances from selected customers.
+
+
+                                       7                             (Continued)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                        December 31, 2002, 2001, and 2000
+
+      (f)   INVENTORIES
+
+            Inventories at December 31, 2002 and 2001 consist of the following
+            components:
+
+<TABLE>
+<CAPTION>
+                                     2002             2001
+                                 -----------       ----------
+<S>                              <C>               <C>
+            Raw materials        $   556,308          492,644
+            Work in process          809,178          839,951
+            Finished goods         3,200,785        3,466,924
+            LIFO reserve            (311,238)        (333,181)
+                                 -----------       ----------
+                                 $ 4,255,033        4,466,338
+                                 ===========       ==========
+</TABLE>
+
+            The Company utilizes the lower of cost, determined by the last-in,
+            first-out (LIFO) method, or market for determining inventory values.
+            Excess and obsolete inventories are written down to net realizable
+            values. For the years ended December 31, 2002, 2001, and 2000,
+            write-downs of inventory were $161,188, $117,963, and $86,508,
+            respectively. All inventory write-downs were included in cost of
+            sales.
+
+      (g)   PROPERTY AND EQUIPMENT
+
+            Property and equipment at December 31, 2002 and 2001 are stated at
+            cost and comprise the following:
+
+<TABLE>
+<CAPTION>
+                                                    2002             2001
+                                               -----------       ----------
+<S>                                            <C>               <C>
+            Machinery and equipment            $ 4,656,292        4,509,168
+            Furniture and fixtures               1,408,656        1,455,290
+            Land and improvements                  168,195          168,195
+            Patterns                               566,373          520,667
+            Buildings and improvements           1,302,830        1,302,830
+            Leasehold improvements                 432,135          430,315
+                                               -----------       ----------
+                                                 8,534,481        8,386,465
+            Less accumulated depreciation       (4,553,542)      (3,811,709)
+                                               -----------       ----------
+                                               $ 3,980,939        4,574,756
+                                               ===========       ==========
+</TABLE>
+
+            Depreciation for financial reporting purposes is computed using the
+            straight-line method over the estimated useful lives of the assets
+            as follows:
+
+<TABLE>
+<S>                                               <C>
+                  Machinery and equipment         5-10 years
+                  Furniture and fixtures          5-10 years
+                  Patterns                        3-7 years
+                  Buildings and improvements      40 years
+                  Leasehold improvements          Lease term
+</TABLE>
+
+            For the years ended December 31, 2002, 2001, and 2000, depreciation
+            and amortization expense was $849,609, $808,301, and $763,475,
+            respectively.
+
+
+                                       8                             (Continued)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                        December 31, 2002, 2001, and 2000
+
+            For income tax purposes, depreciation is provided for using the
+            modified accelerated cost recovery method and other methods required
+            by federal tax law.
+
+            Expenditures for property improvements, renewals, and betterments
+            are capitalized, while maintenance and repairs are expensed as
+            incurred.
+
+      (h)   IMPAIRMENT OF LONG-LIVED ASSETS
+
+            Long-lived assets are evaluated for impairment whenever events or
+            changes in circumstances indicate that the carrying amount of an
+            asset may not be recoverable. The Company assesses recoverability by
+            comparing the carrying amount of the asset to the estimated
+            undiscounted future cash flows expected to be generated by the
+            asset. If an asset is considered impaired, then the impairment loss
+            to be recognized is measured as the amount by which the asset's
+            carrying amount exceeds its fair value. Management believes that
+            there were no long-lived assets that were impaired as of December
+            31, 2002 or 2001. Accordingly, there were no adjustments to carrying
+            values of fixed assets as of December 31, 2002 or 2001.
+
+      (i)   NEW ACCOUNTING PRONOUNCEMENTS
+
+            In June 2002, the Financial Accounting Standards Board issued
+            Statement of Financial Accounting Standards (SFAS) No. 146,
+            Accounting for Costs Associated With Exit or Disposal Activities.
+            SFAS No. 146 addresses the accounting for costs associated with
+            disposal activities covered by SFAS No. 144 and with exit
+            (restructuring) activities previously covered by Emerging Issues
+            Task Force (EITF) Issue No. 94-3, Liability Recognition for Certain
+            Employee Termination Benefits and Other Costs to Exit an Activity.
+            SFAS No. 146 nullifies EITF Issue No. 94-3 in its entirety and
+            requires that a liability for all costs be recognized when the
+            liability is incurred. The ability to accrue in advance for an
+            entire restructuring plan is eliminated. Also, the timing of the
+            accrual under SFAS No. 146 will depend upon the remaining service
+            life of impacted employees. SFAS No. 146 will be applied
+            prospectively to exit or disposal activities initiated after
+            December 31, 2002.
+
+(3)   RELATED PARTIES
+
+      In March 1999, the Company formed PCC Partners LP (the Partnership) and
+      contributed $5,000,000 of cash and marketable securities to the
+      Partnership. Immediately thereafter, the Company distributed 100% of the
+      investment in the Partnership to the shareholders of the Company. In
+      October 1999, the Partnership loaned the Company $2,000,000. The loan was
+      paid off in entirety during 2000.
+
+      A member of the Company's board of directors was employed by a law firm
+      that provided legal services to the Company in 2002. The Company incurred
+      approximately $215,000, $4,500, and $14,500 of expenses for these legal
+      services in 2002, 2001, and 2000, which is included in selling, general,
+      and administrative expenses in the consolidated statements of income. The
+      Company owed this firm $130,000 as of December 31, 2002, which is included
+      in accrued expenses in the consolidated balance sheets.
+
+
+                                       9                             (Continued)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                        December 31, 2002, 2001, and 2000
+
+      (4)   LONG-TERM DEBT
+
+            Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                DECEMBER 31
+                                                                            2002            2001
+                                                                         ----------      ----------
+<S>                                                                      <C>             <C>
+            Loan payable to bank, provided through the South
+              Carolina Jobs - Economic Development Authority,
+              payable in annual principal installments, beginning
+              in November 2000, collateralized by Jeffrey's assets,
+              interest at a floating rate (as of December 31, 2001,
+              the interest rate was 1.8%)                                $       --       2,970,000
+                                                                         ----------      ----------
+                                                                                 --       2,970,000
+
+            Less current portion                                                 --        (550,000)
+                                                                         ----------      ----------
+                                                                         $       --       2,420,000
+                                                                         ==========      ==========
+</TABLE>
+
+            The Company utilized the majority of the proceeds of debt to finance
+            the acquisition of Jeffrey in 1999. The remainder of the issuance
+            was maintained as a restricted investment. The amount was restricted
+            for capital improvements to the Jeffrey facility. The Company was
+            required to make approximately $600,000 of capital improvements,
+            within 18 months of the acquisition date, to maintain the right to
+            any interest earned on the restricted investment. The Company met
+            the capital improvement requirement.
+
+            The Company was required to meet certain financial covenants under
+            the terms of the debt agreement, including certain ratios of working
+            capital, debt coverage, and leverage, which were measured at the end
+            of each fiscal year. The Company was in compliance with these
+            covenants for the year ended December 31, 2001.
+
+            On December 23, 2002, the Company paid off the remaining amount of
+            the debt. The Company incurred financing costs related to the bond
+            issuance in 1999, and had deferred them over a five-year period.
+            With the repayment of the outstanding debt balance, the Company
+            expensed $38,500 related to the remaining deferred financing costs
+            in 2002.
+
+      (5)   INCOME TAXES
+
+            Effective January 1, 1988, the Company elected S Corporation status
+            for federal and state purposes. As such, the Company will incur no
+            tax liability; however, the earnings of the Company will be taxable
+            to the shareholders. Accordingly, no deferred taxes have been
+            reflected in the accompanying balance sheets. The Company has made
+            distributions during 2002, 2001, and 2000 to the shareholders to
+            fund their tax liabilities related to the S Corporation earnings. As
+            a result of the acquisition of the Company in 2003 (note 9), no
+            additional distributions will be made.
+
+            The tax basis of the assets and liabilities at December 31, 2002,
+            2001, and 2000 exceeded their financial reporting basis by
+            approximately $1,000,000, $1,200,000, and $1,300,000, respectively.
+
+
+                                       10                            (Continued)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                       December 31, 2002, 2001, and 2000
+
+            During the year, the Company recognized $174,158 of income related
+            to the reduction of a tax liability which is no longer required. The
+            amount is included in other income on the consolidated statement of
+            income.
+
+      (6)   COMMON STOCK
+
+            The Company's authorized shares consist of 50,000 Class A common
+            voting shares and 50,000 Class B Common nonvoting shares, which are
+            identical in all respects, except that the Class B shares do not
+            carry voting rights. On October 18, 1990, the Company entered into
+            an Exchange Agreement (Agreement) with its shareholders. Under the
+            Agreement, three of the Company's shareholders exchanged all of
+            their common stock for an equal number of Class B common nonvoting
+            shares, and one of the Company's shareholders exchanged all of his
+            common stock for an equal number of Class A common voting shares.
+            Effective October 25, 2000, under the terms of the Agreement, the
+            nonvoting shareholders elected to exchange each Class B share for an
+            equivalent number of Class A shares. In June 2002, the Company
+            purchased 2,800 shares from the shareholders for $2,013,620.
+
+      (7)   EMPLOYEE BENEFITS
+
+            The Company has a 401(k) defined contribution plan for all
+            employees. Total contributions were $317,949, $299,165, and $520,444
+            for 2002, 2001, and 2000, respectively.
+
+            On December 31, 2002, $1,000,000 was paid to an executive under a
+            contribution and release agreement associated with the acquisition
+            of the Company (note 9). This payment is included in selling,
+            general, and administrative expense for 2002.
+
+      (8)   COMMITMENTS AND CONTINGENCIES
+
+            The Company leases its Cuyahoga Falls, Ohio plant and its Broomall,
+            Pennsylvania office space. The lease terms are through January 31,
+            2005, and are accounted for as operating leases. Minimum annual
+            rentals on these facilities are as follows:
+
+<TABLE>
+<S>                                                     <C>
+                  2003                                  $377,234
+                  2004                                   377,234
+                  2005                                    31,436
+                                                        --------
+                                                        $785,904
+                                                        ========
+</TABLE>
+
+            Rent expense was $355,763, $355,763, and $358,712 in 2002, 2001, and
+            2000, respectively.
+
+            The Company has an agreement with its shareholders that requires the
+            Company to purchase, at book value, shares held by a shareholder who
+            wishes to sell all shares held, or who dies, is disabled, or
+            terminates employment. Additionally, if a shareholder's employment
+            is terminated by the board of directors without cause, and certain
+            "additional payment events," as defined in the agreement, occur
+            within one year of the termination, the Company is required to pay
+            the terminated shareholder an additional amount, as defined in the
+            agreement, for the shares purchased. This agreement was terminated
+            as a result of the acquisition of the Company (note 9).
+
+
+                                       11                            (Continued)
+<PAGE>
+
+                        PENNSYLVANIA CRUSHER CORPORATION
+
+                   Notes to Consolidated Financial Statements
+
+                        December 31, 2002, 2001, and 2000
+
+      (9)   SUBSEQUENT EVENT
+
+            On January 2, 2003, the board of directors of the Company entered
+            into an agreement to sell all of the stock of Pennsylvania Crusher
+            Corporation and its subsidiary, Jeffrey Specialty Equipment, Inc.,
+            to K-Tron International, Inc. K-Tron International, Inc. and its
+            subsidiaries design, produce, market, and service material handling
+            equipment and systems for a wide variety of industrial markets. The
+            purchase price was $23,500,000, of which $19,500,000 was paid in
+            cash and $4,000,000 was in unsecured, promissory notes which are
+            payable in equal, annual installments on January 2 in each of 2005,
+            2006, and 2007. The purchase price is subject to adjustment based on
+            the Company's consolidated shareholders' equity at December 31,
+            2002.
+
+
+                                       12
+<PAGE>
+
+                           K-TRON INTERNATIONAL, INC.
+
+         UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                DECEMBER 28, 2002
+<PAGE>
+
+                           K-TRON INTERNATIONAL, INC.
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                PAGE
+<S>                                                                                             <C>
+Basis of Presentation                                                                             1
+
+Unaudited Pro Forma Condensed Consolidated Balance Sheet, December 28, 2002                       2
+
+Unaudited Pro Forma Condensed Consolidated Statement of Income, Year Ended December 28, 2002      3
+
+Unaudited Notes to Pro Forma Condensed Consolidated Financial Statements                          4
+</TABLE>
+
+<PAGE>
+
+On January 2, 2003, K-Tron International, Inc. ("K-Tron"), through its indirect,
+wholly-owned subsidiary, PCC Acquisition Co., a Delaware corporation
+("Acquisition Co."), acquired all of the outstanding capital stock (the "PCC
+Stock") of Pennsylvania Crusher Corporation, a Delaware corporation ("PCC"),
+from John D. Whalen, Donald J. Carrozzino, Frank Wallitsch, Jr. and Nancy S.
+Hansen (the "Stockholders"). The acquisition of the PCC Stock was made pursuant
+to a Stock Purchase Agreement (the "PCC Stock Purchase Agreement") dated January
+2, 2003 by and among Acquisition Co. and the Stockholders. On January 3, 2003,
+Acquisition Co. was merged with and into PCC, with PCC being the surviving
+corporation.
+
+As a result of the purchase of PCC Stock, PCC's wholly-owned subsidiary, Jeffrey
+Specialty Equipment Corporation, a Delaware corporation ("Jeffrey"), is now also
+an indirect, wholly-owned subsidiary of K-Tron.
+
+The following unaudited pro forma condensed consolidated balance sheet as of
+December 28, 2002 gives effect to the acquisition of PCC by K-Tron as of such
+date. The unaudited pro forma condensed consolidated statement of income for the
+year ended December 28, 2002 gives effect to the acquisition of PCC by K-Tron as
+if it had occurred on December 30, 2001. The pro forma information is based on
+the historical consolidated financial statements of PCC and K-Tron, and the
+assumptions and adjustments in the accompanying notes to the unaudited pro forma
+condensed consolidated financial statements give effect to the acquisition as of
+such dates and under the purchase method of accounting.
+
+The unaudited pro forma condensed consolidated financial statements are
+presented for informational purposes only and should not be construed to be
+indicative of the actual financial position or results of operations of the
+combined companies on the dates indicated or of those results that may be
+obtained in the future. The unaudited pro forma condensed consolidated financial
+statements reflect PCC's consolidated balance sheet as of December 31, 2002 and
+its consolidated statement of income for the year ended December 31, 2002.
+
+The unaudited pro forma condensed consolidated financial statements should be
+read in conjunction with the audited consolidated financial statements and notes
+thereto of K-Tron to be filed with the Securities and Exchange Commission on
+Form 10-K not later than March 28, 2003 and the audited consolidated financial
+statements and notes thereto of PCC filed herein.
+
+
+                                       1
+<PAGE>
+
+                           K-TRON INTERNATIONAL, INC.
+                 PRO FORMA CONDENSED CONSOLIDATED BALANCE SHEET
+                                DECEMBER 28, 2002
+                                   (UNAUDITED)
+
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                AS REPORTED               PRO FORMA        PRO FORMA
+                                          K-TRON            PCC          ADJUSTMENTS      CONSOLIDATED
+                                          -------         --------       -----------      ------------
+<S>                                       <C>             <C>            <C>              <C>
+ASSETS
+
+  CASH & CASH EQUIVALENTS                 $ 2,694         $  1,517          $  5,000 (1)     $ 3,706
+                                                                              15,000 (1)
+                                                                             (19,705)(1)
+                                                                                (800)(2)
+  ACCOUNTS RECEIVABLE                      15,275            3,183                            18,458
+  INVENTORIES                               9,318            4,255               311 (2)      13,884
+  OTHER CURRENT ASSETS                      1,944              275                             2,219
+                                          -------         --------          --------         -------
+
+   TOTAL CURRENT ASSETS                    29,231            9,230              (194)         38,267
+
+  PROPERTY, PLANT & EQUIPMENT              16,170            3,981             4,705 (2)      24,856
+  PATENTS & TRADEMARKS                        767                0             3,141 (2)       3,908
+  OTHER IDENTIFIABLE INTANGIBLES                                               7,143 (2)       7,143
+  GOODWILL                                  2,053                0                             2,053
+  NOTES RECEIVABLE & OTHER ASSETS           2,238                0                             2,238
+                                          -------         --------          --------         -------
+
+                                          $50,459         $ 13,211          $ 14,795         $78,465
+                                          =======         ========          ========         =======
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+  NOTES PAYABLE                                                                1,500 (1)       1,500
+  CURRENT PORTION OF LONG-TERM DEBT       $ 2,005         $      0          $  1,600 (1)     $ 3,605
+  ACCOUNTS PAYABLE                          4,934            1,732                             6,666
+  ACCRUED EXPENSES                          8,186            2,274                            10,460
+                                          -------         --------          --------         -------
+
+   TOTAL CURRENT LIABILITIES               15,125            4,006             3,100          22,231
+
+  LONG-TERM DEBT                            6,499                0            20,900 (1)      27,399
+
+  DEFERRED INCOME TAXES                       416                                    (8)         416
+
+                                                                             (19,705)(1)
+                                                                              (4,000)(1)
+  SHAREHOLDERS' EQUITY                     28,419            9,205            14,500 (2)      28,419
+                                          -------         --------          --------         -------
+
+                                          $50,459         $ 13,211          $ 14,795         $78,465
+                                          =======         ========          ========         =======
+</TABLE>
+
+SEE NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                       2
+<PAGE>
+
+                           K-TRON INTERNATIONAL, INC.
+              PRO FORMA CONDENSED CONSOLIDATED STATEMENT OF INCOME
+                          YEAR ENDED DECEMBER 28, 2002
+                                   (UNAUDITED)
+
+                    (IN THOUSANDS EXCEPT EARNINGS PER SHARE)
+
+<TABLE>
+<CAPTION>
+                                                AS REPORTED              PRO FORMA     PRO FORMA
+                                           K-TRON          PCC          ADJUSTMENTS   CONSOLIDATED
+                                          --------      --------        -----------   ------------
+<S>                                       <C>           <C>             <C>           <C>
+REVENUES                                  $ 68,231      $ 35,178                        $103,409
+OTHER                                                        198                             198
+                                                                                        --------
+     TOTAL REVENUES                                                                      103,607
+
+COST OF REVENUES                            39,373        19,703               540 (3)    61,857
+                                                                             2,241 (7)
+SELLING, GENERAL & ADMINISTRATIVE           21,533        11,590               200 (3)    31,082
+                                                                            (2,241)(7)
+RESEARCH & DEVELOPMENT                       2,429             0                           2,429
+                                          --------      --------          --------      --------
+     TOTAL COSTS                            63,335        31,293               740        95,368
+
+     OPERATING INCOME                        4,896         4,083              (740)        8,239
+
+INTEREST EXPENSE, NET                          500            83             1,275 (4)     1,858
+                                          --------      --------          --------      --------
+
+     INCOME BEFORE INCOME TAXES              4,396         4,000            (2,015)        6,381
+
+                                                                             1,600 (5)
+INCOME TAX PROVISION                         1,112                            (766)(6)     1,946
+                                          --------      --------          --------      --------
+
+     NET INCOME                           $  3,284      $  4,000          $ (2,849)     $  4,435
+                                          ========      ========          ========      ========
+
+BASIC EARNINGS PER SHARE                  $   1.35                                      $   1.82
+                                          ========                                      ========
+
+DILUTED EARNINGS PER SHARE                $   1.33                                      $   1.80
+                                          ========                                      ========
+
+AVERAGE COMMON SHARES OUTSTANDING            2,432                                         2,432
+
+AVERAGE COMMON AND COMMON
+  EQUIVALENT SHARES OUTSTANDING              2,461                                         2,461
+</TABLE>
+
+SEE NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                       3
+<PAGE>
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+         NOTES TO PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                   (UNAUDITED)
+
+1.    To recognize the financing associated with the acquisition of PCC
+      Stock by K-Tron.
+
+      The purchase price paid for the PCC Stock was $23.5 million, plus a post-
+      closing adjustment of $205 thousand based on PCC's consolidated
+      Shareholders' Equity at December 31, 2002. Of this amount, $19.705 million
+      was paid in cash to the Stockholders, and K-Tron issued $4 million in
+      unsecured promissory notes to the Stockholders.
+
+<TABLE>
+<CAPTION>
+                                                                      (In Thousands)
+    <S>                                                               <C>
+      a. K-Tron subsidiary borrows and transfers money
+                  to Acquisition Co.                                     $ 5,000
+      b. K-Tron issues unsecured notes to Stockholders                     4,000
+      c. PCC borrows under a new secured credit facility                  15,000
+                                                                         -------
+                                Total new debt                           $24,000
+                                                                         =======
+
+      d. Purchase of all Stockholders' stock                             $19,705
+                                                                         =======
+</TABLE>
+
+      The K-Tron subsidiary's borrowing was part of a larger, secured term loan.
+      Monthly principal payments of $83 thousand and interest payments computed
+      at a fixed rate of 5.625% on approximately half the loan and a variable
+      rate of one month LIBOR plus 1.85% on the other half (3.27% at December
+      28, 2002) began February 2003, with the final principal payment of $2.4
+      million plus interest due January 2008.
+
+      The PCC borrowing of $15 million has two tranches of term debt ($10
+      million with a five-year term and $3.5 million with a six-year term) and
+      $1.5 million under a five-year revolving credit facility with an
+      additional $2 million of availability subject to certain conditions.
+      Quarterly term debt principal payments of $400 thousand begin March 31,
+      2003 and increase each year by $62.5 thousand per quarter (or $250
+      thousand per year in the aggregate) through December 31, 2007, with final
+      quarterly principal payments of $750 thousand in 2008. Interest is from
+      one to six month LIBOR plus 3% to 3.5%, and the 3% to 3.5% can be reduced
+      to 2% to 2.5% upon meeting certain financial ratios. In January 2003, PCC
+      entered into an interest rate swap on the $10 million term loan such that
+      interest will not exceed 6.11% for the full term of the loan. This rate
+      can be reduced to 5.11% upon
+
+                                       4
+<PAGE>
+
+                  K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+         NOTES TO PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                  (UNAUDITED)
+
+      meeting certain financial ratios. The interest rates on the $3.5 million
+      term loan and $1.5 million revolving credit facility were 4.91% and 4.38%,
+      respectively, as of January 8, 2003.
+
+      The principal of the unsecured promissory notes to the Stockholders is
+      payable in three equal, annual installments on the second, third and
+      fourth anniversaries of the closing date. Interest at 6% per annum is
+      payable quarterly.
+
+2.    The excess ($15.3 million) of the purchase price over the carrying value
+      of the net assets acquired has been allocated as follows:
+
+<TABLE>
+<CAPTION>
+                                                              (In Thousands)
+<S>                                                           <C>
+      Fair Value Adjustments for:
+         Inventory                                                     311
+         Property, Plant and Equipment                               4,705
+         Patents                                                     1,251
+         Trademarks and Trade Names                                  1,890
+         Other Identifiable Intangibles                              7,143
+                                                                   -------
+
+       Excess of Purchase Price Over Carrying  Value               $15,300
+                                                                   =======
+</TABLE>
+
+3.    To record depreciation and amortization on the fair value adjustments.
+
+<TABLE>
+<S>                                                                  <C>
+      Property Plant and Equipment                                                 5 to 40 years
+      Patents                                                                           10 years
+      Trademarks and Trade Names                                                 Indefinite life
+      Other Identifiable Intangibles                                 25 years to Indefinite life
+</TABLE>
+
+4.    To record the interest expense on the funds borrowed based upon the
+      interest rates discussed in Note 1 above.
+
+5.    To record income taxes for 2002 since PCC elected S Corporation status for
+      U.S. Federal and State purposes and, as such, did not incur any tax
+      liability.
+
+6.    To adjust for the pro forma adjustments to the extent the adjustments
+      would create allowable deductions, at the appropriate U.S. Federal and
+      State statutory rates.
+
+7.    To reclassify engineering costs to cost of revenues to conform to the
+      classification used by K-Tron.
+
+8.    Deferred taxes related to the basis differences between book and tax
+      values of assets and liabilities have not been provided for in the
+      Unaudited Pro Forma Condensed Consolidated Balance Sheet since the Company
+      intends to make a 338(h)(10) election.
+
+                                       5
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+Exhibit No.                Exhibit
+- -----------                -------
+<S>                        <C>
+23.1                       Consent of KPMG LLP
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>w84466exv23w1.txt
+<DESCRIPTION>CONSENT OF KPMG LLP
+<TEXT>
+<PAGE>
+                         INDEPENDENT AUDITORS' CONSENT
+
+The Board of Directors
+Pennsylvania Crusher Corporation:
+
+We consent to the incorporation by reference in the Registration Statements No.
+333-52523, 333-26531, 33-07921, 33-39039, 33-39040, 33-08043 and 2-72898 on Form
+S-8 of K-Tron International, Inc. of our report dated January 22, 2003, with
+respect to the consolidated balance sheet of Pennsylvania Crusher Corporation
+and subsidiary as of December 31, 2002, and the related consolidated statements
+of income, shareholders' equity, and cash flows for the year then ended, which
+appears in the Form 8-K/A of K-Tron International, Inc. dated March 17, 2003.
+
+The 2001 and 2000 consolidated financial statements of Pennsylvania Crusher
+Corporation and subsidiary as listed in the accompanying index were audited by
+other auditors who ceased operations. Those auditors expressed an unqualified
+opinion on those financial statements in their report dated January 17, 2002.
+
+                                  /s/ KPMG LLP
+
+Philadelphia, Pennsylvania
+March 14, 2003
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,51 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>w00582exv10w2.txt
+<DESCRIPTION>LOAN MODIFICATION/RENEWAL AGREEMENT
+<TEXT>
+<PAGE>
+                                                                  Exhibit   10.2
+                                    THE BANK
+                      LOAN MODIFICATION/RENEWAL AGREEMENT
+
+                              K-TRON AMERICA, INC.
+                                 Routes 55 & 553
+                                Pitman, NJ 08071
+
+Date: June 9, 2004                                  Loan #6039359-6600
+Original Amount: $5,000,000.00                      Annual Fee: $12,500.00
+Current Balance: $3,230,000.00                      Maturity Date: July 05, 2006
+
+WHEREAS, the undersigned borrower executed the note referred to above on June
+24, 1998, and,
+
+WHEREAS, the note, security agreement and commitment letter executed by the
+borrower allow a modification of interest rate, due date or other terms or
+conditions without affecting the priority of The Bank's lien.
+
+NOW, therefore, in consideration of an annual fee of $12,500.00, the above
+referenced note is extended and modified as follows:
+
+      IT IS HEREBY AGREED THAT THE ABOVE NUMBERED NOTE SHALL BECOME DUE JULY 5,
+      2006. DURING THE TERMS OF THE RENEWAL, PAYMENTS OF INTEREST ONLY SHALL BE
+      DUE EACH MONTH BEGINNING July 1, 2004 AND SHALL BE APPLIED TO INTEREST AND
+      THEN TO PRINCIPAL.
+
+All terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+                                         ACCEPTED BY:
+                                         K-TRON AMERICA, INC.
+
+THE BANK                                 /s/ Kevin C. Bowen             6/9/04
+                                         ---------------------------------------
+By: /s/ David J. Hanrahan                Kevin C. Bowen, President       Date
+----------------------------------
+David J. Hanrahan, Sr.                   /s/ Mary Vaccara               6-9-04
+Executive Vice President                 ---------------------------------------
+                                         Mary Vaccara, Secretary         Date
+
+</TEXT>
+</DOCUMENT>

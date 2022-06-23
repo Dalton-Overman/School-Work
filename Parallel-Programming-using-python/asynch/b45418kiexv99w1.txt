@@ -1,0 +1,24 @@
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>b45418kiexv99w1.txt
+<DESCRIPTION>SUBSIDIARY ACQUIRING SECURITIES
+<TEXT>
+<PAGE>
+                            KTRON INTERNATIONAL, INC.
+
+
+
+                                    EXHIBIT A
+
+SUBSIDIARY ACQUIRING SECURITIES                                  CLASSIFICATION
+--------------------------------------------------------------------------------
+Fleet National Bank                                              Bank
+Fleet Investment Advisors, Inc.                                  Bank
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

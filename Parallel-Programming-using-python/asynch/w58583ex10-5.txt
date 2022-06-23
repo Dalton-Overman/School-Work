@@ -1,0 +1,2605 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>5
+<FILENAME>w58583ex10-5.txt
+<DESCRIPTION>PROFIT SHARING AND THRIFT PLAN
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.5
+
+
+
+                             K-TRON INTERNATIONAL, INC.
+                            AND AFFILIATED COMPANIES
+                         PROFIT-SHARING AND THRIFT PLAN
+
+              As Amended and Restated Effective As Of January 1, 2002
+<PAGE>
+                             K-TRON INTERNATIONAL, INC.
+                            AND AFFILIATED COMPANIES
+                         PROFIT-SHARING AND THRIFT PLAN
+
+
+                                   ARTICLE I.
+                        STATEMENT OF HISTORY AND PURPOSE
+
+      1.1. History. K-Tron International, Inc. has had in effect since December
+1, 1984, the K-Tron International, Inc. and Affiliated Companies Profit-Sharing
+and Thrift Plan, to which it has made contributions for the purpose of sharing
+its profits with its employees in order to provide for the accumulation of funds
+for the benefit of eligible employees and their beneficiaries in the manner and
+to the extent set forth in such plan.
+
+      The K-Tron International, Inc. and Affiliated Companies Profit-Sharing and
+Thrift Plan, as amended and restated herein, and its related trust agreement,
+constitute an amendment in its entirety to the K-Tron International, Inc. and
+Affiliated Companies Profit-Sharing and Thrift Plan which is continued effective
+as of January 1, 2002. The purpose of this amendment and restatement is to
+reflect changes permitted by the Economic Growth Tax Relief and Reconciliation
+Act of 2001 ("EGTRRA") and also to make other desired changes.
+
+      1.2. Qualification under the Internal Revenue Code. It is intended that
+the Plan be a qualified profit-sharing plan within the meaning of section 401(a)
+of the Code, that the requirements of section 401(k) of the Code be satisfied as
+to that portion of the Plan represented by contributions made pursuant to
+Participant Salary Deferral elections, that the requirements of section 401(m)
+of the Code be satisfied as to that portion of the Plan represented by Employer
+Matching Contributions and that the trust or other funding vehicle associated
+with the Plan be exempt from federal income taxation pursuant to the provisions
+of section 501(a) of the Code.
+
+      1.3. Documents. The Plan consists of the Plan document as set forth
+herein, and any amendments thereto. Certain provisions relating to the Plan and
+its operation are contained in the corresponding Trust Agreement (or documents
+establishing any other funding vehicle for the Plan), and any amendments,
+supplements, appendices and riders to any of the foregoing.
+
+                                      1
+<PAGE>
+                                  ARTICLE II.
+
+                                   DEFINITIONS
+
+      2.1. "Account" means the entire interest of a Participant in the Plan. A
+Participant's Account will consist of one or more separate accounts reflecting
+the various types of contributions permitted under the Plan, as hereinafter
+provided.
+
+      2.2. "Actual Deferral Percentage" means the ratio (expressed as a
+percentage to the nearest one-hundredth of one percent) of (a) (1) an Eligible
+Employee's Salary Deferrals for the Plan Year (excluding any Salary Deferrals
+that are (A) taken into account in determining the Contribution Percentage, (B)
+distributed to an Eligible Employee who is not a Highly Compensated Employee
+pursuant to a claim for distribution under Section 5.1, or (C) returned to the
+Eligible Employee pursuant to Section 5.4), plus (2) at the election of the
+Committee, any portion of the Qualified Employer Contributions allocated to the
+Participant for the Plan Year permitted to be taken into account under section
+401(k) of the Code, plus (3) in the case of any Highly Compensated Employee who
+is eligible to participate in more than one cash or deferred arrangement
+maintained by the Employer or an Affiliated Company, elective deferrals made on
+his behalf under all such arrangements (excluding those that are not permitted
+to be aggregated with the Plan under Treas. Reg. Section
+1.401(k)-1(b)(3)(ii)(B)) for the Plan Year, to (b) the Eligible Employee's
+Compensation for the portion of the Plan Year that the individual was an
+Eligible Employee.
+
+      2.3. "Affiliated Company" means any entity which (a) with any Employer,
+constitutes (1) a "controlled group of corporations" within the meaning of
+section 414(b) of the Code, (2) a "group of trades or businesses under common
+control" within the meaning of section 414(c) of the Code, or (3) an "affiliated
+service group" within the meaning of section 414(m) of the Code or (b) is
+required to be aggregated with any Employer pursuant to Treasury regulations
+under section 414(o) of the Code. An entity will be considered an Affiliated
+Company only with respect to such period as the relationship described in the
+preceding sentence exists. For purposes of Section 2.5 or 5.4, "Affiliated
+Company" will mean an Affiliated Company, but determined with "more than 50
+percent" substituted for the phrase "at least 80 percent" in section 1563(a)(1)
+of the Code when applying sections 414(b) and (c) of the Code.
+
+      2.4. "Alternate Payee" means the person entitled to receive payment of
+benefits under the Plan pursuant to a QDRO.
+
+      2.5. "Annual Addition" means, for any Participant for any Plan Year, the
+sum of the following amounts allocated to a Participant's accounts under the
+Plan and any other qualified defined contribution plan maintained by the
+Employer or an Affiliated Company:
+
+            (a) Employer contributions (including Matching Contributions, Salary
+Deferral amounts except Salary Deferrals distributed pursuant to Section 5.1,
+and Qualified Employer Contributions);
+
+            (b) Participant contributions (including mandatory or voluntary
+employee contributions made under a qualified defined benefit plan of the
+Employer or an Affiliated
+
+                                       2
+<PAGE>
+Company, but excluding Rollover Contributions and amounts repaid pursuant to
+Section 7.1(d)(4);
+
+            (c) forfeitures; and
+
+            (d) amounts described in section 415(l)(1) of the Code (relating to
+contributions allocated to individual medical accounts which are part of a
+pension or annuity plan) and section 419A(d)(2) of the Code (relating to
+contributions allocated to post-retirement medical benefit accounts for key
+employees).
+
+      2.6. "Applicable Computation Period" means the following:
+
+
+            (a) For purposes of Hours of Employment for eligibility in
+accordance with Section 3.1, an Employee's first Applicable Computation Period
+shall be the 12-month period beginning as of the date he first completed an Hour
+of Employment with an Employer. Thereafter, such Employee's Applicable
+Computation Period shall be each Plan Year, commencing with the Plan Year which
+begins after the date he first completed an Hour of Employment.
+
+            (b) For purposes of contributions in accordance with Articles IV and
+VIII, Applicable Computation Period means the Plan Year.
+
+            (c) For all other purposes, Applicable Computation Period means the
+12-month period beginning as of the first day of the month during which a person
+first completes an Hour of Employment with an Employer and each anniversary
+thereof.
+
+      2.7. "Average Actual Deferral Percentage" means the average (expressed as
+a percentage to the nearest one-hundredth of one percent) of the Actual Deferral
+Percentages of a specified group of Eligible Employees.
+
+      2.8. "Average Contribution Percentage" means the average (expressed as a
+percentage to the nearest one-hundredth of one percent) of the Contribution
+Percentages of a specified group of Eligible Employees.
+
+      2.9. "Beneficiary" means the person or entity designated or otherwise
+determined to be such in accordance with Section 7.5.
+
+      2.10. "Benefit Payment Date" means, for any Participant or Beneficiary of
+a deceased Participant, the date as of which the first benefit payment from a
+Participant's Account is due; provided, however, that the Benefit Payment Date
+applicable to any amount withdrawn pursuant to Section 7.3 will not be taken
+into account in determining the Participant's Benefit Payment Date with respect
+to the remainder of his Account.
+
+      2.11. "Board of Directors" means the board of directors of the Company or
+a committee of the Board of Directors to which the Board has delegated some or
+all of its responsibilities hereunder.
+
+
+                                       3
+<PAGE>
+      2.12. "Code" means the Internal Revenue Code of 1986, as the same may be
+amended from time to time, and any successor statute of similar purpose.
+
+      2.13. "Committee" means the committee described in Article IX.
+
+      2.14. "Company" means K-Tron International, Inc. and any successor which
+shall maintain this Plan.
+
+      2.15. "Compensation" means, for any Employee, for any Plan Year:
+
+            (a) except as otherwise provided below in this definition, for
+purposes of Article IV, the amount described in Subsection (c) below, exclusive
+of any (i) amount paid by an Employer for any period during which the
+Participant was not an Employee; or (ii) amount paid before an Employee was
+eligible to become a Participant in accordance with Section 3.1 except for
+purposes of Regular Contributions.
+
+            (b) for purposes of Section 5.4, the Participant's wages, salaries,
+fees for professional services and other amounts received during the Plan Year
+for personal services actually rendered in the course of employment with an
+Employer. Such other amounts include commissions, bonuses and tips, vacation and
+holiday pay, sick/disability pay paid directly by the Employer or by a third
+party under the Employer's short-term disability program; severance pay on a
+payroll in lieu of notice; and earned income as described in section 401(c)(2)
+of the Code. Such other amounts exclude amounts paid under an Employer's
+long-term disability program; worker's compensation payments; fringe benefits
+such as moving expenses, employee discounts, meals, van pooling, reimbursed
+medical and educational expenses and life insurance, whether or not includible
+in gross income; expenses reimbursed in connection with the performance of
+duties; accidental injury payments; contributions made by the Employer to any
+qualified deferred compensation, cafeteria or pension plan, including salary
+reduction contributions, contributions to a simplified employee pension plan
+described in Code section 408(k) and contributions toward the purchase of an
+annuity contract described in Code section 403(b); deferrals under any
+non-qualified deferred compensation plan until such time as such deferrals are
+includable in gross income during a period of employment; amounts realized from
+the exercise of a stock option, whether or not qualified, or when restricted
+stock or property held by a Participant either becomes freely transferrable or
+is no longer subject to a substantial risk of forfeiture; any other amounts
+which receive special tax benefits; and, for Plan Years beginning after December
+31, 1997, amounts that are contributed by the Employer under a salary reduction
+agreement and excluded from gross income under sections 125, 402(e)(3), 402(h),
+403(b) and 457 of the Code, and for Plan Years beginning after December 31,
+2000, amounts excluded from gross income under section 132(f)(4) of the Code.
+
+            (c) for purposes of the definitions of Highly Compensated Employee,
+Actual Deferral Percentage, Actual Contribution Percentage and Article VIII, the
+amount described in Subsection (b) above increased, for Plan Years beginning
+before December 31, 1997, by the amount of any contributions made by the
+Employer under any salary reduction or similar arrangement to a qualified
+deferred compensation, pension or cafeteria plan, contributions to a simplified
+employee pension plan described in Code section 408(k), and contributions toward
+the purchase of an annuity contract described in Code section 403(b). For
+purposes of the definition
+
+                                       4
+<PAGE>
+of Highly Compensated Employee, the amount described above shall be for the
+applicable period for making the determination of Highly Compensated Employees.
+
+            (d) for purposes of Section 4.6, "compensation" means the
+Compensation, as defined in subsection (a), that the Participant would have
+received during a period of Qualified Military Service (or, if the amount of
+such Compensation is not reasonably certain, the Participant's average earnings
+from the Employer or an Affiliated Company for the twelve-month period
+immediately preceding the Participant's period of Qualified Military Service);
+provided, however, that the Participant returns to work within the period during
+which his right to reemployment is protected by law.
+
+            (e) only the first $160,000, or such other amount as may be
+applicable under section 401(a)(17) of the Code, of the amount otherwise
+described in subsection (b) and the aggregate amount described in subsections
+(a) and (d) of this definition will be counted. In determining Compensation for
+purposes of this limitation, the family aggregation rules of section
+401(a)(17)(A) of the Code shall apply for Plan Years beginning before January 1,
+1997.
+
+            (f) if the Compensation of a Participant is determined for a Plan
+Year that contains fewer than 12 calendar months, then the annual compensation
+limitation described in subsection (e) above will be adjusted with respect to
+that Participant by multiplying the annual compensation limitation in effect for
+the Plan Year by a fraction the numerator of which is the number of full months
+in the Plan Year and the denominator of which is 12; provided, however, that no
+proration is required for a Participant who is covered under the Plan for less
+than one full Plan Year if the formula for allocations is based on Compensation
+for a period of at least 12 months.
+
+      2.16. "Contribution Percentage" means the ratio (expressed as a percentage
+to the nearest one-hundredth of one percent) of (a) (1) the Matching
+Contributions allocated to an Eligible Employee's Account for the Plan Year
+(excluding any Matching Contributions forfeited pursuant to Section 5.1(b) or
+5.3(a)), plus (2) at the election of the Committee, any portion of the Qualified
+Employer Contributions allocated to the Eligible Employee for the Plan Year
+required or permitted to be taken into account under section 401(m) of the Code,
+plus (3) in the case of any Highly Compensated Employee who is eligible to
+participate in more than one plan maintained by the Employer or an Affiliated
+Company to which employee or matching contributions are made, after-tax employee
+contributions and employer matching contributions made on his behalf under all
+such plans (excluding those that are not permitted to be aggregated with the
+Plan under Treas. Reg. Section 1.401(m)-1(b)(3)(ii)) for the Plan Year), to (b)
+the Eligible Employee's Compensation for the portion of the Plan Year that the
+individual was an Eligible Employee. For purposes of determining Contribution
+Percentages, the Employer or the Committee may take Salary Deferrals into
+account, in accordance with Treasury regulations, so long as the requirements of
+Section 5.2(a) are met both when the Salary Deferrals used in determining
+Contribution Percentages are and are not included in determining Actual Deferral
+Percentages.
+
+      2.17. "Deferred Retirement Date" means the first day of any month
+subsequent to a Participant's Normal Retirement Date.
+
+
+                                       5
+<PAGE>
+      2.18. "Disability" means any physical or mental condition for which a
+Participant shall be eligible to receive benefits under the disability insurance
+provisions of the Social Security Act.
+
+      2.19. "Effective Date" means December 1, 1984, except as otherwise
+provided herein.
+
+      2.20. "Eligible Employee" means each Employee of an Employer for whom the
+Employer is required to contribute Federal Insurance Contributions Act taxes,
+other than (a) any person who is transferred from a foreign subsidiary on
+temporary assignment in the United States, (b) any person whose terms and
+conditions of employment are determined through collective bargaining, unless
+the collective bargaining agreement provides for the eligibility of such person
+to participate in this Plan, (c) any person who is an Employee solely by reason
+of being a "leased employee" as defined under section 414(n) or 414(o) of the
+Code, or (d) an independent contractor or any other person who is not treated by
+the Employer as an employee for purposes of withholding federal employment
+taxes, regardless of any contrary governmental or judicial determination
+relating to such employment status or tax withholding. If a person described in
+clause (d) of the preceding sentence is subsequently reclassified as, or
+determined to be, an employee by the Internal Revenue Service, any other
+governmental agency or authority, or a court, or if an Employer or Affiliated
+Company is required to reclassify such an individual as an employee as a result
+of such reclassification or determination (including any reclassification by an
+Employer or Affiliated Company in settlement of any claim or action relating to
+such individual's employment status), such individual will not become eligible
+to become a Participant in this Plan by reason of such reclassification or
+determination.
+
+      2.21. "Employee" means a person who is employed by an Employer or an
+Affiliated Company. A person who is not otherwise employed by an Employer will
+be deemed to be employed by any such company if he is a leased employee with
+respect to whose services such Employer or Affiliated Company is the recipient,
+within the meaning of section 414(n) or 414(o) of the Code, but to whom section
+414(n)(5) of the Code does not apply.
+
+      2.22. "Employer" means the Company and each Affiliated Company which
+adopts this Plan and joins in the corresponding Trust Agreement.
+
+      2.23. "ERISA" means the Employee Retirement Income Security Act of 1974,
+as the same may be amended from time to time, and any successor statute of
+similar purpose.
+
+      2.24. "Highly Compensated Employee" means, for Plan Years beginning on or
+after January 1, 1997, any Employee who performed services for an Employer or an
+Affiliated Company during the Plan Year for which a determination is being made
+(the "Determination Year") and who:
+
+            (a) was at any time in the Determination Year or the immediately
+preceding Determination Year a five-percent (5%) owner, as defined in section
+416(i) of the Code; or
+
+            (b) for the immediately preceding Determination Year, received
+Compensation from the Employer or an Affiliated Company in excess of $80,000, as
+adjusted by the Secretary of the Treasury in accordance with section 414(q) of
+the Code.
+
+
+                                       6
+<PAGE>
+      2.25. "Investment Fund" means any of the funds established pursuant to
+Section 6.2 for the investment of the assets of the Trust Fund.
+
+      2.26. "Investment Manager" means any fiduciary (other than the Trustee or
+other Named Fiduciary) who has the power to manage, acquire, or dispose of any
+asset of the Plan and who is qualified as an "investment manager" within the
+meaning of section 3(38) of ERISA.
+
+      2.27. "Matching Contribution" means an Employer contribution made pursuant
+to Section 4.2.
+
+      2.28. "Matching Contribution Account" means so much of a Participant's
+Account as consists of amounts attributable to Matching Contributions allocated
+to such Participant's Account, including all earnings and gains attributable
+thereto and reduced by all losses attributable thereto, all expenses chargeable
+thereagainst and by all withdrawals and distributions therefrom.
+
+      2.29. "Named Fiduciary" means the Board of Directors, the Trustee, and the
+Committee. Each Named Fiduciary will have only those particular powers, duties,
+responsibilities and obligations as are specifically delegated to him under the
+Plan or the Trust Agreement. Any fiduciary, if so appointed, may serve in more
+than one fiduciary capacity and may also serve in a non-fiduciary capacity.
+
+      2.30. "Normal Retirement Date" means as to Participants who attained age
+65 prior to January 1, 1992, the date on which a Participant attained
+age 65 and as to all other Participants, the later to occur of (a) the date on
+which the Participant attains age 62, or (b) January 1, 1992.
+
+      2.31. "Participant" means an Eligible Employee who has elected to
+participate in the Plan and has filed the required authorizations operative
+under the Plan as provided in Article III hereof, or a person who has an
+undistributed interest in the Trust Fund.
+
+      2.32. "Plan" means the K-Tron International, Inc. and Affiliated Companies
+Profit-Sharing and Thrift Plan as set forth herein, and as the same may from
+time to time hereafter be amended.
+
+      2.33. "Plan Year" means each consecutive 12-month period beginning on each
+January 1 and ending on each December 31.
+
+      2.34. "QDRO" means a "qualified domestic relations order" within the
+meaning of section 206(d)(3)(B) of ERISA and section 414(p) of the Code.
+
+      2.35. "Qualified Employer Contribution" means a contribution made by an
+Employer pursuant to Section 4.4.
+
+      2.36. "Qualified Employer Contribution Account" means so much of a
+Participant's Account as consists of amounts attributable to Qualified Employer
+Contributions allocated to such Participant's Account, including all earnings
+and gains attributable thereto and reduced by
+
+                                       7
+<PAGE>
+all losses attributable thereto, all expenses chargeable thereagainst and by all
+withdrawals and distributions therefrom.
+
+      2.37. "Qualified Military Service" means any service in the uniformed
+services (as defined in chapter 43 of title 38, United States Code) where the
+Participant's right to reemployment is protected by law.
+
+      2.38. "Regular Contribution" means an Employer contribution made pursuant
+to Section 4.3.
+
+      2.39. "Regular Contribution Account" means so much of a Participant's
+Account as consists of amounts attributable to Regular Contributions and
+top-heavy contributions pursuant to Article VIII that are allocated to such
+Participant's Account, including all earnings and gains attributable thereto and
+reduced by all losses attributable thereto, all expenses chargeable thereagainst
+and by all withdrawals and distributions therefrom.
+
+      2.40. "Retirement" means the termination of a Participant's employment on
+his Normal or Deferred Retirement Date.
+
+      2.41. "Rollover Account" means so much of a Participant's Account as
+consists of his Rollover Contributions, including all earnings and gains
+attributable thereto, and reduced by all losses attributable thereto, all
+expenses chargeable thereto and all withdrawals and distributions therefrom.
+
+      2.42. "Rollover Contributions" means amounts contributed by an Eligible
+Employee pursuant to Section 4.7.
+
+      2.43. "Salary Deferral Account" means so much of a Participant's Account
+as consists of his Salary Deferrals, including all earnings and gains
+attributable thereto, and reduced by all losses attributable thereto, all
+expenses chargeable thereto and all withdrawals and distributions therefrom.
+
+      2.44. "Salary Deferrals" means the portion of a Participant's Compensation
+which is reduced in accordance with Section 4.1(a) and with respect to which a
+corresponding contribution is made to the Plan by the Employer pursuant to
+Section 4.1(c).
+
+      2.45. "Service" means the following:
+
+            (a)   All periods of employment with an Employer.
+
+                  A period of employment begins as of the date the Employee
+                  first completes an Hour of Employment for the Employer and
+                  ends on the earlier of the date the Employee resigns, is
+                  discharged, retires or dies or, if the Employee is absent for
+                  any other reason, on the first anniversary of the first day of
+                  such absence (with or without pay) from the Employer. If an
+                  Employee is absent for any reason and returns to the employ of
+                  the Employer before incurring a Break-in-Service, as provided
+                  in Subsection (b), he shall receive credit for his period of
+                  absence up to a maximum of
+
+                                       8
+<PAGE>
+                  12 months. Service subsequent to a Break-in-Service will be
+                  credited as a separate period of employment.
+
+            (b)   "Break-in-Service" means a period of 12-consecutive months
+                  during which an Employee fails to accrue an Hour of Employment
+                  with the Employer. Such period begins on the earlier of the
+                  date the Employee resigns, is discharged, retires or dies or,
+                  if the Employee is absent for any other reason, on the first
+                  anniversary of the first day of such absence (with or without
+                  pay) from the Employer. If an Employee is absent by reason of
+                  (i) the pregnancy of the Employee, (ii) the birth of a child
+                  of the Employee, (iii) the placement of a child with the
+                  Employee in connection with an adoption of such child by such
+                  Employee, or (iv) caring for such child immediately following
+                  such birth or placement, such Employee will not be treated as
+                  having retired, resigned or been discharged and the period
+                  between the first and second anniversary of the first day of
+                  such absence shall not be deemed a Break-in-Service.
+
+            (c)   "Month of Service" means a calendar month any part of which is
+                  in a period of employment or credited absence.
+
+            (d)   "Year of Service" means, unless otherwise indicated, twelve
+                  (12) Months of Service.
+
+            (e)   "Hour of Employment" means the following:
+
+                  (1)For an Employee paid on an hourly basis or for whom
+                        hourly records of employment are required to be
+                        maintained, each hour for which the person is directly
+                        or indirectly paid or entitled to payment for the
+                        performance of duties or for the period of time when no
+                        duties are performed, irrespective of whether the
+                        employment relationship has terminated, such as
+                        vacation, holiday or illness.
+
+                  (2)For an Employee paid on a non-hourly basis or for whom
+                        hourly records of employment are not required to be
+                        maintained, each week for which the person directly or
+                        indirectly paid or entitled to payment shall be equal to
+                        45 Hours of Employment.
+
+                  (3)A person shall receive an Hour of Employment for each hour
+                        for which back pay has been awarded or agreed to
+                        irrespective of mitigation of damages, provided that
+                        each such hour shall be credited to the Applicable
+                        Computation Period to which it pertains, rather than the
+                        Applicable Computation Period in which the award or
+                        agreement is made, and further provided that no such
+                        award or agreement shall have the effect of crediting an
+                        Hour of Employment for any hour for which the person
+                        previously received credit under (1) or (2) above.
+
+
+                                       9
+<PAGE>
+                  (4) Notwithstanding the foregoing, Hours of Employment shall
+                        be computed and credited in accordance with Department
+                        of Labor Regulations 2530.200(b)-2, subparagraphs (b)
+                        and (c).
+
+            (f)   An Employee shall receive credit for the period of his
+                  employment with another business entity to which he had been
+                  transferred by the Company solely for purposes of determining
+                  his vested interest in accordance with Section 7.1.
+
+      2.46. "Social Security Taxable Wage Base" means the amount of wages from
+which Social Security taxes are required to be withheld in accordance with the
+Federal Insurance Contributions Act, or any successor act, regulation, or ruling
+pertaining thereto, which is in effect at the beginning of each Plan Year.
+
+      2.47. "Trust Agreement" means the trust instrument executed by the Company
+and the Trustee for purposes of providing a vehicle for investment of the assets
+of the Plan.
+
+      2.48. "Trustee" means the party or parties so designated pursuant to the
+Trust Agreement and each of their respective successors.
+
+      2.49. "Trust Fund" means all of the assets of the Plan held by the Trustee
+under the Trust Agreement.
+
+      2.50. "Valuation Date" means, effective January 1, 2001, any business day
+on which the New York Stock Exchange is open for trading.
+
+      2.51. Other Defined Terms. Other terms may be defined within the text of
+subsequent Sections of this Plan. Unless specifically indicated otherwise, such
+terms will have those defined meanings for all purposes under this Plan, with
+the same force and effect as if set out in this Article II.
+
+
+                                       10
+<PAGE>
+                                  ARTICLE III.
+                            PARTICIPATION ELIGIBILITY
+
+      3.1. Eligibility for Participation.
+
+
+            (a) Each Employee who was a Participant on December 31, 1998 shall
+continue to be a Participant as of January 1, 1999. Each Employee who was an
+Eligible Employee on December 31, 1998 shall continue to be an Eligible Employee
+as of January 1, 1999.
+
+            (b) Prior to October 1, 1999, each other Eligible Employee may:
+
+                  (1) For purposes of Section 4.1, become a Participant as of
+the first day of the calendar quarter next following the date he completes one
+(1) Year of Service.
+
+                  (2) for all other purposes of the Plan, become a Participant
+as of the last day of the calendar quarter in which he completes one (1) Year of
+Service.
+
+            For purposes of this Section 3.1, "Year of Service" shall mean an
+Applicable Computation Period in which the Eligible Employee completes 1,000
+Hours of Employment with an Employer.
+
+            (c) Effective October 1, 1999, each other Eligible Employee may:
+
+                  (1) for purposes of Section 4.1, become a Participant as of
+the first day of the calendar quarter next following the date he completes six
+(6) Months of Service.
+
+                  (2) for all other purposes of the Plan, become a Participant
+as of the last day of the calendar quarter in which he completes six (6) Months
+of Service.
+
+            For purposes of this Section 3.1, "six (6) Months of Service" shall
+mean an Applicable Computation Period in which the Eligible Employee completes
+500 Hours of Employment with an Employer.
+
+      3.2. Procedure for and Effect of Participation. Each Participant will
+complete such forms and provide such data as are reasonably required by the
+Committee as a precondition of such participation. By becoming a Participant, an
+Eligible Employee will for all purposes be deemed conclusively to have assented
+to the terms and provisions of the Plan, the corresponding Trust Agreement, and
+to all amendments to such instruments.
+
+      3.3. Reemployment.
+
+            (a) If an Eligible Employee satisfies the requirements of Section
+3.1, terminates employment with the Employers and Affiliated Companies and is
+later reemployed, he will again be eligible to participate in the Plan on the
+date he is reemployed or on the first day of any subsequent calendar quarter.
+
+
+                                       11
+<PAGE>
+            (b) If an Employee satisfies the requirements of Section 3.1 and
+subsequently becomes an Eligible Employee, he will be eligible to participate in
+the Plan on the date he becomes an Eligible Employee or on the first day of any
+subsequent calendar quarter.
+
+      3.4. Effect of Collective Bargaining. In the event a collective bargaining
+agreement is entered into between an Employer and a representative for any class
+of Employees in the employ of the Employer subsequent to January 1, 1999,
+eligibility for participation in the Plan by such Employees who are not
+Participants shall not be extended beyond the effective date of the collective
+bargaining agreement unless the agreement extends membership in the Plan to such
+Employees. If, under the collective bargaining agreement, participation in the
+Plan is not extended, such Employees who are Participants in the Plan shall
+remain Participants but shall not be permitted to contribute in accordance with
+Article IV or share in any Employer contributions or forfeitures allocated in
+accordance with Articles IV and VIII for the period beyond the effective date of
+the collective bargaining agreement.
+
+
+                                       12
+<PAGE>
+                                   ARTICLE IV.
+                                  CONTRIBUTIONS
+
+      4.1. Salary Deferral Contributions.
+
+
+            (a) Elections. Subject to the limitations set forth in Article V,
+each Participant may elect, in the manner prescribed by the Committee, to reduce
+his Compensation received on and after the effective date of the election
+through payroll reductions by an amount equal to from one percent (1%) to fifty
+percent (50%), in whole percentages, of his Compensation payable with respect to
+any payroll period.
+
+      The Salary Deferrals elected by a Participant will be tentative and will
+become final only after the Committee has made such adjustments thereto as it
+deems necessary to maintain the qualified status of the Plan and to satisfy all
+requirements of section 401(k) of the Code.
+
+            (b) Additional Salary Deferrals A Participant who will attain age 50
+prior to the end of the Plan Year and is unable to elect additional Salary
+Deferrals under subsection (a) may elect to reduce his Compensation for the Plan
+Year by an amount equal to from 1% to 50%, in whole percentages, of his
+Compensation payable with respect to any payroll period; provided, however, that
+the amount contributed pursuant to this subsection (b) may not exceed the lesser
+of (1) $1,000 (or such other amount as may be applicable under section 414(v) of
+the Code) or (2) the excess of the Participant's Compensation (as defined in
+Section 2.15(b)) for the Plan Year over the Salary Deferrals contributed in the
+Participant's behalf under subsection (a) above for the Plan Year. Salary
+Deferrals under this subsection (b) shall not be subject to the limitations
+described in Article V.
+
+            (c) Increase in or Reduction of Salary Deferrals. A Participant may,
+in the manner prescribed by the Committee, elect to increase or reduce the rate
+of his Salary Deferrals (including cessation or recommencement of such Salary
+Deferrals), or change the type of contribution being made, within the limits
+described in Section 4.1. Any new election made pursuant to this subsection (b)
+at least 30 days (or such other period as the Committee may designate from time
+to time) prior to the first day of the next following calendar month (for
+periods prior to August 1, 1999, the next following calendar quarter) (or as of
+such other dates as the Committee may designate from time to time), will be
+effective as of such date.
+
+            (d) Contribution and Allocation of Salary Deferrals. The Employer
+will contribute to the Plan with respect to each Plan Year an amount equal to
+the Salary Deferrals of its Participants for such Plan Year, as determined
+pursuant to Salary Deferral elections in force pursuant to this Section. There
+will be allocated to the Salary Deferral Account of each Participant the Salary
+Deferral amounts contributed by the Employer to the Plan with respect to that
+Participant.
+
+      4.2. Matching Contributions.
+
+            (a) Matching Contributions. Subject to the limitations described in
+Article V, an Employer will contribute to the Plan, on behalf of each
+Participant who is eligible to receive an allocation of Matching Contributions
+and who has made Salary Deferrals during a Plan Year, an amount equal to the
+designated percentage rate of each Participant's Salary Deferrals made
+
+                                       13
+<PAGE>
+pursuant to Section 4.1(a) for the Plan Year. Such designated percentage rate
+shall be determined by the Company and announced to Employees at the end of the
+Plan Year of reference. Notwithstanding the foregoing and subject to the
+limitations described in Article V, an Employer may contribute to the Plan, on
+behalf of each Participant who is eligible to receive an allocation of
+additional Matching Contributions and who has made Salary Deferrals during a
+Plan Year, an additional amount of Matching Contributions.
+
+            (b) Allocation of Matching Contributions. Matching Contributions
+made pursuant to this Section 4.2 will be allocated, as of the last day of the
+Plan Year for which such contributions are made, to the Matching Contribution
+Accounts of Participants who are employed by an Employer on the last business
+day of the Plan Year. Additional Matching Contributions will be allocated, as of
+the last day of the Plan Year for which such contributions are made, to the
+Matching Contribution Accounts of Participants who are employed by the Employer
+on the last business day of the Plan Year, in the same proportion that the
+Salary Deferrals of each such Participant for such Plan Year bears to the
+aggregate Salary Deferrals of all Participants for such Plan Year.
+
+      4.3. Regular Contributions. Subject to the limitations described in
+Article V, the Employers may contribute for each Plan Year an amount which,
+along with forfeitures, shall be allocated to Participants in the employ of the
+Employers on the last business day of such Plan Year, which amount shall be
+credited at the end of such Plan Year.
+
+      Such amount shall be allocated to a Participant in the same proportion as
+(i) the sum of such Participant's Compensation and Compensation in excess of the
+Social Security Taxable Wage Base, bears to (ii) the sum of Compensation and
+Compensation in excess of the Social Security Taxable Wage Base for all such
+Participants. Notwithstanding the foregoing, the maximum percentage allocated to
+a Participant pursuant to the preceding sentence shall be the greater of (i)
+5.7% or (ii) the portion of the rate of tax payable by an Employer under Section
+3111(a) of the Code which is attributable to old-age insurance at the beginning
+of each Plan Year; provided, however, that if the total amount to be allocated
+to a Participant exceeds this limitation, the excess allocation to which the
+Participant is entitled shall be in the same proportion as the Participant's
+Compensation bears to the sum of all Participants' Compensation.
+
+      4.4. Qualified Employer Contributions. Subject to the limitations
+described in Article V, the Employer may, in its discretion, make Qualified
+Employer Contributions for a Plan Year, which will be allocated as of the last
+day of the Plan Year for which such contributions are made to the Qualified
+Employer Contribution Accounts of some or all of those Participants who are not
+Highly Compensated Employees for the Plan Year, as determined by the Employer at
+the time such contributions are made, in an amount necessary to satisfy at least
+one of the tests in Section 5.2. The allocable share of each such Participant
+will be in the ratio which his Salary Deferrals for the Plan Year bears to the
+aggregate Salary Deferrals for all such Participants.
+
+      4.5. Contributions for Additional Participants. Notwithstanding the
+foregoing provisions of this Article IV, a Participant shall be entitled to
+share in the Matching Contributions, additional Matching Contributions,
+Qualified Employer Contributions and Regular Contributions and forfeitures, if
+any, for the Plan Year of (i) his Retirement, Disability or death, (ii) the
+commencement or end of a "leave of absence" authorized by the Employer, or (iii)
+his transfer to
+
+                                       14
+<PAGE>
+another business entity to which such Participant had been transferred by the
+Employer, even if the Participant is not in the employ of the Employer on the
+last business day of such Plan Year.
+
+      As used herein, "leave of absence" shall mean a leave granted for
+pregnancy, sickness, death or any other family obligation or status; personal or
+family hardship or special business circumstances; educational purposes; and/or
+civic, charitable or governmental services, provided that all Participants under
+similar circumstances are treated in a similar manner.
+
+      A Participant shall not share in the allocation of an Employer's Regular
+Contributions or forfeitures for any Plan Year during which he terminated his
+employment for reasons other than those specified above.
+
+      4.6. Contributions With Respect to Military Service.
+
+            (a) Salary Deferrals. A Participant who returns to employment with
+an Employer or an Affiliated Company following a period of Qualified Military
+Service will be permitted to make additional Salary Deferrals, within the limits
+described in Section 4.1, up to an amount equal to the Salary Deferrals that the
+Participant would have been permitted to contribute to the Plan if he had
+continued to be employed and received Compensation during the period of
+Qualified Military Service. Salary Deferrals under this Section may be made
+during the period which begins on the date such Participant returns to
+employment and which has the same length as the lesser of (a) 3 multiplied by
+the period of Qualified Military Service and (b) 5 years.
+
+            (b) Matching Contributions. The Employer will contribute to the
+Plan, on behalf of each Participant who is eligible for Matching Contributions
+and who has made Salary Deferrals under paragraph (a) above, an amount equal to
+the Matching Contributions that would have been required under Section 4.2 had
+such Salary Deferrals been made during the period of Qualified Military Service.
+
+            (c) Other Employer Contributions. The Employer will contribute to
+the Plan, on behalf of each Participant who returns from Qualified Military
+Service as described in subsection (a), an amount equal to any other Employer
+contributions that would have been required under Sections 4.3, 4.4 or 4.5 had
+such Participant continued to be employed and received Compensation during the
+period of Qualified Military Service.
+
+            (d) Limitations on Contributions. The Salary Deferrals, Matching
+Contributions, additional Matching Contributions, Qualified Employer
+Contributions and Regular Contributions made under this Section will be subject
+to the limitations described in Article V for the Plan Year to which such
+contributions relate.
+
+      4.7. Rollover Contributions. Effective September 1, 1999, the Plan will
+accept, as "Rollover Contributions" made on behalf of any Eligible Employee,
+cash equal to (a) all or a portion of the amount received by the Eligible
+Employee as a distribution from (either directly or through a conduit individual
+retirement account), or (b) an amount transferred directly to the Plan (pursuant
+to section 401(a)(31) of the Code) on the Eligible Employee's behalf, by the
+trustee of another qualified trust forming a part of a plan described in section
+401(a) or 403(a) of the Code, but only if the deposit qualifies as a tax-free
+rollover as defined in section 402 of the Code as determined in accordance with
+procedures established by the Committee. If the amount
+
+                                       15
+<PAGE>
+received does not qualify as a tax-free rollover, the amount will be refunded to
+the Eligible Employee. Rollover amounts will be allocated to the Eligible
+Employee's Rollover Account and invested in accordance with the provisions of
+Article VI.
+
+      4.8. Timing of Contributions. Matching Contributions, additional Matching
+Contributions, Qualified Employer Contributions and Regular Contributions for
+any Plan Year under this Article IV will be made no later than the last date on
+which amounts so paid may be deducted for federal income tax purposes for the
+taxable year of the Employer in which the Plan Year ends. Amounts contributed as
+Salary Deferrals will be remitted to the Trustee as soon as such practicable,
+but no later than the fifteenth (15th) business day of the month following the
+month in which such contributions were withheld from the Participant's
+Compensation. The requirements of this Section do not apply to contributions
+made pursuant to Section 4.6.
+
+      4.9. Contingent Nature of Contributions. Each contribution made by the
+Employer pursuant to the provisions of Sections 4.1, 4.2, 4.3, 4.4, 4.5 or 4.6
+is made expressly contingent on its deductibility for federal income tax
+purposes for the fiscal year with respect to which such contribution is made,
+and no such contribution will be made for any year to the extent it would exceed
+the deductible limit for such year as set forth in section 404 of the Code.
+
+      4.10. Exclusive Benefit; Refund of Contributions. All contributions made
+to the Plan are made for the exclusive benefit of the Participants and their
+Beneficiaries, and such contributions will not be used for, nor diverted to,
+purposes other than for the exclusive benefit of the Participants and their
+Beneficiaries (including the costs of maintaining and administering the Plan and
+corresponding trust). Notwithstanding the foregoing, to the extent that such
+refunds do not, in themselves, deprive the Plan of its qualified status, refunds
+of contributions will be made to the Employer under the following circumstances
+and subject to the following limitations:
+
+            (a) Disallowance of Deduction. To the extent that a federal income
+tax deduction is disallowed, in whole or in part, for any contribution made by
+an Employer, or such contribution is otherwise nondeductible and recovery
+thereof is permitted, the Trustee will refund to the Employer the amount so
+disallowed within one (1) year of the date of such disallowance or as otherwise
+permitted by applicable administrative rules.
+
+            (b) Mistake of Fact. In the case of a contribution which is made in
+whole or in part by reason of a mistake of fact, so much of the Employer
+contribution as is attributable to the mistake of fact will be returnable to the
+Employer upon demand, upon presentation of evidence of the mistake of fact to
+the Trustee and of calculations as to the impact of such mistake. Demand and
+repayment must be effectuated within one (1) year after the payment of the
+contribution to which the mistake applies.
+
+      In the event that any refund is paid to the Employer hereunder, such
+refund will be made without regard to net investment gains attributable to the
+contribution, but will be reduced to reflect net investment losses attributable
+thereto.
+
+
+                                       16
+<PAGE>
+                                   ARTICLE V.
+                          LIMITATIONS ON CONTRIBUTIONS
+
+      5.1. Calendar Year Limitation on Salary Deferrals.
+
+            (a) Notwithstanding anything contained herein to the contrary,
+Salary Deferrals made on behalf of an active Participant under this Plan
+together with elective deferrals (as defined in section 402(g) of the Code)
+under any other plan or arrangement maintained by the Employer or an Affiliated
+Company will not exceed $10,000 (as adjusted in accordance with section 402(g)
+of the Code and Treasury regulations thereunder) for any calendar year.
+Furthermore, should a Participant claim that his Salary Deferrals under this
+Plan when added to his other elective deferrals under any other plan or
+arrangement (whether or not maintained by an Employer or an Affiliated Company)
+exceed the limit imposed by section 402(g) of the Code for the calendar year in
+which the deferrals occurred, the Committee will distribute, by April 15 of the
+following calendar year, the amount of Salary Deferrals specified in the
+Participant's claim, plus income thereon determined in the manner described in
+Section 5.3(c). The Participant's claim will be in writing and will be submitted
+to the Committee prior to April 1 following the calendar year in which such
+deferrals occurred. A Participant will be deemed to have made a claim for
+distribution of excess deferrals from the Plan to the extent that his Salary
+Deferrals together with his elective deferrals under any other plan or
+arrangement maintained by the Employer or an Affiliated Company exceed the limit
+imposed by section 402(g) of the Code for the calendar year. For purposes of
+determining the necessary reduction, (1) Salary Deferrals previously distributed
+pursuant to Section 5.3(a) or returned to the Participant pursuant to Section
+5.4 will be treated as distributed under this Section 5.1 and (2) Salary
+Deferrals not taken into account in determining Matching Contributions under
+Section 4.2 will be reduced first.
+
+            (b) In the event a Participant receives a distribution of excess
+Salary Deferrals pursuant to paragraph (a), the Participant will forfeit any
+Matching Contributions (plus income thereon determined as described in Section
+5.3(c)) allocated to the Participant by reason of the distributed Salary
+Deferrals. Amounts forfeited will be used to reduce future Matching
+Contributions made pursuant to Section 4.2.
+
+      5.2. Nondiscrimination Limitations on Salary Deferrals and Matching
+Contributions.
+
+            (a) Salary Deferral Limitations. With respect to Salary Deferrals
+for any Plan Year beginning on or after January 1, 1997, one of the following
+tests must be satisfied:
+
+                  (1) The Average Actual Deferral Percentage for active
+Participants who are Highly Compensated Employees for the Plan Year will not
+exceed the Average Actual Deferral Percentage for all other active Participants
+for the preceding Plan Year multiplied by 1.25; or
+
+                  (2) The Average Actual Deferral Percentage for active
+Participants who are Highly Compensated Employees for the Plan Year will not
+exceed the Average Actual Deferral Percentage for all other active Participants
+for the preceding Plan Year multiplied by two (2), provided that the Average
+Actual Deferral Percentage for such Highly Compensated
+
+                                       17
+<PAGE>
+Employees does not exceed the applicable Average Actual Deferral Percentage for
+all other active Participants by more than two (2) percentage points.
+
+            (b) Matching Contribution Limitations. With respect to Matching
+Contributions for any Plan Year beginning on or after January 1, 1997, one of
+the following tests must be satisfied:
+
+                  (1) The Average Contribution Percentage for active
+Participants who are Highly Compensated Employees for the Plan Year will not
+exceed the Average Contribution Percentage for all other active Participants for
+the preceding Plan Year multiplied by 1.25; or
+
+                  (2) The Average Contribution Percentage for active
+Participants who are Highly Compensated Employees for the Plan Year will not
+exceed the Average Contribution Percentage for all other active Participants for
+the preceding Plan Year multiplied by two (2), provided that the Average
+Contribution Percentage for such Highly Compensated Employees does not exceed
+the applicable Average Contribution Percentage for all other active Participants
+by more than two (2) percentage points.
+
+            (c) Aggregate Limitation. For any Plan Year in which both the
+limitations in Sections 5.2(a)(1) and (b)(1) are exceeded, the sum of the
+Average Actual Deferral Percentage and the Average Contribution Percentage for
+active Participants who are Highly Compensated Employees (determined after
+adjustments are made under Sections 5.3(a) and (b) for purposes of satisfying
+the limitations described in Sections 5.2(a) and (b)) will not exceed the
+greater of:
+
+                  (1) the sum of (A) the greater of the applicable Average
+Actual Deferral Percentage or the Average Contribution Percentage for all other
+active Participants multiplied by 1.25, plus (B) the lesser of (i) two (2)
+multiplied by the lesser of the applicable Average Actual Deferral Percentage or
+the Average Contribution Percentage for all other Participants, or (ii) two
+percent (2%) plus the lesser of the applicable Average Actual Deferral
+Percentage or the Average Contribution Percentage for all other active
+Participants; or
+
+                  (2) the sum of (A) the lesser of the applicable Average Actual
+Deferral Percentage or the Average Contribution Percentage for all other active
+Participants multiplied by 1.25, plus (B) the lesser of (i) two (2) multiplied
+by the greater of the applicable Average Actual Deferral Percentage or the
+Average Contribution Percentage for all other active Participants, or (ii) two
+percent (2%) plus the greater of the applicable Average Actual Deferral
+Percentage or the Average Contribution Percentage for all other active
+Participants.
+
+            (d) For purposes of subsections (a) through (c), this Plan will be
+aggregated and treated as a single plan with other plans maintained by the
+Employer or an Affiliated Company to the extent that this Plan is aggregated
+with any such other plan for purposes of satisfying section 410(b) (other than
+section 410(b)(2)(A)(ii)) of the Code.
+
+            (e) The determination and treatment of the Salary Deferrals,
+Matching Contributions, Qualified Employer Contributions, Actual Deferral
+Percentage and Contribution Percentage of any Participant will satisfy such
+other requirements as may be prescribed by the Secretary of the Treasury.
+
+
+                                       18
+<PAGE>
+      5.3. Correction of Discriminatory Contributions.
+
+            (a) If the nondiscrimination tests of Section 5.2(a) are not
+satisfied with respect to Salary Deferrals for any Plan Year beginning on or
+after January 1, 1997, the Committee will (1) determine the amount by which the
+Actual Deferral Percentage for the Highly Compensated Employee or Employees with
+the highest Actual Deferral Percentage for the Plan Year would need to be
+reduced to comply with the limit in Section 5.2(a), (2) convert the excess
+percentage amount determined under clause (1) into a dollar amount, and (3)
+reduce the Salary Deferrals of the Highly Compensated Employee or Employees with
+the greatest dollar amount of Salary Deferrals by the lesser of (A) the amount
+by which the Highly Compensated Employee's Salary Deferrals exceeds the Salary
+Deferrals of the Highly Compensated Employee with the next highest dollar amount
+of Salary Deferrals, or (B) the amount of the excess dollar amount determined
+under clause (2). This process will be repeated until the Salary Deferrals of
+Highly Compensated Employees have been reduced by an amount equal to the excess
+dollar amount determined under clause (2). The Salary Deferrals of any Highly
+Compensated Employee which must be reduced pursuant to this subsection (a) will
+be reduced (i) first, by distributing Salary Deferrals not taken into account in
+determining Matching Contributions under Section 4.2, and (ii) then, by
+distributing Salary Deferrals not described in (i), within twelve (12) months of
+the close of the Plan Year with respect to which the reduction applies, and the
+provisions of Section 5.1(b) regarding the forfeiture of related Matching
+Contributions will apply. For purposes of determining the necessary reduction,
+Salary Deferrals previously distributed pursuant to Section 5.1 will be treated
+as distributed under this Section 5.3(a).
+
+            (b) If the nondiscrimination tests of Section 5.2(b) are not
+satisfied with respect to Matching Contributions for any Plan Year beginning on
+or after January 1, 1997, the Committee will (1) determine the amount by which
+the Actual Contribution Percentage for the Highly Compensated Employee or
+Employees with the highest Actual Contribution Percentage for the Plan Year
+would need to be reduced to comply with the limit in Section 5.2(b), (2) convert
+the excess percentage amount determined under clause (1) into a dollar amount,
+and (3) reduce the excess contributions of the Highly Compensated Employee or
+Employees with the greatest dollar amount of Matching Contributions by the
+lesser of (A) the amount by which the dollar amount of the affected Highly
+Compensated Employees's Matching Contributions exceeds the dollar amount of the
+Matching Contributions of the Highly Compensated Employee with the next highest
+dollar amount of Matching Contributions, or (B) the amount of the excess dollar
+amount determined under clause (2). This process will be repeated until the
+Matching Contributions of the Highly Compensated Employees has been reduced by
+an amount equal to the excess dollar amount determined under clause (2). The
+Matching Contributions of any Highly Compensated Employee which must be reduced
+pursuant to this subsection (b) will be reduced by distributing any Matching
+Contributions, within twelve (12) months of the close of the Plan Year with
+respect to which the reduction applies. Amounts forfeited under this subsection
+(b) will be applied to reduce future Matching Contributions made pursuant to
+Section 4.2.
+
+            (c) Any distribution, recharacterization or forfeiture of Salary
+Deferrals or Matching Contributions necessary pursuant to subsections (a) or (b)
+will include a distribution or forfeiture of the income, if any, allocable to
+such contributions. Such income will be equal to the sum of (1) the allocable
+gain or loss for the Plan Year (determined by multiplying the income allocable
+to the Participant's Salary Deferrals or Matching Contributions, as applicable,
+for the
+
+                                       19
+<PAGE>
+Plan Year by a fraction, the numerator of which is the Participant's excess
+Salary Deferrals or Matching Contributions, as applicable, for the Plan Year and
+the denominator is the Participant's Salary Deferral Account or Matching
+Contribution Account, as applicable, as of the beginning of the Plan Year), plus
+the Participant's elective contributions for the Plan Year, plus (2) ten percent
+(10%) of the amount determined under clause (1) multiplied by the number of
+whole calendar months between the end of the Plan Year and the date of
+distribution, counting the month of distribution if distribution occurs after
+the fifteenth day of the month.
+
+            (d) For purposes of satisfying the nondiscrimination test described
+in Section 5.2(c), the Salary Deferrals of all Highly Compensated Employees will
+be reduced as described in subsections (a) and (b), (i) first, by distributing
+Salary Deferrals not taken into account in determining Matching Contributions
+under Section 4.2, and (ii) then, by distributing Salary Deferrals not described
+in clause (i) and forfeiting Matching Contributions corresponding to such
+distributed Salary Deferrals.
+
+            (e) Notwithstanding anything in this Section to the contrary, for
+any Highly Compensated Employee who is an active Participant in the Plan while
+eligible to participate in any other qualified retirement plan maintained by the
+Employer or an Affiliated Company (excluding any such plan which is not
+permitted to be aggregated with the Plan pursuant to Treas. Reg.
+Section 1.401(k)-1(g)(11) or Section 1.401(m)-1(f)(14)) under which the Employee
+has made employee contributions or elective deferrals, or is credited with
+employer matching contributions for the year, the Committee will coordinate
+corrective actions under this Plan and such other plan for the year.
+
+            (f) In lieu of or in addition to the actions described in
+subsections (a) through (e) of this Section, to satisfy the tests in Section
+5.2, the Employer may make Qualified Employer Contributions as described in
+Section 4.4.
+
+      5.4. Annual Additions Limitations.
+
+            (a) In no event will the Annual Additions on behalf of any
+Participant for any Plan Year exceed the lesser of:
+
+                  (1) $30,000 (or such other amount as may be in effect under
+Section 415(c)(1)(A) of the Code), or
+
+                  (2) twenty-five percent (25%) (or such other percentage that
+may be in effect under Section 415(c)(1)(A) of the Code) of such Participant's
+Compensation for the Plan Year.
+
+      The limitation referred to in Section 5.4(a)(2) will not apply to any
+contribution for medical benefits within the meaning of section 401(h) or
+section 419A(f)(2) of the Code which is otherwise treated as an Annual Addition
+under section 415(l)(1) or 419A(d)(2) of the Code.
+
+      If the amount otherwise allocable to the Account of a Participant would
+exceed the amount described above as a result of the reallocation of
+forfeitures, a reasonable error in estimating the Participant's Compensation, a
+reasonable error in determining the amount of elective deferrals (within the
+meaning of section 402(g) of the Code) that may be made under the
+
+                                       20
+<PAGE>
+limitations of section 415 of the Code, or such other circumstances as permitted
+by law, the Committee will determine which portion, if any, of such excess
+amount is attributable to the Participant's Salary Deferrals and/or Matching
+Contributions and/or Qualified Employer Contributions, if any, until such excess
+amount has been exhausted. To the extent any portion of a Participant's Salary
+Deferrals are determined to be excess under this Section, such Salary Deferrals,
+with income thereon, will be returned to the Participant as soon as
+administratively practicable. To the extent any portion of the Matching
+Contributions and/or Qualified Employer Contributions allocable to a Participant
+are determined to be excess under this Section, while the Participant remains an
+Eligible Employee, his excess Matching Contributions and/or Qualified Employer
+Contributions will be held in a suspense account (which will share in investment
+gains and losses of the Fund) by the Trustee until the following Plan Year (or
+any succeeding Plan Years), at which time such amounts will be allocated to the
+Participant's Account before any Matching Contributions and/or Qualified
+Employer Contributions are made on his behalf for the Plan Year. When the
+Participant ceases to be an Eligible Employee, his excess Matching Contributions
+and/or Qualified Employer Contributions held in the suspense account will be
+allocated in the following Plan Year (or any succeeding Plan Years) to the
+Accounts of other Participants in the Plan. Furthermore, the Committee will
+perform any other actions as may be necessary to preserve the Plan's status as a
+qualified plan.
+
+            (b) Effective for Plan Years beginning before January 1, 2000, the
+amount allocated to the Account of any Participant for any Plan Year will not
+cause the sum of the "defined contribution fraction" and the "defined benefit
+fraction," as such terms are defined in section 415(e) of the Code, to exceed
+1.0, or such other limitation as may be applicable under section 415 of the Code
+with respect to any combination of qualified plans without disqualification of
+any such plan. In the event that the amount tentatively available for allocation
+to the Account of any Participant in any Plan Year beginning before January 1,
+2000 exceeds the maximum amount permissible hereunder, benefits under the
+defined benefit plan or plans in which the Participant is participating will be
+adjusted to the extent necessary to satisfy the requirements of section 415(e)
+of the Code.
+
+
+                                       21
+<PAGE>
+                                  ARTICLE VI.
+
+                     INVESTMENT AND VALUATION OF TRUST FUND;
+                             MAINTENANCE OF ACCOUNTS
+
+      6.1. Investment of Assets. All existing assets of the Trust Fund and all
+future contributions will be invested by the Trustee in accordance with the
+terms of the Trust Agreement and Section 6.2.
+
+      6.2. Investment in Investment Funds. The Committee will designate the
+available Investment Funds to which a Participant may direct the investment of
+amounts credited to his Account. The Committee, in its sole discretion, may from
+time to time designate additional Investment Funds of the same or different
+types or modify, cease to offer or eliminate any existing Investment Funds.
+
+      Anything contained in this Section 6.2 to the contrary notwithstanding,
+all or any part of the Trust Fund may be invested by one or more Investment
+Managers appointed by the Committee, under one or more pooled or commingled
+funds maintained by a bank or insurance company, together with commingled assets
+of other plans of deferred compensation qualified under section 401(a) of the
+Code. A portion of the Trust Fund, as determined by the Committee, may be held
+in the form of uninvested cash or in a liquid asset account for temporary
+periods pending reinvestment or distribution.
+
+      6.3. Investment Elections. Each Participant, upon commencing or
+recommencing active participation under Section 4.1, will direct in the form and
+at the time prescribed by the Committee the investment of contributions made by
+him or on his behalf in any one or more of the available Investment Funds, in
+whole percentage increments, subject to such limitations as the Committee may
+prescribe. In the event a Participant fails to direct the investment of all or a
+portion of his Account, the Committee will designate a default Investment Fund
+in which such amount will be invested.
+
+      6.4. Change of Election. Each Participant may change his investment
+direction with respect to the investment of his future contributions at the time
+or times prescribed by the Committee, by making a new election in such form, at
+such time in advance and in accordance with other procedures and subject to such
+restrictions as the Committee or its delegate may prescribe. Until changed in
+accordance with this Section 6.4, an Investment Fund election shall remain in
+effect for all subsequent periods.
+
+      6.5. Transfers Between Investment Funds. Each Participant or Beneficiary
+of a deceased Participant may elect to transfer all or a portion of his interest
+in any Investment Fund to any other available Investment Fund at the time or
+times prescribed by the Committee, by making a new election in such form, at
+such time in advance and in accordance with other procedures and subject to such
+restrictions as the Committee or its delegate may prescribe.
+
+      6.6. Individual Accounts. There will be maintained on the books of the
+Plan with respect to each Participant, as applicable, a Salary Deferral Account,
+a Matching Contribution Account, a Regular Contribution Account, a Qualified
+Employer Contribution Account and a Rollover Account. Each such Account will
+separately reflect the Participant's interest in each Investment
+
+                                       22
+<PAGE>
+Fund relating to such Account. Each Participant will receive, at least annually
+or at more frequent intervals determined by the Committee, a statement of his
+Account showing the balances in each Investment Fund. A Participant's interest
+in any Investment Fund will be determined and accounted for based on his
+beneficial interest in any such fund, and no Participant will have any interest
+in or rights to any specific asset of any Investment Fund.
+
+      6.7. Valuation. The Trust Fund shall be valued by the Trustee as of each
+Valuation Date on the basis of its fair market value. The Trust Fund may also be
+valued by the Trustee as of any other date as the Committee may authorize for
+any reason the Committee deems appropriate.
+
+      6.8. Allocation of Investment Earnings and Expenses. On the basis of the
+valuation as of a Valuation Date, subject to the provisions of Article VII, the
+Accounts of all Participants shall be (a) proportionately adjusted to reflect
+expenses and investment earnings such as interest, dividends, realized and
+unrealized investment profits and losses, and (b) directly adjusted to reflect
+all other applicable transactions during the Plan Year attributable to such
+Accounts including, but not limited to, any distributions or annuity purchases.
+
+      6.9. Fiduciary Responsibility. This Plan is intended to constitute a plan
+described in section 404(c) of the Employee Retirement Security Act of 1974, as
+amended, and Title 29 of the Code of Federal Regulations 2550.404c-1. None of
+the Company, an Employer, the Committee, the Trustee nor any other Plan
+fiduciary will be liable for any losses which are the direct and necessary
+result of investment instructions provided by any Participant, Beneficiary or
+Alternate Payee.
+
+
+                                       23
+<PAGE>
+                                  ARTICLE VII.
+                        VESTING AND BENEFIT DISTRIBUTIONS
+
+      7.1. Vesting.
+
+            (a) Upon Retirement. A Participant shall be 100% vested in his
+Account at all times after first becoming eligible for Retirement. A Participant
+shall be eligible to retire on his Normal or Deferred Retirement Date. In the
+event a Participant does not retire on his Normal Retirement Date, he shall
+continue to be credited with contributions in accordance with Articles IV and
+VIII until his actual retirement.
+
+            (b) Upon Disability. A Participant who incurs a Disability prior to
+his termination of employment shall be 100% vested in his Account. The Committee
+shall require evidence that the application for such benefits has been approved
+by the Social Security Administrator. The final determination shall be made by
+the Committee on the basis of such evidence.
+
+      If such Participant returns to the employ of an Employer, he shall resume
+his participation as of the date of his return. The Participant's vested
+interest in that portion of his Account attributable to Service from the date of
+his last reemployment shall be determined in accordance with the provisions of
+this Article VII, without regard to his prior Disability.
+
+            (c) Upon Death. A Participant who dies prior to his termination of
+employment shall be 100% vested in his Account. Upon the death of a Participant,
+his Beneficiary shall be entitled to 100% of such Participant's vested Account.
+
+            (d) Upon Termination of Employment. Upon a Participant's termination
+of employment for reasons other than his Retirement, Disability or death, the
+following provisions shall apply:
+
+                  (1) A Participant shall at all times be 100% vested in his
+Account, except for the portion of his Account that is his Regular Contribution
+Account.
+
+                  (2) (a) Subject to Section 7.1(d)(4), for periods prior to
+
+December 31, 1999, a Participant shall be vested in his Regular Contribution
+Account in accordance with the following schedule on the basis of the
+Participant's full Years of Service:
+
+<TABLE>
+<CAPTION>
+           Number of Years                          Percentage of Account
+           ---------------                          ---------------------
+<S>                                                <C>
+           Less than 3 full Years of Service        0
+           3 full Years of Service                  20%
+           4 full Years of Service                  40%
+           5 full Years of Service                  60%
+           6 full Years of Service                  80%
+           7 or more full Years of Service          100%
+</TABLE>
+
+
+                                       24
+<PAGE>
+            (b) Subject to Section 7.1(d)(4), for periods on and after December
+31, 1999, a Participant shall be vested in his Regular Contribution Account in
+accordance with the following schedule on the basis of the Participant's full
+Years of Service:
+
+<TABLE>
+<CAPTION>
+                  Number of Years                          Percentage of Account
+                  ---------------                          ---------------------
+<S>                                                        <C>
+                  Less than 1 full Year of Service         0
+                  1 full Year of Service                   20%
+                  2 full Years of Service                  40%
+                  3 full Years of Service                  60%
+                  4 full Years of Service                  80%
+                  5 or more full Years of Service          100%
+</TABLE>
+
+            (3) The portion of a Participant's Account which is not vested shall
+be forfeited on the earlier of the date on which the Participant receives a
+distribution of his vested benefits or the date on which such Participant incurs
+five consecutive Breaks-in-Service, but in no event shall such forfeiture occur
+earlier than the first day after the Valuation Date next following the date on
+which the Participant terminated employment. If a Participant does not have a
+vested interest in his Account, he shall be deemed to have received an immediate
+distribution as of the first day after the Valuation Date next following the
+date on which such Participant terminated employment. That portion of a
+Participant's Regular Contribution Account which is forfeited shall be
+reallocated in accordance with Section 4.3 and Article VIII.
+
+            (4) If a Participant is reemployed by the Employer prior to
+incurring five consecutive Breaks-in-Service, the dollar amount which was
+subject to forfeiture in accordance with Section 7.1(d)(3) will be restored to
+the Participant's Account if the Participant repays the amount distributed from
+his Account. Such amounts must be repaid to the Trust Fund in a lump sum within
+five years from the date such Participant resumes his employment with the
+Employer. The funds required for the restoration of such Account may, as
+determined by the Committee, be paid from forfeitures, Regular Contributions, or
+investment gains of the Trust Fund attributable to the Regular Contribution
+Accounts of all Participants.
+
+            Such repaid amounts shall be credited to the Participant's Accounts
+as determined by the Committee, taking into account the applicable vesting
+schedules, amounts subject to special tax treatment and withdrawal rules.
+Additional Accounts will be established, if required, to accommodate these
+objectives. Amounts repaid and restored in accordance with this Subsection will
+not be treated as Annual Additions.
+
+            Notwithstanding the foregoing, no restoration shall be made to a
+Participant's Account and no repayment shall be permitted with respect to funds
+accumulated prior to reemployment in the case of
+
+                        (i)   any Participant who was fully vested;
+
+                        (ii)  any Participant who is reemployed after incurring
+five consecutive Breaks-in-Service, or
+
+
+                                       25
+<PAGE>
+                        (iii) any Participant who incurred a one year
+Break-in-Service prior to January 1, 1985 and reemployment.
+
+      7.2. Commencement of Benefits.
+
+            (a) Death Benefits
+
+                  (1) Form and Timing of Benefit. Unless otherwise elected by
+the Beneficiary and subject to Section 7.2(a)(2), death benefits will be paid in
+a single lump sum to the Participant's Beneficiary as soon as practicable after
+the Participant's death.
+
+                  (2) Required Distribution Dates. Notwithstanding any provision
+in the Plan to the contrary, the Benefit Payment Date:
+
+                        (a) for a non-spouse Beneficiary will be no later than
+December 31 of the year containing (i) the fifth anniversary of the
+Participant's death or (ii) with respect to death benefits payable from the
+Participant's Account in the form of installments, the first anniversary of the
+Participant's death.
+
+                        (b) for a spouse Beneficiary will be no later than
+December 31 of the later of (i) the calendar year following the year of the
+Participant's death or (ii) the calendar year in which the Participant would
+have attained age 70-1/2.
+
+            Distributions under this Section 7.2(a) will otherwise comply with
+the requirements of section 401(a)(9) of the Code and the regulations
+thereunder, including the incidental death benefit requirements of proposed
+Treas. Reg. ?1.401(a)(9)-2.
+
+            (b) Upon Other Events.
+
+                  (1) Amount of Benefit. The Plan benefit payable to a
+Participant upon such Participant's termination of employment for reasons other
+than his death, will be equal to the balance of his vested Account, determined
+as of the Valuation Date related to the Benefit Payment Date for the
+Participant.
+
+                  (2) Time of Distribution.
+
+
+                        (a) General Rule. Distribution of benefits under this
+Section 7.2(b) to the Participant will be made no later than the 60th day
+following the Valuation Date next subsequent to the Participant's termination of
+employment; provided, however, that in the case of a Participant who has not
+reached his Normal Retirement Date and whose Account balance exceeds $5,000
+(including Rollover Contributions) ($3,500 for Benefit Payment Dates before
+January 1, 1999), no distribution will be made at such time without the consent
+of the Participant provided in a manner and at the time agreed upon by the
+Committee and the Trustee and that complies with applicable law. If the
+Participant does not so consent, then distribution will be deferred until any
+subsequent date elected by the Participant in a manner prescribed by the
+Committee, but not later than the 60th day following the last day of the Plan
+Year during which the anniversary of the Participant's Normal Retirement Date
+occurs.
+
+
+                                       26
+<PAGE>
+                        (b) Required Distribution Dates. Except as otherwise
+provided in this Section, the Benefit Payment Date for any Participant will not
+be later than the 60th day following the close of the Plan Year in which (A) the
+Participant attains age 65, (B) occurs the tenth anniversary of the year in
+which the Participant commenced participation in the Plan, or (C) the
+Participant terminates from employment, whichever occurs last. Notwithstanding
+any provision in the Plan to the contrary, a Participant's Benefit Payment Date
+shall not be later than April 1 of the calendar year following the later of (i)
+the calendar year in which the Participant attains age 70-1/2, or (ii) for
+distributions after December 31, 1996, in the case of a Participant who is not a
+5% owner (within the meaning of section 416(i) of the Code) with respect to the
+Plan Year ending in the calendar year in which the Participant attains age
+70-1/2, the calendar year in which the Participant's termination of employment
+occurs. Notwithstanding the foregoing, a Participant who attains age 70-1/2
+prior to January 1, 2000 shall be entitled to elect the April 1 of the calendar
+year following the calendar year in which he attains age 70-1/2 as his Benefit
+Payment Date. Distributions under this Section 7.2 will otherwise comply with
+the requirements of section 401(a)(9) of the Code and the regulations
+thereunder, including the incidental death benefit requirements of proposed
+Treas. Reg. Section 1.401(a)(9)-2.
+
+                        (c) Effective Date of Regulations. With respect to
+distributions under the Plan made for calendar years beginning on or after
+January 1, 2002, the Plan will apply the minimum distribution requirements of
+section 401(a)(9) of the Internal Revenue Code in accordance with the
+regulations under section 401(a)(9) that were proposed on January 17, 2001,
+notwithstanding any provision of the Plan to the contrary. This amendment shall
+continue in effect until the end of the last calendar beginning before the
+effective date of final regulations under section 401(a)(9) or such other date
+as may be specified in guidance published by the Internal Revenue Service.
+
+                  (3) Election Period. A Participant's election to commence
+payment prior to his Normal Retirement Date must be made within the ninety (90)
+day period ending on the Benefit Payment Date elected by the Participant and in
+no event earlier than the date the Committee provides the Participant with
+information relating to his right to defer payment until his Normal Retirement
+Date and his right to make a direct rollover as set forth in Section 7.8. Such
+information must be supplied not less than thirty (30) days nor more than ninety
+(90) days prior to the Benefit Payment Date. Notwithstanding the preceding
+sentence, a Participant's Benefit Payment Date may occur less than thirty (30)
+days after such information has been supplied to the Participant provided that,
+after the Participant has received such information and has been advised of his
+right to a thirty (30) day period to make a decision regarding the distribution,
+the Participant affirmatively elects a distribution. The Committee may permit
+the information described in this paragraph and/or the Participant's consent to
+a distribution be provided at any time or in any manner permitted by applicable
+law.
+
+      7.3. Withdrawals. A Participant may, in a manner prescribed by the
+Committee thirty (30) days prior to the requested date of withdrawal, request a
+withdrawal from his Account in accordance with the following rules:
+
+            (a) 59-1/2 Withdrawals. A Participant, while still employed, may
+request a withdrawal of (i) all or a portion of his Salary Deferral Account at
+any time after he attains age 59-1/2, provided, however, that at least one Plan
+Year (for periods prior to January 1, 2001, three
+
+                                       27
+<PAGE>
+Plan Years) must elapse before such Participant is eligible for another
+withdrawal from his Salary Deferral Account pursuant to this clause; or (ii) all
+or a portion of his Salary Deferral Account at any time before he attains age
+59-1/2, provided such withdrawal meets the financial hardship provisions set
+forth in paragraph (b) below; or (iii) all or a portion of his Qualified
+Employer Contribution Account at any time after he attains age 59-1/2.
+
+      (b) Hardship Withdrawals. Each Participant will have the right to make a
+withdrawal from his Account on account of hardship. If the Committee or its
+delegate determines that a requested withdrawal is on account of an immediate
+and heavy financial need of the Participant, and the withdrawal is necessary to
+satisfy such financial need, the Participant will be permitted to withdraw all
+or a portion of his Account; provided, however, the aggregate amount of a
+Participant's withdrawals from his Salary Deferral Account (including any such
+withdrawals under any predecessor plan from elective deferrals and earnings
+attributable thereto under such predecessor plan) will not exceed the balance of
+his Account to the extent attributable to elective deferrals under any
+predecessor plan as of December 31, 1988, plus the sum of his Salary Deferrals
+and any elective deferrals made to any predecessor plan after December 31, 1988.
+Withdrawals pursuant to this Section will be subject to the following additional
+rules:
+
+            (1) A distribution will be deemed to be on account of an immediate
+and heavy financial need of a Participant when the distribution is on account
+of:
+
+                  (A) expenses for medical care described in section 213(d) of
+the Code incurred by the Participant, the Participant's spouse, or any
+dependents of the Participant as defined in section 152 of the Code (or the
+distribution is necessary for such persons to obtain such medical care);
+
+                   (B) costs directly related to the purchase (excluding
+mortgage payments) of a principal residence for the Participant;
+
+                   (C) payment of tuition, related educational fees, room and
+board for the next twelve (12) months of post-secondary education for the
+Participant, his spouse, children or dependents;
+
+                   (D) the need to prevent the eviction of the Participant from
+his principal residence or foreclosure on the mortgage of his principal
+residence; or
+
+                   (E) any other financial need as may be promulgated by the
+Internal Revenue Service.
+
+            (2) A withdrawal will be deemed necessary to satisfy the financial
+need of a Participant if:
+
+                   (A) the amount of the withdrawal does not exceed the amount
+of the Participant's immediate and heavy financial need, including, at the
+election of the Participant, any amounts necessary to pay any federal, state or
+local income taxes or penalties reasonably anticipated to result from the
+distribution;
+
+
+                                       28
+<PAGE>
+                   (B) the Participant provides the Committee with a signed,
+written statement certifying that the financial hardship cannot be relieved:
+
+                        (i) through reimbursement of compensation by insurance
+or otherwise;
+
+                        (ii) by reasonable liquidation of such Participant's
+assets, including those of his spouse and minor children if they are reasonably
+available to him;
+
+                        (iii) by discontinuance of Salary Deferrals; or
+
+                        (iv) by other distributions or loans from the Plan or
+any other qualified plan or loans from commercial sources on reasonably
+commercial terms.
+
+                   (C) in the absence of the certification described in (B), the
+following requirements will apply:
+
+                        (i) The Participant must have obtained all other
+distributions and loans available under all plans maintained by the Employer.
+
+                        (ii) Salary Deferrals and any other Employee
+contributions under all plans maintained by the Employer will be suspended for
+12 months (for withdrawals occurring before January 1, 2002) or 6 months (for
+withdrawals occurring on or after January 1, 2002) following the receipt of the
+financial hardship withdrawal. The Participant's Salary Deferrals will
+automatically be resumed following the required period of suspension, unless the
+Participant elects otherwise.
+
+                        (iii) The limitation of Section 5.1 which is imposed on
+a Participant's Salary Deferrals for the calendar year immediately following the
+calendar year of the financial hardship withdrawal will be reduced by the amount
+of such contributions and/or deferrals for the calendar year of such withdrawal.
+
+                   (3) The amount of such financial hardship withdrawal may not
+exceed the amount required to meet the specified need. In addition, the amount
+of such withdrawal from a Participant's Salary Deferral Account shall be limited
+to the sum of the Participant's Salary Deferrals made, plus the income credited
+to the Salary Deferral Account as of the last Valuation Date in 1988.
+
+                   (4) A financial hardship withdrawal from a Participant's
+Salary Deferral Account will be available only after the total amount available
+from all other Accounts has been withdrawn.
+
+                   (5) A hardship withdrawal will be made in a single sum
+payment.
+
+            (c) General Withdrawal Rules. Any withdrawal pursuant to this
+Section 7.3 shall be subject to the following requirements:
+
+
+                                       29
+<PAGE>
+                   (1) Only one withdrawal will be permitted during any Plan
+Year.
+
+                   (2) A written request for a withdrawal must be submitted to
+the Committee at least 30 days prior to the withdrawal date and must specify the
+Investment Fund from which the withdrawal is to be taken.
+
+                   (3) A withdrawal may be requested as of any January 1, or at
+such other dates as the Committee may fix from time to time with respect to a
+hardship withdrawal. If requested as of any date other than the day after a
+Valuation Date, no investment earnings will be credited on the amount withdrawn
+from the period from the last Valuation Date to the date specified for the
+withdrawal.
+
+                   (4) The minimum amount that may be withdrawn is $1,000, or
+the balance in the Participant's Account from which a current withdrawal is
+permitted, if less. The minimum amount limitation shall not apply in the case of
+a hardship withdrawal.
+
+      7.4. Form of Benefit Payment.
+
+            (a) General Rule. Except as otherwise provided in this Section 7.4,
+all distributions of benefits payable to a Participant under Section 7.2 or 7.3
+of the Plan will be made in the form of a single cash lump sum. The distribution
+of a lump sum to a Participant or his Beneficiary shall constitute the complete
+discharge of all obligations of the Plan.
+
+            (b) Small Benefits. Notwithstanding any provisions of the Plan to
+the contrary, the Committee will direct that a Participant's Account will be
+paid in a single sum without the Participant's consent (or, in the event of the
+Participant's death, his Beneficiary's) if, as of a Benefit Payment Date which
+occurs on or after January 1, 1999, the total value of the Participant's Account
+is $5,000 or less (including Rollover Contributions) ($3,500 for Benefit Payment
+Dates before January 1, 1999). Any such distribution shall occur not later than
+the earlier to occur of (1) the 90th day following the Valuation Date next
+subsequent to such termination, or (2) the 60th day following the Valuation Date
+occurring at the end of the Plan Year in which such termination occurs if, by
+the end of such Plan Year, the Participant has attained his Normal Retirement
+Date and there has occurred the 10th anniversary of the date on which the
+Participant's Plan participation commenced.
+
+      7.5. Beneficiary Designation Right.
+
+            (a) Spouse as Beneficiary. The Beneficiary of a death benefit
+payable pursuant to Section 7.1 will be the Participant's spouse as of the
+Participant's date of death; provided, however, that the Participant may
+designate a Beneficiary other than his spouse pursuant to Section 7.5(b) if:
+
+                  (1) the requirements of Section 7.5(c) are satisfied, or
+
+                  (2) the Participant has no spouse, or
+
+
+                                       30
+<PAGE>
+                  (3) the Committee determines that the spouse cannot be located
+or such other circumstances exist under which spousal consent is not required,
+as prescribed by Treasury regulations.
+
+            (b) Beneficiary Designation Right. Each Participant who is permitted
+to designate a Beneficiary other than his spouse pursuant to Section 7.5(a) will
+have the right to designate one or more primary and one or more secondary
+Beneficiaries to receive any benefit becoming payable upon the Participant's
+death. All Beneficiary designations will be in writing in a form satisfactory to
+the Committee. Each Participant will be entitled to change his Beneficiaries at
+any time and from time to time by filing a written notice of such change with
+the Committee. However, the Participant's spouse must again consent in writing
+to such change, unless (1) the prior consent of the spouse expressly permits
+designations by the Participant without any requirement of further consent by
+the spouse or (2) one of the exceptions described in Sections 7.5(a)(2) and
+7.5(a)(3) applies.
+
+      If no designation is made, or if all of the Beneficiaries named in such
+designation predecease the Participant or cannot be located by the Committee,
+then the Participant will be deemed to have designated the following as his
+Beneficiaries and contingent Beneficiaries, with priority in the order named:
+
+                  (1) his spouse;
+
+                  (2) his estate.
+
+            (c) Form and Content of Spouse's Consent. A spouse may consent to
+the designation of one or more Beneficiaries other than such spouse provided
+that such consent will be in writing, must consent to the specific alternate
+beneficiary or beneficiaries designated (or permit beneficiary designations by
+the Participant without the spouse's further consent), must acknowledge the
+effect of such consent, and must be witnessed by a Plan representative or notary
+public. Such spouse's consent will be irrevocable, unless expressly made
+revocable. The consent of a spouse in accordance with this Section 7.5(c) will
+not be effective with respect to any subsequent spouse of the Participant.
+
+      7.6. Domestic Relations Orders.
+
+            (a) General. Except as otherwise provided in this Section 7.6, an
+Alternate Payee will have no rights to a Participant's benefit and will have no
+rights under this Plan other than those rights specifically granted to the
+Alternate Payee pursuant to a QDRO. Notwithstanding the foregoing, an Alternate
+Payee will have the right to make a claim for any benefits awarded to the
+Alternate Payee pursuant to a QDRO, as provided in Article XI. Any interest of
+an Alternate Payee in the Account of a Participant, other than an interest
+payable solely upon the Participant's death pursuant to a QDRO which provides
+that the Alternate Payee will be treated as the Participant's surviving spouse,
+will be separately accounted for by the Trustee in the name and for the benefit
+of the Alternate Payee.
+
+            (b) Distribution.
+
+
+                                       31
+<PAGE>
+                  (1) Notwithstanding anything in this Plan to the contrary, a
+QDRO may provide that any benefits of a Participant payable to an Alternate
+Payee that are separately accounted for will be distributed immediately or at
+any other time specified in the order but not later than the latest date
+benefits would be payable to the Participant pursuant to this Article. If the
+order does not specify the time at which benefits will be payable to the
+Alternate Payee, the Alternate Payee may elect, in writing on a form prescribed
+by the Committee, to have benefits commence (A) in accordance with Section 7.2,
+as of the earlier of (i) the Participant's 50th birthday or (ii) the
+Participant's termination of employment, or as of any date thereafter that is
+not later than the latest date on which benefits would be payable to the
+Participant pursuant to that Section or (B) in accordance with Section 7.1, but
+as of the Alternate Payee's death; provided, however, that in the event the
+amount payable to the Alternate Payee under the QDRO does not exceed $5,000
+(including Rollover Contributions) ($3,500 for Benefit Payment Dates occurring
+before January 1, 1999), such amount will be paid to the Alternate Payee in a
+single sum as soon as practicable following the Committee's receipt of the order
+and verification of its status as a QDRO.
+
+                  (2) If the QDRO does not specify the Participant's Accounts,
+or Investment Funds in which the Participant's Accounts are invested, from which
+amounts that are separately accounted for will be paid to an Alternate Payee,
+such amounts will be distributed, or segregated, from the Participant's
+Accounts, and the Investment Funds in which such Accounts are invested, on a pro
+rata basis.
+
+                  (3) The benefit payable to an Alternate Payee will be paid in
+the form of a single sum.
+
+            (c) Withdrawals. An Alternate Payee will not be permitted to make
+any withdrawals under Article VII.
+
+            (d) Death Benefits. Unless a QDRO establishing a separate account
+for an Alternate Payee provides to the contrary, an Alternate Payee for whom a
+separate account is established will have the right to designate a Beneficiary,
+in the same manner as provided in Section 7.5 with respect to a Participant
+(except that no spousal consent will be required), who will receive benefits
+payable to an Alternate Payee which have not been distributed at the time of an
+Alternate Payee's death. If the Alternate Payee for whom a separate account is
+established does not designate a Beneficiary, or if the Beneficiary predeceases
+the Alternate Payee, benefits payable to the Alternate Payee which have not been
+distributed will be paid to the Alternate Payee's estate. Any death benefit
+payable to the Beneficiary of an Alternate Payee will be paid in a single sum in
+cash as soon as administratively practicable after the Alternate Payee's death.
+
+            (e) Investment Direction. Unless a QDRO establishing a separate
+account for an Alternate Payee provides to the contrary, an Alternate Payee for
+whom a separate account is established will have the right to direct the
+investment of any portion of a Participant's Accounts payable to the Alternate
+Payee under such order in the same manner as provided in Article VI with respect
+to a Participant, which amounts will be separately accounted for by the Trustee
+in the Alternate Payee's name; provided, however, that the Alternate Payee shall
+not be permitted to elect to invest any such amounts in "employer securities"
+within the meaning of section 409(l) of the Code.
+
+
+                                       32
+<PAGE>
+      7.7. Post Distribution Credits. In the event that, after the payment of a
+single-sum distribution under this Plan (other than an in-service benefit
+distribution described in Section 7.3), any funds will be subsequently credited
+to the Participant's Account, such additional funds will be paid to the
+Participant or applied for the Participant's Account as promptly as practicable
+thereafter; provided, that the Participant is not then an Employee or, if he is
+an Employee, he has reached the required distribution date described in Section
+7.2(b)(2).
+
+      7.8. Eligible Rollover Distributions.
+
+            (a) In the event any payment or payments to be made under the Plan
+to a Participant, a beneficiary who is the surviving spouse of a Participant, or
+an alternate payee who is the former spouse of a Participant, would constitute
+an "eligible rollover distribution," the individual may request that such
+payment or payments be transferred directly from the Trust Fund to the trustee
+of (i) an individual retirement account described in Section 408(a) of the Code,
+(ii) an individual retirement annuity described in Section 408(b) of the Code
+(other than an endowment contract), (iii) an annuity plan described in Section
+403(a) of the Code, (iv) a qualified retirement plan the terms of which permit
+the acceptance of rollover distributions, or (v) effective for distributions
+made on or after January 1, 2002, (A) an eligible deferred compensation plan
+described in Section 457(b) of Code maintained by an eligible employer described
+in Section 457(e)(1)(A) of the Code that separately accounts for eligible
+rollover distributions or (B) an annuity contract described in Section 403(b) of
+the Code; provided, however, that clause (iii) and (iv) shall not apply to an
+eligible rollover distribution made prior to January 1, 2002 to a beneficiary
+who is the surviving spouse of a Participant. Any such request shall be made in
+writing, on the form prescribed by the Benefits Committee for such purpose, at
+such time in advance as the Benefits Committee may specify. Notwithstanding the
+foregoing, any "eligible rollover distribution" in excess of $1,000 made after
+final regulations are issued by the Department of Labor with respect to Section
+402(c)(2)(A) of the Code shall be transferred directly to the individual
+retirement plan of a designated trustee or insurer, unless the Participant
+elects to receive such distribution.
+
+            (b) For purposes of this Section 7.8, eligible rollover distribution
+shall mean a distribution from the Plan, excluding (i) any distribution that is
+one of a series of substantially equal periodic payments (not less frequently
+than annually) over the life (or life expectancy) of the individual, the lives
+(or life expectancies) of the individual and the individual's designated
+beneficiary, or a specified period of ten (10) or more years, (ii) any
+distribution to the extent such distribution is required under Section 401(a)(9)
+of the Code, (iii) any distribution to the extent such distribution is not
+included in gross income and (iv) for distributions after December 31, 1998 (in
+accordance with guidance issued by the Internal Revenue Service), any hardship
+distribution described in section 401(k)(2)(B)(i)(IV) of the Code.
+Notwithstanding the foregoing, clause (iii) of the preceding sentence shall not
+apply to a distribution that is made on or after January 1, 2002 and rolled over
+to an eligible retirement plan described in clause (i) or (ii) of the preceding
+paragraph or a qualified defined contribution plan that will separately account
+for the portion of the distribution that is includible in gross income.
+
+      7.9. Delay of Payment.
+
+
+                                       33
+<PAGE>
+            (a) If the amount of any payment under this Article VII would
+adversely affect the Trust Fund by forcing the premature liquidation of assets,
+such payment may be delayed until the timely and orderly liquidation of
+investments can be accomplished, but in no event later than the 60th day
+following the last day of the Plan Year during which the Participant's Normal
+Retirement Date occurs.
+
+      If the amount of any payment under this Section would adversely affect the
+Trust Fund by permitting former Participants to enter into direct competition
+with the Company, such payment will be delayed until the 60th day after the end
+of the Plan Year during which the Participant's Normal Retirement Date occurs.
+
+      If the amount of any payment under this Section cannot be ascertained by
+the applicable commencement date, payment shall be made no later than 60 days
+after the earliest day on which the amount of such payment can be ascertained.
+
+      If a Participant is in receipt of benefits from the Company's insured
+long-term disability program, payment of the Participants Account shall be
+deferred to the first day of the month in which such Participant is no longer
+eligible to receive such benefits or, if earlier, the 60th day following the
+last day of the Plan Year during which the Participant's Normal Retirement Date
+occurs, provided the benefits payable under the long-term disability program
+would otherwise be reduced by the benefits payable under the Plan.
+
+            (b) When distribution of benefits from the Trust Fund is to be
+deferred in accordance with Section 7.2(b)(2), after the applicable Valuation
+Date, the provisions of Section 6.8 shall apply to a Participant's Account until
+distribution is made.
+
+
+                                       34
+<PAGE>
+                                 ARTICLE VIII.
+                     PROVISIONS RELATING TO TOP-HEAVY PLANS
+
+      8.1. Definitions. For purposes of this Article VIII:
+
+            (a) An "Aggregation Group" means the group of qualified plans
+sponsored by the Employer or by an Affiliate that consists of either the
+Required Aggregation Group or the Permissive Aggregation Group, whichever
+applies.
+
+            (b) The "Determination Date" means the last day of the preceding
+Plan Year or, in the case of the first Plan Year, the last day of such Plan
+Year.
+
+            (c) A "Key Employee" is any current or former employee (and the
+beneficiaries of such employee) who at any time during (i) the Plan Year or
+during any of the preceding four (4) Plan Years or (ii) effective January 1,
+2002, the Plan Year, was any of the following:
+
+                  (1) An officer of the Employer having an annual compensation
+of more than (A) 50% of the amount in effect under Section 415(b)(1)(A) of the
+Code for the Plan Year or (B) effective January 1, 2002, $130,000 or such other
+amount as may be in effect under Section 416(i)(1)(A)(i) of the Code. The number
+of persons to be considered officers in any Plan Year and the identity of the
+persons to be so considered shall be determined pursuant to the provisions of
+Section 416(i) of the Code and the regulations published thereunder.
+
+                  (2) For periods prior to January 1, 2002, one of the 10
+employees who owns (or is considered as owning under the attribution rules set
+forth at Section 318 of the Code and the regulations thereunder) the largest
+interest in the Employer or such Affiliate, provided that no person shall be
+considered a Key Employee under this paragraph (2) if his annual compensation is
+not greater than the limitation in effect for such Plan Year under Section
+415(c)(1)(A) of the Code, nor shall any person be considered a Key Employee
+under this paragraph (2) if his ownership interest in the Plan Year being tested
+and the preceding four Plan Years was at all times less than 1/2% in value of
+any of the entities forming the Employer and the Affiliates.
+
+                  (3) A 5% owner of the Employer;
+
+                  (4) A person who is both an employee whose annual compensation
+exceeds $150,000 and who is a 1% owner of the Employer.
+
+            (d) A "Non-Key Employee" means any employee or former employee who
+is not a Key Employee as to that Plan Year, or a beneficiary of a deceased
+Participant who was a Non-Key Employee.
+
+            (e) For any Plan Year beginning after December 31, 1983, this Plan
+is "Top-Heavy" if, as of the Determination Date with respect to a Plan Year,
+either of the following conditions exists:
+
+
+                                       35
+<PAGE>
+                  (1) The Plan is not part of an Aggregation Group and the
+Top-Heavy Ratio, determined by substituting the "Plan" for the "Aggregation
+Group" each place it appears in Section 8.1(e), exceeds 60%.
+
+                  (2) The Plan is part of an Aggregation Group and the Top-Heavy
+Ratio of such Aggregation Group exceeds 60%.
+
+The Plan shall be deemed "super top-heavy" as to any Plan Year if, as of the
+Determination Date with respect to such Plan Year, the conditions of subsections
+(1) or (2) hereof are met with "90%" substituted for "60%" therein.
+
+            (f) The "Top-Heavy Ratio" shall mean the ratio (expressed as a
+percentage) for any Plan Year, calculated as of the Determination Date with
+respect to such Plan Year, determined by dividing the amount described in
+paragraph (1) hereof by the amount described in paragraph (2) hereof, after
+deduction from both such amounts of the amount described in paragraph (3)
+hereof:
+
+                  (1) The amount described in this paragraph (1) is the sum of
+(A) the aggregate of the present value of all accrued benefits of Key Employees
+under all qualified defined benefit plans included in the Aggregation Group, (B)
+the aggregate of the balances in all of the accounts standing to the credit of
+Key Employees under all qualified defined contribution plans included in the
+Aggregation Group, and (C) either (1) the aggregate amount distributed from all
+plans in such Aggregation Group to or on behalf of any Key Employee during the
+period of 5 Plan Years ending on the Determination Date or (2) effective January
+1, 2002, the sum of the amount of any in-service distributions during the period
+of 5 Plan Years ending on the Determination Date, and the amount of any other
+distribution during the one-year period ending on the Determination Date, to or
+on behalf of any Key Employee from all plans in such Aggregation Group.
+
+                  (2) The amount described in this paragraph (2) is the sum of
+(A) the aggregate of the present value of all accrued benefits of all
+Participants under all qualified defined benefit plans included in the
+Aggregation Group, (B) the aggregate of the balances in all of the accounts
+standing to the credit of all Participants under all qualified defined
+contribution plans included in the Aggregation Group, and (C) the aggregate
+amount distributed from all plans in such Aggregation Group to or on behalf of
+any Participant during the period of 5 Plan Years ending on the Determination
+Date.
+
+                  (3) The amount described in this paragraph (3) is the sum of
+(A) all rollover contributions (or similar transfers) to plans included in the
+Aggregation Group initiated by an Employee from a plan sponsored by an employer
+which is not the Employer or an Affiliated Company, (B) any amount that would
+have been included under paragraph (1) or (2) hereof with respect to any person
+who has not rendered service to any Employer at any time during the
+five-year-period (or, effective January 1, 2002, the one-year-period) ending on
+the Determination Date, and (C) any amount that is included in paragraph (2)
+hereof for, on behalf of, or on account of, a person who is a Non-Key Employee
+as to the Plan Year of reference but who was a Key Employee as to any earlier
+Plan Year.
+
+
+                                       36
+<PAGE>
+The present value of accrued benefits under any defined contribution plan shall
+be determined under the method used for accrual purposes for all plans
+maintained by the Employer and all Affiliates if a single method is used by all
+such plans, or otherwise, the slowest accrual method permitted under Section
+411(b)(1)(C) of the Code.
+
+            (g) "Permissive Aggregation Group" means the Required Aggregation
+Group of plans plus any other plan or plans of the Employer which, when
+considered as a group with the Required Aggregation Group, would continue to
+satisfy the requirements of Code Sections 401(a)(4) and 410.
+
+            (h) "Required Aggregation Group" means (1) each qualified plan of
+the Employer in which at least one Key Employee participates or participated at
+any time during the Determination Period (regardless of whether the plan has
+terminated), and (2) any other qualified plan of the Employer which enables a
+plan described in (1) to meet the requirements of Code Section 401(a)(4) or 410.
+
+            (i) "Present Value" shall be based on an interest assumption of 5%
+and a post-retirement mortality assumption based on the 1971 TPF&C Forecast
+Mortality Table.
+
+            (j) "Employer" means the Employer and all Affiliates except for
+purposes of determining ownership under Code Section 416(i)(1).
+
+      8.2. Top-Heavy Plan Requirements. The aggregate allocation made under the
+Plan to the Account of each active Participant who is a Non-Key Employee for any
+Plan Year in which the Plan is a Top-Heavy Plan and who remained in the employ
+of the Employer or an Affiliate through the end of such Plan Year (whether or
+not in the status of Eligible Employee) shall be not less than the lesser of:
+
+            (a) 3% of the compensation of each such Participant for such Plan
+Year; or
+
+            (b) The percentage of such compensation so allocated under the Plan
+to the Account of the Key Employee for whom such percentage is the highest for
+such Plan Year.
+
+      8.3. Other Top-Heavy Plan Requirements.
+
+
+            (a) If any person who is an active Participant in the Plan is a
+Participant under any defined benefit pension plan qualified under Section
+401(a) of the Code sponsored by the Employer or an Affiliate, there shall be
+substituted "4%" for "3%" in subsection 8.2(a) above. For the purposes of
+determining whether or not the provisions of this Section have been satisfied,
+(1) contributions or benefits under chapter 2 of the Code (relating to tax on
+self-employment income), chapter 21 of the Code (relating to Federal Insurance
+Contributions Act), title II of the Social Security Act, or any other Federal or
+state law are disregarded; (2) all defined contribution plans in the Aggregation
+Group shall be treated as a single plan; and (3) employer matching contributions
+made with respect to periods beginning before January 1, 2002 and elective
+deferrals under all plans in the Aggregation Group shall be disregarded. For the
+purposes of determining whether or not the requirements of this Section have
+been satisfied, contributions allocable to the account of the Participant under
+any other qualified defined contribution plan that is part of the Aggregation
+Group shall be deemed to be contributions made under the Plan,
+
+                                       37
+<PAGE>
+and, to the extent thereof, no duplication of such contributions shall be
+required hereunder solely by reason of this Section. Subsection 8.2(b) above
+shall not apply in any Plan Year in which the Plan is part of an Aggregation
+Group containing a defined benefit pension plan (or a combination of such
+defined benefit pension plans) if the Plan enables a defined benefit pension
+plan required to be included in such Aggregation Group to satisfy the
+requirements of either Section 401(a)(4) or Section 410 of the Code.
+
+            (b) The minimum allocation described in Section 8.2 shall be made
+even though, under other Plan provisions, the Participant would not otherwise be
+entitled to receive an allocation, or would have received a lesser allocation
+for the year because of (A) the Participant's failure to complete 1,000 hours of
+service (or any equivalent provided in the Plan), (B) the Participant's failure
+to make mandatory employee contributions to the Plan, or (C) Considered
+Compensation less than a stated amount.
+
+            (c) The provision in (a) above shall not apply to any Participant to
+the extent the Participant is covered under any other plan or plans of the
+Employer and the Employer's contribution and forfeitures allocated under such
+plan or plans are equal to or exceed the amount required to be allocated under
+(a) above.
+
+            (d) The minimum allocation required (to the extent required to be
+nonforfeitable under Code Section 416(b)) may not be forfeited under Code
+Section 411(a)(3)(B) or 411(a)(3)(D).
+
+      8.4. Top-Heavy Plan Maximum Allocations. Effective for Plan Years
+beginning before January 1, 2000, if the Plan is a Super Top-Heavy Plan, or if
+the Plan is a Top-Heavy Plan which fails to satisfy the additional minimum
+allocation requirements under Section 8.3 hereof, the definitions of "defined
+contribution fraction" and "defined benefit fraction" as incorporated by
+reference in Section 5.4 will be modified as required under section 416 of the
+Code.
+
+
+                                       38
+<PAGE>
+                                  ARTICLE IX.
+                                    COMMITTEE
+
+      9.1. Committee. The Committee will be appointed by and serve at the
+discretion of the Board of Directors. The Committee will act by a majority of
+its members with minutes being recorded for each meeting. Such minutes will be
+made available to any member upon written request.
+
+      9.2. Authority and Responsibility of the Committee. The Committee will be
+the Plan "administrator" as such term is defined in section 3(16) of ERISA, and
+as such will have the following duties and responsibilities:
+
+            (a) to adopt and enforce such rules and regulations and prescribe
+the use of such forms as may be deemed necessary to carry out the provisions of
+the Plan;
+
+            (b) to maintain and preserve records relating to Participants,
+former Participants, and their Beneficiaries and Alternate Payees;
+
+            (c) to prepare and furnish to Participants, Beneficiaries and
+Alternate Payees all information and notices required under federal law or the
+provisions of this Plan;
+
+            (d) to prepare and file or publish with the Secretary of Labor, the
+Secretary of the Treasury, their delegates and all other appropriate government
+officials all reports and other information required under law to be so filed or
+published;
+
+            (e) to provide directions to the Trustee with respect to methods of
+benefit payment, valuations at dates other than regular Valuation Dates and on
+all other matters where called for in the Plan or requested by the Trustee;
+
+            (f) to determine all questions of the eligibility of Employees and
+of the status of rights of Participants, Beneficiaries and Alternate Payees, to
+make factual determinations, to construe the provisions of the Plan, to correct
+defects therein and to supply omissions thereto;
+
+            (g) to engage assistants and professional advisers;
+
+            (h) to arrange for bonding, if required by law;
+
+            (i) to provide procedures for determination of claims for benefits
+and to establish rules, not inconsistent with the provisions or purposes of the
+Plan, as it may deem necessary or desirable for the proper administration of the
+Plan or transaction of its business;
+
+            (j) to determine whether any domestic relations order constitutes a
+QDRO and to take such action as the Committee deems appropriate in light of such
+domestic relations order;
+
+            (k) to make such determinations as are required pursuant to the
+provisions of Sections 7.3 hereof;
+
+
+                                       39
+<PAGE>
+            (l) to retain records on elections and waivers by Participants,
+their spouses and their Beneficiaries and Alternate Payees;
+
+            (m) to perform such other functions and duties as are set forth in
+the Plan that are not specifically given to another Named Fiduciary;
+
+            (n) to monitor the performance of various Investment Funds;
+
+            (o) to appoint the Trustee and, at least once during each Plan Year,
+to review the Trustee's performance;
+
+            (p) to approve and amend the Trust Agreement;
+
+            (q) to terminate the Trust Agreement and settle the account of the
+Trustee and to remove the Trustee and, upon such removal or upon the resignation
+of the Trustee, to appoint a successor;
+
+            (r) to appoint an Investment Manager(s) (or to refrain from such
+appointment), to monitor the performance of the Investment Manager(s) so
+appointed, to terminate such appointment and, upon such termination or upon
+resignation of the Investment Manager(s), to appoint a successor, to amend the
+separate agreement(s) which will be entered into with the Investment Manager(s)
+and either increase or decrease the portion of the Trust Fund which will be
+managed by the Investment Manager(s);
+
+            (s) to establish, revise from time to time, and communicate to the
+Trustee and/or Investment Manager(s), a funding policy and method for the Plan;
+and
+
+            (t) to ensure that an independent qualified public accountant
+examines the Trustee's accounts and records as of the close of each Plan Year
+and renders an opinion.
+
+      9.3. Reporting and Disclosure. The Committee will keep all individual and
+group records relating to Plan Participants, Beneficiaries and Alternate Payees,
+and all other records necessary for the proper operation of the Plan. Such
+records will be made available to the Employer and to each Participant,
+Beneficiary and Alternate Payee for examination during normal business hours
+except that a Participant, Beneficiary or Alternate Payee will examine only such
+records as pertain exclusively to the examining Participant, Beneficiary or
+Alternate Payee and those records and documents relating to all Participants
+generally. The Committee will prepare and will file as required by law or
+regulation all reports, forms, documents and other items required by ERISA, the
+Code, and every other relevant statute, each as amended, and all regulations
+thereunder. This provision will not be construed as imposing upon the Committee
+the responsibility or authority for the preparation, preservation, publication
+or filing of any document required to be prepared, preserved or filed by the
+Trustee or by any other Named Fiduciary to whom such responsibilities are
+delegated by law or by this Plan.
+
+      9.4. Construction of the Plan. The Committee will take such steps as are
+considered necessary and appropriate to remedy any inequity that results from
+incorrect information received or communicated in good faith or as the
+consequence of an administrative error. The Committee will have full
+discretionary power and authority to make factual determinations, to
+
+                                       40
+<PAGE>
+interpret the Plan, to make benefit eligibility determinations, and to determine
+all questions arising in the administration, interpretation and application of
+the Plan. The Committee will correct any defect, reconcile any inconsistency,
+resolve any ambiguity or supply any omission with respect to the Plan. All such
+corrections, reconciliations, interpretations and completions of Plan provisions
+will be final, binding and conclusive upon the parties, including the Employer,
+the Employees, their families, dependents, Beneficiaries and any Alternate
+Payees.
+
+      9.5. Compensation of the Committee. The Committee will serve without
+compensation for its services as such.
+
+
+                                       41
+<PAGE>
+                                   ARTICLE X.
+                     ALLOCATION AND DELEGATION OF AUTHORITY
+
+      10.1. Authority and Responsibilities of the Committee. The Committee will
+have the authority and responsibilities imposed by Article X hereof. With
+respect to the said authority and responsibility, the Committee will be a "Named
+Fiduciary," and as such, will have no authority and responsibility other than as
+granted in the Plan, or as imposed by law.
+
+      10.2. Authority and Responsibilities of the Trustee. The Trustee will be
+the "Named Fiduciary" with respect to those powers and duties set forth in the
+Trust Agreement. The Trustee will keep complete and accurate accounts of all of
+the assets of, and the transactions involving, the Trust Fund. All such accounts
+will be open to inspection by the Committee during normal business hours.
+
+      10.3. Limitations on Obligations of Named Fiduciaries. No Named Fiduciary
+will have authority or responsibility to deal with matters other than as
+delegated to it under this Plan, under the Trust Agreement, or by operation of
+law. Except as provided by section 405 of ERISA, a Named Fiduciary will not in
+any event be liable for breach of fiduciary responsibility or obligation by
+another fiduciary (including Named Fiduciaries) if the responsibility or
+authority for the act or omission deemed to be a breach was not within the scope
+of the said Named Fiduciary's authority or delegated responsibility. The
+determination of any Named Fiduciary as to any matter involving its
+responsibilities hereunder will be conclusive and binding on all persons.
+
+      10.4. Designation and Delegation. Each Named Fiduciary may designate other
+persons to carry out such of its responsibilities hereunder for the operation
+and administration of the Plan as it deems advisable and delegate to the persons
+so designated such of its powers as it deems necessary to carry out such
+responsibilities. Such designation and delegation will be subject to such terms
+and conditions as the Named Fiduciary deems necessary or proper. Any action or
+determination made or taken in carrying out responsibilities hereunder by the
+persons so designated by the Named Fiduciary will have the same force and effect
+for all purposes as if such action or determination had been made or taken by
+such Named Fiduciary.
+
+      10.5. Reports to Board of Directors. As deemed necessary or proper, the
+Named Fiduciaries, or an appropriate committee thereof, will report to the Board
+of Directors on the operation and administration of the Plan.
+
+      10.6. Engagement of Assistants and Advisers. Any Named Fiduciary will have
+the right to hire, at the expense of the Trust Fund, such professional
+assistants and consultants as it, in its sole discretion, deems necessary or
+advisable.
+
+      10.7. Payment of Expenses. The expenses incurred by the Named Fiduciaries
+in connection with the operation of the Plan, including but not limited to, the
+expenses incurred by reason of the engagement of professional assistants and
+consultants, will be expenses of the Plan and will be payable from the Trust
+Fund at the direction of the Committee. The Company will have the option, but
+not the obligation, to pay any such expenses, in whole or in part, and by so
+doing, to relieve the Trust Fund from the obligation of bearing such expenses.
+Payment of any
+
+                                       42
+<PAGE>
+such expenses by the Company on any occasion will not bind the Company to
+thereafter pay any similar expenses.
+
+      10.8. Indemnification. Each person who is a Named Fiduciary or a member of
+any committee or board comprising a Named Fiduciary (other than the Trustee)
+will be indemnified by the Company against costs, expenses and liabilities
+(other than amounts paid in settlement to which the Company does not consent)
+reasonably incurred by him in connection with any action to which he may be a
+party by reason of his service as a Named Fiduciary except in relation to
+matters as to which he will be adjudged in such action to be personally guilty
+of gross negligence or willful misconduct in the performance of his duties. The
+foregoing right to indemnification will be in addition to such other rights as
+the person may enjoy as a matter of law or by reason of insurance coverage of
+any kind, but will not extend to costs, expenses and/or liabilities otherwise
+covered by insurance or that would be so covered by any insurance then in force
+if such insurance contained a waiver of subrogation. Rights granted hereunder
+will be in addition to and not in lieu of any rights to indemnification to which
+the person may be entitled pursuant to the bylaws of the Company. Service as a
+Named Fiduciary will be deemed in partial fulfillment of the person's function
+as an employee, officer and/or director of the Company, if he serves in that
+capacity as well as in the role of Named Fiduciary.
+
+      10.9. Bonding. The Committee will arrange for such bonding as is required
+by law for persons who are Employees and/or members of the Board of Directors,
+but no bonding in excess of the amount required by law will be considered
+required by the Plan. The Company will obtain, and pay the expense of, any bond
+required by law.
+
+
+                                       43
+<PAGE>
+                                  ARTICLE XI.
+                                CLAIMS PROCEDURES
+
+      11.1. Application for Benefits. Each Participant, Beneficiary or Alternate
+Payee believing himself or herself eligible for benefits under the Plan will
+apply for such benefits by completing and filing with the Committee an
+application for benefits on a form supplied by the Committee. Before the date on
+which benefit payments commence, each such application must be supported by such
+information and data as the Committee deems relevant and appropriate. Evidence
+of age, marital status (and, in the appropriate instances, health, death or
+Disability), and location of residence will be required of all applicants for
+benefits. In the event a Participant, Beneficiary or Alternate Payee fails to
+apply to the Committee at least sixty (60) days prior to the applicable required
+distribution date described in Section 7.2, the Committee will make diligent
+efforts to locate such Participant, Beneficiary or Alternate Payee and obtain
+such application. In the event the Participant, Beneficiary or Alternate Payee
+fails to make application by the applicable date described in Section 7.2, the
+Committee will commence distribution as of such date without such application;
+provided, however, that in the event the Committee fails to locate the
+Participant, Beneficiary or Alternate Payee so that distribution as of the
+applicable date described in Section 7.2 is not possible, payment will be made
+no later than sixty (60) days after the date on which the Participant,
+Beneficiary or Alternate Payee is located.
+
+      11.2. Appeals of Denied Claims for Benefits. In the event that any claim
+for benefits is denied in whole or in part, the Participant, Beneficiary or
+Alternate Payee whose claim has been so denied will be notified of such denial
+in writing by the Committee. The notice advising of the denial will be furnished
+to the Participant, Beneficiary or Alternate Payee within ninety (90) days of
+receipt of the benefit claim by the Committee, unless special circumstances
+require an extension of time to process the claim. If an extension is required,
+the Committee will provide notice of the extension prior to the termination of
+the ninety (90) day period. In no event may the extension exceed a total of one
+hundred eighty (180) days from the date of the original receipt of the claim.
+The notice advising of the denial will specify the reason or reasons for denial,
+make specific reference to pertinent Plan provisions, describe any additional
+material or information necessary for the claimant to perfect the claim
+(explaining why such material or information is needed), and will advise the
+Participant, Beneficiary or Alternate Payee, as the case may be, of the
+procedure for the appeal of such denial, including the time limits applicable
+for such procedure, including a statement of the claimant's right to bring a
+civil action under section 502(a) of ERISA following an adverse benefit
+determination on appeal. All appeals will be made by the following procedure:
+
+            (a) The Participant, Beneficiary or Alternate Payee whose claim has
+been denied will file with the Committee a notice of desire to appeal the
+denial. Such notice will be filed within sixty (60) days of notification by the
+Committee of claim denial, will be made in writing, and will set forth all of
+the facts upon which the appeal is based. Appeals not timely filed will be
+barred. The claimant or the claimant's authorized representative may examine the
+Plan and obtain, upon request and without charge, copies of all information
+relevant to the claimant's appeal.
+
+
+                                       44
+<PAGE>
+            (b) The Committee will consider the merits of the claimant's written
+presentations, the merits of any facts or evidence in support of the denial of
+benefits, and such other facts and circumstances as the Committee will deem
+relevant.
+
+            (c) The Committee will ordinarily render a determination upon the
+appealed claim within sixty (60) days after its receipt. However, in special
+circumstances the Committee may extend the response period for up to an
+additional sixty (60) days, in which event it will notify the claimant in
+writing prior to commencement of the extension. Notwithstanding the foregoing,
+if the Committee holds regularly scheduled meetings at least quarterly to review
+such appeals, a individual's request for review will be acted upon at the
+meeting immediately following the receipt of the individual's request unless
+such request is filed within thirty (30) days preceding such meeting. In such
+instance, the decision will be made no later than the date of the second meeting
+following the Committee's receipt of such request. If special circumstances
+(such as a need to hold a hearing) require a further extension of time for
+processing a request, a decision will be rendered not later than the third
+meeting of the Committee following the receipt of such request for review and
+written notice of the extension will be furnished to the individual prior to the
+commencement of the extension. Any determination rendered by the Committee will
+be final and binding upon all parties.
+
+            (d) The decision on review shall be written in a manner calculated
+to be understood by the claimant. Such notice shall include the specific reasons
+for the decision, specific references to the pertinent Plan provisions on which
+the decision is based, the claimant's right to receive, upon request and free of
+charge, reasonable access to, and copies of, all documents, records and other
+information relevant to the claim for benefits, and the claimant's right to
+bring a civil action under section 502(a) of ERISA.
+
+
+                                       45
+<PAGE>
+                                  ARTICLE XII.
+                            AMENDMENT AND TERMINATION
+
+      12.1. AMENDMENT.
+
+            (a) The Plan may be amended or otherwise modified by the Board of
+Directors, or the Committee to the extent authorized in accordance with
+Subsection (c). Copies of any such amendment or modification shall be sent to
+the governing body of each Employer. It shall be deemed each Employer consented
+to such amendment or modification unless its governing body delivers written
+notice to the contrary to the Board of Directors, the Committee and the Trustee
+within 30 days of its receipt of such amendment or modification.
+
+            (b) No amendment or modification shall:
+
+                  (1) permit any part of the Trust Fund, other than such part as
+is required to pay taxes, administrative expenses and expenses incurred in
+effectuating such changes, to be used for or diverted to purposes other than the
+exclusive benefit of the Participants or Beneficiaries and/or persons entitled
+to benefits under the Plan or permit any portion of the Trust Fund to revert to
+or become the property of the Company;
+
+                  (2) have the effect of reducing the Account of any Participant
+as of the date of such amendment or deprive any Participant or Beneficiary of a
+benefit accrued and payable; or
+
+                  (3) eliminate any option which constitutes a valuable right
+available to a Participant with respect to benefits previously accrued to the
+extent the Participant satisfied, either before or after the amendment, the
+conditions for the form of payment except as otherwise permitted by applicable
+law and regulations.
+
+            (c) The Committee may amend or modify the Plan in order to bring the
+Plan into compliance with applicable law or regulations, provided said amendment
+or modification does not have a material effect on the estimated cost of
+maintaining the Plan and does not create a new class of benefits or
+entitlements.
+
+      12.2. PLAN TERMINATION.
+
+            (a) The Company expects to continue this Plan and the corresponding
+Trust indefinitely, but reserves the right to terminate in whole or in part
+either or both at any time by resolution of the Board of Directors, without the
+consent of any Participant, Alternate Payee, Surviving Spouse or Beneficiary.
+
+            (b) Any termination of the Plan will become effective as of the date
+designated by the Board of Directors. Except as expressly provided elsewhere in
+the Plan, prior to the satisfaction of all liabilities with respect to the
+benefits provided under this Plan, no termination will cause any part of the
+funds or assets held to provide benefits under the Plan to be used other than
+for the benefit of Participants and their Beneficiaries or Alternate Payees or
+to meet the administrative expenses of the Plan. Upon termination or partial
+termination of the Plan, or upon complete discontinuance of contributions, the
+rights of all affected persons to benefits accrued to
+
+                                       46
+<PAGE>
+the date of such termination will be nonforfeitable. Upon termination of the
+Plan, Accounts will be distributed in accordance with applicable law.
+
+      12.3. MERGERS AND CONSOLIDATIONS OF PLANS. Pursuant to action by the Board
+of Directors, the Plan may be merged or consolidated with, or a portion of its
+assets and liabilities may be transferred to, another qualified plan. In the
+event of any merger or consolidation with, or transfer of assets or liabilities
+to, any other plan, each Participant will have a benefit in the surviving or
+transferee plan if such plan were then terminated immediately after such merger,
+consolidation or transfer that is equal to or greater than the benefit he would
+have had immediately before such merger, consolidation or transfer in the plan
+in which he was then a participant had such plan been terminated at that time.
+For the purposes hereof, former Participants, Beneficiaries and Alternate Payees
+will be considered Participants.
+
+
+                                       47
+<PAGE>
+                                 ARTICLE XIII.
+                             PARTICIPATING COMPANIES
+
+      13.1. ADOPTION BY OTHER ENTITIES. Any corporation or other business entity
+may, by resolution of its own governing body, and with the approval of the Board
+of Directors, adopt the Plan and thereby become an Employer. Notwithstanding the
+adoption of the Plan by other entities, the Plan will be administered as a
+single plan and all Plan assets will be available to pay benefits to all
+Participants under the Plan.
+
+      13.2. ALTERNATIVE PROVISIONS. No Employer may adopt alternative provisions
+as to itself or its Employees. Upon request of the governing body of an
+Employer, the Board of Directors may amend the Plan with respect to the
+Employees of such Employer provided that any change will only apply if any
+inequity resulting from such changed Plan provisions is not found to be
+discriminatory on behalf of Highly Compensated Employees.
+
+      13.3. RIGHT TO WITHDRAW (PLAN SPINOFF). Each Employer having adopted the
+Plan shall have the right as of the last day of any month to withdraw from the
+Plan and/or Trust Agreement by delivering to the Board of Directors, the
+Committee and the Trustee written notification from its own governing body of
+such action and setting forth the date as of which the withdrawal shall be
+effective. The date specified in such written notice shall be deemed a Valuation
+Date.
+
+      13.4. Procedure Upon Withdrawal.
+
+            (a) If an Employer withdraws from the Plan and Trust Agreement as of
+the result of its adoption of a different plan, the Trustee shall segregate the
+portion of the Trust Fund attributable to the Accounts of Participants employed
+solely by such Employer.
+
+      As soon as administratively feasible following receipt of a favorable
+letter of determination from the Internal Revenue Service with regard to the
+adoption of such successor plan, the Trustee shall transfer the segregated
+assets to the insurance carrier or fiduciary designated by the Employer as the
+agency through which the benefits of such successor plan are to be disbursed.
+
+            (b) If an Employer withdraws from the Plan and Trust Agreement as
+the result of its adoption of a resolution to terminate its participation in the
+Plan and to distribute assets to its Employees who are Participants, the Trustee
+shall segregate the portion of the Trust Fund attributable to the Accounts of
+the Participants who are employed solely by such Employer, and the termination
+provisions of Article XII shall apply with respect to such segregated assets.
+
+                                       48
+<PAGE>
+                                  ARTICLE XIV.
+                            MISCELLANEOUS PROVISIONS
+
+
+      14.1. NONALIENATION OF BENEFITS.
+
+            (a) Except as provided in Section 14.1(b), none of the payments,
+benefits or rights of any Participant, Alternate Payee or Beneficiary will be
+subject to any claim of any creditor, and, in particular, to the fullest extent
+permitted by law, all such payments, benefits and rights will be free from
+attachment, garnishment, trustee's process, or any other legal or equitable
+process available to any creditor of such Participant, Alternate Payee or
+Beneficiary. Except as provided in Section 14.1(b), no Participant, Alternate
+Payee or Beneficiary will have the right to alienate, anticipate, commute,
+pledge, encumber or assign any of the benefits or payments which he may expect
+to receive, contingently or otherwise, under the Plan, except the right to
+designate a Beneficiary or Beneficiaries as hereinabove provided.
+
+            (b) Compliance with the provisions and conditions of (1) any QDRO,
+(2) any federal tax levy made pursuant to section 6331 of the Code, or (3)
+subject to the provisions of section 401(a)(13) of the Code, a judgment, order,
+decree or settlement agreement between the Participant and the Secretary of
+Labor or the Pension Benefit Guaranty Corporation relating to a violation (or an
+alleged violation) of part 4 of subtitle B of title I of ERISA, will not be
+considered a violation of this provision.
+
+      14.2. NO CONTRACT OF EMPLOYMENT. Neither the establishment of the Plan,
+nor any modification thereof, nor the creation of any fund, trust or account,
+nor the payment of any benefits will be construed as giving any Participant or
+Employee, or any person whomsoever, the right to be retained in the service of
+the Employer, and all Participants and other Employees will remain subject to
+discharge to the same extent as if the Plan had never been adopted.
+
+      14.3. SEVERABILITY OF PROVISIONS. If any provision of the Plan will be
+held invalid or unenforceable, such invalidity or unenforceability will not
+affect any other provisions hereof, and the Plan will be construed and enforced
+as if such provisions had not been included.
+
+      14.4. HEIRS, ASSIGNS AND PERSONAL REPRESENTATIVES. This Plan will be
+binding upon the heirs, executors, administrators, successors and assigns of the
+parties, including each Participant, Beneficiary and Alternate Payee, present
+and future (except that no successor to the Employer will be considered a Plan
+sponsor unless that successor adopts the Plan).
+
+      14.5. HEADINGS AND CAPTIONS. The headings and captions herein are provided
+for reference and convenience only, will not be considered part of the Plan, and
+will not be employed in the construction of the Plan.
+
+      14.6. GENDER AND NUMBER. Except where otherwise clearly indicated by
+context, the masculine and the neuter will include the feminine and the neuter,
+the singular will include the plural, and vice-versa.
+
+
+                                       49
+<PAGE>
+      14.7. CONTROLLING LAW. This Plan will be construed and enforced according
+to the laws of the State of New Jersey to the extent not preempted by Federal
+law, which will otherwise control.
+
+      14.8. FUNDING POLICY. The Committee will establish, and communicate to the
+Trustee, a funding policy and method consistent with the objectives of the Plan
+and of the Trust Fund.
+
+      14.9. TITLE TO ASSETS; SOURCE OF BENEFITS. No person will have any right
+to, or interest in, any assets of the Trust Fund, except as provided from time
+to time under the Plan, and then only to the extent of the benefits payable
+under the Plan to such person or out of the assets of the Trust Fund. All
+payments of benefits as provided for in the Plan will be made from the assets of
+the Trust Fund, and neither the Employer nor any other person will be liable
+therefor in any manner.
+
+      14.10. PAYMENTS TO MINORS, ETC. Any benefit payable to or for the benefit
+of a minor, an incompetent person or other person incapable of receipting
+therefor will be deemed paid when paid to such person's guardian or to the party
+providing or reasonably appearing to provide for the care of such person, and
+such payment will fully discharge the Trustee, the Committee, the Employers and
+all other parties with respect thereto.
+
+      14.11. RELIANCE ON DATA AND CONSENTS. The Employers, the Trustee, the
+Committee, all fiduciaries with respect to the Plan, and all other persons or
+entities associated with the operation of the Plan, the management of its
+assets, and the provision of benefits thereunder, may reasonably rely on the
+truth, accuracy and completeness of all data provided by any Participant,
+Beneficiary or Alternate Payee, including, without limitation, data with respect
+to age, health and marital status. Furthermore, the Employers, the Trustee, the
+Committee and all fiduciaries with respect to the Plan may reasonably rely on
+all consents, elections and designations filed with the Plan or those associated
+with the operation of the Plan and its corresponding trust by any Participant,
+the spouse of any Participant, any Beneficiary of any Participant, any Alternate
+Payee of any Participant or the representatives of such persons without duty to
+inquire into the genuineness of any such consent, election or designation. None
+of the aforementioned persons or entities associated with the operation of the
+Plan, its assets and the benefits provided under the Plan will have any duty to
+inquire into any such data, and all may rely on such data being current to the
+date of reference, it being the duty of the Participants, spouses of
+Participants, Beneficiaries and Alternate Payees to advise the appropriate
+parties of any change in such data.
+
+      14.12. LOST PAYEES. A benefit will be deemed forfeited, and used to reduce
+future Matching Contributions made pursuant to Section 4.2 by the Employer that
+last employed the Participant, if the Committee is unable to locate a
+Participant, a Beneficiary or an Alternate Payee to whom payment is due;
+provided, however, that such benefit will be reinstated if a claim is made by
+the party to whom properly payable.
+
+      14.13. NO WARRANTIES. Neither the Board of Directors nor its members nor
+the Committee nor the Company nor any Affiliated Company nor the Trustee nor any
+Employer warrants or represents in any way that the value of each Participant's
+Accounts will increase or will not decrease. The Participant assumes all risk in
+connection with any change in values.
+
+
+                                       50
+<PAGE>
+      14.14. NOTICES. Each Participant, Beneficiary and Alternate Payee will be
+responsible for furnishing the Committee with the current and proper address for
+the mailing of notices, reports and benefit payments. Any notice required or
+permitted to be given will be deemed given if directed to the person to whom
+addressed at such address and mailed by regular United States mail, first-class
+and prepaid. If any check mailed to such address is returned as undeliverable to
+the addressee, mailing of checks will be suspended until the Participant,
+Beneficiary or Alternate Payee furnishes the proper address. This provision will
+not be construed as requiring the mailing of any notice or notification if the
+regulations issued under ERISA deem sufficient notice to be given by the posting
+of notice in appropriate places, or by any other publication device.
+
+Executed this 20th day of March, 2002.
+
+                                         K-Tron International, Inc.
+
+
+                                         By: /s/ Edward B. Cloues, II
+                                            --------------------------
+
+                                         Title: Chairman and CEO
+                                                ----------------------
+
+
+
+Attest: /s/ Mary Vaccara
+       -----------------
+
+                                       51
+
+</TEXT>
+</DOCUMENT>

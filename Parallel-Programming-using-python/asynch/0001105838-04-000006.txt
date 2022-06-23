@@ -1,0 +1,4446 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BSMq9Sq+tEB51LL3XOkaUnr54sqUs3u9/uTK4gFiYv5suXlSemSXbo7uNuoszmsz
+ mPxkW9Oqfxmjt2UmBQ/vkQ==
+
+<SEC-DOCUMENT>0001105838-04-000006.txt : 20040213
+<SEC-HEADER>0001105838-04-000006.hdr.sgml : 20040213
+<ACCEPTANCE-DATETIME>20040212182655
+ACCESSION NUMBER:		0001105838-04-000006
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20040213
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		04593437
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROBOTTI ROBERT
+		CENTRAL INDEX KEY:			0001105838
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ROBOTTI & COMPANY, INC
+		STREET 2:		52 VANDERBILT AVENUE, SUITE 503
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-986-4800
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>ktii13ga3_robotti12312003.htm
+<DESCRIPTION>K-TRON INDUSTRIES, INC SC 13G/A#3 - R. ROBOTTI 12/31/2003
+<TEXT>
+<html>
+<head>
+<title>KTII Schedule13G/A#3 - Robert E. Robotti 12/31/2003</title>
+</head>
+<body bgcolor="white" link="blue" vlink="purple">
+<div>
+<p align="center"><b><font size="3" face="Times New Roman"><br />
+&nbsp;<br />
+ </font></b></p>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="637">
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">UNITED STATES</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">Washington, D.C. 20549</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom"></td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">SCHEDULE&nbsp;13G</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">Under the Securities Exchange Act of 1934</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">(Amendment No. 3)*</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom"></td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom"></td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="bottom"></td>
+<td colspan="4" height="15" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">K-Tron International, Inc.</font></b></p>
+</td>
+<td height="15" valign="bottom"></td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="bottom" bgcolor="black"></td>
+</tr>
+
+<tr height="22">
+<td colspan="6" height="22" valign="bottom">
+<p align="center"><font size="3" face="Times New Roman">(Name of Issuer)</font></p>
+</td>
+</tr>
+
+<tr height="22">
+<td colspan="6" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="22">
+<td height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="4" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">Common Stock - $0.01 Par Value</font></b></p>
+</td>
+<td height="22" valign="bottom"></td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="bottom" bgcolor="black"></td>
+</tr>
+
+<tr height="22">
+<td colspan="6" height="22" valign="bottom">
+<p align="center"><font size="3" face="Times New Roman">(Title of Class of Securities)</font></p>
+</td>
+</tr>
+
+<tr height="22">
+<td colspan="6" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="22">
+<td colspan="2" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New
+Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></p>
+</td>
+<td height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">482730 10 8</font></b></p>
+</td>
+<td colspan="3" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New
+Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="2" height="1" valign="bottom"></td>
+<td height="1" valign="bottom" bgcolor="black"></td>
+<td colspan="3" height="1" valign="bottom"></td>
+</tr>
+
+<tr height="22">
+<td colspan="2" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td height="22" valign="bottom">
+<p align="center"><font size="3" face="Times New Roman">(CUSIP Number)</font></p>
+</td>
+<td colspan="3" height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="22">
+<td colspan="2" height="22" valign="bottom"></td>
+<td height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="3" height="22" valign="bottom"></td>
+</tr>
+
+<tr height="22">
+<td colspan="2" height="22" valign="bottom"></td>
+<td height="22" valign="bottom">
+<p align="center"><b><font size="3" face="Times New Roman">&nbsp;December 31, 2003</font></b></p>
+</td>
+<td colspan="3" height="22" valign="bottom"></td>
+</tr>
+
+<tr height="1">
+<td height="1" valign="bottom"></td>
+<td colspan="3" height="1" valign="bottom" bgcolor="black"></td>
+<td colspan="2" height="1" valign="bottom"></td>
+</tr>
+
+<tr height="22">
+<td colspan="6" height="22" valign="bottom">
+<p align="center"><font size="3" face="Times New Roman">(Date of Event Which Requires Filing of this Statement)</font></p>
+</td>
+</tr>
+</table>
+</div>
+
+<p><font size="3" face="Times New Roman">Check the appropriate box to designate the rule pursuant to which this Schedule is filed:</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+<p align="right"><font size="3" face="Times New Roman">[</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;x</font></b></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">]</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Rule 13d-1(b)</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="3" face="Times New Roman">[</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">]</font></p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Rule 13d-1(c)</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="3" face="Times New Roman">[</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">]</font></p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Rule 13d-1(d)</font></p>
+</td>
+</tr>
+</table>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="672">
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">*The remainder of this cover page shall be filled out for a reporting person's initial filing on this</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">form with respect to the subject class of securities, and for any subsequent amendment containing</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">information which would alter the disclosures provided in a prior cover page.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">The information required in the remainder of this cover page shall not be deemed to be "filed" for</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">liabilities of that section of the Act but shall be subject to all other provisions of the Act (however,</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">see the Notes).</font></p>
+</td>
+</tr>
+</table>
+
+<font size="3" face="Times New Roman"><br clear="all" />
+</font>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="10" height="13" valign="top"></td>
+<td height="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="2" height="13" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p><font size="3" face="Times New Roman">CUSIP No.</font></p>
+</td>
+<td colspan="4" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 482730 10 8</p>
+</td>
+<td colspan="3" valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Page 2 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">1.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Names of Reporting Persons</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top"></td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">I.R.S. Identification Nos. of above persons (entities only)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">2.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check the Appropriate Box if a Member of a Group*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> [X]</p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">3.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">SEC Use Only</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">4.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Citizenship or Place of Organization</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;United States</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Number of</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">5.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Voting Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Shares</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Beneficially</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">6.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Voting Power:</font></b> 233,070</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Owned by</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Each</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">7.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Dispositive Power:</font></b> -0-&nbsp;</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Reporting</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Person With</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">8.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Dispositive Power:</font></b> 233,070&nbsp;</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">9.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Aggregate Amount Beneficially Owned by Each Reporting Person</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">233,070</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">10.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check if the Aggregate Amount in Row (9) Excludes Certain Shares*</font></b> [&nbsp; ]</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">11.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Percent of Class Represented by Amount in Row (9)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">9.5%</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">12.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Type of Reporting Person*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> IN</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="16">
+<td colspan="13" height="16" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;*SEE INSTRUCTIONS BEFORE FILLING OUT</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td colspan="13" height="9" valign="top">
+<p align="center"><font size="3" face="Times New Roman">INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7</font></p>
+</td>
+</tr>
+
+<tr height="13">
+<td colspan="13" height="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.</font></p>
+</td>
+</tr>
+
+<tr height="13">
+<td colspan="13" height="13" valign="top"></td>
+</tr>
+</table>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<font size="3" face="Times New Roman"><br clear="all" />
+</font>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="10" height="13" valign="top"></td>
+<td height="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="2" height="13" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p><font size="3" face="Times New Roman">CUSIP No.</font></p>
+</td>
+<td colspan="4" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 482730 10 8</p>
+</td>
+<td colspan="3" valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Page 3 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">1.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Names of Reporting Persons</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top"></td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company, LLC</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">I.R.S. Identification Nos. of above persons (entities only)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">65-1191188</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">2.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check the Appropriate Box if a Member of a Group*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> [X]</p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">3.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">SEC Use Only</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">4.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Citizenship or Place of Organization</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> New York</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Number of</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">5.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Voting Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Shares</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Beneficially</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">6.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Voting Power:</font></b> 3,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Owned by</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Each</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">7.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Dispositive Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Reporting</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Person With</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">8.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Dispositive Power:</font></b> 3,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">9.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Aggregate Amount Beneficially Owned by Each Reporting Person</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 3,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">10.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check if the Aggregate Amount in Row (9) Excludes Certain Shares*</font></b> [&nbsp; ]</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">11.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Percent of Class Represented by Amount in Row (9)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 0.2%</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">12.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Type of Reporting Person*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">CO, BD</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;*SEE INSTRUCTIONS BEFORE FILLING OUT</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top"></td>
+</tr>
+</table>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+
+<font size="3" face="Times New Roman"><br clear="all" />
+</font>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="10" height="13" valign="top"></td>
+<td height="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="2" height="13" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p><font size="3" face="Times New Roman">CUSIP No.</font></p>
+</td>
+<td colspan="4" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 482730 10 8</p>
+</td>
+<td colspan="3" valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Page 4 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">1.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Names of Reporting Persons</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top"></td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company Advisors, LLC</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">I.R.S. Identification Nos. of above persons (entities only)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">65-1191184</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">2.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check the Appropriate Box if a Member of a Group*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> [X]</p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">3.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">SEC Use Only</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">4.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Citizenship or Place of Organization</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> New York</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Number of</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">5.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Voting Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Shares</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Beneficially</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">6.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Voting Power:</font></b> 154,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Owned by</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Each</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">7.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Dispositive Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Reporting</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Person With</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">8.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Dispositive Power:</font></b> 154,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">9.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Aggregate Amount Beneficially Owned by Each Reporting Person</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 154,885</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">10.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check if the Aggregate Amount in Row (9) Excludes Certain Shares*</font></b> [&nbsp; ]</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">11.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Percent of Class Represented by Amount in Row (9)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">6.3%</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">12.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Type of Reporting Person*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">CO, IA</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;*SEE INSTRUCTIONS BEFORE FILLING OUT</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top"></td>
+</tr>
+</table>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="10" height="13" valign="top"></td>
+<td height="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="2" height="13" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p><font size="3" face="Times New Roman">CUSIP No.</font></p>
+</td>
+<td colspan="4" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 482730 10 8</p>
+</td>
+<td colspan="3" valign="top"></td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">Page 5 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">1.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Names of Reporting Persons</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top"></td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">The Ravenswood Investment Company, L.P.</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">I.R.S. Identification Nos. of above persons (entities only)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">11-2474002</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">2.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check the Appropriate Box if a Member of a Group*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> [X]</p>
+</td>
+<td colspan="9" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">3.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">SEC Use Only</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">4.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Citizenship or Place of Organization</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> New York</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Number of</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">5.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Voting Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Shares</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Beneficially</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">6.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Voting Power:</font></b> 74,300</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Owned by</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Each</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">7.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Sole Dispositive Power:</font></b> -0-</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="6" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Reporting</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p><font size="3" face="Times New Roman">Person With</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td valign="top">
+<p align="center"><font size="2" face="Times New Roman">8.</font></p>
+</td>
+<td colspan="5" valign="top">
+<p><b><font size="3" face="Times New Roman">Shared Dispositive Power:</font></b> 74,300</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">9.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Aggregate Amount Beneficially Owned by Each Reporting Person</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 74,300</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">10.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Check if the Aggregate Amount in Row (9) Excludes Certain Shares*</font></b> [&nbsp; ]</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">11.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Percent of Class Represented by Amount in Row (9)</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">&nbsp;</font></b> 3.0%</p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr>
+<td colspan="13" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><font size="2" face="Times New Roman">12.</font></p>
+</td>
+<td valign="top">
+<p><font size="2" face="Times New Roman">&nbsp;</font></p>
+</td>
+<td colspan="11" valign="top">
+<p><b><font size="3" face="Times New Roman">Type of Reporting Person*</font></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td valign="top">
+<p><b><font size="2" face="Times New Roman">&nbsp;</font></b></p>
+</td>
+<td colspan="11" valign="top">
+<p><font size="3" face="Times New Roman">PN</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="13" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;*SEE INSTRUCTIONS BEFORE FILLING OUT</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="13" height="15" valign="top"></td>
+</tr>
+</table>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="4" height="13" valign="top">
+<p><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td height="13" valign="top"></td>
+<td height="13" valign="top">
+<p><font size="3" face="Times New Roman">Page 6 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="6" height="1" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><font size="3" face="Times New Roman">&nbsp;<b>Item 1(a).</b></font></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Name Of Issuer:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">K-Tron International, Inc.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="12">
+<td height="12" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 1(b).</font></b></p>
+</td>
+<td height="12" valign="top"></td>
+<td colspan="4" height="12" valign="top">
+<p><b><font size="3" face="Times New Roman">Address of Issuer's Principal Executive Offices:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Route 55 &amp; 553, P.O. Box 888, Pitman, New Jersey 08071-0888</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 2(a).</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Name of Persons Filing:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">This statement is filed by:</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">(i)</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robert E. Robotti ("Robotti"), a United States citizen; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">(ii)</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company, LLC ("Robotti LLC"), a New York corporation</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">and broker-dealer; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">(iii)</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company Advisors, LLC ("Robotti Advisors"), a New York</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">corporation and investment advisor; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">(iv)</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">The Ravenswood Investment Company, L.P. ("Ravenswood"), a New York limited partnership.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 2(b).</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Address of Principal Business Office or, if None, Residence:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="13">
+<td height="13" valign="top"></td>
+<td height="13" valign="top"></td>
+<td colspan="4" height="13" valign="top">
+<p><font size="3" face="Times New Roman">c/o Robotti &amp; Company, Incorporated</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">52 Vanderbilt Avenue, Suite 503</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">New York, New York 10017-3808</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 2(c).</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Citizenship:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td height="17" valign="top"></td>
+<td colspan="4" height="17" valign="top">
+<p><font size="3" face="Times New Roman">See Item 2(a)</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="12">
+<td height="12" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 2(d).</font></b></p>
+</td>
+<td height="12" valign="top"></td>
+<td colspan="4" height="12" valign="top">
+<p><b><font size="3" face="Times New Roman">Title of Class of Securities:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="12">
+<td height="12" valign="top"></td>
+<td height="12" valign="top"></td>
+<td colspan="4" height="12" valign="top">
+<p><font size="3" face="Times New Roman">Common Stock - $0.01 Par Value ("Security")</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 2(e).</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">CUSIP Number</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">482730 10 8</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="16">
+<td height="16" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 3.</font></b></p>
+</td>
+<td height="16" valign="top"></td>
+<td colspan="4" height="16" valign="top">
+<p><b><font size="3" face="Times New Roman">If this Statement is Filed Pursuant to Rule 13d-1(b), or 13d-2(b) or (c),</font></b></p>
+</td>
+</tr>
+
+<tr height="20">
+<td height="20" valign="top"></td>
+<td height="20" valign="top"></td>
+<td colspan="4" height="20" valign="top">
+<p><b><font size="3" face="Times New Roman">Check Whether the Person Filing is a:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="4" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[X]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o).</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c).</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(c)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Insurance company as defined in section 3(a)(19) of the Act (15</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">U.S.C. 78c).</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(d)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Investment company registered under section 8 of the Investment</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Company Act of 1940 (15 U.S.C. 80a-8).</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(e)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[X]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E);</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(f)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">An employee benefit plan or endowment fund in accordance with Rule</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">13d-1(b)(1)(ii)(F);</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(g)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">A parent holding company or control person in accordance with Rule 13d-</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">1(b)(1)(ii)(G);</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(h)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">A savings association as defined in Section 3(b) of the Federal Deposit</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Insurance Act (12 U.S.C. 1813);</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p align="center"><font size="3" face="Times New Roman">(i)</font></p>
+</td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">A church plan that is excluded from the definition of an investment</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">company under section 3(c)(14) of the Investment Company Act of 1940</font></p>
+
+<p><font size="3" face="Times New Roman">(15 U.S.C. 80a-3);</font></p>
+</td>
+</tr>
+</table>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="5" height="13" valign="top">
+<p><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="2" height="13" valign="top"></td>
+<td height="13" valign="top">
+<p><font size="3" face="Times New Roman">Page 7 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="8" height="1" valign="top"></td>
+</tr>
+
+<tr height="23">
+<td height="23" valign="top"></td>
+<td height="23" valign="top">
+<p><font size="3" face="Times New Roman">(j)</font></p>
+</td>
+<td colspan="2" height="23" valign="top">
+<p><font size="3" face="Times New Roman">[&nbsp; ]</font></p>
+</td>
+<td colspan="4" height="23" valign="top">
+<p><font size="3" face="Times New Roman">Group, in accordance with Rule 13d-1(b)(1)(ii)(J).</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="6" height="9" valign="top"></td>
+</tr>
+
+<tr height="20">
+<td height="20" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 4.</font></b></p>
+</td>
+<td height="20" valign="top"></td>
+<td colspan="6" height="20" valign="top">
+<p><b><font size="3" face="Times New Roman">Ownership</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="6" height="9" valign="top"></td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td height="17" valign="top">
+<p><font size="3" face="Times New Roman">(a)</font></p>
+</td>
+<td colspan="6" height="17" valign="top">
+<p><font size="3" face="Times New Roman">Robert E. Robotti shares beneficial ownership of 233,070 shares of the Security</font></p>
+</td>
+</tr>
+
+<tr height="19">
+<td height="19" valign="top"></td>
+<td height="19" valign="top"></td>
+<td colspan="6" height="19" valign="top">
+<p><font size="3" face="Times New Roman">through the following:</font></p>
+</td>
+</tr>
+
+<tr height="17">
+<td rowspan="11" valign="top"></td>
+<td rowspan="11" valign="top"></td>
+<td height="17" valign="top"></td>
+<td colspan="5" height="17" valign="top">
+<p><font size="3" face="Times New Roman">his ownership of Robotti LLC, a broker-dealer registered under Section 15&nbsp;</font></p>
+</td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td colspan="5" height="17" valign="top">
+<p><font size="3" face="Times New Roman">of the Securities Exchange Act of 1934, by virtue of the investment</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">discretion Robotti LLC has over its brokerage customers, which holds an</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">aggregate of 3,885 shares of the Security; and</font></p>
+</td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td colspan="5" height="17" valign="top">
+<p><font size="3" face="Times New Roman">his ownership of Robotti Advisors, an investment advisor in accordance</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td colspan="5" height="9" valign="top">
+<p><font size="3" face="Times New Roman">with Rule 13d-1(b)(1)(ii)(E), by virtue of the investment discretion</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robotti Advisors has over the accounts of its advisory clients, which</font></p>
+</td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td colspan="5" height="17" valign="top">
+<p><font size="3" face="Times New Roman">hold an aggregate of 154,885 shares of the Security; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">his position as Managing Member of Ravenswood Management Company,</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">L.L.C. ("Ravenswood Management"), which serves as the General Partner</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td colspan="5" height="15" valign="top">
+<p><font size="3" face="Times New Roman">of Ravenswood.&nbsp; Ravenswood owns 74,300 shares of the Security.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="6" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">(b)</font></p>
+</td>
+<td colspan="6" height="15" valign="top">
+<p><font size="3" face="Times New Roman">The amount of 233,070 shares of the Security beneficially owned by Robert E.</font></p>
+</td>
+</tr>
+
+<tr height="16">
+<td height="16" valign="top"></td>
+<td height="16" valign="top"></td>
+<td colspan="6" height="16" valign="top">
+<p><font size="3" face="Times New Roman">Robotti is 9.5% of the total outstanding shares of 2,443,354 Common Stock</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="6" height="15" valign="top">
+<p><font size="3" face="Times New Roman">$0.01 Par Value per share as per the Issuer's most recent 10-Q dated November</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="6" height="15" valign="top">
+<p><font size="3" face="Times New Roman">10, 2003.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="6" height="9" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td rowspan="4" valign="top"></td>
+<td rowspan="4" valign="top">
+<p><font size="3" face="Times New Roman">(c)</font></p>
+</td>
+<td height="19" valign="top">
+<p><font size="3" face="Times New Roman">(i)</font></p>
+</td>
+<td colspan="5" height="19" valign="top">
+<p><font size="3" face="Times New Roman">Mr. Robotti does not have the sole power to vote or direct the vote of any</font></p>
+</td>
+</tr>
+
+<tr height="12">
+<td height="12" valign="top"></td>
+<td colspan="5" height="12" valign="top">
+<p><font size="3" face="Times New Roman">shares of the Security.</font></p>
+</td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top">
+<p><font size="3" face="Times New Roman">(ii)</font></p>
+</td>
+<td colspan="5" height="17" valign="top">
+<p><font size="3" face="Times New Roman">Mr. Robotti shares the power to vote or direct the vote of 233,070 shares</font></p>
+</td>
+</tr>
+
+<tr height="19">
+<td height="19" valign="top"></td>
+<td colspan="5" height="19" valign="top">
+<p><font size="3" face="Times New Roman">of the Security through the following:</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td rowspan="8" valign="top"></td>
+<td rowspan="8" valign="top"></td>
+<td rowspan="8" valign="top"></td>
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with Robotti LLC and its brokerage customers the power</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">to vote or direct the vote of 3,885 shares of the Security; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with Robotti Advisors and its advisory clients, the power</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">to vote or direct the vote of 154,885 shares of the Security; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with the other Managing Member of Ravenswood</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Management, which serves as the General Partner of Ravenswood,</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">the power to vote or to direct the vote of 74,300 shares of the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="3" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Security.</font></p>
+</td>
+</tr>
+
+<tr height="20">
+<td rowspan="2" valign="top"></td>
+<td rowspan="2" valign="top"></td>
+<td colspan="2" height="20" valign="top">
+<p><font size="3" face="Times New Roman">(iii)</font></p>
+</td>
+<td colspan="4" height="20" valign="top">
+<p><font size="3" face="Times New Roman">Mr. Robotti does not have sole power to dispose or to direct the</font></p>
+</td>
+</tr>
+
+<tr height="16">
+<td colspan="2" height="16" valign="top"></td>
+<td colspan="4" height="16" valign="top">
+<p><font size="3" face="Times New Roman">disposition of any shares of the Security.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">(iv)</font></p>
+</td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Mr. Robotti shares the power to dispose or to direct the disposition of</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">233,070 shares of the Security through the following:</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td rowspan="10" valign="top"></td>
+<td rowspan="10" valign="top"></td>
+<td colspan="2" rowspan="10" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with Robotti LLC and its brokerage customers the power</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">to dispose or direct the disposition of 3,885 shares of the Security;</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with Robotti Advisors and its advisory clients, the power</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">to dispose or direct the disposition of 154,885 shares of the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Security; and</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">he shares with the other Managing Member of Ravenswood</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Management, which serves as the General Partner of Ravenswood,</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">the power to vote or to direct the vote of 74,300 shares of the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Security.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="6" height="9" valign="top"></td>
+</tr>
+</table>
+
+<font size="3" face="Times New Roman"><br clear="all" />
+</font>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="13">
+<td colspan="3" height="13" valign="top">
+<p><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td height="13" valign="top"></td>
+<td height="13" valign="top">
+<p><font size="3" face="Times New Roman">Page 8 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="5" height="1" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 5.</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Ownership of Five Percent or Less of a Class.</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="21">
+<td height="21" valign="top"></td>
+<td height="21" valign="top"></td>
+<td colspan="3" height="21" valign="top">
+<p><font size="3" face="Times New Roman">Not Applicable.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="16">
+<td height="16" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 6.</font></b></p>
+</td>
+<td height="16" valign="top"></td>
+<td colspan="3" height="16" valign="top">
+<p><b><font size="3" face="Times New Roman">Ownership of More than Five Percent on Behalf of Another Person.</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="16">
+<td height="16" valign="top"></td>
+<td height="16" valign="top"></td>
+<td colspan="3" height="16" valign="top">
+<p><font size="3" face="Times New Roman">Not Applicable.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 7.</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Identification and Classification of the Subsidiary Which Acquired the</font></b></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Security Being Reported on by the Parent Holding Company or Control</font></b></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Person.</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Not Applicable.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 8.</font></b></p>
+</td>
+<td height="17" valign="top"></td>
+<td colspan="3" height="17" valign="top">
+<p><b><font size="3" face="Times New Roman">Identification and Classification of Members of the Group.</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="17">
+<td height="17" valign="top"></td>
+<td height="17" valign="top"></td>
+<td colspan="3" height="17" valign="top">
+<p><font size="3" face="Times New Roman">Not Applicable.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="21">
+<td height="21" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 9.</font></b></p>
+</td>
+<td height="21" valign="top"></td>
+<td colspan="3" height="21" valign="top">
+<p><b><font size="3" face="Times New Roman">Notice of Dissolution of Group.</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Not Applicable.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top">
+<p align="right"><b><font size="3" face="Times New Roman">Item 10.</font></b></p>
+</td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><b><font size="3" face="Times New Roman">Certifications:</font></b></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">By signing below I certify that, to the best of my knowledge and belief, the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">securities referred to above were acquired and are held in the ordinary course of</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">business and were not acquired and are not held for the purpose of or with the</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">effect of changing or influencing the control of the issuer of the securities and</font></p>
+</td>
+</tr>
+
+<tr height="14">
+<td height="14" valign="top"></td>
+<td height="14" valign="top"></td>
+<td colspan="3" height="14" valign="top">
+<p><font size="3" face="Times New Roman">were not acquired and are not held in connection with or as a participant in any</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">transaction having that purpose or effect.</font></p>
+</td>
+</tr>
+
+<tr height="9">
+<td height="9" valign="top"></td>
+<td height="9" valign="top"></td>
+<td colspan="3" height="9" valign="top"></td>
+</tr>
+</table>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="641">
+<tr height="19">
+<td colspan="3" height="19" valign="top">
+<p><font size="3" face="Times New Roman">SCHEDULE 13G</font></p>
+</td>
+<td colspan="6" height="19" valign="top"></td>
+<td height="19" valign="top">
+<p><font size="3" face="Times New Roman">Page 9 of 9 Pages</font></p>
+</td>
+</tr>
+
+<tr height="19">
+<td colspan="10" height="19" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td colspan="2" height="19" valign="top"></td>
+<td colspan="6" height="19" valign="top">
+<p align="center"><font size="3" face="Times New Roman">SIGNATURE</font></p>
+</td>
+<td colspan="2" height="19" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td colspan="10" height="19" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td height="19" valign="top"></td>
+<td colspan="9" height="19" valign="top">
+<p><font size="3" face="Times New Roman">After reasonable inquiry and to the best of my knowledge and belief, I certify that the</font></p>
+</td>
+</tr>
+
+<tr height="19">
+<td colspan="10" height="19" valign="top">
+<p><font size="3" face="Times New Roman">information set forth in this statement is true, complete and correct.</font></p>
+</td>
+</tr>
+
+<tr height="19">
+<td colspan="10" height="19" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td colspan="5" height="19" valign="top">
+<p><font size="3" face="Times New Roman">Date: February 12, 2004</font></p>
+</td>
+<td height="19" valign="top"></td>
+<td colspan="4" height="19" valign="top"></td>
+</tr>
+
+<tr height="19">
+<td colspan="4" height="19" valign="top"></td>
+<td colspan="2" height="19" valign="top"></td>
+<td height="19" valign="top">
+<p><font size="3" face="Times New Roman">By:</font></p>
+</td>
+<td colspan="3" height="19" valign="top">
+<p><font size="3" face="Times New Roman">/s/ Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="4" height="1" valign="top"></td>
+<td colspan="2" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="3" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="13">
+<td colspan="4" height="13" valign="top"></td>
+<td colspan="2" height="13" valign="top"></td>
+<td height="13" valign="top"></td>
+<td colspan="3" height="13" valign="top">
+<p><font size="3" face="Times New Roman">Name: Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company, LLC</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">By:</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">/s/ Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="4" height="1" valign="top"></td>
+<td colspan="2" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="3" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Name: Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Title: President</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Robotti &amp; Company Advisors, LLC</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">By:</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">/s/ Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="4" height="1" valign="top"></td>
+<td colspan="2" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="3" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Name: Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Title: President</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="21">
+<td colspan="4" height="21" valign="top"></td>
+<td colspan="2" height="21" valign="top"></td>
+<td colspan="4" height="21" valign="top">
+<p><font size="3" face="Times New Roman">The Ravenswood Investment Company, L.P.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">By:</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Ravenswood Management Company, L.L.C.</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="4" height="1" valign="top"></td>
+<td colspan="2" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="3" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Title: General Partner</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top">
+<p><font size="3" face="Times New Roman">By:</font></p>
+</td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">/s/ Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="1">
+<td colspan="4" height="1" valign="top"></td>
+<td colspan="2" height="1" valign="top"></td>
+<td height="1" valign="top"></td>
+<td colspan="3" height="1" valign="top" bgcolor="black"></td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Name: Robert E. Robotti</font></p>
+</td>
+</tr>
+
+<tr height="12">
+<td colspan="4" height="12" valign="top"></td>
+<td colspan="2" height="12" valign="top"></td>
+<td height="12" valign="top"></td>
+<td colspan="3" height="12" valign="top">
+<p><font size="3" face="Times New Roman">Title: Managing Member of Ravenswood</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td height="15" valign="top"></td>
+<td colspan="3" height="15" valign="top">
+<p><font size="3" face="Times New Roman">Management Company, L.L.C.</font></p>
+</td>
+</tr>
+
+<tr height="15">
+<td colspan="4" height="15" valign="top"></td>
+<td colspan="2" height="15" valign="top"></td>
+<td colspan="4" height="15" valign="top"></td>
+</tr>
+</table>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+
+<p align="center"><font size="3" face="Times New Roman"></font></p>
+</div>
+</body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>3
+<FILENAME>ktii13ga3_robotti12312003.pdf
+<DESCRIPTION>PDF COPY: K-TRON INDUSTRIES, INC SC 13G/A#3 - R. ROBOTTI 12/31/2003
+<TEXT>
+<PDF>
+begin 644 ktii13ga3_robotti12312003.pdf
+M)5!$1BTQ+C(-)>+CS],-"C,S(#`@;V)J#3P\(`TO3&EN96%R:7IE9"`Q(`TO
+M3R`S-2`-+T@@6R`W,C8@,C,V(%T@#2],(#(U-S4Q(`TO12`T.3,X(`TO3B`Y
+M(`TO5"`R-#DW,R`-/CX@#65N9&]B:@T@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("!X<F5F#3,S
+M(#$S(`TP,#`P,#`P,#$V(#`P,#`P(&X-"C`P,#`P,#`V,#<@,#`P,#`@;@T*
+M,#`P,#`P,#DV,B`P,#`P,"!N#0HP,#`P,#`Q,3$V(#`P,#`P(&X-"C`P,#`P
+M,#$R-C,@,#`P,#`@;@T*,#`P,#`P,3<W,2`P,#`P,"!N#0HP,#`P,#`Q.34Q
+M(#`P,#`P(&X-"C`P,#`P,#(Q-#D@,#`P,#`@;@T*,#`P,#`P,SDY,R`P,#`P
+M,"!N#0HP,#`P,#`T,3@T(#`P,#`P(&X-"C`P,#`P,#0W,#D@,#`P,#`@;@T*
+M,#`P,#`P,#<R-B`P,#`P,"!N#0HP,#`P,#`P.30Q(#`P,#`P(&X-"G1R86EL
+M97(-/#P-+U-I>F4@-#8-+TEN9F\@,S$@,"!2(`TO4F]O="`S-"`P(%(@#2]0
+M<F5V(#(T.38S(`TO241;/#AE,C$P8S%B83EC,3@S964R86)C86)B9CDR,C8X
+M8S@P/CPX93(Q,&,Q8F$Y8S$X,V5E,F%B8V%B8F8Y,C(V.&,X,#Y=#3X^#7-T
+M87)T>')E9@TP#24E14]&#2`@("`@#3,T(#`@;V)J#3P\(`TO5'EP92`O0V%T
+M86QO9R`-+U!A9V5S(#,R(#`@4B`-+T]P96Y!8W1I;VX@6R`S-2`P(%(@+UA9
+M6B!N=6QL(&YU;&P@;G5L;"!=(`TO4&%G94UO9&4@+U5S94YO;F4@#3X^(`UE
+M;F1O8FH--#0@,"!O8FH-/#P@+U,@,3,R("]&:6QT97(@+T9L871E1&5C;V1E
+M("],96YG=&@@-#4@,"!2(#X^(`US=')E86T-"DB)8F!@8&9@8+K&P,+`P'J'
+M@8<!`7B`8B#(D0#B30Q9ZGEEO>?E;^8/FAD8TM+2CCD`1562*Y!1;8KRSE<G
+M@(QT"P9&"08&#E0$!!T@!@>J84`@R<`0K0.D.8&8'RSBRL#-M=#B=MM'YMV'
+M+YY@5%ABWG'@#`/;"@8&@``#`)1N*'\-96YD<W1R96%M#65N9&]B:@TT-2`P
+M(&]B:@TQ,S`@#65N9&]B:@TS-2`P(&]B:@T\/"`-+U1Y<&4@+U!A9V4@#2]0
+M87)E;G0@,S(@,"!2(`TO4F5S;W5R8V5S(#,V(#`@4B`-+T-O;G1E;G1S(#0P
+M(#`@4B`-+TUE9&EA0F]X(%L@,"`P(#8Q,B`W.3(@72`-+T-R;W!";W@@6R`P
+M(#`@-C$R(#<Y,B!=(`TO4F]T871E(#`@#3X^(`UE;F1O8FH-,S8@,"!O8FH-
+M/#P@#2]0<F]C4V5T(%L@+U!$1B`O5&5X="!=(`TO1F]N="`\/"`O5%0R(#,W
+M(#`@4B`O5%0T(#0R(#`@4B`^/B`-+T5X=$=3=&%T92`\/"`O1U,Q(#0S(#`@
+M4B`^/B`-+T-O;&]R4W!A8V4@/#P@+T-S-2`S."`P(%(@/CX@#3X^(`UE;F1O
+M8FH-,S<@,"!O8FH-/#P@#2]4>7!E("]&;VYT(`TO4W5B='EP92`O5')U951Y
+M<&4@#2]&:7)S=$-H87(@,S(@#2],87-T0VAA<B`Q,C(@#2]7:61T:',@6R`R
+M-3`@,"`P(#`@-3`P(#`@,"`R-S@@,S,S(#,S,R`U,#`@,"`R-3`@,S,S(#(U
+M,"`P(#4P,"`U,#`@-3`P(#4P,"`--3`P(#4P,"`U,#`@-3`P(#4P,"`U,#`@
+M,S,S(#`@,"`P(#`@,"`P(#<R,B`V-C<@-S(R(#<R,B`V-C<@-C$Q(`TW-S@@
+M-S<X(#,X.2`P(#<W."`V-C<@.30T(#<R,B`W-S@@-C$Q(#`@-S(R(#4U-B`V
+M-C<@-S(R(#<R,B`Q,#`P(`TW,C(@,"`P(#`@,"`P(#`@,"`P(#4P,"`U-38@
+M-#0T(#4U-B`T-#0@,S,S(#4P,"`U-38@,C<X(#`@-34V(#(W."`-.#,S(#4U
+M-B`U,#`@-34V(#4U-B`T-#0@,S@Y(#,S,R`U-38@-3`P(#<R,B`U,#`@-3`P
+M(#0T-"!=(`TO16YC;V1I;F<@+U=I;D%N<VE%;F-O9&EN9R`-+T)A<V5&;VYT
+M("]4:6UE<TYE=U)O;6%N4%,M0F]L9$U4(`TO1F]N=$1E<V-R:7!T;W(@,SD@
+M,"!2(`T^/B`-96YD;V)J#3,X(#`@;V)J#5L@#2]#86Q21T(@/#P@+U=H:71E
+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
+M,S`Q,"`P,#`P,"!N#0HP,#`P,#$S,34W(#`P,#`P(&X-"C`P,#`P,34U,S<@
+M,#`P,#`@;@T*,#`P,#`Q-38Y,2`P,#`P,"!N#0HP,#`P,#$U.#,X(#`P,#`P
+M(&X-"C`P,#`P,3@P-3$@,#`P,#`@;@T*,#`P,#`Q.#(P-2`P,#`P,"!N#0HP
+M,#`P,#$X,S<T(#`P,#`P(&X-"C`P,#`P,C`T-#4@,#`P,#`@;@T*,#`P,#`R
+M,#4Y.2`P,#`P,"!N#0HP,#`P,#(P-S0V(#`P,#`P(&X-"C`P,#`P,C(P-S8@
+M,#`P,#`@;@T*,#`P,#`R,C(S,"`P,#`P,"!N#0HP,#`P,#(R,S8U(#`P,#`P
+M(&X-"C`P,#`P,C,U-S8@,#`P,#`@;@T*,#`P,#`R,S8X-B`P,#`P,"!N#0HP
+M,#`P,#(S.#8V(#`P,#`P(&X-"C`P,#`P,C0P-S4@,#`P,#`@;@T*,#`P,#`R
+M-#(T-B`P,#`P,"!N#0HP,#`P,#(T,S$U(#`P,#`P(&X-"C`P,#`P,C0U.3<@
+M,#`P,#`@;@T*,#`P,#`R-#@T-"`P,#`P,"!N#0IT<F%I;&5R#3P\#2]3:7IE
+M(#,S#2])1%L\.&4R,3!C,6)A.6,Q.#-E93)A8F-A8F)F.3(R-CAC.#`^/#AE
+M,C$P8S%B83EC,3@S964R86)C86)B9CDR,C8X8S@P/ET-/CX-<W1A<G1X<F5F
++#3$W,PTE)45/1@T_
+`
+end
+
+</PDF>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

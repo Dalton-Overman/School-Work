@@ -1,0 +1,203 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IXSyVjV5TNZqslv4oZkPWRFx0HYU9HhIaP02KUA7XD7jWWsbJ7fVQjNuPLE9ZiUS
+ IRHqAXCs5ljXFFj2VWtMdQ==
+
+<SEC-DOCUMENT>0000950159-05-000289.txt : 20050310
+<SEC-HEADER>0000950159-05-000289.hdr.sgml : 20050310
+<ACCEPTANCE-DATETIME>20050310153159
+ACCESSION NUMBER:		0000950159-05-000289
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050304
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20050310
+DATE AS OF CHANGE:		20050310
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		05672340
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+           -----------------------------------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+         Date of report (Date of earliest event reported): March 4, 2005
+
+
+                           K-TRON INTERNATIONAL, INC.
+                       ----------------------------------
+                 (Exact Name of Registrant Specified in Charter)
+
+- ----------------------------- -------------------------- -----------------------
+
+        New Jersey                   0-9576                   22-1759452
+    ------------------        --------------------        --------------
+      (State or Other           (Commission File           (I.R.S. Employer
+      Jurisdiction of                Number)              Identification No.)
+      Incorporation)
+
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey            08071-0888
+- ---------------------------------------------------         -------------
+     (Address of Principal Executive Offices)                 (Zip Code)
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                           --------------
+
+
+                                 Not Applicable
+          ------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+
+         Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the Registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+   [ ]    Written  communications  pursuant to Rule 425 under the Securities Act
+          (17 CFR 230.425)
+
+   [ ]    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+          CFR 240.14a-12)
+
+   [ ]    Pre-commencement  communications  pursuant to Rule 14d-2(b)  under the
+          Exchange Act (17 CFR 240.14d-2(b))
+
+   [ ]    Pre-commencement  communications  pursuant to Rule 13e-4(c)  under the
+          Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+
+
+Item 1.01.  Entry into a Material Definitive Agreement.
+
+Base Salaries. On March 4, 2005, the Compensation and Human Resources Committee
+(the "Committee") of the Board of Directors of K-Tron International, Inc. (the
+"Company") approved base salaries, effective April 4, 2005, for the executive
+officers of the Company in the amounts indicated below:
+
+                                                 Base
+      Name                                   Salary Amount
+      ----                                   -------------
+
+Edward B. Cloues, II                           $484,500
+Kevin C. Bowen                                 $233,000
+Lukas Guenthardt                               $206,000
+Donald W. Melchiorre                           $220,000
+Ronald R. Remick                               $222,700
+
+Annual Incentive Awards. On March 4, 2005, the Committee approved annual
+incentive awards for 2004, payable in cash, to the same executive officers, as
+follows:
+
+                                                 Annual
+      Name                                   Incentive Award
+      ----                                   ---------------
+
+Edward B. Cloues, II                           $380,000
+Kevin C. Bowen                                 $120,000
+Lukas Guenthardt                               $ 75,675
+Donald W. Melchiorre                           $107,625
+Ronald R. Remick                               $109,000
+
+
+The annual incentive awards were made pursuant to bonus guidelines used in the
+preparation of the Company's budget for 2004. Although the budget was approved
+by the Board of Directors, including both members of the Committee, the
+Committee retained full discretion to make such specific incentive bonus awards,
+if any, as it deemed appropriate, after the end of the year. The awards made
+were based on the Company's achievement of its earnings per share target for
+2004, the amount of pre-tax income generated by the Company in excess of what
+was necessary to achieve that earnings per share target and the assessed
+contribution of each executive to the Company's success. As a starting point,
+the Committee considered the target bonus for each executive used in the 2004
+budget, which was the same target bonus used for the past several years. This
+target was 50% of base salary for Mr. Cloues, the Company's Chairman and Chief
+Executive Officer, and 30% of base salary for the other executive officers, but
+the annual incentive award for any executive may be more or less than the
+applicable target, depending on the Company's financial performance, the
+Committee's assessment of the executive's contribution and such other factors as
+the Committee may choose to consider.
+
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                                 K-TRON INTERNATIONAL, INC.
+                                                 (Registrant)
+
+
+                                                 By: EDWARD B. CLOUES, II
+                                                     ---------------------------
+                                                     Edward B. Cloues, II
+                                                     Chairman of the Board and
+                                                     Chief Executive Officer
+
+
+Dated: March 10, 2005
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

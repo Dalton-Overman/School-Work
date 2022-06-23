@@ -1,0 +1,222 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JwlHaulNKNS7FSHdQqZW/NOeUEaddhFzHco28ttXouTT8rnR58+bbR79krUkJTJT
+ zxAvs/4zFup6bDMy7PVJiA==
+
+<SEC-DOCUMENT>0000950123-10-033873.txt : 20100412
+<SEC-HEADER>0000950123-10-033873.hdr.sgml : 20100412
+<ACCEPTANCE-DATETIME>20100412111503
+ACCESSION NUMBER:		0000950123-10-033873
+CONFORMED SUBMISSION TYPE:	15-12G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20100412
+DATE AS OF CHANGE:		20100412
+EFFECTIVENESS DATE:		20100412
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		15-12G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		10744190
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>15-12G
+<SEQUENCE>1
+<FILENAME>w78027e15v12g.htm
+<DESCRIPTION>FORM 15-12G
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e15v12g</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="font-size: 1pt; width: 100%; border-bottom: black 2pt solid"> </DIV>
+<DIV style="font-size: 1pt; width: 100%; border-bottom: black 1pt solid"> </DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>United States<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>Form&nbsp;15</B>
+</DIV>
+
+<DIV align="left" style="font-size: 12pt; margin-top: 6pt"><B>CERTIFICATION AND NOTICE OF TERMINATION OF REGISTRATION UNDER SECTION 12(g) OF THE SECURITIES
+EXCHANGE ACT OF 1934 OR SUSPENSION OF DUTY TO FILE REPORTS UNDER SECTIONS 13 AND 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission File Number </B><U><B>000-09576</B></U></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>K-TRON INTERNATIONAL, INC.</B></DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Routes 55 and 553, P.O. Box 888, Pitman, New Jersey 08071-0888</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV>
+(Address, including zip code, and telephone number, including area code, of registrant&#146;s principal executive offices)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Common Stock, par value $.01 per share</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV>
+(Title of each class of securities covered by this Form)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">None</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV>
+(Titles of all other classes of securities for which a duty to file reports under section 13(a) or 15(d) remains)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Please place an X in the box(es) to designate the appropriate rule provisions(s) relied upon
+to terminate or suspend the duty to file reports:
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="35%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="55%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rule&nbsp;12g-4(a)(1)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rule&nbsp;12g-4(a)(2)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rule&nbsp;12h-3(b)(1)(i)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rule&nbsp;12h-3(b)(1)(ii)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rule&nbsp;15d-6
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Approximate number of holders of record as of the certification or notice date: One (1)
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to the requirements of the Securities Exchange Act of 1934, K-Tron International, Inc. has
+caused this certification/notice to be signed on its behalf by the undersigned duly authorized
+person.
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">Date:  April 5, 2010&nbsp;</TD>
+    <TD colspan="3" align="left">K-TRON INTERNATIONAL, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Robert E. Wisniewski
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Robert E. Wisniewski&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Senior Vice President, Chief Financial
+Officer and Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

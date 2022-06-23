@@ -1,0 +1,73 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>4
+<FILENAME>w58583ex10-4.txt
+<DESCRIPTION>AMENDMENT 2001-1 TO AMENDED 1996 EQUITY COMP. PLAN
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.4
+
+                                AMENDMENT 2001-1
+             TO THE AMENDED AND RESTATED K-TRON INTERNATIONAL, INC.
+                          1996 EQUITY COMPENSATION PLAN
+
+
+      WHEREAS, K-Tron International, Inc. (the "Company") maintains the Amended
+and Restated K-Tron International, inc. 1996 Equity Compensation Plan (the
+"Plan") for the benefit of the eligible officers and other employees of the
+company and its subsidiaries as well as for members of the company's Board of
+Directors who are not officers or employees of the company and its subsidiaries;
+
+      WHEREAS, upon recommendation of counsel, the Board desires to amend the
+Plan with respect to the rate of withholding tax with respect to federal, state
+and local tax liabilities applicable to grants under the Plan;
+
+      WHEREAS, also upon recommendation of counsel, the Board desires to amend
+the Plan to reflect an amendment to the Fair Labor Standards Act of 1938, as
+amended (the "FLSA"), for option grants to non-exempt employees;
+
+      WHEREAS, the Board has approved the terms of this Amendment 2001-1 to the
+Plan;
+
+      NOW, THEREFORE, in accordance with the foregoing, the Plan shall be
+amended as follows:
+
+1.    Section 15(b) of the Plan is amended to read, in its entirety, as follows:
+
+            "(b) If the Committee so permits, a Grantee may elect to satisfy the
+Company's income tax withholding obligation with respect to a Grant paid in
+Company Stock by having shares withheld up to an amount that does not exceed the
+Grantee's minimum applicable withholding tax rate for federal (including FICA),
+state and local tax liabilities. The election must be in a form and manner
+prescribed by the Committee and shall be subject to the prior approval of the
+Committee."
+
+2.    A new subsection (j) is added to Section 5 of the Plan to read, in its
+entirety, as follows:
+
+      "(j) Option Grants to Non-Exempt Employees. Notwithstanding the foregoing,
+Options granted to persons who are non-exempt employees under the Fair Labor
+Standards Act of 1938, as amended, shall have a per share purchase price not
+less than 85% of the Fair Market Value of the Company Stock on the date of
+grant, and may not be exercisable for at least six months after the date of
+grant (except that such Options may become exercisable, as determined by the
+Board, upon the Grantee's death, disability or retirement, or upon a Change of
+Control or other circumstances permitted by applicable regulations)."
+<PAGE>
+3.    In all respects not amended, the Plan is hereby ratified and affirmed and
+may be restated in its entirety to include the above amendment.
+
+      IN WITNESS WHEREOF, and as evidence of the adoption of Amendment 2001-1
+set forth herein, this Amendment has been executed this 16th day of October,
+2001.
+
+                              K-TRON INTERNATIONAL, INC.
+
+                              By:     /s/ Edward B. Cloues, II
+                                    ------------------------------------
+                                    Edward B. Cloues, II
+                                    Chairman and Chief Executive Officer
+
+
+</TEXT>
+</DOCUMENT>

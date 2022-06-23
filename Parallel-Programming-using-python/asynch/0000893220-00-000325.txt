@@ -1,0 +1,418 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QCyTVIRrIiLbbLDgYstFE2ZT1un5hFsvLjVjE+4Upn2L1/qsLWQ+c/mqOffDU/zV
+ A/jqOJ7ThdTrwyf/S8Z+KA==
+
+<SEC-DOCUMENT>0000893220-00-000325.txt : 20000324
+<SEC-HEADER>0000893220-00-000325.hdr.sgml : 20000324
+ACCESSION NUMBER:		0000893220-00-000325
+CONFORMED SUBMISSION TYPE:	SC TO-I/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20000323
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		576812
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC TO-I/A
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL, INC.
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   SCHEDULE TO
+
+
+
+                             Tender Offer Statement
+   (under Section 14(d)(1) or 13(e)(1) of the Securities Exchange Act of 1934)
+
+                               (Amendment No. 2)*
+
+
+
+                           K-Tron International, Inc.
+- --------------------------------------------------------------------------------
+                       (Name of Subject Company (issuer))
+
+
+
+                       K-Tron International, Inc. (issuer)
+- --------------------------------------------------------------------------------
+            (Names of Filing Persons (identifying status as offeror,
+                            issuer or other person))
+
+
+
+                     Common Stock, par value $.01 per share
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   482730 10 8
+- --------------------------------------------------------------------------------
+                      (CUSIP Number of Class of Securities)
+
+
+
+                              Edward B. Cloues, II
+                Chairman of the Board and Chief Executive Officer
+                           K-Tron International, Inc.
+                                Routes 55 and 553
+                                  P.O. Box 888
+                          Pitman, New Jersey 08071-0888
+                                 (856) 589-0500
+                 (Name, address, and telephone number of person
+               authorized to receive notices and communications on
+                            behalf of filing persons)
+
+                                   Copies to:
+
+                                Alan Singer, Esq.
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                           Philadelphia, PA 19103-2921
+                                 (215) 963-5000
+<PAGE>   2
+                            CALCULATION OF FILING FEE
+
+
+<TABLE>
+<S>                                                         <C>
+Transaction Valuation                                       Amount of Filing Fee
+     $9,144,000                                                  $1,828.80
+</TABLE>
+
+[ X ]   Check the box if any part of the fee is offset as provided by Rule
+        0-11(a)(2) and identify the filing with which the offsetting fee was
+        previously paid. Identify the previous filing by registration statement
+        number, or the Form or Schedule and the date of its filing.
+
+        Amount Previously Paid:$1,620.00
+        Form or Registration No.: Schedule TO: File No. 005-33401
+
+        Filing Party: K-Tron International, Inc.
+        Date Filed: February 16, 2000
+
+[  ]    Check the box if the filing relates solely to preliminary communications
+        made before the commencement of a tender offer.
+
+Check the appropriate boxes below to designate any transactions to which the
+statement relates:
+
+[    ]  Third party tender offer subject to Rule 14d-1.
+[ X  ]  Issuer tender offer subject to Rule 13e-4.
+[    ]  Going-private transaction subject to Rule 13e-3.
+[    ]  Amendment to Schedule 13D under Rule 13d-2.
+
+Check the following box if the filing is a final amendment reporting the results
+ of the tender offer:  [  X  ]
+<PAGE>   3
+       This Amendment No. 2 to Tender Offer Statement on Schedule TO relates to
+an offer by K-Tron International, Inc., a New Jersey corporation (the "Issuer"),
+to purchase up to 450,000 shares of its common stock (the "Shares") at a price
+of $18 per Share, net to the seller in cash. The Issuer's offer was made upon
+the terms and subject to the conditions set forth in the Offer to Purchase dated
+February 16, 2000, the related Letter of Transmittal and certain other relevant
+documents (together, the "Offer").
+
+Item 4.  Terms of the Transaction.
+
+       Item 4 is hereby supplemented and amended by adding the following:
+
+       The Offer expired at 5:00 P.M., New York City time, on March 17, 2000.
+The Issuer accepted a total of 508,000 shares at a purchase price of $18.00 per
+share. The Issuer increased the Offer, as permitted by Rule 13e-4(f)(ii) of the
+Securities Exchange Act, to accept 58,000 additional Shares for purchase from
+shareholders who tendered in the Offer. The final proration factor for the Offer
+was 34.19251%. As of February 11, 2000, the Issuer had 2,927,155 Shares
+outstanding. Following the purchase of Shares in the Offer, the Issuer has
+2,420,155 Shares outstanding.
+
+Item 11.  Additional Information.
+
+       Item 11 of Schedule TO is hereby supplemented by adding the following:
+
+       On March 20, 2000, the Issuer issued a news release announcing the
+preliminary results of the Offer, a copy of which is filed as Exhibit (a)(5)(ii)
+hereto and is incorporated herein by reference. On March 23, 2000, the Issuer
+issued a news release announcing the final results of the Offer, a copy of which
+is filed as Exhibit (a)(5)(iii) hereto and is incorporated herein by reference.
+
+Item 12.  Exhibits.
+
+        Item 12 is hereby amended and restated in its entirety as follows:
+
+(a)(1)(i)         Form of Offer to Purchase dated February 16, 2000.
+
+(a)(1)(ii)        Form of Letter of Transmittal to Accompany Shares of Common
+                  Stock.
+
+(a)(1)(iii)       Guidelines for Certification of Taxpayer Identification Number
+                  on Substitute Form W-9.
+
+(a)(1)(iv)        Form of Notice of Guaranteed Delivery.
+
+(a)(1)(v)         Form of Letter to Brokers, Dealers, Commercial Banks, Trust
+                  Companies and Other Nominees.
+
+(a)(1)(vi)        Form of Letter to Clients for use by Brokers, Dealers,
+                  Commercial Banks, Trust Companies and Other Nominees.
+<PAGE>   4
+(a)(1)(vii)       Form of Letter to Shareholders of the Issuer dated February
+                  16, 2000 from Edward B. Cloues, II, Chairman of the Board and
+                  Chief Executive Officer.
+
+(a)(5)(i)         News Release dated February 14, 2000.
+
+(a)(5)(ii)        News Release dated March 20, 2000.*
+
+(a)(5)(iii)       News Release dated March 23, 2000.*
+
+(b)(1)            Note dated February 4, 2000 from K-Tron America, Inc. in favor
+                  of The Bank of Gloucester County.
+
+(d)               Not applicable.
+
+(g)               Not applicable.
+
+(h)               Not applicable.
+- -------------
+* Filed herewith
+
+<PAGE>   5
+                                    SIGNATURE
+
+       After due inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                   K-TRON INTERNATIONAL, INC.
+
+
+
+                                   By:   /s/       EDWARD B. CLOUES, II
+                                         Name:     Edward B. Cloues, II
+                                         Title:    Chairman of the Board and
+                                                   Chief Executive Officer
+
+
+Dated:   March 23, 2000
+<PAGE>   6
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number               Description
+- ------               -----------
+<S>                  <C>
+(a)(1)(i)            Form of Offer to Purchase dated February 16, 2000.
+
+(a)(1)(ii)           Form of Letter of Transmittal to Accompany Shares of
+                     Common Stock.
+
+(a)(1)(iii)          Guidelines for Certification of Taxpayer Identification
+                     Number on Substitute Form W-9.
+
+(a)(1)(iv)           Form of Notice of Guaranteed Delivery.
+
+(a)(1)(v)            Form of Letter to Brokers, Dealers, Commercial Banks, Trust
+                     Companies and Other Nominees.
+
+(a)(1)(vi)           Form of Letter to Clients for use by Brokers, Dealers,
+                     Commercial Banks, Trust Companies and Other Nominees.
+
+(a)(1)(vii)          Form of Letter to Shareholders of the Issuer dated February
+                     16, 2000 from Edward B. Cloues, II, Chairman of the Board
+                     and Chief Executive Officer.
+
+(a)(5)(i)            News Release dated February 14, 2000.
+
+(a)(5)(ii)           News Release dated March 20, 2000.*
+
+(a)(5)(iii)          News Release dated March 23, 2000.*
+
+(b)(1)               Note dated February 4, 2000 from K-Tron America, Inc. in
+                     favor of The Bank of Gloucester County.
+
+(d)                  Not applicable.
+
+(g)                  Not applicable.
+
+(h)                  Not applicable.
+</TABLE>
+- ------------------
+* Filed herewith
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A.5.II
+<SEQUENCE>2
+<DESCRIPTION>NEWS RELEASE DATED MARCH 20, 2000
+<TEXT>
+
+<PAGE>   1
+For Release:      Immediately
+
+Contact:          Ronald Remick, Senior Vice President and
+                    Chief Financial Officer
+                  Tel: (856) 256-3311  E-mail: remick@ktron.com
+
+              K-TRON ANNOUNCES PRELIMINARY RESULTS OF TENDER OFFER
+
+PITMAN, NEW JERSEY -- MARCH 20, 2000 -- K-Tron International, Inc. (NASDAQ -
+KTII) today announced the preliminary results of its tender offer to purchase
+shares of its common stock which expired at 5:00 P.M., New York City time, on
+Friday, March 17, 2000.
+
+Based on a preliminary count by American Stock Transfer & Trust Company, the
+depositary for the tender offer, 1,535,587 shares of K-Tron's common stock were
+validly tendered and not withdrawn prior to the expiration of the offer, 508,000
+of which K-Tron expects to purchase at the offer price of $18 per share. K-Tron
+has been informed by the depositary that the preliminary proration factor for
+the offer was approximately 33.1 percent, but the final results of the proration
+may not be available for several days. The determination of the actual proration
+factor is subject to final confirmation of the proper delivery of all shares
+tendered and not withdrawn, including shares tendered pursuant to the guaranteed
+delivery procedure.
+
+K-Tron commenced the tender offer for up to 450,000 shares of its common stock
+on February 16, 2000. Under applicable regulations of the Securities and
+Exchange Commission, K-Tron may also purchase pursuant to the tender offer an
+additional amount of its common shares not to exceed 2 percent of outstanding
+shares without amending or extending the offer, and it has elected to purchase
+58,000 additional shares.
+
+Payment for shares accepted in the tender offer and the return of shares not
+accepted for purchase will be made by American Stock Transfer & Trust Company
+promptly following its determination of the final results of the proration. Upon
+completion of its purchase of shares through the tender offer, K-Tron will have
+2,420,155 shares of common stock outstanding, or approximately 17.3 percent
+fewer shares than were outstanding at the commencement of the offer.
+
+The information agent for the offer was D. F. King & Co., Inc.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service gravimetric and volumetric feeders, pneumatic conveying systems and
+related equipment for processing bulk solids in a wide variety of manufacturing
+processes. K-Tron has manufacturing facilities in the United States, Switzerland
+and Canada, and its K-Tron Soder, Hasler and Hurricane brand equipment is sold
+throughout the world.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A.5.III
+<SEQUENCE>3
+<DESCRIPTION>NEWS RELEASE DATED MARCH 23, 2000
+<TEXT>
+
+<PAGE>   1
+For Release:      Immediately
+
+Contact:          Ronald Remick, Senior Vice President and
+                    Chief Financial Officer
+                  Tel: (856) 256-3311  E-mail: remick@ktron.com
+
+
+                 K-TRON ANNOUNCES FINAL RESULTS OF TENDER OFFER
+
+PITMAN, NEW JERSEY -- MARCH 23, 2000 -- K-Tron International, Inc. (NASDAQ -
+KTII) today announced the final results of its tender offer to purchase shares
+of its common stock which expired at 5:00 P.M., New York City time, on Friday,
+March 17, 2000.
+
+Based on a final count by American Stock Transfer & Trust Company, the
+depositary for the tender offer, 1,485,720 shares of K-Tron's common stock were
+validly tendered and not withdrawn prior to the expiration of the offer, 508,000
+of which K-Tron has purchased at the offer price of $18 per share. The proration
+factor for the offer was 34.19251 percent, and the total purchase price was
+$9,144,000. The purchase of the shares was funded by cash in the amount of
+$1,194,000 and bank borrowings in the amount of $7,950,000.
+
+K-Tron has deposited the purchase price with American Stock Transfer & Trust
+Company, and that firm is in the process of making payment for shares purchased
+through the tender offer and returning to shareholders those shares not
+purchased. K-Tron now has 2,420,155 shares of common stock outstanding, or
+approximately 17.3 percent fewer shares than were outstanding at the
+commencement of the offer on February 16, 2000.
+
+The information agent for the offer was D. F. King & Co., Inc.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service gravimetric and volumetric feeders, pneumatic conveying systems and
+related equipment for processing bulk solids in a wide variety of manufacturing
+processes. K-Tron has manufacturing facilities in the United States, Switzerland
+and Canada, and its K-Tron Soder, Hasler and Hurricane brand equipment is sold
+throughout the world.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

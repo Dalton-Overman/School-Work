@@ -1,0 +1,285 @@
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>w51848sc13d.txt
+<DESCRIPTION>K-TRON INTERNATIONAL SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13D
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+                 TO RULES 13d-1(a) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13D-2(a)
+
+                           (AMENDMENT NO. ______)(1)
+
+                           K-Tron International, Inc.
+                           --------------------------
+                                (Name of Issuer)
+
+                     Common Stock, par value $.01 per share
+                     --------------------------------------
+                         (Title of Class of Securities)
+
+                                    482730108
+                                    ---------
+                                 (CUSIP Number)
+
+                                  June 28, 2001
+
+             (Date of Event Which Requires Filing of this Statement)
+
+                             Joanne R. Soslow, Esq.
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                           Philadelphia, PA 19103-2921
+                                 (215) 963-5000
+
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+         If the filing person has previously filed a statement on schedule 13G
+to report the acquisition that is the subject of this Schedule 13D, and is
+filing this Schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box ____
+
+Note: Schedules filed in paper format shall include a signed original and two
+copies of the Schedule including all exhibits. See Rule 13d-7 for other parties
+to whom copies are to be sent.
+
+
+                               (Page 1 of 6 pages)
+
+--------
+(1)  The remainder of this cover page shall be filled out for a reporting
+     person's initial filing on this form with respect to the subject class of
+     securities, and for any subsequent amendment containing information which
+     would alter the disclosures provided in a prior cover page.
+
+     The information required in the remainder of this cover page shall not be
+     deemed to be "filed" for the purpose of Section 18 of the Securities
+     Exchange Act of 1934 or otherwise subject to the liabilities of that
+     section of the Act but shall be subject to all other provisions of the Act
+     (however, see the Notes).
+<PAGE>   2
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 2 OF 6
+
+
+
+1  NAMES OF REPORTING PERSONS
+
+   I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+           Edward B. Cloues, II
+
+2  CHECK THE APPROPRIATE BOX IF A
+   MEMBER OF A GROUP*                                                   (a) / /
+
+                                                                        (b) /X/
+
+3  SEC USE ONLY
+
+4  SOURCE OF FUNDS                             OO
+
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEM
+   2(d) OR 2(e) _____
+
+6  CITIZENSHIP OR PLACE OF ORGANIZATION   United States of America
+
+
+NUMBER OF SHARES    7      SOLE VOTING POWER            175,360 shares*
+BENEFICIALLY
+OWNED BY EACH              *Includes 100,000 shares underlying options and
+REPORTING                  4,000 shares subject to a restricted stock grant,
+PERSON                     which restricted shares are subject to forfeiture
+WITH                       until November 1, 2002.
+
+                    8      SHARED VOTING POWER               60,385
+
+                    9      SOLE DISPOSITIVE POWER           175,360*
+
+                           *Includes 100,000 shares underlying options and 4,000
+                           shares subject to a restricted stock grant, which
+                           restricted shares are subject to forfeiture until
+                           November 1, 2002.
+
+                    10     SHARED DISPOSITIVE POWER      60,385
+
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   235,745*
+
+   *Includes 100,000 shares underlying options and 4,000 shares
+   subject to a restricted stock grant, which restricted shares
+   are subject to forfeiture until November 1, 2002.
+
+12 CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN
+   SHARES*                                                                   / /
+
+13 PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11   9.3%
+
+14 TYPE OF REPORTING PERSON*          IN
+
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>   3
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 3 OF 6
+
+
+ITEM 1.           SECURITY OF THE ISSUER.
+
+                  This statement relates to the common stock, $.01 par value
+(the "Common Stock"), of K-Tron International, Inc., a New Jersey corporation
+(the "Issuer"). The principal executive offices of the Issuer are located at
+Routes 55 & 553, Pitman, New Jersey 08071-0888.
+
+ITEM 2.           IDENTITY AND BACKGROUND.
+
+                  (a) This statement is being filed by Edward B. Cloues, II (the
+"Filing Person").
+
+                  (b) The principal business address of the Filing Person is
+Routes 55 & 553, Pitman, New Jersey 08071-0888.
+
+                  (c) The present principal occupation of the Filing Person is
+Chairman of the Board and Chief Executive Officer of the Issuer.
+
+                  (d) During the last five years, the Filing Person has not been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+                  (e) During the last five years, the Filing Person has not been
+a party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which he was or is subject to a judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to, Federal or State securities laws or finding any violation
+with respect to such laws.
+
+                  (f) The Filing Person is a citizen of the United States of
+America.
+
+                  (g) - (j)  Not applicable.
+
+ITEM 3.           SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+                  The Filing Person obtained indirect beneficial ownership of
+the 60,385 shares of Common Stock described in Item 5(c) through the execution
+of a power-of-attorney by one of the then joint owners of the shares (the other
+joint owner is now deceased). The Filing Person now shares voting and
+dispositive power over the 60,385 shares with the grantor of the
+power-of-attorney.
+
+ITEM 4.           PURPOSE OF TRANSACTION.
+
+                  The Filing Person was Chairman of the Board and Chief
+Executive Officer of the Issuer prior to the acquisition of indirect beneficial
+ownership of the Common Stock described in Item 5, and continues to serve in
+those capacities. The Filing Person held 71,360 shares of Common Stock in his
+own name (as well as options to purchase 100,000 shares of Common Stock) prior
+to his acquisition of indirect beneficial ownership of an additional 60,385
+shares of Common Stock through the power-of-attorney mentioned above. The filing
+person subsequently acquired 4,000 shares of restricted stock and now holds
+75,360 shares of Common Stock in his
+<PAGE>   4
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 4 OF 6
+
+
+own name. The Filing Person may acquire additional securities of the Issuer
+directly or may, in the future, dispose of the securities he holds directly and
+indirectly. Except as set forth above, the Filing Person has no plans or
+proposals that relate to or would result in any of the actions specified in
+clauses (a) through (j) of this Item 4.
+
+ITEM 5.           INTEREST IN THE SECURITIES OF THE ISSUER.
+
+                  (a) The Filing Person beneficially owns 235,745 shares of the
+Common Stock, including 100,000 shares underlying stock options, 4,000 shares
+subject to a restricted stock grant and 60,385 shares for which the Filing
+Person holds a power-of-attorney, which constitute 9.3% of the outstanding
+shares of Common Stock, calculated in accordance with Rule 13d-3(d)(i)(D).
+
+                  (b) The Filing Person has sole power to vote or direct the
+vote and sole power to dispose or direct the disposition of 175,360 shares
+reported herein and shared power to vote or direct the vote and to dispose or
+direct the disposition of 60,385 shares reported herein. Power to vote and
+dispose of the 60,385 shares is shared with Jan W. Beebe whose address is 5160
+Hidalgo Street, Houston, Texas 77056. Mrs. Beebe is retired and is a citizen of
+the United States. During the last five years, Mrs. Beebe has not been convicted
+in a criminal proceeding (excluding traffic violations or similar misdemeanors).
+In addition, during the last five years, Mrs. Beebe has not been a party to a
+civil proceeding of a judicial or administrative body of competent jurisdiction
+as a result of which she was or is subject to a judgment, decree or final order
+enjoining future violations of, or prohibiting or mandating activities subject
+to, Federal or State securities laws or finding any violation with respect to
+such laws.
+
+                  (c) On June 28, 2001, the Filing Person acquired indirect
+beneficial ownership of 60,385 shares due to the execution of a
+power-of-attorney from one of the then joint owners of the shares. The other
+joint owner, who served on the Board of Directors of the Issuer, is now
+deceased.
+
+                  (d)  Not applicable.
+
+                  (e)  Not applicable.
+
+ITEM 6.           CONTRACT, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS
+                  WITH RESPECT TO SECURITIES OF THE ISSUER.
+
+                  The Filing Person has been appointed Attorney-in-Fact by Jan
+W. Beebe (the "Principal") pursuant to an Asset Management Durable General Power
+of Attorney dated June 28, 2001 (the "Power of Attorney"). Under the Power of
+Attorney, the Filing Person is authorized to transact all of the Principal's
+business and manage all of the Principal's property and affairs, including:
+taking custody of the Principal's stocks; selling, surrendering or exchanging
+any such stocks; signing and delivering assignments or stock powers and other
+documents required for sale, assignment, surrender or exchange; purchasing
+stocks; providing instructions regarding the registration of stock and the
+mailing of dividends; representing the Principal at shareholders' meetings and
+voting proxies on the Principal's behalf; and generally
+<PAGE>   5
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 5 OF 6
+
+
+handling or managing the Principal's investments. The Principal shares the above
+powers with the Filing Person.
+
+                  The Principal currently holds 60,385 shares of Common Stock.
+As a result of the Power of Attorney, the Filing Person possesses indirect
+beneficial ownership of the 60,385 shares of Common Stock held by the Principal.
+
+                  Unless earlier revoked, the Power of Attorney terminates at
+the death of the Principal. The Filing Person will hold all of the powers
+granted under the Power of Attorney until such termination or until a successor
+agent is appointed.
+
+ITEM 7.           MATERIAL TO BE FILED AS EXHIBITS.
+
+99.1              Asset Management Durable General Power of Attorney, dated June
+                  28, 2001.
+<PAGE>   6
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 6 OF 6
+
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                                 July 25, 2001
+                                      -----------------------------------
+                                                    (Date)
+
+                                          /s/ Edward B. Cloues, II
+                                      -----------------------------------
+                                                  (Signature)
+
+                                              Edward B. Cloues, II
+                                      -----------------------------------
+                                                (Name / Title)
+
+
+</TEXT>
+</DOCUMENT>

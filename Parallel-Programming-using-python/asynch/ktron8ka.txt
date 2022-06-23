@@ -1,0 +1,185 @@
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>ktron8ka.txt
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                              ---------------------
+
+
+                                   FORM 8-K/A
+                               (Amendment No. 1)
+
+
+                                 CURRENT REPORT
+
+                     Pursuant To Section 13 Or 15(d) Of The
+
+                         Securities Exchange Act Of 1934
+
+
+
+
+        Date of Report (Date of earliest event reported) August 13, 2003
+                                                        ----------------
+
+
+
+
+                           K-TRON INTERNATIONAL, INC.
+                          -----------------------------
+             (Exact name of registrant as specified in its charter)
+
+            New Jersey                   0-9576                 22-1759452
+------------------------------  ------------------------  --------------------
+      (State or other           (Commission file number)  (IRS   Employer
+jurisdiction of incorporation)                             Identification No.)
+
+
+   Routes 55 & 553, P.O. Box 888, Pitman, New Jersey               08071-0888
+   -------------------------------------------------              -----------
+      (Address of principal executive offices)                    (Zip code)
+
+
+       Registrant's telephone number, including area code (856) 589-0500
+                                                          --------------
+
+
+                                 Not Applicable
+           -----------------------------------------------------------
+          (Former name or former address, if changed since last report)
+
+<PAGE>
+
+
+         Item 4.  Changes in Registrant's Certifying Accountant.
+                  ----------------------------------------------
+
+                  On August 13, 2003, the Audit Committee of the Board of
+         Directors of K-Tron International, Inc. ("K-Tron" or the "Company"),
+         pursuant to authority delegated to it by K-Tron's Board of Directors,
+         dismissed KPMG LLP ("KPMG") as K-Tron's independent auditors. In
+         addition, on August 13, 2003, the Audit Committee engaged Grant
+         Thornton LLP to serve as K-Tron's independent auditors for the fiscal
+         year ending January 3, 2004. KPMG had been engaged to serve as the
+         Company's independent auditors on June 22, 2002, following the
+         dismissal of Arthur Andersen LLP.
+
+                  KPMG's report on K-Tron's consolidated financial statements
+         for the past year did not contain an adverse opinion or disclaimer of
+         opinion, nor was it qualified or modified as to uncertainty, audit
+         scope or accounting principles, except as follows:
+
+                  KPMG's report on the consolidated financial statements of
+         K-Tron International, Inc. as of and for the year ended December 28,
+         2002 contained a separate paragraph stating, "the fiscal 2001 and
+         fiscal 2000 consolidated financial statements and financial statement
+         schedule of K-Tron International, Inc. and subsidiaries were audited by
+         other auditors who have ceased operations. As described in Note 7,
+         these consolidated financial statements have been revised to include
+         the transitional disclosures required by Statement of Financial
+         Accounting Standards No. 142, "Goodwill and Other Intangible Assets",
+         which was adopted by the Company as of December 30, 2001. In our
+         opinion, such disclosures for fiscal 2001 and fiscal 2000 in Note 7 are
+         appropriate. However, we were not engaged to audit, review, or apply
+         any procedures to the fiscal 2001 and fiscal 2000 consolidated
+         financial statements and financial statement schedule of K-Tron
+         International, Inc. and subsidiaries other than with respect to such
+         disclosures, and, accordingly, we do not express an opinion or any
+         other form of assurance on the fiscal 2001 and fiscal 2000 consolidated
+         financial statements taken as a whole".
+
+
+
+                                       2
+<PAGE>
+
+
+                  During K-Tron's most recent fiscal year and through the date
+         of KPMG's dismissal, there were no disagreements with KPMG on any
+         matter of accounting principles or practices, financial statement
+         disclosure or auditing scope or procedure which, if not resolved to
+         KPMG's satisfaction, would have caused it to make reference to the
+         subject matter in connection with its report on K-Tron's consolidated
+         financial statements for such year.
+
+                  During K-Tron's two most recent fiscal years and through the
+         date of Grant Thornton LLP's engagement, K-Tron did not consult with
+         Grant Thornton LLP with respect to the application of accounting
+         principles to a specified transaction, either completed or proposed, or
+         the type of audit opinion that might be rendered on K-Tron's
+         consolidated financial statements, or any other matters.
+
+                  K-Tron has provided KPMG with a copy of the foregoing
+         disclosure. Attached as Exhibit 16 is a copy of KPMG's letter, dated
+         August 22, 2003.
+
+
+    Item 7. Financial Statements, Pro Forma Financial Information and Exhibits.
+            --------------------------------------------------------------------
+
+(c)     Exhibits.
+
+        16      Letter from KPMG LLP to the Securities and Exchange Commission
+                dated August 22, 2003
+
+
+
+
+
+                                       3
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                       K-Tron International, Inc.
+                                       ---------------------------
+                                       (Registrant)
+
+
+
+
+ Dated:  August 25, 2003         By:   /s/ Ronald R. Remick
+                                       ------------------------------------
+                                       Ronald R. Remick
+                                       Senior Vice President & Chief
+                                       Financial Officer
+                                      (Duly authorized officer and principal
+                                       financial officer of the Registrant)
+
+
+
+                                       4
+<PAGE>
+
+
+
+
+                                  EXHIBIT INDEX
+
+
+         Exhibit
+         Number                     Description
+         -------                    -----------
+
+           16                      Letter from KPMG LLP to the Securities and
+                                   Exchange Commission dated August 22, 2003
+
+
+
+
+</TEXT>
+</DOCUMENT>

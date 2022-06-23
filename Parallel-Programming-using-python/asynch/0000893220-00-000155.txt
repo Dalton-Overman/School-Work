@@ -1,0 +1,387 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T0wtL8iqWaJfUVFFLrQkBbPJHwejUBYzAS5JajQ6uXs9jARvd5DdVb6DoD7pSViz
+ Y9LkCzsw2MeyViAuqmenrQ==
+
+<SEC-DOCUMENT>0000893220-00-000155.txt : 20000215
+<SEC-HEADER>0000893220-00-000155.hdr.sgml : 20000215
+ACCESSION NUMBER:		0000893220-00-000155
+CONFORMED SUBMISSION TYPE:	SC TO-I
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20000214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		538153
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC TO-I
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   SCHEDULE TO
+
+
+
+                             Tender Offer Statement
+   (under Section 14(d)(1) or 13(e)(1) of the Securities Exchange Act of 1934)
+
+                              (Amendment No. ___)*
+
+
+
+                           K-Tron International, Inc.
+- -------------------------------------------------------------------------------
+                       (Name of Subject Company (issuer))
+
+
+
+                       K-Tron International, Inc. (issuer)
+- -------------------------------------------------------------------------------
+            (Names of Filing Persons (identifying status as offeror,
+                            issuer or other person))
+
+
+
+                     Common Stock, par value $.01 per share
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                   482730 10 8
+ ------------------------------------------------------------------------------
+                      (CUSIP Number of Class of Securities)
+
+
+
+                              Edward B. Cloues, II
+                Chairman of the Board and Chief Executive Officer
+                           K-Tron International, Inc.
+                                Routes 55 and 553
+                                  P.O. Box 888
+                          Pitman, New Jersey 08071-0888
+                                 (856) 589-0500
+      (Name, address, and telephone numbers of person authorized to receive
+             notices and communications on behalf of filing persons)
+
+                                   Copies to:
+
+                                Alan Singer, Esq.
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                           Philadelphia, PA 19103-2921
+                                 (215) 963-5000
+<PAGE>   2
+                            CALCULATION OF FILING FEE
+
+
+Transaction Valuation                             Amount of Filing Fee*
+
+
+*  Pursuant to General Instruction D of Form TO, no filing fee is required.
+
+[ ]   Check the box if any part of the fee is offset as provided by Rule
+      0-11(a)(2) and identify the filing with which the offsetting fee was
+      previously paid. Identify the previous filing by registration statement
+      number, or the Form or Schedule and the date of its filing.
+
+      Amount Previously Paid: _______________   Filing Party: __________________
+      Form or Registration No.: ______________  Date Filed:  ___________________
+
+
+[X]   Check the box if the filing relates solely to preliminary communications
+      made before the commencement of a tender offer.
+
+Check the appropriate boxes below to designate any transactions to which the
+statement relates:
+
+[ ]   Third party tender offer subject to Rule 14d-1.
+[X]   Issuer tender offer subject to Rule 13e-4.
+[ ]   Going-private transaction subject to Rule 13e-3.
+[ ]   Amendment to Schedule 13D under Rule 13d-2.
+
+Check the following box if the filing is a final amendment reporting the results
+of the tender offer: [ ]
+<PAGE>   3
+     This Tender Offer Statement on Schedule TO relates to an announcement by
+K-Tron International, Inc., a New Jersey corporation, of its intention to
+commence a tender offer to purchase up to 450,000 shares of its Common Stock
+(the "Shares") at a price of $18.00 per Share, net to the seller in cash, and is
+being filed in compliance with Rule 13e-4(c)(1) under the Securities Exchange
+Act of 1934, as amended.
+
+Item 12. Exhibits.
+
+
+(a)(5)   News Release dated February 14, 2000.
+
+
+                                    SIGNATURE
+
+   After due inquiry and to the best of my knowledge and belief, I certify that
+the information set forth in this statement is true, complete and correct.
+
+                              K-TRON INTERNATIONAL, INC.
+
+
+
+                              By:    *
+                                 ---------------------------------
+
+
+Dated:   February 14, 2000
+
+
+* Pursuant to General Instruction D of Form TO, no signature is required.
+<PAGE>   4
+                                  EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number        Description
+- ------        -----------
+<S>           <C>
+(a)(5)        News Release dated February 14, 2000.
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A.5
+<SEQUENCE>2
+<DESCRIPTION>NEWS RELEASE DATED FEBRUARY 14, 2000
+<TEXT>
+
+<PAGE>   1
+[KTRON LETTERHEAD]
+
+
+  K-TRON INTERNATIONAL, INC.
+  Routes 55 & 553, PO Box 888
+  Pitman, NJ 08071-0888
+  (856) 589-0500                                                       NEWS
+  FAX (856) 582-7968
+  www.ktron.com
+  E-mail: ktii@ktron.com
+
+
+For Release: Immediately
+
+Contact:   Ronald Remick, Senior Vice President and Chief Financial Officer
+           Tel: (856) 256-3311 E-mail: remick@ktron.com
+
+
+K-TRON REPORTS RECORD EARNINGS FOR FOURTH QUARTER AND YEAR AND ANNOUNCES OFFER
+TO REPURCHASE UP TO 450,000 OF ITS SHARES
+
+
+PITMAN, NEW JERSEY -- FEBRUARY 14, 2000 -- K-Tron International, Inc.
+(NASDAQ-KTII) today reported a 5 percent increase in fourth quarter diluted
+earnings per share from $0.60 last year to $0.63 this year. Net income increased
+0.9 percent from $1.89 million in last year's fourth quarter to $1.91 million
+this year, while revenues declined slightly from $24.08 million to $23.74
+million. The fourth quarter of 1999 was the eighteenth consecutive quarter in
+which K-Tron's net income and earnings per share exceeded the comparable numbers
+in the prior year period.
+
+For fiscal 1999, the Company reported a 9.9 percent increase in diluted earnings
+per share from $2.03 last year to $2.23 this year. Net income for the period
+increased 2.5 percent from $6.59 million to $6.76 million, while revenues
+decreased 1.4 percent from $89.14 million to $87.89 million.
+
+Fourth quarter and twelve month earnings per share grew faster than net income
+as a result of the lower number of diluted shares outstanding, primarily
+reflecting repurchases of stock made by the Company in 1998 and 1999.
+
+In reporting the above results, the Company noted that if the average foreign
+currency exchange rates for the fourth quarter and full year 1999 were applied
+to the same periods in 1998, its 1999 revenues would have increased 5.7 percent
+for the quarter and 1.0 percent for the year, and the gains in its net income
+and earnings per share would have been greater than reported. Also, the
+Company's fourth quarter and full year 1999 results included special, pre-tax
+charges of $710 thousand for the previously-announced Hasler restructuring
+program.
+
+Separately, the Company today also announced that it plans to commence an issuer
+tender offer to purchase for cash up to 450,000 shares of its common stock,
+representing approximately 15.37 percent of the Company's outstanding shares,
+for $18.00 per share. This represents a 27.4 percent premium over the closing
+price on Friday, February 11. The tender offer is expected to begin on
+Wednesday, February 16, 2000 and to expire, unless extended, at 5:00 p.m., New
+York City time, on Thursday, March 16, 2000.
+
+<PAGE>   2
+Details of the tender offer will be set forth in the Offer to Purchase, Letter
+of Transmittal and other related documents to be sent to shareholders. The
+Company will, subject to the terms and conditions of the offer, purchase 450,000
+shares (or such lesser number of shares as are validly tendered and not
+withdrawn) pursuant to the offer. Shares tendered and not purchased because of
+proration will be returned at the Company's expense. The Company reserves the
+right, in its sole discretion, to purchase more or less than 450,000 shares
+pursuant to the offer.
+
+Commenting on the Company's results and the tender offer, K-Tron Chairman and
+Chief Executive Officer Edward B. Cloues, II said, "Net income and earnings per
+share for the fourth quarter and full year 1999 were at the highest levels in
+the Company's history for any quarter or year. While these results are
+gratifying, our stock has been trading below seven times trailing twelve month
+earnings since early October 1999 and below nine times trailing twelve month
+earnings for most of the past year. Our Board of Directors believes that the
+current market price of our stock does not fully reflect the value of our
+business and future prospects and that a repurchase of 450,000 shares is
+consistent with our goal of maximizing shareholder value. At the same time, our
+offer provides those shareholders who wish to sell shares an opportunity to do
+so at a significant premium over recent trading prices and without the usual
+transaction costs associated with open market sales. The share repurchase will
+be financed partly with cash but primarily by using a $7 million credit facility
+which is already in place."
+
+The Depositary in connection with the offer will be American Stock Transfer &
+Trust Company and the Information Agent will be D. F. King & Co., Inc. The Offer
+to Purchase, Letter of Transmittal and related documents are expected to be
+mailed on February 16, 2000 to shareholders of record on February 11, 2000 and
+will also be made available for distribution to beneficial owners of the
+Company's common shares.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service gravimetric and volumetric feeders, pneumatic conveying systems and
+related equipment for processing bulk solids in a wide variety of manufacturing
+processes. K-Tron has manufacturing facilities in the United States, Switzerland
+and Canada, and its K-Tron Soder, Hasler and Hurricane brand equipment is sold
+throughout the world.
+
+                            (Financial Data Follows)
+
+SHAREHOLDERS SHOULD READ THE OFFER TO PURCHASE AND THE OTHER TENDER OFFER
+MATERIALS THAT THE COMPANY WILL BE SENDING BECAUSE THEY CONTAIN IMPORTANT
+INFORMATION.  SHAREHOLDERS CAN OBTAIN COPIES OF THE OFFER TO PURCHASE, LETTER OF
+TRANSMITTAL AND THE OTHER TENDER OFFER MATERIALS FREE AT THE SEC'S WEB SITE,
+WWW.SEC.GOV, OR FROM THE COMPANY'S INFORMATION AGENT, D. F. KING & CO., INC. AT
+(212) 269-5550.
+
+                                       -2-
+
+<PAGE>   3
+
+
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+                    (Dollars in thousands, except share data)
+
+
+<TABLE>
+<CAPTION>
+
+                                                         Unaudited                          Audited
+                                                       4th Quarter(1)                     Year Ended(1)
+                                                ---------------------------       ---------------------------
+
+                                                   1999             1998             1999             1998
+                                                ----------       ----------       ----------       ----------
+<S>                                             <C>              <C>              <C>              <C>
+Revenues                                        $   23,742       $   24,077       $   87,887       $   89,142
+                                                ==========       ==========       ==========       ==========
+Operating income                                $    2,638       $    2,518       $    9,139       $    9,432
+Interest expense                                       115              192              495              714
+                                                ----------       ----------       ----------       ----------
+Income before income taxes                           2,523            2,326            8,644            8,718
+Income taxes                                           613              433            1,885            2,125
+                                                ----------       ----------       ----------       ----------
+Net income                                      $    1,910       $    1,893       $    6,759       $    6,593
+                                                ==========       ==========       ==========       ==========
+Basic earnings per share                        $      .65       $      .63       $     2.28       $     2.10
+                                                ==========       ==========       ==========       ==========
+Diluted earnings per share                      $      .63       $      .60       $     2.23       $     2.03
+                                                ==========       ==========       ==========       ==========
+Average number of common shares
+   outstanding (basic)                           2,951,000        3,020,000        2,962,000        3,133,000
+                                                ==========       ==========       ==========       ==========
+Average number of common & common
+   equivalent shares outstanding (diluted)       3,015,000        3,130,000        3,026,000        3,243,000
+                                                ==========       ==========       ==========       ==========
+
+</TABLE>
+(1) Fiscal 1999 and 1998 ended January 1, 2000 and January 2, 1999,
+    respectively.
+
+
+
+                                       -3-
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

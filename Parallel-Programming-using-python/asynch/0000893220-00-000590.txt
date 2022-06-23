@@ -1,0 +1,183 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GuQphwCgcKInOiQmt+ODWeo3i3IRz4Qybqswp6ok4cp4FzCd66JUJWeGqO/duRgQ
+ bMluPyLiZ/0Oz2rRsTNhhA==
+
+<SEC-DOCUMENT>0000893220-00-000590.txt : 20000502
+<SEC-HEADER>0000893220-00-000590.hdr.sgml : 20000502
+ACCESSION NUMBER:		0000893220-00-000590
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000401
+FILED AS OF DATE:		20000501
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		615862
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL FORM 10-Q/A
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+          [X]   QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended April 1, 2000
+
+                                       OR
+
+          [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+                For the transition period from            to
+
+                         Commission file number 0-9576
+
+
+                           K-TRON INTERNATIONAL, INC.
+
+             (Exact Name of Registrant as Specified in Its Charter)
+
+          New Jersey                                     22-1759452
+(State or Other Jurisdiction of               (I.R.S. Employer Identification #)
+ Incorporation or Organization)
+
+ROUTES 55 & 553, P.O. BOX 888, PITMAN, NEW JERSEY                    08071-0888
+(Address of Principal Executive Offices)                             (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (856) 589-0500
+
+                                 NOT APPLICABLE
+
+   (Former Name, Former Address and Formal Fiscal Year, if Changed Since Last
+                                    Report)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                                         Yes   X       No
+
+
+
+
+The Registrant had 2,421,405 shares of Common Stock outstanding as of April 1,
+2000.
+<PAGE>   2
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                              Three Months Ended
+                                                                              ------------------
+                                                                        April 1,           April 3,
+                                                                         2000                1999
+                                                                         ----                ----
+
+OPERATING ACTIVITIES:
+<S>                                                                    <C>                <C>
+   Net income                                                          $ 1,373            $ 1,360
+   Adjustment to reconcile net income to net cash provided by
+      operating activities:
+      Depreciation and amortization                                        784                803
+      Amortization of deferred gain on sale/leaseback transaction          (85)               (96)
+      Changes in assets and liabilities:
+          Accounts receivable, net                                       4,400              1,935
+          Inventories                                                     (907)            (1,421)
+          Prepaid expenses and other current assets                        194               (624)
+          Other assets                                                    (103)                (7)
+          Accounts payable                                                (753)               241
+          Accrued expenses and other current liabilities                (1,724)              (858)
+          Accrued warranty                                                 (39)               (19)
+          Income taxes payable                                             446                194
+                                                                       -------            -------
+               Net cash provided by operating activities                 3,586              1,508
+                                                                       -------            -------
+
+INVESTING ACTIVITIES:
+   Capital expenditures                                                   (856)              (902)
+   Investment in patents                                                   (23)               (40)
+                                                                       -------            -------
+               Net cash used in investing activities                      (879)              (942)
+                                                                       -------            -------
+
+FINANCING ACTIVITIES:
+   Net repayments under notes payable to banks                          (2,493)              (244)
+   Proceeds from issuance of long-term debt                              7,950              1,500
+   Principal payments on long-term debt                                   (629)              (421)
+   Purchase of treasury stock                                           (9,244)            (1,812)
+   Proceeds from issuance of common stock                                   25                194
+                                                                       -------            -------
+               Net cash used in financing activities                    (4,391)              (783)
+                                                                       -------            -------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH  EQUIVALENTS                                                       (45)              (140)
+                                                                       -------            -------
+
+NET DECREASE  IN CASH AND CASH EQUIVALENTS                              (1,729)              (357)
+                                                                       -------            -------
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                   3,093              3,220
+                                                                       -------            -------
+   End of period                                                       $ 1,364            $ 2,863
+                                                                       =======            =======
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+                                      -3-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,60 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>4
+<FILENAME>w91549exv10w1.txt
+<DESCRIPTION>LOAN MODIFICATION AGREEMENT
+<TEXT>
+<PAGE>
+                                    THE BANK                        Exhibit 10.1
+                           LOAN MODIFICATION AGREEMENT
+                              K-TRON AMERICA, INC.
+
+Date: July 9, 2003                                  Loan #6039359-6600
+Original Amount: $5,000,000.00                      Annual Fee: $10,000.00
+Current Commitment: $4,000,000.00                   Maturity Date: July 05, 2005
+
+WHEREAS, the undersigned borrower executed the note referred to above on June
+24, 1998, And,
+
+WHEREAS, the note, security agreement and commitment letter executed by the
+borrower allow a modification of interest rate, due date or other terms or
+conditions without affecting the priority of The Bank's lien.
+
+NOW, therefore, in consideration of an annual fee of $10,000.00, the above
+referenced note is extended and modified as follows:
+
+      IT IS HEREBY AGREED THAT THE ABOVE NUMBERED NOTE SHALL BECOME DUE JULY
+      5,2005. DURING THE TERMS OF THE RENEWAL, PAYMENTS OF INTEREST ONLY SHALL
+      BE DUE EACH MONTH BEGINNING AUGUST 1, 2003 AND SHALL BE APPLIED TO
+      INTEREST AND THEN TO PRINCIPAL.
+
+      BORROWER AGREES THAT UNTIL ALL OBLIGATIONS HEREUNDER ARE FULLY PAID AND
+      DISCHARGED, BORROWER WILL NOT WITHOUT PRIOR WRITTEN CONSENT OF THE BANK:
+
+      1.    Permit any merger or acquisition by Guarantor (K-Tron International,
+            Inc.) or its subsidiaries involving consideration of more than $4
+            million without the written approval of The Bank.
+
+All terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+                                        ACCEPTED BY:
+                                        K-TRON AMERICA, INC.
+
+                                        /s/ Patricia M. Moore             7/9/03
+                                        ----------------------------------------
+                                        Patricia M. Moore/ VP Finance       Date
+THE BANK
+
+
+By: /s/ David J. Hanrahan, Sr.
+    -------------------------           /s/ Mary Vaccara                  7/9/03
+    David J. Hanrahan, Sr.              ----------------------------------------
+    Senior Vice President               Mary Vaccara/Secretary              Date
+
+
+
+
+</TEXT>
+</DOCUMENT>

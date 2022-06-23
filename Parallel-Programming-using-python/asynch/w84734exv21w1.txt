@@ -1,0 +1,51 @@
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>4
+<FILENAME>w84734exv21w1.txt
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+<PAGE>
+                                                                               .
+                                                                               .
+                                                                               .
+                                                                 EXHIBIT 21.1
+
+                           K-Tron International, Inc.
+                              List of Subsidiaries*
+
+<TABLE>
+<CAPTION>
+                                                             State or Jurisdiction
+Name of Subsidiary                                             of Incorporation
+------------------                                           ---------------------
+<S>                                                          <C>
+K-Tron Investment Co.                                              Delaware
+     Pneumatic Conveying Systems Inc.                              Canada
+     K-Tron America, Inc.                                          Delaware
+           Colormax Limited                                        United Kingdom
+           Pneumatic Conveying Systems Limited                     United Kingdom
+     K-Tron (Schweiz) AG                                           Switzerland
+     K-Tron Asia Pte Ltd                                           Singapore
+           K-Tron China Limited                                    Hong Kong
+           K-Tron Deutschland GmbH                                 Germany
+           K-Tron France S.a.r.l.                                  France
+           K-Tron Great Britain Ltd.                               United Kingdom
+     Pennsylvania Crusher Corporation*                             Delaware
+           Jeffrey Specialty Equipment Corporation*                Delaware
+K-Tron Technologies, Inc.                                          Delaware
+</TABLE>
+
+-------------
+
+*        Effective as of January 2, 2003
+
+         As of December 28, 2002, unless specifically noted otherwise above, and
+pursuant to applicable Securities and Exchange Commission regulations, the
+Registrant has omitted those subsidiaries which when considered in the aggregate
+as a single subsidiary, would not have been considered a significant subsidiary
+as of the end of fiscal year 2002.
+
+
+
+</TEXT>
+</DOCUMENT>

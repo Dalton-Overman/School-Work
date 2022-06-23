@@ -1,0 +1,42 @@
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>9
+<FILENAME>w58583ex21-1.txt
+<DESCRIPTION>K-TRON LIST OF SUBSIDIARIES
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 21.1
+
+                           K-Tron International, Inc.
+
+                              List of Subsidiaries*
+
+<TABLE>
+<CAPTION>
+                                                                           State or Jurisdiction
+Name of Subsidiary                                                         of Incorporation
+------------------                                                         ---------------------
+<S>                                                                        <C>
+K-Tron Investment Co..................................................      Delaware
+        Hurricane Pneumatic Conveying Inc.............................      Canada
+        K-Tron America, Inc...........................................      Delaware
+               Colormax Limited.......................................      United Kingdom
+               Pneumatic Conveying Systems Limited ...................      United Kingdom
+        K-Tron (Schweiz) AG...........................................      Switzerland
+               K-Tron Asia Pacific Holding Pte Ltd. ..................      Singapore
+                      K-Tron Asia Pacific Pte ........................      Singapore
+               K-Tron China Limited...................................      Hong Kong
+               K-Tron Deutschland GmbH................................      Germany
+               K-Tron France S.a.r.l..................................      France
+               K-Tron Great Britain Ltd...............................      United Kingdom
+K-Tron Technologies, Inc..............................................      Delaware
+</TABLE>
+
+
+*      Pursuant to applicable Securities and Exchange Commission regulations,
+       the Registrant has omitted those subsidiaries which when considered in
+       the aggregate as a single subsidiary, would not have been considered a
+       significant subsidiary as of the end of fiscal year 2001.
+
+</TEXT>
+</DOCUMENT>

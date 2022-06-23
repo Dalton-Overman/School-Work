@@ -1,0 +1,292 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PuW7yEN5ntqr6CUx8rI8pW3TPdcjUeeVxXr9gpBZAEhb7ttJ+mYqVALQYAgJwYZ3
+ W8bRErpnFYJNbwG2QwSl9Q==
+
+<SEC-DOCUMENT>0000950159-09-001312.txt : 20090515
+<SEC-HEADER>0000950159-09-001312.hdr.sgml : 20090515
+<ACCEPTANCE-DATETIME>20090515140236
+ACCESSION NUMBER:		0000950159-09-001312
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090513
+FILED AS OF DATE:		20090515
+DATE AS OF CHANGE:		20090515
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		09831457
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>cloues4_ex.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2009-05-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000000020</issuerCik>
+        <issuerName>K TRON INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>KTII</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001145949</rptOwnerCik>
+            <rptOwnerName>CLOUES EDWARD B II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>K-TRON INTERNATIONAL INC</rptOwnerStreet1>
+            <rptOwnerStreet2>ROUTES 55 &amp; 553</rptOwnerStreet2>
+            <rptOwnerCity>PITMAN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2009-05-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>70.38</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>192610</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2009-05-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2013-05-14</value>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2013-05-14</value>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock ($0.01 par value)</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 750 shares of Common Stock disposed of represent a portion of a 3,000 share restricted stock grant that was previously
+ reported on a Form 4, dated May 17, 2005 and filed with the Securities and Exchange Commission, and that vested in its
+ entirety on May 13, 2009.  The reporting person elected to satisfy a portion of his tax withholding obligation incident to
+ the vesting of this 3,000 share grant by directing the Issuer to withhold 750 shares from the grant.</footnote>
+        <footnote id="F2">Each restricted common stock unit represents a contingent right to receive one share of the Issuer's common stock.</footnote>
+        <footnote id="F3">The restricted common stock units vest fully on 5/14/2013.  Vested shares of common stock will be delivered to the reporting
+ person within thirty days following the date the reporting person terminates employment with the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By Mary E. Vaccara, Corporate Secretary and Attorney-in-Fact for Edward B. Cloues, II</signatureName>
+        <signatureDate>2009-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>exhibit24.txt
+<TEXT>
+                                                                     EXHIBIT 24
+                                POWER OF ATTORNEY
+
+
+         The undersigned hereby constitutes and appoints each of Andrew T. Boyd,
+Mary E. Vaccara and Robert E. Wisniewski, but only for so long as such person is
+an employee of K-Tron International, Inc. (the "Company"), each having the power
+to act singly, as his/her true and lawful attorney-in-fact to:
+
+                  (1) execute for and on behalf of the undersigned, in the
+         undersigned's capacity as a director or executive officer of the
+         Company, as applicable, Forms 3, 4 or 5 in accordance with Section
+         16(a) of the Securities Exchange Act of 1934, as amended, and the rules
+         thereunder;
+
+                  (2) do and perform any and all acts for and on behalf of the
+         undersigned which may be necessary or desirable to complete the
+         execution of any such Form 3, 4 or 5 and the timely filing of such form
+         with the United States Securities and Exchange Commission and any other
+         authority; and
+
+                  (3) take any other action of any type whatsoever in connection
+         with the foregoing which, in the opinion of such attorney-in-fact, may
+         be of benefit to, in the best interest of, or legally required by, the
+         undersigned, it being understood that the documents executed by such
+         attorney-in-fact on behalf of the undersigned pursuant to this Power of
+         Attorney shall be in such form and shall contain such terms and
+         conditions as such attorney-in-fact may approve in his/her discretion.
+
+         The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform every act and thing whatsoever requisite,
+necessary and proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or his/her
+substitute or substitutes, shall lawfully do or cause to be done by virtue of
+this Power of Attorney and the rights and powers herein granted. The undersigned
+acknowledges that each of the foregoing attorneys-in-fact, in serving in such
+capacity at the request of the undersigned, is not assuming any of the
+undersigned's responsibilities to comply with Section 16 of the Securities
+Exchange Act of 1934, as amended.
+
+         This Power of Attorney replaces any and all powers of attorney which
+the undersigned may have previously executed covering the subject matter hereof,
+all of which shall be deemed revoked, and shall remain in full force and effect
+until the undersigned is no longer required to file Forms 3, 4 and 5 with
+respect to the undersigned's holdings of and transactions in securities issued
+by the Company, unless earlier revoked in writing.
+
+         IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney
+on the 14th day of May, 2009.
+
+
+                                                      EDWARD B. CLOUES, II
+                                                      --------------------
+                                                      Signature
+
+
+                                                      Edward B. Cloues, II
+                                                      ---------------------
+                                                      Print Name
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

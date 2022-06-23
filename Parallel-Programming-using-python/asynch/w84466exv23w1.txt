@@ -1,0 +1,36 @@
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>w84466exv23w1.txt
+<DESCRIPTION>CONSENT OF KPMG LLP
+<TEXT>
+<PAGE>
+                         INDEPENDENT AUDITORS' CONSENT
+
+The Board of Directors
+Pennsylvania Crusher Corporation:
+
+We consent to the incorporation by reference in the Registration Statements No.
+333-52523, 333-26531, 33-07921, 33-39039, 33-39040, 33-08043 and 2-72898 on Form
+S-8 of K-Tron International, Inc. of our report dated January 22, 2003, with
+respect to the consolidated balance sheet of Pennsylvania Crusher Corporation
+and subsidiary as of December 31, 2002, and the related consolidated statements
+of income, shareholders' equity, and cash flows for the year then ended, which
+appears in the Form 8-K/A of K-Tron International, Inc. dated March 17, 2003.
+
+The 2001 and 2000 consolidated financial statements of Pennsylvania Crusher
+Corporation and subsidiary as listed in the accompanying index were audited by
+other auditors who ceased operations. Those auditors expressed an unqualified
+opinion on those financial statements in their report dated January 17, 2002.
+
+                                  /s/ KPMG LLP
+
+Philadelphia, Pennsylvania
+March 14, 2003
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

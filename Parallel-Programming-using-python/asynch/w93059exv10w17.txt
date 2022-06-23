@@ -1,0 +1,50 @@
+<DOCUMENT>
+<TYPE>EX-10.17
+<SEQUENCE>3
+<FILENAME>w93059exv10w17.txt
+<DESCRIPTION>LOAN MODIFICATION AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.17
+
+                                    THE BANK
+                           LOAN MODIFICATION AGREEMENT
+                              K-Tron America, Inc.
+                                  P.O. Box 888
+                             Pitman, NJ 08071-0888
+
+Date: December 31, 2003                           Account #: 6039359-6600
+Original Amount: $5,000,000.00                    Present Balance: $1,834,500.00
+
+WHEREAS, the undersigned borrower executed the note referred to above on JUNE
+27, 1998 And,
+
+WHEREAS, loan documents as applicable, executed by the borrowers allows for a
+modification of interest rate, due date or other terms or conditions without
+affecting the priority of The Bank's lien.
+
+NOW, therefore, in consideration of a modification fee of $0.00, the above
+referenced note is modified as follows:
+
+COMMITMENT            The total commitment on the line of credit is hereby
+                      increased from $4,000,000.00 to $5,000,000.00 effective
+                      December 31, 2003.
+
+All other terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+THE BANK                                             K-TRON AMERICA, INC.
+
+BY: /s/ David J. Hanrahan         2/10/04     /s/ Patricia M. Moore     2/5/04
+   ----------------------------   -------     -----------------------   ------
+   DAVID J. HANRAHAN, SR.          DATE       PATRICIA M. MOORE          DATE
+   EXECUTIVE VICE PRESIDENT                   VP/FINANCE
+
+                                              /s/ Mary E. Vaccara       2/5/04
+                                              ------------------------  ------
+                                              MARY E. VACCARA SECRETARY  DATE
+
+</TEXT>
+</DOCUMENT>

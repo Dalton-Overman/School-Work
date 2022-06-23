@@ -1,0 +1,214 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S8M+VWfpz1At2bEIqi30rLRxb2gPVeUNUh2f9yF0wFEziWJba9H6uamP9EsIoRN2
+ vY0FGFPBmi6TparEFuUcoA==
+
+<SEC-DOCUMENT>0000950159-03-000701.txt : 20030818
+<SEC-HEADER>0000950159-03-000701.hdr.sgml : 20030818
+<ACCEPTANCE-DATETIME>20030818115717
+ACCESSION NUMBER:		0000950159-03-000701
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030814
+FILED AS OF DATE:		20030818
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03852206
+
+	BUSINESS ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 & 553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+		BUSINESS PHONE:		856 589 0500
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>cloues4_ex.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<!-- - EDGAR Ease Plus 1.0                                   07/25/03  TT    -->
+<ownershipDocument>
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType>
+   <periodOfReport>2003-08-14</periodOfReport>
+   <notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0000000020</issuerCik>
+        <issuerName>K TRON INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>KTII</issuerTradingSymbol>
+   </issuer>
+   <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001145949</rptOwnerCik>
+            <rptOwnerName>CLOUES EDWARD B II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>K-TRON INTERNATIONAL INC</rptOwnerStreet1>
+            <rptOwnerStreet2>ROUTES 55 &amp; 553</rptOwnerStreet2>
+            <rptOwnerCity>PITMAN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+         <isDirector>1</isDirector>
+         <isOfficer>1</isOfficer>
+         <isTenPercentOwner>0</isTenPercentOwner>
+         <isOther>0</isOther>
+         <officerTitle>Chairman of the Board and CEO</officerTitle>
+      </reportingOwnerRelationship>
+   </reportingOwner>
+ <nonDerivativeTable>
+   <nonDerivativeTransaction>
+      <securityTitle>
+         <value>Common Stock</value>
+      </securityTitle>
+      <transactionDate>
+         <value>2003-08-14</value>
+      </transactionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>M</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>8000</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>14.00</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>83360</value>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+            <value>D</value>
+         </directOrIndirectOwnership>
+      </ownershipNature>
+   </nonDerivativeTransaction>
+ </nonDerivativeTable>
+ <derivativeTable>
+   <derivativeTransaction>
+      <securityTitle>
+         <value>Stock Option</value>
+      </securityTitle>
+      <conversionOrExercisePrice>
+         <value>14.00</value>
+      </conversionOrExercisePrice>
+      <transactionDate>
+         <value>2003-08-14</value>
+      </transactionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>A</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>8000</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>0</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <exerciseDate>
+            <footnoteId id="F1"/>
+      </exerciseDate>
+      <expirationDate>
+         <value>2007-10-05</value>
+      </expirationDate>
+      <underlyingSecurity>
+         <underlyingSecurityTitle>
+           <value>Common Stock</value>
+         </underlyingSecurityTitle>
+         <underlyingSecurityShares>
+           <value>35710</value>
+         </underlyingSecurityShares>
+      </underlyingSecurity>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>27710</value>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+           <value>D</value>
+         </directOrIndirectOwnership>
+      </ownershipNature>
+   </derivativeTransaction>
+ </derivativeTable>
+   <footnotes>
+      <footnote id="F1"> Option exercisable in increments of 7,142 shares on each of October 6, 1997, January 5, 1998, January 5, 1999, January 5, 2000 and January 4, 2001.</footnote>
+   </footnotes>
+   <ownerSignature>
+      <signatureName>Edward B. Cloues, II</signatureName>
+      <signatureDate>2003-08-18</signatureDate>
+   </ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

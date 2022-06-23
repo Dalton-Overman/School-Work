@@ -1,0 +1,43 @@
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>3
+<FILENAME>w46943ex21-1.txt
+<DESCRIPTION>K-TRON INTERNATIONAL, INC SUBSIDIARIES
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 21.1
+
+                           K-Tron International, Inc.
+                              List of Subsidiaries*
+
+<TABLE>
+<CAPTION>
+                                                                          State or Jurisdiction
+Name of Subsidiary                                                        of Incorporation
+------------------                                                        ----------------
+<S>                                                                        <C>
+K-Tron Investment Co .............................................         Delaware
+        K-Tron Sales Corporation .................................         Barbados
+        Hurricane Pneumatic Conveying Inc ........................         Canada
+        K-Tron America, Inc ......................................         Delaware
+                      Colormax Limited ...........................         England
+        K-Tron (Schweiz) AG ......................................         Switzerland
+                 K-Tron Asia Pacific Holding Pte Ltd .............         Singapore
+                           K-Tron Asia Pacific Pte ...............         Singapore
+                 K-Tron China Ltd ................................         China
+                 K-Tron Deutschland GmbH .........................         Germany
+                 K-Tron France S.a.r.l ...........................         France
+                 K-Tron Great Britain Ltd. .......................         England
+K-Tron Technologies, Inc. ........................................         Delaware
+</TABLE>
+
+-------------
+
+*       Pursuant to applicable Securities and Exchange Commission regulations,
+        the Registrant has omitted those subsidiaries which when considered in
+        the aggregate as a single subsidiary, would not have been considered a
+        significant subsidiary as of the end of fiscal year 2000.
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,40 @@
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>5
+<FILENAME>w84734exv23w1.txt
+<DESCRIPTION>CONSENT OF KPMG LLP
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 23.1
+
+                         Independent Auditors' Consent
+
+The Board of Directors and Shareholders
+K-Tron International, Inc.
+
+We consent to the incorporation by reference in the registration statements
+(Nos. 333-52523, 333-26531, 33-07921, 33-39039, 33-39040, 33-08043 and 2-72898)
+on Form S-8 of K-Tron International, Inc. of our report dated February 10, 2003
+with respect to the consolidated balance sheet of K-Tron International, Inc. and
+subsidiaries as of December 28, 2002 and the related consolidated statements of
+income, changes in shareholders' equity, and cash flows for the year ended
+December 28, 2002, and the related financial statement schedule, which report
+appears in the December 28, 2002 annual report on Form 10-K of K-Tron
+International, Inc.
+
+Our report refers to our audit of the disclosures added to revise the fiscal
+2001 and fiscal 2000 consolidated financial statements, as more fully described
+in Note 7 to the consolidated financial statements. However, we were not engaged
+to audit, review, or apply any procedures to the fiscal 2001 and fiscal 2000
+consolidated financial statements other than with respect to such disclosures.
+
+                                  /s/ KPMG LLP
+
+Philadelphia, Pennsylvania
+March 25, 2003
+
+
+
+</TEXT>
+</DOCUMENT>

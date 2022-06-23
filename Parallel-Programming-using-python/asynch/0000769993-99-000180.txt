@@ -1,0 +1,525 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NR7NRe8Zl/zlLvZmeZFUSulM2/bz9YjA7ffaMpkXJFIGUwe+pM58Rqr5HRQQn2Pw
+ 8FZMvBggiosSgP2qPGw00w==
+
+<SEC-DOCUMENT>0000769993-99-000180.txt : 19990215
+<SEC-HEADER>0000769993-99-000180.hdr.sgml : 19990215
+ACCESSION NUMBER:		0000769993-99-000180
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990212
+GROUP MEMBERS:		GOLDMAN SACHS GROUP LP
+GROUP MEMBERS:		GOLDMAN, SACHS & CO.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		99535498
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP LP
+		CENTRAL INDEX KEY:			0000904571
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133501777
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 BROAD ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2129021000
+
+	MAIL ADDRESS:	
+		STREET 1:		85 BROAD STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+<PAGE>
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13G
+                    Under the Securities Exchange Act of 1934
+                                 
+
+
+
+                           K-Tron International, Inc.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+
+                          Common Stock, $0.01 par value
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    482730108
+                  --------------------------------------------
+                                 (CUSIP Number)
+
+
+
+
+
+                                December 31, 1998
+- -------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X] Rule 13d-1(b)
+
+[_] Rule 13d-1(c)
+
+[_] Rule 13d-1(d)
+
+
+
+                                Page 1 of 9 pages
+<PAGE>
+
+- -----------------------
+  CUSIP No.  482730108                   13G
+- -----------------------
+
+- ------------------------------------------------------------------------------
+ 1.   Name of Reporting Person
+      I.R.S. Identification No. of above Person
+
+           Goldman, Sachs & Co.
+
+- ------------------------------------------------------------------------------
+ 2.   Check the Appropriate Box if a Member of a Group
+                                                                (a) [_]
+                                                                (b) [_]
+
+- ------------------------------------------------------------------------------
+ 3.   SEC Use Only
+ 
+
+
+- ------------------------------------------------------------------------------
+ 4.   Citizenship or Place of Organization
+ 
+           New York
+
+- ------------------------------------------------------------------------------
+                     5.   Sole Voting Power
+                     
+     Number of                 0
+
+      Shares        ----------------------------------------------------------
+                     6.   Shared Voting Power
+   Beneficially      
+                               173,100
+     Owned by
+                    ----------------------------------------------------------
+       Each          7.   Sole Dispositive Power
+                     
+    Reporting                  0
+
+      Person        ----------------------------------------------------------
+                     8.   Shared Dispositive Power
+       With:          
+                               236,700
+
+- ------------------------------------------------------------------------------
+ 9.   Aggregate Amount Beneficially Owned by Each Reporting Person
+ 
+           236,700
+
+- ------------------------------------------------------------------------------
+10.   Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+
+                                                                    [_]
+
+- ------------------------------------------------------------------------------
+11.   Percent of Class Represented by Amount in Row (9)
+
+           7.8%
+
+- ------------------------------------------------------------------------------
+12.   Type of Reporting Person
+
+           BD-PN-IA
+
+- ------------------------------------------------------------------------------
+
+                      
+
+                                Page 2 of 9 pages
+<PAGE>
+
+- -----------------------
+  CUSIP No.  482730108                   13G
+- -----------------------
+
+- ------------------------------------------------------------------------------
+ 1.   Name of Reporting Person
+      I.R.S. Identification No. of above Person
+
+           The Goldman Sachs Group, L.P.
+
+- ------------------------------------------------------------------------------
+ 2.   Check the Appropriate Box if a Member of a Group
+                                                                (a) [_]
+                                                                (b) [_]
+
+- ------------------------------------------------------------------------------
+ 3.   SEC Use Only
+ 
+
+
+- ------------------------------------------------------------------------------
+ 4.   Citizenship or Place of Organization
+ 
+           Delaware
+
+- ------------------------------------------------------------------------------
+                     5.   Sole Voting Power
+                     
+     Number of                 0
+
+      Shares        ----------------------------------------------------------
+                     6.   Shared Voting Power
+   Beneficially      
+                               173,100
+     Owned by
+                    ----------------------------------------------------------
+       Each          7.   Sole Dispositive Power
+                     
+    Reporting                  0
+
+      Person        ----------------------------------------------------------
+                     8.   Shared Dispositive Power
+       With:          
+                               236,700
+
+- ------------------------------------------------------------------------------
+ 9.   Aggregate Amount Beneficially Owned by Each Reporting Person
+ 
+           236,700
+
+- ------------------------------------------------------------------------------
+10.   Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+
+                                                                    [_]
+
+- ------------------------------------------------------------------------------
+11.   Percent of Class Represented by Amount in Row (9)
+
+           7.8%
+
+- ------------------------------------------------------------------------------
+12.   Type of Reporting Person
+
+           HC-PN
+
+- ------------------------------------------------------------------------------
+
+                      
+
+                                Page 3 of 9 pages
+<PAGE>
+ 
+Item 1(a).         Name of Issuer:
+                   K-Tron International, Inc.
+
+Item 1(b).         Address of Issuer's Principal Executive Offices:
+                   Routes 55 and 553
+                   P.O. Box 888   
+                   Pitman, NJ  08071-0888
+
+Item 2(a).         Name of Persons Filing:
+                   Goldman, Sachs & Co. and The Goldman Sachs Group, L.P.
+
+Item 2(b).         Address of Principal Business Office or, if none, Residence:
+                   85 Broad Street
+                   New York, NY  10004
+
+Item 2(c).         Citizenship:
+                   Goldman, Sachs & Co. - New York
+                   The Goldman Sachs Group, L.P. - Delaware
+
+Item 2(d).         Title of Class of Securities:
+                   Common Stock, $0.01 par value
+
+Item 2(e).         CUSIP Number:
+                    482730108
+
+Item 3.            If this statement is filed pursuant to Rules 13d-1(b) or
+                   13d-2(b) or (c), check whether the person filing is a :
+
+          (a).[X]  Broker or dealer registered under Section 15 of the Act
+                   (15 U.S.C. 78o). 
+                              Goldman, Sachs & Co.
+
+          (b).[_]  Bank as defined in Section 3(a)(6) of the Act 
+                   (15 U.S.C. 78c).
+
+          (c).[_]  Insurance company as defined in Section 3(a)(19) of the Act
+                   (15 U.S.C. 78c).
+
+          (d).[_]  Investment company registered under Section 8 of the
+                   Investment Company Act of 1940 (15 U.S.C. 80a-8).
+
+          (e).[X]  An investment adviser in accordance with 
+                   Rule 13d-1(b)(1)(ii)(E); 
+                              Goldman, Sachs & Co.
+
+          (f).[_]  An employee benefit plan or endowment fund in accordance     
+                   with Rule 13d-1(b)(1)(ii)(F);
+
+          (g).[X]  A parent holding company or control person in accordance 
+                   with Rule 13d-1(b)(1)(ii)(G); 
+                              The Goldman Sachs Group, L.P.
+
+          (h).[_]  A savings association as defined in Section 3(b) of the
+                   Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+          (i).[_]  A church plan that is excluded from the definition of an
+                   investment company under Section 3(c)(14) of the 
+                   Investment Company Act of 1940 (15 U.S.C. 80a-3);
+
+          (j).[_]  Group, in accordance with Rule 13d-1(b)(1)(ii)(J).
+
+
+
+                              Page 4 of 9 pages
+<PAGE>
+
+Item 4.            Ownership.*
+
+          (a).     Amount beneficially owned:
+                   See the response(s) to Item  9 on the attached cover page(s).
+
+          (b).     Percent of Class:
+                   See the response(s) to Item 11 on the attached cover page(s).
+
+          (c).     Number of shares as to which such person has:
+
+                   (i).     Sole power to  vote or to direct  the vote:  See the
+                            response(s) to Item 5 on the attached cover page(s).
+                            
+                   (ii).    Shared power to vote or to direct the vote:  See the
+                            response(s) to Item 6 on the attached cover page(s).
+                            
+                   (iii).   Sole power to  dispose or to direct  the disposition
+                            of:  See the response(s) to  Item 7  on the attached
+                            cover page(s).
+
+                   (iv).    Shared power to dispose or to direct the disposition
+                            of:  See the response(s) to  Item 8  on the attached
+                            cover page(s).
+
+Item 5.            Ownership of Five Percent or Less of a Class.
+                             Not Applicable
+
+Item 6.            Ownership of More than Five Percent on Behalf of Another 
+                   Person.
+                             Not Applicable
+
+Item 7.            Identification  and  Classification  of the Subsidiary  Which
+                   Acquired the Security Being Reported on by the Parent Holding
+                   Company.
+                             See Exhibit (99.2)
+
+Item 8.            Identification and Classification of Members of the Group.
+                             Not Applicable
+
+Item 9.            Notice of Dissolution of Group.
+                             Not Applicable
+
+Item 10.           Certification.
+                   By signing  below I certify that, to the best of my knowledge
+                   and belief,  the  securities  referred to above were acquired
+                   and are held in the ordinary  course of business and were not
+                   acquired  and are not  held  for the  purpose  of or with the
+                   effect of changing or  influencing  the control of the issuer
+                   of the  securities  and were not acquired and are not held in
+                   connection with or as a participant in any transaction having
+                   that purpose or effect.
+
+
+- --------------------------
+     * The Goldman  Sachs Group,  L.P.  ("GS  Group") and  Goldman,  Sachs & Co.
+("Goldman  Sachs")  each  disclaim   beneficial   ownership  of  the  securities
+beneficially  owned by (i) any client  accounts  with  respect to which  Goldman
+Sachs or employees of Goldman  Sachs have voting or  investment  discretion,  or
+both and (ii) certain investment entities,  of which a subsidiary of GS Group or
+Goldman Sachs is the general partner, managing general partner or other manager,
+to the extent  interests  in such  entities  are held by  persons  other than GS
+Group, Goldman Sachs or their affiliates.
+
+
+
+                              Page 5 of 9 pages
+<PAGE>
+
+                                    SIGNATURE
+
+            After reasonable inquiry and to the best of my knowledge
+            and belief,  I certify that the information set forth in
+            this statement is true, complete and correct.
+
+
+Date:  February 14, 1999
+
+
+                                THE GOLDMAN SACHS GROUP, L.P.
+
+
+                                By: /s/ Hans L. Reich 
+                                   ----------------------------------------
+                                Name:   Hans L. Reich
+                                Title:  Attorney-in-fact
+
+
+
+                                GOLDMAN, SACHS & CO.
+
+
+                                By: /s/ Hans L. Reich
+                                   ----------------------------------------
+                                Name:   Hans L. Reich
+                                Title:  Attorney-in-fact
+
+
+
+                              Page 6 of 9 pages
+<PAGE>
+ 
+                               INDEX TO EXHIBITS
+
+
+
+
+Exhibit No.             Exhibit
+- -----------             -------
+
+  99.1                  Joint Filing Agreement, dated February 14, 1999, between
+                        The Goldman Sachs Group, L.P.  and  Goldman, Sachs & Co.
+
+  99.2                  Item 7 Information
+
+
+
+                              Page 7 of 9 pages
+<PAGE>
+ 
+                                                                  EXHIBIT (99.1)
+
+
+
+                            JOINT FILING AGREEMENT
+
+
+
+     In  accordance  with  Rule 13d-1(k)(1)  promulgated  under  the  Securities
+Exchange Act of 1934, the  undersigned  agree to the joint filing of a Statement
+on Schedule 13G (including  any and all amendments  thereto) with respect to the
+Common Stock, $0.01 par value, of K-Tron International, Inc.,  and further
+agree to the filing of this agreement as an Exhibit thereto.  In addition,  each
+party to this Agreement expressly  authorizes each other party to this Agreement
+to file on its behalf any and all amendments to such  Statement on Schedule 13G.
+
+
+Date:  February 14, 1999
+
+
+                                  THE GOLDMAN SACHS GROUP, L.P.
+
+
+                                  By: /s/ Hans L. Reich
+                                     --------------------------------------
+                                  Name:   Hans L. Reich
+                                  Title:  Attorney-in-fact
+
+
+
+                                  GOLDMAN, SACHS & CO.
+
+
+                                  By: /s/ Hans L. Reich
+                                     --------------------------------------
+                                  Name:   Hans L. Reich
+                                  Title:  Attorney-in-fact
+
+
+
+                              Page 8 of 9 pages
+<PAGE>
+ 
+                                                                  EXHIBIT (99.2)
+
+
+
+                              ITEM 7 INFORMATION
+
+
+
+     Goldman,  Sachs & Co. is a broker or dealer  registered under Section 15 of
+the Act and an investment adviser registered under Section 203 of the Investment
+Advisers Act of 1940.
+
+
+
+                              Page 9 of 9 pages
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

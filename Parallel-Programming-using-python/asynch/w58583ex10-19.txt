@@ -1,0 +1,87 @@
+<DOCUMENT>
+<TYPE>EX-10.19
+<SEQUENCE>8
+<FILENAME>w58583ex10-19.txt
+<DESCRIPTION>LETTER AGREEMENT DATED BETWEEN K-TRON & THE BANK
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.19
+
+                   [THE BANK OF GLOUCESTER COUNTY LETTERHEAD]
+
+
+
+November 30, 2001
+
+
+
+Ronald Remick
+Senior Vice President & Chief Financial Officer
+K-Tron International, Inc.
+
+Patricia M. Moore
+Vice President Finance
+K-Tron America, Inc.
+
+P.O. Box 888
+Pitman, NJ 08071-0888
+
+Dear Mr. Remick & Ms. Moore:
+
+At present K-Tron America, Inc. (KA) has a net worth loan covenant on its credit
+facilities with The Bank of Gloucester County as follows:
+
+      KA will not without prior written consent of The Bank permit the
+      consolidated net worth of K-Tron International, Inc. (KI) to be less than
+      $23,400,000. at fiscal year end 2001 and each fiscal year thereafter,
+      excluding any declines due to changes in foreign exchange rates subsequent
+      to January 1, 2000.
+
+At the request of KA & KI, The Bank of Gloucester County hereby agrees to alter
+that covenant on all KA credit facilities to the following:
+
+      KA will not without prior written consent of The Bank permit the
+      consolidated net worth of KI to be less than $21,800,000. at fiscal year
+      end 2001 and each fiscal year thereafter, excluding any declines due to
+      changes in foreign exchange rates subsequent to January 1, 2000.
+
+All other terms, conditions, and covenants of the existing credit facilities
+(including but not limited to the debt to net worth ratio of KI and the annual
+debt coverage ratio of KI) remain unchanged except as specifically altered
+above.
+<PAGE>
+Kindly review this alteration, and if you are in agreement with it please sign
+below as your acceptance of the alteration.
+
+Sincerely,
+The Bank of Gloucester County
+
+
+/s/ David J. Hanrahan, Sr.
+David J. Hanrahan, Sr.
+Senior Vice President
+
+
+
+ACCEPTED BY:
+
+K-Tron America, Inc.
+
+
+/s/ Patricia M. Moore               11/30/01
+--------------------------------------------
+Patricia M. Moore                   Date
+Vice President Finance
+
+K-Tron International, Inc.
+
+/s/ Ronald Remick                   11/30/01
+--------------------------------------------
+Ronald Remick                       Date
+Senior Vice President/CFO
+
+
+
+
+</TEXT>
+</DOCUMENT>

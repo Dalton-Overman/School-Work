@@ -1,0 +1,323 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ux6EuTtIyRJqE0p9/jpKZ09fwb9bqJe9gz3+b7HWJbRNW9ABHbYacA92NN4VAA1J
+ Gy4Dmo3W9y3hQuK8llfoMA==
+
+<SEC-DOCUMENT>0000950159-03-000835.txt : 20031021
+<SEC-HEADER>0000950159-03-000835.hdr.sgml : 20031021
+<ACCEPTANCE-DATETIME>20031021113928
+ACCESSION NUMBER:		0000950159-03-000835
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20031016
+ITEM INFORMATION:		
+FILED AS OF DATE:		20031021
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03949148
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.txt
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  _____________
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+       Date of report (Date of earliest event reported): October 16, 2003
+                                                         ----------------
+
+
+                           K-TRON INTERNATIONAL, INC.
+                  -------------------------------------------
+                 (Exact Name of Registrant Specified in Charter)
+
+
+      New Jersey                     0-9576                     22-1759452
+      (State or Other            (Commission File          (I.R.S. Employer
+      Jurisdiction of                Number)              Identification No.)
+      Incorporation)
+- ----------------------------- -------------------------- -----------------------
+
+
+             Routes 55 & 553
+               P.O. Box 888
+             Pitman, New Jersey                             08071-0888
+          ------------------------                          ----------
+  (Address of Principal Executive Offices)                  (Zip Code)
+- --------------------------------------------------------------------------------
+
+
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                            -------------
+
+
+                                 Not Applicable
+           ----------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+<PAGE>
+
+
+Item 12.  Results of Operations and Financial Condition.
+
+      On October 16, 2003,  K-Tron  International,  Inc.  issued a press release
+announcing its third quarter and first nine months 2003 financial  results.  The
+press  release is being  filed with this  Current  Report on Form 8-K as Exhibit
+99.1 and is hereby incorporated herein by reference.
+
+
+
+
+
+                                      -2-
+
+<PAGE>
+
+
+
+                                    SIGNATURE
+
+
+      Pursuant to the  requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+
+                                             K-TRON INTERNATIONAL, INC.
+
+
+                                                  By /s/ Edward B. Cloues, II
+                                                  ----------------------------
+                                                  Edward B. Cloues, II
+                                                  Chairman of the Board and
+                                                  Chief Executive Officer
+
+
+
+Dated: October 21, 2003
+
+
+                                      -3-
+
+<PAGE>
+
+
+
+                                  Exhibit Index
+                                 --------------
+
+         Exhibit
+         -------
+
+            99.1        Press Release,  dated October 16, 2003, issued by K-Tron
+                        International, Inc.
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exhibit99.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                 Exhibit 99.1
+
+
+K-TRON INTERNATIONAL, INC.
+Routes 55 & 553, PO Box 888
+Pitman, NJ 08071-0888
+(856) 589-0500                                             FAX (856) 582-7968
+www.ktron.com
+E-mail: ktii@ktron.com
+
+
+
+For Release:      Immediately
+
+Contact:        Ronald Remick, Senior Vice President and Chief Financial Officer
+                 Tel: (856) 256-3311          E-mail: remick@ktron.com
+
+
+             K-TRON REPORTS $ 0.36 PER SHARE THIRD QUARTER EARNINGS
+
+Pitman, New Jersey - - October 16, 2003 - - K-Tron International, Inc.
+(NASDAQ-KTII) today reported third quarter 2003 net income of $0.910 million, or
+$0.36 per share (diluted), on revenues of $22.16 million compared to net income
+of $0.836 million, or $0.34 per share (diluted), on revenues of $16.91 million
+for the same period in 2002.
+
+For the first nine months of 2003, K-Tron reported net income of $2.610 million,
+or $1.05 per share (diluted), on revenues of $68.22 million compared to $2.401
+million, or $0.97 per share (diluted), on revenues of $50.56 million for the
+same period in 2002.
+
+In announcing the above results, the Company pointed out that if the average
+foreign currency exchange rates for the third quarter and first nine months of
+2002 were applied to the same periods in 2003, the Company's revenues would have
+increased approximately 28 percent for the third quarter of 2003 instead of 31
+percent and would have increased approximately 27 percent for the first nine
+months of 2003 instead of 35 percent, in each case compared to the numbers
+reported for the same periods in 2002, and its net income and earnings per share
+for the first nine months of 2003 (but not the third quarter) would have been
+lower than reported. This is due to a significantly weaker U.S. dollar in the
+first nine months of 2003 compared to the same period in 2002 against the Swiss
+franc, the euro and other relevant foreign currencies.
+
+Commenting on the Company's results, K-Tron Chairman and Chief Executive Officer
+Edward B. Cloues, II said, "K-Tron turned in another good performance in the
+third quarter, despite continued sluggishness in capital equipment spending
+affecting nearly all of the major industrial markets that we serve. Net income
+was up almost nine percent over last year's third quarter, while earnings per
+share increased approximately six percent. For the first nine months of 2003,
+both net income and earnings per share were up between eight and nine percent
+compared to the same period in 2002. So far this year, the key to our success
+has been our January 2, 2003 acquisition of Pennsylvania Crusher Corporation.
+While Penn Crusher's 2003 results have been somewhat impacted by weaker than
+normal spending for its size reduction equipment by electric utilities, its
+revenues and still solid profitability during the first three quarters have more
+than offset the lower revenues and profits in the feeder and pneumatic conveying
+parts of our material handling business."
+
+<PAGE>
+
+
+In addition to his comments on operating results, Mr. Cloues noted that K-Tron
+had reduced its worldwide debt by $1.55 million in the third quarter, from
+$31.22 million to $29.67 million, while at the same time improving its cash
+position by $660 thousand from $5.95 million to $6.61 million. Foreign exchange
+was not a significant factor in either of these changes.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service material handling equipment and systems for a wide variety of industrial
+markets. The Company has manufacturing facilities in the United States,
+Switzerland, the United Kingdom and Canada, and its equipment is sold throughout
+the world.
+
+                                    * * * * *
+
+                            (Financial Data Follows)
+
+
+
+
+                                        2
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+                                   (Unaudited)
+                    (Dollars in thousands, except share data)
+
+                                                     Three Months Ended                         Nine Months Ended
+                                                     ------------------                         ------------------
+                                              September 27,           September 28,        September 27,        September 28,
+                                                  2003                    2002                  2003                 2002
+                                                  ----                    ----                  ----                 ----
+<S>                                             <C>                     <C>                   <C>                  <C>
+Revenues                                        $22,158                 $16,905               $68,217              $50,560
+                                                =======                 =======               =======              =======
+
+Operating income                                 $1,794                  $1,276                $4,937               $3,761
+
+Interest expense                                    429                     104                 1,209                 406
+                                                -------                 -------               -------              -------
+
+Income before income taxes                        1,365                   1,172                 3,728                3,355
+
+Income taxes                                        455                     336                 1,118                  954
+                                                -------                 -------               -------              -------
+
+Net income                                        $ 910                   $ 836                $2,610               $2,401
+                                                =======                 =======               =======              =======
+
+Basic earnings per share                         $ 0.37                  $ 0.34                $ 1.07               $ 0.99
+                                                =======                 =======               =======              =======
+
+Diluted earnings per share                       $ 0.36                  $ 0.34                $ 1.05               $ 0.97
+                                                =======                 =======               =======              =======
+
+Average number of common                      2,439,000               2,432,000             2,434,000            2,432,000
+   shares outstanding (basic)                 =========               =========             =========            =========
+
+
+Average number of common                      2,508,000               2,468,000             2,494,000            2,463,000
+  & common equivalent                         =========               =========             =========            =========
+  shares outstanding (diluted)
+
+
+</TABLE>
+
+                                       3
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

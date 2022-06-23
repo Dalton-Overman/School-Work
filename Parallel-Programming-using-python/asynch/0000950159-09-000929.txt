@@ -1,0 +1,1883 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Umrjtggf/U5t1gulyXsSnG9CItlzFaJai5vvyo4IfFziVEAyoQ5HPz+6oks12eKI
+ JfDWMSw8qqsdeW7NatsmvA==
+
+<SEC-DOCUMENT>0000950159-09-000929.txt : 20090330
+<SEC-HEADER>0000950159-09-000929.hdr.sgml : 20090330
+<ACCEPTANCE-DATETIME>20090330111615
+ACCESSION NUMBER:		0000950159-09-000929
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20090325
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090330
+DATE AS OF CHANGE:		20090330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		09712677
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.htm
+<DESCRIPTION>K-TRON FORM 8-K
+<TEXT>
+<html>
+  <head>
+    <title>ktron8k.htm</title>
+<!-- Licensed to: The Scullin Group-->
+<!-- Document Created using EDGARizer 4.0.6.1 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED
+STATES</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">WASHINGTON,
+D.C.&#160;&#160;20549</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">_____________</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">FORM
+8-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT
+REPORT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">PURSUANT
+TO SECTION 13 OR 15(d) OF THE</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+EXCHANGE ACT OF 1934</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date of
+report (Date of earliest event reported):&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">March 25,
+2009</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">K-TRON INTERNATIONAL,
+INC.</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Exact
+Name of Registrant Specified in Charter)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid">
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">New Jersey</font></font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State
+      or Other</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jurisdiction
+      of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Incorporation)</font></div>
+            </td>
+            <td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid">
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">0-9576</font></font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission
+      File</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Number)</font></div>
+            </td>
+            <td valign="top" width="19%" style="BORDER-TOP: #ffffff 0.75pt solid">
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">22-1759452</font></font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(I.R.S.
+      Employer</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification
+      No.)</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="center">
+        <div align="center">
+          <div align="center">
+            <div align="center">
+              <div align="center">
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                      <td valign="top" width="53%" style="BORDER-TOP: #ffffff 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                      <td colspan="2" valign="top" width="25%" style="BORDER-TOP: #ffffff 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" width="53%">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Routes
+      55 &amp; 553</font></div>
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">P.O.
+      Box 888</font></div>
+                      </td>
+                      <td colspan="2" valign="top" width="25%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" width="48%" style="BORDER-BOTTOM: black 2px solid">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pitman,
+      New Jersey</font></div>
+                      </td>
+                      <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                      <td valign="top" width="19%" style="BORDER-BOTTOM: black 2px solid">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">08071-0888</font></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top" width="53%">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address
+      of Principal Executive Offices)</font></div>
+                      </td>
+                      <td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                      <td valign="top" width="13%">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip
+      Code)</font></div>
+                      </td>
+                    </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Registrant's
+telephone number, including area code:&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">(856)
+589-0500</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Not
+Applicable</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Former
+Name or Former Address, if Changed Since Last Report)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)</font></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]</font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement
+      communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+      240.14d-2(b))</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[&#160;&#160;]</font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement
+      communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+      240.13e-4(c))</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item
+5.02&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Departure
+of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;On
+March 25, 2009, Mr. Ronald R. Remick advised the Board of Directors of K-Tron
+International, Inc. (the &#8220;Company&#8221;) of his intention to resign from his
+positions of Senior Vice President, Chief Financial Officer and Treasurer,
+effective May 30, 2009, due to his pending retirement.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(c)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Upon
+receipt of Mr. Remick&#8217;s notice of resignation, the Board of Directors of the
+Company elected Mr. Robert E. Wisniewski to the positions of Senior Vice
+President, Chief Financial Officer and Treasurer of the Company effective May
+30, 2009 upon the retirement of Mr. Remick.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Wisniewski has brought to the Company over 30 years of experience in
+manufacturing and public accounting.&#160;&#160;Mr. Wisniewski, 55, is currently
+Vice President, Finance of K-Tron America, Inc. and Chief Financial Officer of
+the global K-Tron Process Group, which is one of the Company&#8217;s two lines of
+business.&#160;&#160;Prior to joining the Company, Mr. Wisniewski served as a
+Managing Director of ELB Capital Management LLC and FB Capital Partners, LP, two
+private equity/income partnerships, from June 2005 until February
+2008.&#160;&#160;Mr. Wisniewski worked as an independent financial and
+management consultant from September 2003 to May 2005.&#160;&#160;Mr. Wisniewski
+served as Executive Vice President and Chief Financial Officer of Safeguard
+Business Systems, Inc. from June 2002 until August 2003 and held the same
+position at Hospitality Solutions International, Inc. from September 2000
+through April 2002.&#160;&#160;Mr. Wisniewski is a certified public accountant
+and worked for Ernst &amp; Young LLP for over 11 years.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+connection with the election of Mr. Wisniewski as Senior Vice President, Chief
+Financial Officer and Treasurer of the Company, Mr. Wisniewski entered into an
+Amended and Restated Employment Agreement (the &#8220;Employment Agreement&#8221;), dated as
+of March 26, 2009, with the Company.&#160;&#160;The term of Mr. Wisniewski&#8217;s
+employment under the Employment Agreement commenced on February 23, 2008 and
+will continue until terminated in accordance with the provisions of the
+Employment Agreement.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commensurate
+with his additional responsibilities, Mr. Wisniewski&#8217;s annual salary will
+increase from $190,000 to $240,000, effective May 30, 2009. Mr. Wisniewski is
+also entitled to (i) a car allowance of not less than $12,000 annually, (ii)
+annual vacation of five weeks per year and (iii) participation in employee
+benefits of the Company on the same basis as other senior level executives of
+the Company.&#160;&#160;Mr. Wisniewski will receive reimbursement of all
+ordinary and necessary out-of-pocket business expenses incurred by him in the
+discharge of his duties and responsibilities in accordance with Company
+policy.&#160;&#160;Reimbursable expenses will include maintenance of his CPA
+license and memberships in a reasonable number of professional
+associations.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In the
+event of Mr. Wisniewski&#8217;s death, the Company will pay to his personal
+representative an amount equal to his base salary for the month in which he dies
+and for three months thereafter.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In the
+event the Company terminates Mr. Wisniewski&#8217;s employment without cause or he
+resigns for good reason, and if he executes and does not revoke a written
+release, Mr. Wisniewski will be entitled to receive 100% of his base salary and
+car allowance.&#160;&#160;He will receive a cash payment equal to the after-tax
+cost that he would incur to continue health care benefits for the one-year
+period following his termination date, less the cost paid by active Company
+employees for comparable coverage.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employment Agreement provides that during the employment term and for one year
+thereafter in the event that Mr. Wisniewski&#8217;s employment is terminated (i) by
+reason of his disability, (ii) by the Company for cause or (iii) by him without
+good reason, Mr. Wisniewski may not compete with the Company and may not solicit
+any customer or employee of the Company.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There is
+no arrangement or understanding between Mr. Wisniewski and any other persons
+pursuant to which he was elected as Senior Vice President, Chief Financial
+Officer and Treasurer of the Company.&#160;&#160;Mr. Wisniewski has no family
+relationship with any director or executive officer of the Company.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Wisniewski&#8217;s Employment Agreement is being filed as Exhibit 10.1
+hereto.&#160;&#160;The press release announcing the election of Mr. Wisniewski
+is attached hereto as Exhibit 99.1.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item
+9.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Financial
+Statements and Exhibits.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(a) Financial Statements of Businesses
+Acquired.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(b) Pro Forma Financial
+Information.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(c) Shell Company
+Transactions.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(d) Exhibits.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit
+No.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Description</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><a href="ex10-1.htm">10.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Amended
+and Restated Employment Agreement, dated as of March 26, 2009, by and between
+K-Tron International, Inc. and Robert E. Wisniewski</a>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><a href="ex99-1.htm">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+Press Release dated March 26, 2009 issued by K-Tron International,
+Inc</a>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunto duly
+authorized.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="right">
+        <table cellpadding="0" cellspacing="0" width="50%">
+            <tr>
+              <td align="left" colspan="2" valign="top" width="45%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON
+      INTERNATIONAL, INC.</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="5%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By</font></div>
+              </td>
+              <td align="left" valign="top" width="40%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">EDWARD B. CLOUES, II</font></font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td align="left" valign="top" width="40%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Edward
+      B. Cloues, II</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td align="left" valign="top" width="40%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chairman
+      of the Board and</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td align="left" valign="top" width="40%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Executive Officer</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dated:
+March 30, 2009</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit
+Index</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="left" valign="top" width="19%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Exhibit Number</font></font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+              <td align="left" valign="top" width="54%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Description</font></font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="19%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex10-1.htm">10.1</a></font></div>
+              </td>
+              <td align="left" valign="top" width="54%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex10-1.htm">Amended and Restated Employment Agreement, dated as of
+      March 26, 2009, by and between K-Tron International, Inc. and Robert E.
+      Wisniewski</a>.</font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="19%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex99-1.htm">99.1</a></font></div>
+              </td>
+              <td align="left" valign="top" width="54%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><a href="ex99-1.htm">Press Release dated March 26, 2009 issued by K-Tron
+      International, Inc</a>.</font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+
+      <div>
+        <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+      </div>
+    </div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<html>
+  <head>
+    <title>ex10-1.htm</title>
+<!-- Licensed to: The Scullin Group-->
+<!-- Document Created using EDGARizer 4.0.6.1 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">EXHIBIT
+10.1</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">EMPLOYMENT
+AGREEMENT</font></font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Amended and Restated as of
+March 26, 2009</font></font></div><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>THIS EMPLOYMENT AGREEMENT (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Agreement</font>&#8221;) dated as
+of March 26, 2009 (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Effective Date</font>&#8221;) by
+and between K-TRON INTERNATIONAL, INC., a New Jersey corporation (&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">K-Tron</font>&#8221;), and ROBERT
+E. WISNIEWSKI (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Employee</font>&#8221;).</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron
+and the Employee are parties to an Amended and Restated Employment Agreement
+dated as of November 11, 2008 (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Existing Agreement</font>&#8221;),
+which provides for the Employee&#8217;s employment by K-Tron or another member of the
+K-Tron Group (K-Tron and its subsidiaries as they may exist from time to time
+are collectively referred to herein as the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">K-Tron Group</font>&#8221; and
+each is sometimes individually referred to herein as a &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">member</font>&#8221; of the K-Tron
+Group), upon the terms and conditions therein set forth.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron
+and the Employee desire to amend the Existing Agreement in various
+respects.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">NOW,
+THEREFORE, the parties hereto, intending to be legally bound, hereby agree that
+the Existing Agreement is amended and restated as follows:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Employment</font>.&#160;&#160;K-Tron
+agrees that either K-Tron or another member of the K-Tron Group will employ the
+Employee, and the Employee hereby accepts such employment and agrees to perform
+his duties and responsibilities hereunder, in accordance with the terms,
+conditions and other provisions hereinafter set forth.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.1</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Employment
+Term</font>.&#160;&#160;The employment term under the Existing Agreement, which
+amended an Employment Agreement dated February 22, 2008, commenced on February
+23, 2008.&#160;&#160;The &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Employment Term</font>&#8221;
+under this Agreement commences on the Effective Date and shall continue until
+terminated in accordance with Section 8 hereof.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.2</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Duties and
+Responsibilities</font>.&#160;&#160;During the Employment Term, the Employee
+shall be employed by K-Tron or another member of the K-Tron Group, as determined
+by K-Tron, and he shall perform all duties and accept all responsibilities
+incidental to any position in which he shall be so employed or as may be
+assigned to him by the Board of Directors of K-Tron (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">K-Tron Board</font>&#8221;) or its
+chief executive officer and shall cooperate fully with the K-Tron Board and
+K-Tron&#8217;s chief executive officer.&#160;&#160;If the Employee is employed by
+another member of the K-Tron Group, the foregoing reference to the K-Tron Board
+and to K-Tron&#8217;s chief executive officer shall also be deemed to include the
+board of directors and chief executive officer of such other
+member.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.3</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Extent of
+Service</font>.&#160;&#160;During the Employment Term, the Employee shall use
+his reasonable best efforts in the business of the member of the K-Tron Group by
+which he is employed, and he shall devote substantially his full time, attention
+and energy to the business of the member of the K-Tron Group by which he is
+employed and to the performance of his services and the discharge of his duties
+and responsibilities hereunder.&#160;&#160;Except as provided in Section 5
+hereof, the foregoing shall not be construed as preventing the Employee from
+making investments in other businesses or enterprises or from being engaged in
+civic or charitable affairs provided that the Employee agrees not to become
+engaged in any other activity which may interfere with his ability to discharge
+his duties and responsibilities hereunder to K-Tron or another member of the
+K-Tron Group.&#160;&#160;The Employee further agrees not to work on either a
+part time or independent contractual basis for any other business or enterprise
+during the Employment Term without the prior written approval of the K-Tron
+Board.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.4</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Compensation and
+Benefits</font>.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(a)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For all
+the services rendered during the Employment Term by the Employee hereunder as an
+employee of a member of the K-Tron Group, such member of the K-Tron Group by
+which he is employed&#160;&#160;shall pay the Employee a base salary (&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Base Salary</font>&#8221;) at an
+annual rate not less than $190,000 from the date hereof through May 29, 2009 and
+thereafter at an annual rate not less than $240,000, which shall be payable in
+installments at such times as such member of the K-Tron Group customarily pays
+its other senior level executives (but in no event less often than
+monthly).&#160;&#160;Such Base Salary may be increased from time to time during
+the Employment Term in the sole discretion of the K-Tron Board or any duly
+authorized committee thereof, and any such increased salary shall thereafter be
+the Employee&#8217;s new Base Salary for all purposes of this
+Agreement.&#160;&#160;Notwithstanding the foregoing, either the K-Tron Board or
+K-Tron&#8217;s chief executive officer, or the board of directors or chief executive
+officer of any other member of the K-Tron Group employing the Employee, shall
+have the right at any time or times to reduce the Employee&#8217;s Base Salary if such
+reduction is generally being made for other officers of K-Tron or of other
+members of the K-Tron Group holding comparable positions.&#160;&#160;The
+Employee shall also be entitled to receive bonus payments in the sole discretion
+of the K-Tron Board or any duly authorized committee thereof.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+addition to such annual salary and bonus payments (if any), the Employee shall
+be entitled to a car allowance (&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Car Allowance</font>&#8221;) of
+not less than $12,000 annually, which shall be earned in bi-weekly
+installments.&#160;&#160;The Employee shall also be entitled to annual paid
+vacation of five weeks per year, and he shall also be entitled to participate in
+such employee benefit plans of K-Tron as may exist from time to time on the same
+basis as other senior level executives of K-Tron.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Reimbursement of
+Expenses</font>.&#160;&#160;The member of the K-Tron Group employing the
+Employee shall reimburse the Employee for all ordinary and necessary
+out-of-pocket business expenses incurred by him in connection with the discharge
+of his duties and responsibilities hereunder during the Employment Term in
+accordance with such company&#8217;s expense approval procedures then in effect and
+upon presentation to such company by the Employee of an itemized account and
+written proof of such expenses.&#160;&#160;Reimbursable expenses shall include
+the Employee&#8217;s maintenance of his CPA license and memberships in a reasonable
+number of professional associations, such as, but not limited to, the AICPA and
+the PICPA.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Developments</font>.&#160;&#160;The
+Employee shall disclose fully, promptly and in writing to K-Tron or to any other
+member of the K-Tron Group by which he is employed any and all inventions,
+discoveries, improvements, modifications and the like, whether patentable or
+not, which he conceives, makes or develops, solely or jointly with others, while
+employed by K-Tron&#160;&#160;or another member of the K-Tron Group and which
+(a) relate to the business, work or activities of any member of the K-Tron Group
+or (b) result from or are suggested by the carrying out of his duties hereunder,
+or from or by any information which he may receive while employed by K-Tron or
+another member of the K-Tron Group.&#160;&#160;The Employee hereby assigns,
+transfers and conveys to K-Tron or its designee all of his right, title and
+interest in and to any and all such inventions, discoveries, improvements,
+modifications and the like and agrees to take all such actions as may be
+requested by K-Tron at any time with respect to any such invention, discovery,
+improvement, modification or the like to confirm or evidence such assignment,
+transfer and conveyance. Furthermore, at any time and from time to time, upon
+the request of K-Tron, the Employee shall execute and deliver to K-Tron, or to
+another member of the K-Tron Group designated by K-Tron, any and all
+instruments, documents and papers, give evidence and do any and all other acts
+which, in the opinion of counsel for K-Tron, are or may be necessary or
+desirable to document such assignment, transfer and conveyance or to enable
+K-Tron or such other member of the K-Tron Group to file and prosecute
+applications for and to acquire, maintain and enforce any and all patents,
+trademark registrations or copyrights under United States or foreign law with
+respect to any such inventions, discoveries, improvements, modifications or the
+like or to obtain any extension, validation, reissue, continuance or renewal of
+any such patent, trademark or copyright. K-Tron or such other member of the
+K-Tron Group shall be responsible for the preparation of any such instruments,
+documents and papers and for the prosecution of any such proceedings and shall
+reimburse the Employee for all reasonable expenses incurred by him in compliance
+with the provisions of this Section 3.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Confidential
+Information</font>.&#160;&#160;The Employee acknowledges that, by reason of his
+employment by K-Tron or another member of the K-Tron Group, he will have access
+to confidential information of the K-Tron Group, including, without limitation,
+information and knowledge pertaining to business strategies, financial
+performance, products, inventions, discoveries, improvements, innovations,
+designs, ideas, trade secrets, proprietary information, manufacturing,
+packaging, advertising, distribution and sales methods, customer and client
+lists and relationships between members of the K-Tron Group and dealers,
+distributors, sales representatives, wholesalers, customers, clients, suppliers
+and others who have business dealings with such members (&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Confidential
+Information</font>&#8221;).&#160;&#160;The Employee acknowledges that such
+Confidential Information is a valuable and unique asset of K-Tron and the other
+members of the K-Tron Group and covenants that, both during and after the
+Employment Term, he will not disclose any such Confidential Information to any
+person (except as his duties as an employee of K-Tron or another member of the
+K-Tron Group may require) without the prior written authorization of the K-Tron
+Board.&#160;&#160;The obligation of confidentiality imposed by this Section 4
+shall not apply to information which appears in issued patents or printed
+publications, which otherwise becomes generally known in the industry through no
+act of the Employee in breach of this Agreement or which is required to be
+disclosed by court order or applicable law.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Non-Competition</font>.&#160;&#160;During
+(a) the Employment Term and (b) for one year thereafter only in the event that
+such Employment Term is terminated under any of Section 8.1 (Voluntary
+Resignation), 8.2 (Partial or Total Disability) or 8.4 (Cause) hereof, the
+Employee shall not, unless acting as an employee pursuant hereto or with the
+prior written consent of the K-Tron Board, directly or indirectly, own, manage,
+operate, finance, join, control or participate in the ownership, management,
+operation, financing or control of, or be connected as an officer, director,
+employee, partner, principal, agent, representative, consultant or otherwise
+with, or use or permit his name to be used in connection with, any business or
+enterprise engaged in the business of designing, engineering, manufacturing,
+marketing, selling or distributing feeding, pneumatic conveying or size
+reduction equipment, or in any other business then engaged in by K-Tron or any
+other member of the K-Tron Group, within (x) any state of the United States or
+the District of Columbia or (y) any other country in which K-Tron or any other
+member of the K-Tron Group has engaged in any such business within the prior
+year or is about to engage in any such business; provided, however, that
+notwithstanding the foregoing, this provision shall not be construed to prohibit
+the passive ownership by the Employee of not more than 1% of the equity of any
+entity which is engaged in any of the foregoing businesses having a class of
+securities registered pursuant to the Securities Exchange Act of 1934, as
+amended (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Exchange
+Act</font>&#8221;).&#160;&#160;In the event that the provisions of this Section 5
+should ever be adjudicated to exceed the time, geographic, product or other
+limitations permitted by applicable law in any jurisdiction, then such
+provisions shall be deemed reformed in such jurisdiction to the maximum time,
+geographic, product or other limitations permitted by applicable
+law.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">No
+Solicitation</font>.&#160;&#160;During (a) the Employment Term and (b) for one
+year thereafter only in the event that such Employment Term is terminated under
+any of Section 8.1 (Voluntary Resignation), 8.2 (Partial or Total Disability) or
+8.4 (Cause) hereof, the Employee shall not, unless acting as an employee
+pursuant hereto or with the prior written consent of the K-Tron Board, (x) call
+on or solicit, either directly or indirectly, any person, firm, corporation or
+other entity who or which is, or within two years prior thereto had been, a
+customer of any member of the K-Tron Group, with respect to any matters
+involving the designing, engineering, manufacturing, marketing, selling or
+distributing of feeding, pneumatic conveying or size reduction equipment or
+involving any other business then engaged in by any member of the K-Tron Group,
+or (y) knowingly solicit for employment any person who is an employee of any
+member of the K-Tron Group (or who was such an employee within six months prior
+to any such termination).</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Equitable
+Relief</font>.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.1</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee acknowledges that the restrictions contained in Sections 3, 4, 5 and 6
+hereof are, in view of the nature of the business of K-Tron and the other
+members of the K-Tron Group, reasonable and necessary to protect the legitimate
+interests of the K-Tron Group, that K-Tron would not have entered into this
+Agreement in the absence of such restrictions, that the business of the K-Tron
+Group is international in scope and that any violation of any provision of those
+Sections could result in irreparable injury to K-Tron and the other members of
+the K-Tron Group.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.2</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee agrees that in the event of any violation of the restrictions referred
+to in Section 7.1 above, K-Tron and any other member of the K-Tron Group shall
+be entitled to preliminary and permanent injunctive relief, without the
+necessity of posting a bond or proving actual damages, and to an equitable
+accounting of all earnings, profits and other benefits arising from any such
+violation, which rights shall be cumulative and in addition to any other rights
+or remedies to which K-Tron or any other member of the K-Tron Group may be
+entitled.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.3</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee irrevocably and unconditionally agrees that in the event of any
+violation of the restrictions referred to in Section 7.1 above, an action may be
+commenced for preliminary and permanent injunctive relief and other equitable
+relief in any federal or state court of competent jurisdiction sitting in
+Gloucester or Camden County, New Jersey or in any other court of competent
+jurisdiction.&#160;&#160;The Employee hereby waives, to the fullest extent
+permitted by law, any objection that he may now or hereafter have to such
+jurisdiction or to the laying of the venue of any such suit, action or
+proceeding brought in such a court and any claim that such suit, action or
+proceeding has been brought in an inconvenient forum.&#160;&#160;The Employee
+agrees that effective service of process may be made upon him by mail under the
+notice provisions contained in Section 13 hereof and that all pleadings, notices
+and other papers may be served upon him in the same manner.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.4</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+non-competition and non-solicitation provisions of Sections 5 and 6 above shall
+be extended by any time period during which the Employee is in violation of any
+such provisions.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.5</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee may provide, and any member of the K-Tron Group may similarly provide,
+a copy of Sections 3, 4, 5 and 6 of this Agreement to any business or enterprise
+(a) which the Employee may directly or indirectly own, manage, operate, finance,
+join, control or participate in the ownership, management, operation, financing
+or control of, or (b) with which he may be connected as an officer, director,
+employee, partner, principal, agent, representative, consultant or otherwise, or
+in connection with which he may use or permit his name to be used; <font style="DISPLAY: inline; TEXT-DECORATION: underline">provided,</font> <font style="DISPLAY: inline; TEXT-DECORATION: underline">however</font>, that this
+provision shall not apply in respect of Sections 5 and 6 of this Agreement after
+expiration of the time periods set forth therein.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.6</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee represents and acknowledges that (a) he has been advised by K-Tron to
+consult his own legal counsel in respect of this Agreement and (b) he has had
+full opportunity to do so.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Termination</font>.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.1</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Voluntary
+Resignation</font>.&#160;&#160;The Employee may terminate the Employment Term
+effective upon not less than 90 days prior written notice to K-Tron. Should the
+Employee elect to terminate the Employment Term on this basis, neither K-Tron
+nor any other member of the K-Tron Group shall have any liability or obligation
+to the Employee hereunder after the date on which the Employment Term ends
+except for any earned but unpaid Base Salary and Car Allowance, unpaid bonus
+previously awarded by the K-Tron Board or any duly authorized committee thereof
+(an &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Unpaid Awarded
+Bonus</font>&#8221;), and any benefits or payments (excluding any other severance
+benefits or payments) payable to the Employee under any applicable formal policy
+or plan of any member of the K-Tron Group which covers the Employee at the time
+of his termination.&#160;&#160;For purposes of this Agreement, a termination of
+the Employment Term for Good Reason under Section 8.6 below shall not constitute
+a termination under this Section 8.1.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.2</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Partial or Total
+Disability</font>.&#160;&#160;If in the good faith judgment of the K-Tron Board,
+based upon the advice of two disinterested physicians, the Employee is unable to
+perform his duties and responsibilities hereunder by reason of illness, injury
+or incapacity for six consecutive months, or for six months during any 12-month
+period, during which time K-Tron or the member of the K-Tron Group actually
+employing the Employee at the time of his disability shall continue to
+compensate the Employee hereunder (with such compensation to be reduced by the
+amount of any payments due the Employee for this time period under any
+applicable disability benefit programs, including Social Security disability,
+worker&#8217;s compensation and disability retirement benefits), the Employment Term
+may be terminated by K-Tron.&#160;&#160;In the event the Employee is terminated
+for disability, neither K-Tron nor any other member of the K-Tron Group shall
+have any further liability or obligation to the Employee except for any earned
+but unpaid Base Salary and Car Allowance, Unpaid Awarded Bonus, and any benefits
+or payments (excluding any other severance benefits or payments) payable to the
+Employee under any applicable formal policy or plan of any member of the K-Tron
+Group which covered the Employee at the termination date of the Employment
+Term.&#160;&#160;The Employee agrees, in the event of any dispute under this
+Section 8.2 and if requested by K-Tron, to submit to a physical examination by
+one or more licensed physicians selected by K-Tron, the cost of such
+examinations to be paid by K-Tron.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.3</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Death</font>.&#160;&#160;In
+the event that the Employee dies during the Employment Term, the member of the
+K-Tron Group actually employing the Employee at the time of his death shall pay
+to his executors, administrators or personal representatives, as appropriate, an
+amount equal to his then-annual Base Salary which he would otherwise have earned
+for the month in which he dies and for three months
+thereafter.&#160;&#160;Payment of such amount shall be made in a lump sum within
+30 days after the Employee&#8217;s death.&#160;&#160;Thereafter, neither K-Tron nor
+any other member of the K-Tron Group shall have any further liability or
+obligation hereunder to the Employee&#8217;s executors, administrators, personal
+representatives, heirs, assigns or any other person claiming under or through
+him, except for any earned but unpaid Base Salary and Car Allowance, Unpaid
+Awarded Bonus, and any benefits or payments (excluding any other severance
+benefits or payments) payable to the Employee under any applicable formal policy
+or plan of any member of the K-Tron Group which covered the Employee at the time
+of his death.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.4</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">For
+Cause</font>.&#160;&#160;The Employment Term may be terminated at any time by
+K-Tron, by action taken in good faith by the K-Tron Board, for &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Cause</font>.&#8221;&#160;&#160;For
+purposes of this Agreement, &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Cause</font>&#8221; shall mean the
+failure of the Employee to observe or perform (other than by reason of illness,
+injury or incapacity) any of the material terms or provisions of this Agreement
+provided that the Employee has been given written notice of such failure and
+such failure has continued for 30 days thereafter, dishonesty, disloyalty,
+willful misconduct, conviction of a felony or other crime involving moral
+turpitude, misappropriation of funds, habitual insobriety, substance abuse,
+similar like cause, any action on the part of the Employee involving willful and
+deliberate malfeasance or gross negligence in the performance of his duties and
+responsibilities hereunder, any other action on the part of the Employee that is
+damaging or detrimental in a significant way to any member of the K-Tron Group
+or any willful violation by the Employee of a written directive from the K-Tron
+Board or K-Tron&#8217;s chief executive officer.&#160;&#160;Should the Employment Term
+terminate pursuant to this Section 8.4, neither K-Tron nor any other member of
+the K-Tron Group shall have any liability or obligation to the Employee after
+the date on which the Employment Term ends except for any earned but unpaid Base
+Salary and Car Allowance, Unpaid Awarded Bonus, and any benefits or
+payments&#160;&#160;(excluding any severance benefits or payments) payable to
+the Employee under any applicable formal policy or plan of any member of the
+K-Tron Group which covered the Employee at the termination date of the
+Employment Term.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.5</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Without
+Cause</font>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(a)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron,
+by action of the K-Tron Board, may terminate the Employee&#8217;s employment and the
+Employment Term at any time without Cause upon 30 days written notice to the
+Employee.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Upon
+termination by K-Tron without Cause, if the Employee executes and does not
+revoke a written Release (as defined below), the Employee shall be entitled to
+receive a lump sum payment equal to 100% of the Employee&#8217;s then-annual Base
+Salary and Car Allowance.&#160;&#160;The lump sum payment shall be made within
+30 days after the effective date of the Employee&#8217;s termination of
+employment.&#160;&#160;Upon payment, neither K-Tron nor any other member of the
+K-Tron Group shall have any further liability or obligation to the Employee
+hereunder after the date of termination of the Employment Term except for any
+earned but unpaid Base Salary and Car Allowance, Unpaid Awarded Bonus, and any
+benefits or payments (excluding any other severance benefits or payments)
+payable to the Employee under any applicable formal policy or plan of any member
+of the K-Tron Group which covered the Employee at the termination date of the
+Employment Term.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(c)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In order
+to receive the payment under subsection (b) above, the Employee must execute and
+not revoke a release, in a form acceptable to K-Tron, of any and all claims
+against the K-Tron Group and all related parties with respect to all matters
+arising out of the Employee&#8217;s employment by any member of the K-Tron Group and
+the termination thereof (other than claims for any entitlements under the terms
+of this Agreement or under any plans or programs of any member of the K-Tron
+Group under which the Employee has accrued and is due a benefit) (the &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Release</font>&#8221;).</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.6</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Good
+Reason</font>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(a)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Employee may initiate a termination of the Employee&#8217;s employment and the
+Employment Term by resigning for Good Reason (as defined below) in accordance
+with this Section 8.6.&#160;&#160;Upon resignation by the Employee for Good
+Reason, if the Employee executes and does not revoke a written Release, the
+Employee shall be entitled to receive a lump sum payment equal to 100% of the
+Employee&#8217;s then-annual Base Salary and Car Allowance.&#160;&#160;The lump sum
+payment shall be made within 30 days after the effective date of the Employee&#8217;s
+termination of employment.&#160;&#160;Upon payment, neither K-Tron nor any other
+member of the K-Tron Group shall have any further liability or obligation to the
+Employee hereunder after the date of termination of the Employment Term except
+for any earned but unpaid Base Salary and Car Allowance, Unpaid Awarded Bonus,
+and any benefits or payments (excluding any other severance benefits or
+payments) payable to the Employee under any applicable formal policy or plan of
+any member of the K-Tron Group which covered the Employee at the termination
+date of the Employment Term.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+purposes of this Agreement, before a Change of Control (as defined below),
+&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Good Reason</font>&#8221;
+means any action or inaction that constitutes a material breach of this
+Agreement by K-Tron or any other member of the K-Tron Group actually employing
+the Employee at the time, including the failure of K-Tron or any other such
+member of the K-Tron Group to obtain from its successors the express assumption
+and agreement required under Section 15.3 hereof.&#160;&#160;For purposes of
+this Agreement, on and after a Change of Control, &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Good Reason</font>&#8221;
+means:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(i)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A
+material diminution in the Employee&#8217;s Base Salary;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(ii)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A
+material change in the geographic location at which the Employee must perform
+services (which, for purposes of this Agreement, means relocation of the
+Employee&#8217;s principal location of work to any location that is in excess of 50
+miles from the location immediately prior to such relocation);</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(iii)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A
+material diminution in the Employee&#8217;s authority, duties or responsibilities;
+or</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(iv)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Any
+action or inaction that constitutes a material breach of this Agreement by
+K-Tron or any other member of the K-Tron Group actually employing the Employee
+at the time, including the failure of K-Tron or any other such member of the
+K-Tron Group to obtain from its successors the express assumption and agreement
+required under Section 15.3 hereof.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In order
+for the Employee to terminate employment for Good Reason, the Employee must
+provide written notice to K-Tron (or any successor thereto) specifying the event
+that constitutes Good Reason within 90 days of the initial occurrence of such
+event.&#160;&#160;K-Tron (or any successor thereto) shall have 30 days following
+the receipt of such notice in which to remedy such event.&#160;&#160;If K-Tron
+(or any successor thereto) does not remedy such event within such 30-day cure
+period, the Employee&#8217;s employment must terminate within 60 days after the end of
+the 30-day cure period in order for the termination to be on account of Good
+Reason.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 108pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(c)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+purposes of this Agreement, a &#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Change of Control</font>&#8221;
+shall be deemed to have occurred if:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(i)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">a
+liquidation or dissolution of K-Tron or the sale (excluding transfers to
+subsidiaries) of all or a substantial majority of the assets of K-Tron or the
+K-Tron Group occurs;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(ii)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">as a
+result of a tender offer, exchange offer, stock purchase (excluding a redemption
+approved by the K-Tron Board which is not in connection with any of the other
+events mentioned in this clause (ii)), other stock acquisition, merger,
+consolidation, recapitalization, reverse stock split, sale or transfer of assets
+or other transaction, any person or group (as such terms are used in and under
+Section 13(d) of the Exchange Act) other than the Employee or a group which
+includes the Employee becomes the beneficial owner (as defined in Rule 13-d
+under the Exchange Act), directly or indirectly, of securities of K-Tron
+representing more than 15% of the common stock of K-Tron or the combined voting
+power of K-Tron&#8217;s then outstanding securities; or</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 144pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(iii)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">during
+any period of two consecutive years, individuals who, at the beginning of such
+period, constitute the K-Tron Board cease for any reason to constitute at least
+a majority thereof, unless the election, or the nomination for election by
+K-Tron&#8217;s shareholders, of at least two-thirds of the directors who were not
+directors at the beginning of such period was approved by a vote of at least
+two-thirds of the directors then still in office who were either directors at
+the beginning of the period or who, in connection with their election or
+nomination, received the foregoing two-thirds approval.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.7</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Payment in Lieu of Health
+Coverage</font>.&#160;&#160;Notwithstanding any other provision of this
+Agreement, in the event of the termination of the Employment Term by K-Tron
+without Cause under Section 8.5 hereof or by the Employee for Good Reason under
+Section 8.6 hereof, if the Employee executes and does not revoke a written
+Release, K-Tron shall pay the Employee a lump sum cash payment equal to the cost
+that would be incurred by the Employee to continue medical and other health care
+benefits for the period following the effective date of the Employee&#8217;s
+termination of employment through the first anniversary of the effective date of
+the Employee&#8217;s termination of employment, less the cost paid by active K-Tron
+employees for comparable coverage.&#160;&#160;The lump sum payment shall be paid
+within 30 days after the effective date of the Employee&#8217;s date of termination of
+employment.&#160;&#160;The cost of medical and other health care benefits shall
+be calculated pursuant to the cost sharing arrangement relating to medical and
+other health care benefits in effect between K-Tron and the Employee immediately
+before the effective date of the Employee&#8217;s termination of
+employment.&#160;&#160;K-Tron shall also pay to the Employee an amount equal to
+the estimated federal, state and local income and FICA taxes on the amount paid
+to the Employee under this Section 8.7, on the same payment date as the lump sum
+payment described above.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">9.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Survival</font>.&#160;&#160;Notwithstanding
+the termination of the Employment Term for any reason whatsoever, the
+obligations of the Employee under Sections 3, 4, 5 and 6 hereof shall survive
+and remain in full force and effect for the periods therein provided, and the
+provisions for equitable relief found in Section 7 hereof shall continue in
+force.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">10.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Mitigation</font>. The
+Employee shall not be required to mitigate the amount of any payment or benefit
+provided for in this Agreement by seeking other employment or otherwise, and
+there shall be no offset against amounts due the Employee under this Agreement
+on account of any remuneration attributable to any subsequent or other
+employment that the Employee may have or obtain.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">11.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Arbitration;
+Expenses</font>.&#160;&#160;In the event of any dispute under the provisions of
+this Agreement other than a dispute in which the primary relief sought is an
+equitable remedy such as an injunction, the parties shall be required to have
+the dispute, controversy or claim settled by arbitration in the City of
+Philadelphia, Pennsylvania in accordance with National Rules for the Resolution
+of Employee Disputes then in effect of the American Arbitration Association (the
+&#8220;<font style="DISPLAY: inline; TEXT-DECORATION: underline">AAA</font>&#8221;) (or, if
+no such rules be in effect, then under the regular rules of the AAA), before a
+panel of three arbitrators, the first of whom shall be selected by K-Tron, the
+second of whom shall be selected by the Employee, and the third of whom shall be
+selected by the other two arbitrators.&#160;&#160;Any award entered by the
+arbitrators shall be final, binding and nonappealable (except as provided by
+applicable statutory law), and judgment may be entered thereon by either party
+in accordance with applicable law in any court of competent jurisdiction. This
+arbitration provision shall be specifically enforceable.&#160;&#160;The
+arbitrators shall have no authority to modify any provision of this Agreement or
+to award a remedy for a dispute involving this Agreement other than a benefit
+specifically provided under or by virtue of the Agreement.&#160;&#160;If the
+Employee prevails on any material issue which is the subject of such arbitration
+or lawsuit, K-Tron shall be responsible for all of the fees of the AAA and the
+arbitrators and any expenses relating to the conduct of the arbitration
+(including K-Tron&#8217;s and the Employee&#8217;s reasonable attorneys&#8217; fees and expenses).
+Otherwise, each party shall be responsible for its or his own expenses relating
+to the conduct of the arbitration (including reasonable attorneys&#8217; fees and
+expenses) and shall share the fees of the AAA and the arbitrators.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">12.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Withholding</font>.&#160;&#160;K-Tron
+or the member of the K-Tron Group employing the Employee may withhold from any
+payments under this Agreement all federal, state and local taxes as K-Tron or
+such member is required to withhold pursuant to any law or governmental rule or
+regulation.&#160;&#160;Except as otherwise specifically provided herein, the
+Employee shall bear all expense of and be solely responsible for, all federal,
+state and local taxes due with respect to any payment received under this
+Agreement.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">13.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Notices</font>.&#160;&#160;All
+notices and other communications hereunder shall be in writing and deemed to
+have been given when hand delivered, in person or by a recognized courier or
+delivery service, or when mailed by registered or certified mail, return receipt
+requested, as follows (provided that notice of change of address shall be deemed
+given only when received):</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If to
+K-Tron, to:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron
+International, Inc.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Routes 55
+and 553</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pitman,
+NJ 08071</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attention:
+Chief Executive Officer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If to the
+Employee, to:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Robert
+E.&#160;&#160;Wisniewski</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">601
+Meadowview Court</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Maple
+Glen, PA 19002</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">or to
+such other name or address as any designated recipient shall specify by notice
+to the other designated recipient in the manner specified in this Section
+13.&#160;&#160;Any communication delivered in another manner shall be deemed
+given when actually received by the intended recipient.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">14.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Governing
+Law</font>.&#160;&#160;This Agreement shall be governed by and interpreted under
+the laws of the State of New Jersey, without giving effect to any conflict of
+laws provisions.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">15.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Contents of Agreement;
+Amendment and Assignment</font>.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">15.1</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This
+Agreement sets forth the entire understanding of the parties with respect to the
+subject matter hereof, supersedes any prior employment agreement between the
+parties (including without limitation, the Existing Agreement) and shall not be
+changed, modified or terminated except upon written amendment executed by a duly
+authorized officer of K-Tron and the Employee.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">15.2</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Employee
+acknowledges that from time to time, K-Tron and other members of the K-Tron
+Group may establish, maintain and distribute employee manuals or handbooks or
+personnel policy manuals, and officers or other representatives of K-Tron or
+other members of the K-Tron Group may make written or oral statements relating
+to personnel policies and procedures.&#160;&#160;Such manuals, handbooks and
+statements are intended only for general guidance. No policies, procedures or
+statements of any nature by or on behalf of any member of the K-Tron Group
+(whether written or oral, and whether or not contained in any employee manual or
+handbook or personnel policy manual), and no acts or practices of any nature,
+shall be construed to modify this Agreement.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">15.3</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">All of
+the provisions of this Agreement shall be binding upon and inure to the benefit
+of and be enforceable by the respective heirs, executors, administrators,
+personal representatives, successors and assigns of the parties hereto, except
+that the duties and responsibilities of the Employee hereunder are of a personal
+nature and shall not be assignable or delegable in whole or in part by the
+Employee.&#160;&#160;K-Tron shall require any successor (whether direct or
+indirect, by purchase, merger, consolidation, reorganization or otherwise) to
+all or substantially all of the business or assets of K-Tron, by agreement in
+form and substance satisfactory to the Employee, expressly to assume and agree
+to perform this Agreement in the same manner and to the same extent that K-Tron
+would be required to perform if no such succession had taken place.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">16.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Severability</font>.&#160;&#160;If
+any provision of this Agreement or the application thereof to anyone or any
+circumstance is held invalid or unenforceable in any jurisdiction, the remainder
+of this Agreement, and the application of such provision to such person or
+entity or such circumstance in any other jurisdiction or to other persons,
+entities or circumstances in any jurisdiction, shall not be affected thereby,
+and to this end the provisions of this Agreement are severable.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">17.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Remedies Cumulative; No
+Waiver</font>.&#160;&#160;Except as expressly stated herein, no remedy conferred
+upon any party by this Agreement is intended to be exclusive of any other
+remedy, and each and every such remedy shall be cumulative and in addition to
+any other remedy given hereunder or now or hereafter existing at law or in
+equity. No delay or omission by any party in exercising any right, remedy or
+power hereunder or existing at law or in equity shall be construed as a waiver
+thereof, and any such right, remedy or power may be exercised by such party from
+time to time and as often as may be deemed expedient or necessary by such party
+in its or his sole discretion.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">18.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Beneficiaries/References</font>.&#160;&#160;The
+Employee shall be entitled, to the extent permitted under any applicable law, to
+select and change a beneficiary or beneficiaries to receive any compensation or
+benefit payable under this Agreement following the Employee&#8217;s death by giving
+K-Tron written notice thereof.&#160;&#160;In the event of the Employee&#8217;s death
+or a judicial determination of the Employee&#8217;s incompetence, reference in this
+Agreement to the Employee shall be deemed, where appropriate, to refer to the
+Employee&#8217;s beneficiary, estate or other legal representative.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">19.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Miscellaneous</font>.&#160;&#160;The
+masculine pronoun whenever used shall include the feminine and the singular
+shall be construed as the plural, where applicable. All section headings are for
+convenience only. This Agreement may be executed in several counterparts, each
+of which shall be an original. It shall not be necessary in making proof of this
+Agreement or any counterpart hereof to produce or account for any of the other
+counterparts.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">20.</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Section
+409A</font>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">20.1</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Section 409A
+Compliance</font>.&#160;&#160;This Agreement is intended to comply with the
+requirements of the &#8220;short-term deferral&#8221; exemption from section 409A of the
+Code or another exemption and shall in all respects be administered in
+accordance with section 409A or an exemption.&#160;&#160;Notwithstanding
+anything in this Agreement to the contrary, all payments upon termination of
+employment under this Agreement may only be made upon a &#8220;separation from
+service&#8221; as determined under section 409A.&#160;&#160;Each payment under this
+Agreement shall be treated as a separate payment for purposes of section
+409A.&#160;&#160;In no event may the Employee, directly or indirectly, designate
+the calendar year of any payment to be made under this Agreement.&#160;&#160;All
+reimbursements and in-kind benefits provided under this Agreement shall be made
+or provided in accordance with the requirements of section 409A of the
+Code.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">20.2</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Payment
+Delay</font>.&#160;&#160;Notwithstanding anything in this Agreement to the
+contrary, if required by section 409A of the Code and if the Employee is a
+&#8220;specified employee&#8221; of a publicly-traded corporation as determined under
+section 409A at the time of the Employee&#8217;s separation from service, any payments
+under this Agreement that are required to be postponed pursuant to section 409A
+shall be postponed for a period of six months after the Employee&#8217;s separation
+from service with K-Tron or a member of the K-Tron Group (or a successor
+thereto), as required by section 409A.&#160;&#160;The accumulated postponed
+amount, with interest as described below, shall be paid in a lump sum payment
+within 10 days after the end of the six-month period.&#160;&#160;If the Employee
+dies during the postponement period prior to the payment of the postponed
+amount, the amounts withheld on account of section 409A, with interest, shall be
+paid to the personal representative of the Employee&#8217;s estate within 60 days
+after the date of his death.&#160;&#160;If amounts are postponed on account of
+section 409A, the postponed amounts will be credited with interest for the
+postponement period at the annualized rate of 6%.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">IN
+WITNESS WHEREOF, K-Tron and the Employee have executed this Agreement as of the
+date first above written.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="left">
+        <div align="left">
+          <table cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td align="left" valign="top" width="40%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">[Corporate
+      Seal]</font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Attest:</font></div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">/s/ Mary E. Vaccara</font></font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Mary
+      E. Vaccara</font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">As
+      its Secretary</font></div>
+                </td>
+                <td align="left" valign="top" width="40%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON
+      INTERNATIONAL, INC.</font></div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:&#160;
+      <font style="DISPLAY: inline; TEXT-DECORATION: underline">/s/ Edward B.
+      Cloues, II</font></font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Edward
+      B. Cloues, II</font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">As
+      its Chairman and</font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Executive Officer</font></div>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" width="40%">
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">/s/ Andrew T. Boyd</font></font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Witness</font></div>
+                </td>
+                <td align="left" valign="top" width="40%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">EMPLOYEE</font></div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">/s/ Robert E. Wisniewski</font></font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Robert
+      E. Wisniewski</font></div>
+                </td>
+              </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+
+      <div>
+        <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+      </div>
+    </div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+  <head>
+    <title>ex99-1.htm</title>
+<!-- Licensed to: The Scullin Group-->
+<!-- Document Created using EDGARizer 4.0.6.1 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td valign="top" width="61%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td align="left" valign="top" width="24%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;EXHIBIT
+      99.1</font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="6" valign="top" width="15%">
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt"><img src="ktron.jpg" alt=""></div>
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+                </div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON
+      INTERNATIONAL, INC.</font></div>
+              </td>
+              <td align="left" rowspan="4" valign="top" width="24%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 24pt; FONT-FAMILY: times new roman">NEWS</font></div>
+                <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Routes
+      55 &amp; 553, PO Box 888</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pitman,
+      NJ 08071-0888</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(856)
+      589-0500</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">FAX
+      (856) 582-7968</font></div>
+              </td>
+              <td valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">www.ktroninternational.com</font></div>
+              </td>
+              <td valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td align="left" valign="top" width="61%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">E-mail:
+      ktii@ktron.com</font></div>
+              </td>
+              <td valign="top" width="24%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="left" valign="top" width="12%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">For
+      Release:</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Immediately</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="12%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Contact:</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Ronald
+      Remick, Senior Vice President and Chief Financial
+  Officer</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Tel:
+      (856) 256-3311&#160;&#160;&#160;&#160;E-mail:
+      rremick@ktron.com</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-TRON
+ANNOUNCES NEW CHIEF FINANCIAL OFFICER</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CHANGE
+TO TAKE PLACE ON MAY 30, 2009</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Pitman, New Jersey - - March 26, 2009
+</font>- -&#160;&#160;K-Tron International, Inc. (NASDAQ-GS: KTII) today
+announced that Robert E. Wisniewski has been elected Senior Vice President,
+Chief Financial Officer and Treasurer, effective May 30, 2009, replacing Ronald
+R. Remick who will retire on that date.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Wisniewski, 55, is currently Vice President, Finance of K-Tron America, Inc. and
+Chief Financial Officer of the global K-Tron Process Group, which is one of the
+Company&#8217;s two lines of business.&#160;&#160;He joined K-Tron in these positions
+in February 2008 from ELB Capital Management LLC and FB Capital Partners, LP,
+two private equity/income partnerships where he had been a Managing Director
+since June 2005.&#160;&#160;Mr. Wisniewski brought to K-Tron a broad background
+with considerable experience in manufacturing and public
+accounting.&#160;&#160;He spent 11 years with Ernst &amp; Young (June 1975-July
+1986) and 14 years with Moore Products Company, a NASDAQ-listed company similar
+in size to K-Tron that provided technology solutions to the process automation
+industry worldwide (August 1986-January 2000). At Moore Products, Mr. Wisniewski
+began as Controller and rose to the position of Chief Financial Officer and
+Treasurer.&#160;&#160;After that company was sold to Siemens in 2000, Mr.
+Wisniewski stayed on through a transition period with Siemens Moore Process
+Automation, Inc. (February 2000-August 2000) and then served as the Executive
+Vice President and Chief Financial Officer of Hospitality Solutions
+International, Inc. (September 2000-April 2002) and of Safeguard Business
+Systems, Inc. (June 2002-August 2003) and also worked as an independent
+financial and management consultant from September 2003 to May
+2005.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Wisniewski holds a Bachelor of Science degree in economics (major in accounting)
+from The Wharton School at the University of Pennsylvania, and he recently
+completed all course work for a Master of Science degree in Organizational
+Dynamics from the University of Pennsylvania.&#160;&#160;He is a certified
+public accountant.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+announcing Mr. Wisniewski&#8217;s election, K-Tron Chairman and Chief Executive
+Officer Edward B. Cloues, II said that &#8220;K-Tron is indeed fortunate to have a
+seasoned executive of Bob Wisniewski&#8217;s caliber ready to replace Ron Remick as
+the Company&#8217;s Chief Financial Officer when Ron retires at the end of
+May.&#160;&#160;Bob&#8217;s deep technical knowledge, his many years of financial
+management experience and his current role as the financial head of our global
+Process Group and key member of its management team make him eminently well
+qualified to serve as K-Tron&#8217;s new CFO.&#160;&#160;He knows our people and
+businesses well, and the Board and I are confident that in his new role Bob will
+be a very valuable contributor to K-Tron&#8217;s future success.&#8221;</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Cloues then thanked Mr. Remick for his nearly ten years of outstanding service
+to K-Tron.&#160;&#160;&#8220;Ron joined the Company in May 1999 as our Senior Vice
+President, Chief Financial Officer and Treasurer, after a distinguished 26-year
+career at Atlantic Richfield Company and ARCO Chemical Company.&#160;&#160;His
+individual accomplishments at K-Tron have been far too many to recite, but he
+has played key roles in corporate finance, domestic and international treasury,
+strategic business planning and acquisitions, information systems and investor
+relations.&#160;&#160;We will miss his advice, guidance and dedication to our
+business and our employees, and all of us at K-Tron wish Ron and his wife Karen
+all the best following his retirement.&#160;&#160;As previously mentioned, Ron
+will continue in his current position through the end of May and will work
+closely with Bob to ensure a smooth transition of CFO
+responsibilities.&#8221;</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">K-Tron
+International, Inc. and its subsidiaries design, produce, market and service
+material handling equipment and systems for a wide variety of industrial
+markets.&#160;&#160;The Company has manufacturing facilities in the United
+States, Switzerland and the People&#8217;s Republic of China, and its equipment is
+sold throughout the world.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+
+        <div>
+          <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>ktron.jpg
+<TEXT>
+begin 644 ktron.jpg
+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
+*,8^7AY]>'@?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

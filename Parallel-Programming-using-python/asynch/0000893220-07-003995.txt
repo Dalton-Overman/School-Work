@@ -1,0 +1,1660 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MLH4PVVc4CiA3yu/a6yzlwZTLO3x0X0evGZVrc7ZtCNICFISop9IMcG35t0HiOe9
+ h0x1NKL0GFWXWi2ZZ5bz7w==
+
+<SEC-DOCUMENT>0000893220-07-003995.txt : 20071219
+<SEC-HEADER>0000893220-07-003995.hdr.sgml : 20071219
+<ACCEPTANCE-DATETIME>20071218130453
+ACCESSION NUMBER:		0000893220-07-003995
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20071217
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20071218
+DATE AS OF CHANGE:		20071218
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		071312360
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w44777e8vk.htm
+<DESCRIPTION>FORM 8-K K-TRON INTERNATIONAL, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549<BR>
+<DIV align="center"><DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Date of report (Date of earliest event reported): </B><U><B>December&nbsp;17, 2007</B></U></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B><FONT style="border-bottom: 1px solid #000000">K-TRON INTERNATIONAL, INC.</FONT></B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">New Jersey
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">0-9576
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">22-1759452</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Jurisdiction of
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Incorporation)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Routes 55 &#038; 553</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">P.O. Box 888</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Pitman, New Jersey
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">08071-0888</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of Principal Executive Offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: <FONT style="border-bottom: 1px solid #000000">(856)&nbsp;589-0500</FONT></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Not Applicable</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="margin-top: 1px"><FONT style="border-top: 1px solid #000000">(Former Name or Former Address, if Changed Since Last Report)</FONT></DIV></DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Item&nbsp;5.03 Amendment to Articles of Incorporation or Bylaws; Change in Fiscal Year</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">Item&nbsp;9.01 Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w44777exv3w1.htm">AMENDED & RESTATED BY-LAWS OF K-TRON INTERNATIONAL, INC.</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "Item&nbsp;5.03 Amendment to Articles of Incorporation or Bylaws; Change in Fiscal Year" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5.03 Amendment to Articles of Incorporation or Bylaws; Change in Fiscal Year.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The NASDAQ Stock Market, LLC has enacted a rule which mandates that all listed companies
+become eligible to participate in the Direct Registration System (&#147;DRS&#148;) no later than January&nbsp;1,
+2008. DRS enables investors to maintain securities electronically on the books of a transfer agent
+or issuer, and allows for the electronic transfer of securities. To meet the DRS requirements, on
+December&nbsp;17, 2007, the Board of Directors of K-Tron International, Inc. (&#147;K-Tron&#148;) amended and
+restated K-Tron&#146;s By-laws to permit the issuance and transfer of uncertificated shares.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A copy of the Amended and Restated By-laws is filed as Exhibit&nbsp;3.1 to this report and is
+incorporated by reference into this Item&nbsp;5.03.
+</DIV>
+<!-- link1 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;Exhibits.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 &#150; Amended and Restated By-laws of K-Tron International, Inc.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->- 2 -<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>K-TRON INTERNATIONAL, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">EDWARD B. CLOUES, II
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Edward B. Cloues, II&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chairman of the Board and<BR>
+Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Dated: December&nbsp;18, 2007
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->- 3 -<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U>Exhibit&nbsp;Index</U>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit Number</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">3.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated By-laws of K-Tron International, Inc.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>w44777exv3w1.htm
+<DESCRIPTION>AMENDED & RESTATED BY-LAWS OF K-TRON INTERNATIONAL, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv3w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">EXHIBIT 3.1
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">K-TRON INTERNATIONAL, INC.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">* * *
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">BY-LAWS<BR>
+(Amended and Restated as of December&nbsp;17, 2007)
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">* * *
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE I
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">OFFICES
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The registered office of the corporation shall be located at 28 West State Street,
+Trenton, New Jersey 08608, unless otherwise established by a vote of the majority of the board of
+directors in office and a statement of change is filed in the manner provided by statute.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. The corporation may also have offices at such other places both within and without
+the State of New Jersey as the board of directors may from time to time determine or the business
+of the corporation may require.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE II
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">ANNUAL MEETINGS OF SHAREHOLDERS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The annual meeting of shareholders for the election of directors shall be held at
+the registered office of the corporation or at such other place within or without the State of New
+Jersey as shall be fixed by the board of directors.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Annual meetings of shareholders shall be held on the first Friday of May, if not a
+legal holiday, and if a legal holiday, then on the next secular day following, at 11:00&nbsp;A.M., or at
+such other date and time as shall be fixed by the board of directors and stated in the notice of
+meeting, at which the shareholders shall elect, by a plurality vote, directors to the class of
+directors whose term of office is then expiring and shall transact such other business as may
+properly be brought before the meeting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. Written notice of the annual meeting stating the time, place and purpose or
+purposes of the meeting shall be given not less than ten nor more than sixty days before the date of the meeting, either personally or by mail, to each shareholder of record
+entitled to vote at such meeting.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE III
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">SPECIAL MEETINGS OF SHAREHOLDERS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. Special meetings of shareholders for any purpose may be held at such time and place
+within or without the State of New Jersey as shall be fixed by the board of directors.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Special meetings of shareholders, for any purpose or purposes, unless otherwise
+prescribed by statute or by the certificate of incorporation, may be called by the chairman of the
+board of directors, the president, the board of directors or the holders of not less than
+seventy-five percent (75%) of all the shares entitled to vote at the meeting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. Written notice of a special meeting stating the time, place and purpose or purposes
+for which the meeting is called shall be given not less than ten nor more than sixty days before
+the date of the meeting, either personally or by mail, to each shareholder of record entitled to
+vote at such meeting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. Business transacted at any special meeting shall be confined to the purpose or
+purposes stated in the notice thereof.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE IV
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">QUORUM AND VOTING OF STOCK
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The holders of shares entitled to cast a majority of the votes at a meeting,
+represented in person or by proxy, shall constitute a quorum at all meetings of the shareholders
+for the transaction of business except as otherwise provided by statute or by the certificate of
+incorporation. If, however, such quorum shall not be present or represented at any meeting of the
+shareholders, the shareholders present in person or represented by proxy shall have the power to
+adjourn the meeting from time to time, without notice other than announcement at the meeting, until
+a quorum shall be present or represented. At such adjourned meeting at which a quorum shall be
+present or represented, any business may be transacted which might have been transacted at the
+meeting as originally called.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. If a quorum is present, the affirmative vote of a majority of the votes cast at the
+meeting shall be the act of the shareholders unless a greater plurality is required by law or the
+certificate of incorporation. The shareholders present in person or by proxy at a duly organized
+meeting may continue to do business notwithstanding the withdrawal of enough shareholders to leave
+less than a quorum.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. Each outstanding share of stock having voting power shall be entitled to one vote
+on each matter submitted to a vote at a meeting of shareholders, unless otherwise provided in the certificate of incorporation. A shareholder may vote either in
+person or by proxy executed in writing by the shareholder or by his agent.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-2-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In all elections for directors every shareholder entitled to vote shall have the right to
+vote, in person or by proxy, the number of shares owned by him, for as many persons properly
+nominated for election as there are directors to be elected and for whose election he has a right
+to vote.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. Except as otherwise provided by the certificate of incorporation, directors shall
+be elected by a plurality of votes cast at an election.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. No action which may be taken at a meeting of shareholders or of a class of
+shareholders may be taken without a meeting except by unanimous written consent of all
+shareholders.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE V
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">DIRECTORS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The board of directors shall consist of seven directors or of such other number of
+directors as shall be fixed from time to time by resolution of the board, adopted by a vote of
+three-fourths of the directors then in office, even if less than a quorum. Directors need not be
+residents of the State of New Jersey nor shareholders of the corporation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each director shall have a single vote of equal value with respect to all matters voted upon
+by the board.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The board of directors shall be divided into four classes, which shall be as nearly equal in
+number as possible. Directors of each class shall serve for a term of four years and until their
+successors shall have been elected and qualified. The four initial classes of directors shall be
+comprised as follows:
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 4%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;I shall be comprised of a director who shall serve until the annual
+meeting of shareholders in 1986 and until his or her successor shall have been
+elected and qualified.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 4%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;II shall be comprised of two directors who shall serve until the annual
+meeting of shareholders in 1987 and until their successors shall have been elected
+and qualified.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 4%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C1ass III shall be comprised of two directors who shall serve until the annual
+meeting of shareholders in 1988 and until their successors shall have been elected
+and qualified.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 4%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;IV shall be comprised of two directors who shall serve until the annual
+meeting of shareholders in 1989 and until their successors shall have been elected
+and qualified.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-3-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Any director or member of a committee may resign at any time. Such resignation
+shall be made in writing and shall take effect at the time of its receipt by the chairman of the
+board of directors, the president or the secretary, or if a time subsequent to such receipt be
+specified therein, then at the time specified. The acceptance of a resignation shall not be
+necessary to make it effective.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. Directors may not be removed without cause for any reason. No decrease or increase
+in the size of the board shall shorten or otherwise affect the term of any incumbent director.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. A person shall be appointed or elected a director to fill a vacancy in the board of
+directors (including any vacancy resulting from any increase in the authorized number of directors)
+only by a vote of a majority of the directors then in office, even if less than a quorum, and any
+director so elected shall hold office until the next election of the class for which such director
+shall have been elected and until a successor shall have been elected and qualified.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. No person may be nominated for election as a director by a shareholder at an annual
+or special meeting unless written notice of such shareholder&#146;s intent to make such nomination has
+been given, either by personal delivery or by United States mail, postage prepaid, to the secretary
+of the corporation at the principal executive offices of the corporation not later than (a)&nbsp;with
+respect to an election to be held at an annual meeting of shareholders, ninety days in advance of
+such meeting, and (b)&nbsp;with respect to an election to be held at a special meeting of shareholders
+for the election of directors, the close of business on the seventh day following the date on which
+notice of such meeting is first given to shareholders. Each such notice shall set forth: (i)&nbsp;the
+name and address of the shareholder who intends to make the nomination and of the person or persons
+to be nominated; (ii)&nbsp;a representation that the shareholder is a holder of record of stock of the
+corporation entitled to vote at such meeting and intends to appear in person or by proxy at the
+meeting to nominate the person or persons specified in the notice; (iii)&nbsp;a description of all
+arrangements or understandings between the shareholder and each nominee and any other person or
+persons (naming such person or persons) pursuant to which the nomination or nominations are to be
+made by the shareholder; (iv)&nbsp;such other information regarding each nominee proposed by such
+shareholder as would be required to be included in a proxy statement filed pursuant to the proxy
+rules of the Securities and Exchange Commission had the nominee been nominated, or intended to be
+nominated, by the board of directors; and (v)&nbsp;the consent of each nominee to serve as a director of
+the corporation if so elected. The chairman of the meeting may refuse to acknowledge the
+nomination of any person not made in compliance with the foregoing procedure.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;6. The business and affairs of the corporation shall be managed by or under the
+direction of its board of directors which may exercise all such powers of the corporation and do
+all such lawful acts and things as are not by statute or by the certificate of incorporation or by
+these by-laws directed or required to be exercised or done by the shareholders.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-4-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;7. The directors may keep the books and records of the corporation, except such as are
+required by law to be kept within the state, outside of the State of New Jersey, at such place or
+places as they may from time to time determine.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;8. The board of directors, by the affirmative vote of a majority of the directors then
+in office, and irrespective of any personal interest of any of its members, shall have authority to
+establish reasonable compensation of all directors for services to the corporation as directors,
+officers or otherwise.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE VI
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">MEETINGS OF THE BOARD OF DIRECTORS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. Meetings of the board of directors, regular or special, may be held either within
+or without the State of New Jersey.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Regular meetings of the board of directors may be held upon such notice, or without
+notice, and at such time and at such place as shall from time to time be determined by the board.
+Any notice that may be required to be given need not be given to any director who signs a waiver of
+notice, whether before or after the meeting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. Special meetings of the board of directors shall be held whenever called by the
+chairman of the board of directors or the president, and special meetings shall be called by the
+chairman of the board of directors, the president or the secretary on the written request of two
+directors. Notice of any such meeting shall be given to each director by telephone or in writing
+at least 24 hours (in the case of notice by telephone) or 48 hours (in the case of notice by
+telegram, telex, telecopier, telefax or other facsimile transmission) or 10&nbsp;days (in the case of
+notice by mail) before the time at which the meeting is to be held. Each such notice shall state
+the time and place of the meeting to be so held. Notice need not be given to any director who
+signs a waiver of notice, whether before or after the meeting.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. Where appropriate communication facilities are reasonably available, any or all
+directors shall have the right to participate in all or any part of a meeting of the board or a
+committee of the board by means of conference telephone or any means of communication by which all
+persons participating in the meeting are able to hear each other.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. Attendance of a director at any meeting shall constitute a waiver of notice of such
+meeting, except where a director attends for the express purpose of objecting to the transaction of
+any business because the meeting is not lawfully called or convened.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;6. Neither the business to be transacted at, nor the purpose of, any regular or
+special meeting of the board of directors need be specified in the notice or waiver of notice of
+such meeting. Notice of an adjourned meeting, whether regular or special, need not be given if the
+time and place are fixed at the meeting adjourning and if the period of adjournment does not exceed
+ten days.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-5-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;7. A majority of the entire board, or of any committee thereof, shall constitute a
+quorum for the transaction of business at any board or committee meeting unless a greater or lesser
+number is required by statute or by the certificate of incorporation, except that when the entire
+board or a committee thereof consists of one director, then one director shall constitute a quorum.
+The act of a majority of the directors present at any meeting at which a quorum is present shall
+be the act of the board of directors or of the committee, unless the act of a greater or lesser
+number is required by statute or by the certificate of incorporation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If a quorum shall not be present at any meeting of directors, the directors present thereat
+may adjourn the meeting from time to time, without notice other than announcement at the meeting,
+until a quorum shall be present.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;8. Unless otherwise provided by the certificate of incorporation, any action required
+or permitted to be taken at a meeting of the board, or any committee thereof, shall be deemed the
+action of the board of directors or of a committee thereof, if all directors or committee members,
+as the case may be, execute either before or after the action is taken, a written consent thereto,
+and the consent is filed with the minutes of the proceedings of the board or committee.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE VII
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">EXECUTIVE COMMITTEE; OTHER COMMITTEES
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The board of directors may, by resolution adopted by a majority of the entire
+board, designate an executive committee and one or more other committees, each committee to consist
+of one or more directors. Any such committee, to the extent provided in such resolution, shall
+have and exercise all of the authority of the board of directors, except that no such committee
+shall (a)&nbsp;make, alter or repeal any by-law of the corporation; (b)&nbsp;elect or appoint any director,
+or remove any officer or director; (c)&nbsp;submit to shareholders any action that requires their
+approval; or (d)&nbsp;amend or repeal any resolution theretofore adopted by the board which by its terms
+is amendable or repealable only by the board. Such committee or committees shall have such name or
+names as may be determined from time to time by resolution adopted by the board of directors. In
+addition to designating such committees, the board of directors may, by resolution adopted by a
+majority of the entire board, fill any vacancy in any such committee; appoint one or more directors
+to serve as alternate members of any such committee, to act in the absence or disability of members
+of any such committee with all the powers of such absent or disabled members; abolish any such
+committee at its pleasure; and remove any director from membership on such committee at any time,
+with or without cause.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each committee of the board of directors formed pursuant to this section shall keep regular
+minutes of its meetings, and actions taken at a meeting of any such committee shall be reported to
+the board at its next meeting following such committee meeting; except that, when the meeting of
+the board is held within 2&nbsp;days after the committee meeting, such report shall, if not made at the
+first meeting, be made to the board at its second meeting following such committee meeting unless
+otherwise required by law to be earlier reported. If the committee
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-6-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">report to the board is reflected in the minutes of the meeting of the board, this shall be
+sufficient to satisfy the requirement for regular minutes of the committee meeting.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE VIII
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">NOTICES
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. Whenever, under the provisions of any statute or of the certificate of
+incorporation or of these by-laws, notice is required to be given to any director or shareholder,
+it shall not be construed to mean personal notice, but such notice may be given in writing, by
+mail, addressed to such director or shareholder, at his address as it appears on the records of the
+corporation, with postage thereon prepaid, and such notice shall be deemed to be given at the time
+when the same shall be deposited in the United States mail. Notice to directors may also be given
+in accordance with section 3 of Article&nbsp;VI hereof.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Whenever any notice whatever is required to be given under the provisions of any
+statute or under the provisions of the certificate of incorporation or these by-laws, a waiver
+thereof in writing signed by the person or persons entitled to such notice, whether before or after
+the time stated therein, shall be deemed equivalent to the giving of such notice.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE IX
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">OFFICERS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. The officers of the corporation shall be elected by the board of directors and
+shall be a president, a vice-president, a secretary and a treasurer. The board of directors may
+also elect a chairman and a vice-chairman (who shall not be officers of the corporation unless so
+designated by the board of directors in the resolution electing such persons), additional
+vice-presidents and one or more assistant secretaries and assistant treasurers. In the absence of
+the chairman of the board, the vice-chairman, if there be one, shall preside at all meetings of
+directors or shareholders unless otherwise determined by the board.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. The board of directors at its first meeting after each annual meeting of
+shareholders shall elect a president, one or more vice-presidents, a secretary and a treasurer,
+none of whom need be a member of the board.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. The board of directors may elect such other officers and agents as it shall deem
+necessary who shall hold their offices for such terms as shall be designated by the board and who
+shall exercise such powers and perform such duties as shall be determined from time to time by the
+board of directors or by the president.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. The salaries of all officers and agents of the corporation shall be fixed by the
+board of directors.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-7-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. Any officer may resign at any time. Such resignation shall be made in writing and
+shall take effect upon receipt thereof by the corporation or at such subsequent time as shall be
+specified therein. The acceptance of a resignation shall not be necessary to make it effective.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;6. Each officer of the corporation shall hold office until his successor is elected
+and qualifies, except in the event of his death, resignation or removal. Any officer may be
+removed at any time with or without cause by the board of directors. Any vacancy occurring in any
+office of the corporation shall be filled by the board of directors. Any two or more offices may
+be held by the same person.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">THE CHAIRMAN OF THE BOARD
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;7. The chairman of the board of directors shall preside at all meetings of the
+shareholders and board of directors if present thereat, and he shall have and perform such other
+duties as from time to time may be assigned to him by the board of directors or as may be specified
+elsewhere in these by-laws.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">THE PRESIDENT
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;8. The president shall be the chief executive officer of the corporation and shall
+have the general powers and duties of supervision and management usually vested in the office of
+the chief executive officer of a corporation. He shall have general and active management,
+supervision, direction and control of the business of the corporation, subject to the policies and
+direction of the board of directors, shall see that all orders and resolutions of the board of
+directors are carried into effect and shall supervise and direct all officers and employees of the
+corporation, but may delegate in his discretion any of his powers to any officer or such other
+executives as he may designate. In the absence or non-election of the chairman of the board of
+directors and any vice-chairman, the president shall preside at all meetings of the shareholders if
+present thereat and at all meetings of the board of directors (if a member).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;9. The president shall execute bonds, mortgages and other contracts requiring a seal,
+under the seal of the corporation, except where required or permitted by law to be otherwise signed
+and executed and except where the signing and execution thereof shall be expressly delegated by the
+board of directors to some other officer or agent of the corporation.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">THE VICE-PRESIDENTS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;10. The vice-president, or if there shall be more than one, the vice-presidents in the
+order determined by the board of directors, shall, in the absence or disability of the president,
+perform the duties and exercise the powers of the president and shall perform such other duties and
+have such other powers as the board of directors or the president may from time to time prescribe.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">THE SECRETARY AND ASSISTANT SECRETARIES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;11. The secretary shall attend all meetings of the board of directors and all meetings
+of the shareholders and record all the proceedings of the meetings of the corporation
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-8-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">and of the board of directors in a book to be kept for that purpose and shall perform like
+duties for any committees of the board of directors when requested. He shall give, or cause to be
+given, notice of all meetings of the shareholders and special meetings of the board of directors,
+and shall perform such other duties as may be prescribed by the board of directors or the
+president, under whose supervision he shall be. He shall have custody of the corporate seal of the
+corporation and he, or an assistant secretary, shall have authority to affix the same to any
+instrument requiring it and when so affixed, it may be attested by his signature or by the
+signature of such assistant secretary. The board of directors may give general authority to any
+other officer to affix the seal of the corporation and to attest the affixing by his signature.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;12. The assistant secretary, or if there shall be more than one, the assistant
+secretaries in the order determined by the board of directors or the chairman of the board of
+directors, shall, in the absence or disability of the secretary, perform the duties and exercise
+the powers of the secretary and shall perform such other duties and have such other powers as the
+board of directors may from time to time prescribe.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">THE TREASURER AND ASSISTANT TREASURERS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;13. The treasurer shall have custody of the corporate funds and securities and shall
+keep full and accurate accounts of receipts and disbursements in books belonging to the corporation
+and shall deposit all moneys and other valuable effects in the name and to the credit of the
+corporation in such depositories as may be designated by the board of directors.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;14. He shall disburse the funds of the corporation as may be ordered by the board of
+directors, taking proper vouchers for such disbursements, and shall render to the chairman of the
+board of directors and the president upon request and also to the board of directors, at its
+regular meetings, or when the board of directors so requires, an account of all his transactions as
+treasurer and of the financial condition of the corporation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;15. If required by the board of directors, he shall give the corporation a bond in
+such sum and with such surety or sureties as shall be satisfactory to the board of directors for
+the faithful performance of the duties of his office and for the restoration to the corporation, in
+case of his death, resignation, retirement or removal from office, of all books, papers, vouchers,
+money and other property of whatever kind in his possession or under his control belonging to the
+corporation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;16. The assistant treasurer, or if there shall be more than one, the assistant
+treasurers in the order determined by the board of directors, shall, in the absence or disability
+of the treasurer, perform the duties and exercise the powers of the treasurer and shall perform
+such other duties and have such other powers as the board of directors may from time to time
+prescribe.
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-9-<!-- /Folio -->
+</DIV>
+
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE X
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">INDEMNIFICATION OF DIRECTORS, OFFICERS<BR>
+AND OTHER AUTHORIZED REPRESENTATIVES
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. <U>Scope of Indemnification</U>.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;The corporation shall indemnify an indemnified representative against any liability
+incurred in connection with any proceeding in which the indemnified representative may be involved
+as a party or otherwise, by reason of the fact that such person is or was serving in an indemnified
+capacity, including without limitation liabilities resulting from any actual or alleged breach or
+neglect of duty, error, misstatement or misleading statement, negligence, gross negligence or act
+giving rise to strict or products liability, except to the extent that any such indemnification
+against a particular liability is expressly prohibited by applicable law or where a judgment or
+other final adjudication adverse to the indemnified representative establishes that his or her acts
+or omissions (i)&nbsp;were in breach of such person&#146;s duty of loyalty to the corporation or its
+shareholders, (ii)&nbsp;were not in good faith or involved a knowing violation of law or (iii)&nbsp;resulted
+in receipt by such person of an improper personal benefit.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;If an indemnified representative is not entitled to indemnification in respect of a
+portion of any liabilities to which such person may be subject, the corporation shall nonetheless
+indemnify such indemnified representative to the maximum extent for the remaining portion of the
+liabilities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;The termination of a proceeding by judgment, order, settlement, conviction or upon a plea
+of <U>nolo</U> <U>contendere</U> or its equivalent shall not, of itself, create a presumption
+that the indemnified representative is not entitled to indemnification.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;For purposes of this Article:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;an act or omission in breach of a person&#146;s duty of loyalty to the corporation or its
+shareholders means an act or omission which that person knows or believes to be contrary to the
+best interests of the corporation or its shareholders in connection with a matter in which he or
+she has a material conflict of interest;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;&#147;indemnified capacity&#148; means any and all past, present or future service by an indemnified
+representative in one or more capacities as a director, officer, employee or agent of the
+corporation or, at the request of the corporation, as a director, officer, employee, agent,
+fiduciary or trustee of another corporation, partnership, joint venture, trust, employee benefit
+plan or other entity or enterprise;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;&#147;indemnified representative&#148; means any and all directors and officers of the corporation,
+or of any constituent corporation absorbed by the corporation in a consolidation or merger
+designated by the board of directors, and any other person designated as an indemnified
+representative by the board of directors of the corporation (which may, but need not, include any
+person serving at the request of the corporation, as a director, officer, employee,
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-10-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">agent, fiduciary or trustee of another corporation, partnership, joint venture, trust,
+employee benefit plan or other entity or enterprise);
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)&nbsp;&#147;liability&#148; means any damage, judgment, amount paid in settlement, fine, penalty, punitive
+damages, excise tax assessed with respect to an employee benefit plan, or cost or expense of any
+nature (including, without limitation, attorneys&#146; fees and disbursements); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)&nbsp;&#147;proceeding&#148; means any threatened, pending or completed action, suit, appeal or other
+proceeding of any nature, whether civil, criminal, arbitrative, administrative or investigative,
+whether formal or informal, and whether brought by or in the right of the corporation, a class of
+its security holders or otherwise.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. <U>Proceedings Initiated by Indemnified Representatives</U>. Notwithstanding any
+other provision of this Article, the corporation shall not indemnify under this Article an
+indemnified representative for any liability incurred in a proceeding initiated (which shall not be
+deemed to include counter-claims or affirmative defenses) or participated in as an intervenor or
+<U>amicus</U> <U>curiae</U> by the person seeking indemnification unless such initiation of or
+participation in the proceeding is authorized, either before or after its commencement, by the
+affirmative vote of a majority of the directors in office. This section 2 of this Article&nbsp;X does
+not apply to reimbursement of expenses incurred in successfully prosecuting or defending an
+arbitration under section 6 of this Article&nbsp;X or otherwise successfully prosecuting or defending
+the rights of an indemnified representative granted by or pursuant to this Article.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. <U>Advancing Expenses</U>. The corporation shall pay the expenses (including
+attorneys&#146; fees and disbursements) incurred in good faith by an indemnified representative in
+advance of the final disposition of a proceeding described in section 1 of this Article&nbsp;X or
+authorized pursuant to section 2 of this Article&nbsp;X upon receipt of an undertaking by or on behalf
+of the indemnified representative to repay such amount if it shall ultimately be determined
+pursuant to section 6 of this Article&nbsp;X that such person is not entitled to be indemnified by the
+corporation pursuant to this Article. The financial ability of an indemnified representative to
+repay an advance shall not be a prerequisite to the making of such advance.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. <U>Securing of Indemnification Obligations</U>. To further effect, satisfy or
+secure the indemnification obligations provided herein or otherwise, the corporation may maintain
+insurance, obtain a letter of credit, act as self-insurer, create a reserve, trust, escrow, cash
+collateral or other fund or account, enter into indemnification agreements, pledge or grant a
+security interest in any assets or properties of the corporation, or use any other mechanism or
+arrangement whatsoever in such amounts, at such costs, and upon such other terms and conditions as
+the board of directors shall deem appropriate. Absent fraud, the determination of the board of
+directors with respect to such amounts, costs, terms and conditions shall be conclusive against all
+security holders, officers and directors and shall not be subject to voidability.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. <U>Payment of Indemnification</U>. An indemnified representative shall be
+entitled to indemnification within 30&nbsp;days after a written request for indemnification has been
+delivered to the secretary of the corporation.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-11-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;6. <U>Arbitration</U>. Any dispute related to the right to indemnification or
+advancement of expenses as provided under this Article&nbsp;X, except with respect to indemnification
+for liabilities under the Securities Act of 1933 which the corporation has undertaken to submit to
+a court for adjudication, shall be decided only by arbitration in the City of Philadelphia,
+Pennsylvania (or such other metropolitan area to which the corporation&#146;s principal executive
+offices may be relocated), in accordance with the commercial arbitration rules then in effect of
+the American Arbitration Association, before a panel of three arbitrators, one of whom shall be
+selected by the corporation, the second of whom shall be selected by the indemnified representative
+and the third of whom shall be selected by the other two arbitrators. In the absence of the
+American Arbitration Association, or if for any reason arbitration under the arbitration rules of
+the American Arbitration Association cannot be initiated, or if one of the parties fails or refuses
+to select an arbitrator, or if the arbitrators selected by the corporation and the indemnified
+representative cannot agree on the selection of the third arbitrator within seven days after such
+time as the corporation and the indemnified representative have each been notified of the selection
+of the other&#146;s arbitrator, the necessary arbitrator or arbitrators shall be selected by the
+presiding judge of the court of general jurisdiction of the State of New Jersey (or, if the
+corporation&#146;s principal executive offices have been relocated to another metropolitan area, then by
+the presiding judge of the court of general jurisdiction for the county in which such offices have
+been relocated). Each arbitrator selected as provided herein is required to be or have been a
+director or executive officer of a corporation whose shares of common stock were listed during at
+least one year of such service on the New York Stock Exchange or the American Stock Exchange or
+quoted on the National Association of Securities Dealers Automated Quotations System. The party or
+parties challenging the right of an indemnified representative to the benefits of this Article&nbsp;X
+shall have the burden of proof. The corporation shall reimburse an indemnified representative for
+the expenses (including attorneys&#146; fees and disbursements) incurred in successfully prosecuting or
+defending such arbitration. Any award entered by the arbitrators shall be final, binding and
+non-appealable and judgment may be entered thereon by any party in accordance with applicable law
+in any court of competent jurisdiction. This arbitration provision shall be specifically
+enforceable.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;7. <U>Discharge of Duty</U>. An indemnified representative shall be deemed to have
+discharged such person&#146;s duty to the corporation if he or she has relied in good faith on
+information, opinions, reports or statements, including financial statements and other financial
+data, in each case prepared or presented by any of the following:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;one or more officers or employees of the corporation whom such indemnified representative
+reasonably believes to be reliable and competent with respect to the matter presented;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;legal counsel, public accountants or other persons as to matters that the indemnified
+representative reasonably believes are within the person&#146;s professional or expert competence; or
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;a committee of the board of directors on which he or she does not serve as to matters
+within its area of designated authority, which committee he or she reasonably believes to merit
+confidence.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-12-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;8. <U>Contract Rights; Amendment or Repeal</U>. All rights to indemnification and
+advancement of expenses under this Article&nbsp;X shall be deemed to be a contract between the
+corporation and the indemnified representative pursuant to which the corporation and each
+indemnified representative intend to be legally bound. Any repeal, amendment or modification
+hereof shall be prospective only and shall not affect any rights or obligations then existing nor
+shall any repeal, amendment or modification reduce the rights of any indemnified representative to
+be indemnified hereunder for any actions taken before the indemnified representative has received
+actual notice thereof.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;9. <U>Scope of Article</U>. The rights granted by this Article&nbsp;X shall not be deemed
+exclusive of any other rights to which those seeking indemnification or advancement of expenses may
+be entitled under any statute, certificate or articles of incorporation, agreement, vote of
+shareholders or disinterested directors or otherwise, both as to action in all indemnified
+capacities and as to action in another capacity while holding such office. The rights of
+indemnification and advancement of expenses provided by or granted pursuant to this Article&nbsp;X shall
+continue as to a person who has ceased to be an indemnified representative in respect of matters
+arising prior to such time or involving such person at a time when he or she was an indemnified
+representative, and shall inure to the benefit of the heirs, executors and administrators of such a
+person.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;10. <U>Reliance on Provisions</U>. Each person who shall act as an indemnified
+representative of the corporation shall be deemed to be doing so in reliance upon the rights of
+indemnification and advancement of expenses provided by this Article&nbsp;X.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;11. <U>Interpretation</U>. The provisions of this Article&nbsp;X are intended to
+constitute by-laws authorized by Section&nbsp;14A:3-5(8) of the New Jersey Business Corporation Act.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE XI
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">CERTIFICATES FOR SHARES; UNCERTIFICATED SHARES
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. (a)&nbsp;The shares of the corporation shall be represented by certificates signed by
+the chairman of the board of directors, the president or a vice-president and may be countersigned
+by the treasurer or an assistant treasurer, or the secretary or an assistant secretary of the
+corporation, and may be sealed with the seal of the corporation or a facsimile thereof. Any or all
+signatures of the officers of the corporation upon a certificate may be facsimiles. In case any
+officer who has signed or whose facsimile signature has been placed upon such certificate shall
+have ceased to be such officer before such certificate is issued, it may be issued by the
+corporation with the same effect as if he were such officer at the date of its issue.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;Each certificate representing shares shall state upon its face (i)&nbsp;that the corporation is
+organized under the laws of New Jersey, (ii)&nbsp;the name of the person to whom issued, and (iii)&nbsp;the
+number and class of shares, and the designation of series, if any, represented.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-13-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;When the corporation is authorized to issue shares of more than one class there shall be
+set forth upon the face or back of the certificate, or the certificate shall have a statement that
+the corporation will furnish to any shareholder upon request and without charge, a full statement
+of the designations, relative rights, preferences and limitations of the shares of each class and
+series authorized to be issued, so far as the same have been determined, and the authority of the
+board of directors to divide the shares into classes or series and to determine the relative
+rights, preferences and limitations of any class or series.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. Notwithstanding the foregoing, the board of directors may provide that some or all
+of the shares of any class or series shall or may be represented by uncertificated shares.
+Uncertificated shares shall be maintained in book entry and shall be eligible to participate in a
+direct registration program operated by a clearing agency registered under Section&nbsp;17A of the
+Securities Exchange Act of 1934. Within a reasonable time after the issuance or transfer of
+uncertificated shares, the corporation shall send to the registered owner written notice containing
+the information specified in subsections 1(b) and 1(c) of this Article&nbsp;XI. Except as otherwise
+expressly provided by law, the rights and obligations of the holders of uncertificated shares and
+the rights and obligations of the holders of certificates representing shares of the same class and
+series shall be identical.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">LOST CERTIFICATES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. The board of directors may direct a new certificate to be issued in place of any
+certificate theretofore issued by the corporation alleged to have been lost or destroyed. When
+authorizing such issue of a new certificate, the board of directors, in its discretion and as a
+condition precedent to the issuance thereof, may prescribe such terms and conditions as it deems
+expedient, and may require such indemnities as it deems adequate, to protect the corporation from
+any claim that may be made against it with respect to any such certificate alleged to have been
+lost or destroyed.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">TRANSFERS OF SHARES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. Upon surrender to the corporation or the transfer agent of the corporation of a
+certificate representing shares duly endorsed or accompanied by proper evidence of succession,
+assignment or authority to transfer, a new certificate shall be issued to the person entitled
+thereto, and the old certificate canceled and the transaction recorded upon the books of the
+corporation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;5. Transfer of shares represented by certificates shall be made on the books of the
+corporation only by the person named in the certificate or by a successor or by an attorney-in-fact
+lawfully constituted in writing, and upon surrender and cancellation of a certificate or
+certificates for a like number of shares of the same class of stock, with duly executed assignment
+and power of transfer endorsed thereon or attached thereto, and with such evidence of succession
+and the authenticity of the signatures as the corporation or its agents may reasonably require.
+Transfers of uncertificated shares shall be made on the books of the corporation only by the record
+holder thereof, or by a successor attorney-in-fact, upon presentation of proper evidence of
+authority to transfer in accordance with customary procedures for transferring uncertificated
+shares.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-14-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;6. Rights issued pursuant to the Rights Agreement, dated as of October&nbsp;16, 2001
+between the corporation and the Rights Agent listed therein (the &#147;Rights Agreement&#148;) may be
+transferred by an Acquiring Person or an Associate or Affiliate of an Acquiring Person (as such
+terms are defined in the Rights Agreement) only in accordance with the terms of, and subject to the
+restrictions contained in, the Rights Agreement.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">CLOSING OF TRANSFER BOOKS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;7. For the purpose of determining shareholders entitled to notice of or to vote at any
+meeting of shareholders or any adjournment thereof or entitled to receive payment of any dividend
+or allotment of any right, or entitled to give a written consent to any action without a meeting,
+or in order to make a determination of shareholders for any other proper purpose, the board of
+directors may provide that the stock transfer books shall be closed for a stated period but not to
+exceed, in any case, sixty days. If the stock transfer books shall be closed for the purpose of
+determining shareholders entitled to notice of or to vote at a meeting of shareholders, such books
+shall be closed for at least ten days immediately preceding such meeting. If the stock transfer
+books shall be closed for the purpose of determining shareholders entitled to give a written
+consent to any action without a meeting, such books may not be closed for more than sixty days
+before the date fixed for tabulation of consents or if no date has been fixed for tabulation, the
+books may not be closed for more than sixty days before the last day on which consents received may
+be counted. In lieu of closing the stock transfer books, the board of directors may fix in advance
+a date as the record date for any such determination of shareholders, such date in any case to be
+not more than sixty days and, in case of a meeting of shareholders, not less than ten days prior to
+the date on which the particular action, requiring such determination of shareholders, is to be
+taken and, in case of determining shareholders entitled to give a written consent the record date
+may not be more than sixty days before the date fixed for tabulation of the consents or if no date
+has been fixed for the tabulation, more than sixty days before the last day on which consents may
+be counted. If the stock transfer books are not closed and no record date is fixed, the record
+date for a meeting of shareholders shall be the close of business on the day next preceding the day
+on which notice is given, or, if no notice is given, the day next preceding the day on which the
+meeting is held; and the record date for determining shareholders for any other purpose shall be at
+the close of business on the day on which the resolution of the board relating thereto is adopted.
+When a determination of shareholders of record for a meeting of shareholders has been made as
+provided in this section, such determination shall apply to any adjournment thereof unless the
+board fixes a new record date for the adjourned meeting.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">REGISTERED SHAREHOLDERS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;8. The corporation shall be entitled to recognize the exclusive right of a person
+registered on its books as the owner of shares to receive dividends, and to vote as such owner, and
+to hold liable for calls and assessments a person registered on its books as the owner of shares,
+and shall not be bound to recognize any equitable or other claim to or interest in such share or
+shares on the part of any other person, whether or not it shall have express or other notice
+thereof, except as otherwise provided by the laws of New Jersey.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-15-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">LIST OF SHAREHOLDERS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;9. The officer or agent having charge of the transfer books for shares shall make a
+complete list of the shareholders entitled to vote at a meeting of shareholders, or any adjournment
+thereof, arranged in alphabetical order within each class, series or group of shareholders
+maintained by the corporation for convenience of reference, with the address of and the number of
+shares held by each shareholder. A list required by this section may consist of cards arranged
+alphabetically or any equipment which permits the visual display of the information required. Such
+list shall be produced (or available by means of a visual display) at the time and place of the
+meeting and shall be subject to the inspection of any shareholder for reasonable periods during the
+meeting. Such list shall be prima facie evidence as to who are the shareholders entitled to
+examine such list or to vote at any meeting of the shareholders.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE XII
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">GENERAL PROVISIONS
+
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">DIVIDENDS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. Subject to the provisions of the certificate of incorporation relating thereto, if
+any, dividends may be declared by the board of directors at any regular or special meeting,
+pursuant to law. Dividends may be paid in cash, in its bonds, in its own shares or other property,
+including the shares or bonds of other corporations, subject to any provisions of law and of the
+certificate of incorporation.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">CHECKS
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;2. All checks or demands for money and notes of the corporation shall be signed by
+such officer or officers or such other person or persons as the board of directors may from time to
+time designate.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">FISCAL YEAR
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;3. The fiscal year of the corporation shall end on the Saturday in December or January
+that is closest to December&nbsp;31 in each year, unless otherwise fixed by resolution of the board of
+directors.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SEAL
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;4. The corporate seal shall have inscribed thereon the name of the corporation, the
+year of its organization and the words &#147;Corporate Seal, New Jersey&#148;. The seal may be used by
+causing it or a facsimile thereof to be impressed or affixed or in any manner reproduced.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-16-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">ARTICLE XIII
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">AMENDMENTS
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;1. These by-laws may be altered, amended or repealed or new by-laws may be adopted by
+the affirmative vote of a majority of the board of directors at any regular or special meeting of
+the board, subject to any provision in the certificate of incorporation reserving to the
+shareholders the power to adopt, amend or repeal by-laws, and provided, further, that the
+provisions of Sections&nbsp;1 (except for the first paragraph thereof), 3, 4 and 5 of Article&nbsp;V of these
+by-laws and of this Article&nbsp;XIII with respect thereto may not be repealed or amended in any respect
+unless such action is approved by the affirmative vote of seventy-five percent (75%) of the
+outstanding shares of stock of the corporation entitled to vote with respect to the election of
+directors generally. By-laws made by the board may be altered or repealed and new by-laws made by
+the shareholders. The shareholders may prescribe that any by-law made by them shall not be altered
+or repealed by the board.
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-17-<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

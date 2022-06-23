@@ -1,0 +1,1708 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FZrz57ZIFSmd3PzJljJSUJwCapRWpYw5Z9y4dTKSju6au2/ejtMJs03gfn0VM/3d
+ lGk/3IjRqXM30JGUdXbbAA==
+
+<SEC-DOCUMENT>0000893220-97-001715.txt : 19971028
+<SEC-HEADER>0000893220-97-001715.hdr.sgml : 19971028
+ACCESSION NUMBER:		0000893220-97-001715
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970927
+FILED AS OF DATE:		19971027
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		97701349
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q, K-TRON INTERNATIONAL, INC.
+<TEXT>
+
+<PAGE>   1
+                                    FORM 10-Q
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+(Mark One)
+
+[X]              QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended September 27, 1997
+                                               ------------------
+
+                                       OR
+
+[ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                For the transition period from ________ to ______
+
+                          Commission File Number  0-9576
+                                                 -------
+
+                           K-TRON INTERNATIONAL, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+         New Jersey                                              22-1759452
+- -------------------------------                              -------------------
+(State or other jurisdiction of                              (IRS Employer ID #)
+ incorporation of organization)
+
+                                 Routes 55 & 553
+                                  P.O. Box 888
+                               Pitman, New Jersey
+                                   08071-0888
+                    ----------------------------------------
+                    (Address of Principal Executive Offices)
+                                   (Zip Code)
+
+                                 (609) 589-0500
+                    ----------------------------------------
+               (Registrant's Telephone Number Including Area Code)
+
+                                 Not Applicable
+                    ----------------------------------------
+              (Former name, former address and formal fiscal year,
+                          if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                                              YES  X   NO
+                                                                  ---     ---
+
+The number of shares of Common Stock outstanding as of September 27, 1997 was:
+
+                                3,183,259 Shares
+                                ---------
+
+<PAGE>   2
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                      INDEX
+
+
+                                                                        Page No.
+                                                                        --------
+
+PART  I.                   FINANCIAL INFORMATION
+                           ---------------------
+
+         Item 1.           Financial Statements
+                           --------------------
+
+                           Consolidated Balance Sheets
+                            September 27, 1997 and December 28, 1996       1
+
+                           Consolidated Statements of Income
+                            and Retained Earnings for the Three and
+                            Nine Months Ended September 27, 1997
+                            and September 28, 1996                         2
+
+                           Consolidated Statements of Cash Flows
+                            Nine Months Ended September 27, 1997 and
+                            September 28, 1996                             3
+
+                           Notes to Consolidated Financial Statements      4
+
+         Item 2.           Management's Discussion and Analysis
+                            of Financial Condition and Results
+                            of Operations                                  5 - 8
+
+PART II.                   OTHER INFORMATION
+                           -----------------
+
+         Item 6.           Exhibits and Reports on Form 8-K                9
+
+
+<PAGE>   3
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                          PART I. FINANCIAL STATEMENTS
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                        Sept.27,    December 28,
+                                                                          1997         1996
+                                                                      (Unaudited)    (Audited)
+                                                                      -----------    ---------
+<S>                                                                    <C>            <C>
+                                    ASSETS
+                                    ------
+CURRENT ASSETS:
+   Cash and cash equivalents                                           $ 5,144        $ 3,079
+   Accounts receivable (less allowance for doubtful accounts of                              
+     $1,001 and $1,037)                                                 16,199         16,336
+   Inventories                                                          11,435         13,258
+   Deferred income taxes                                                   641            641
+   Prepaid expenses and other current assets                             1,089          1,353
+                                                                       -------        -------
+         Total Current Assets                                           34,508         34,667
+                                                                                             
+PROPERTY, PLANT AND EQUIPMENT, net                                      14,703         15,624
+PATENTS, net                                                               614            493
+EXCESS OF COST OVER NET ASSETS ACQUIRED, net                             3,767          4,422
+OTHER ASSETS                                                               176            124
+                                                                       -------        -------
+         Total Assets                                                  $53,768        $55,330
+                                                                       =======        =======
+
+
+                              LIABILITIES & SHAREHOLDERS' EQUITY
+                              ----------------------------------
+CURRENT LIABILITIES:
+   Notes payable to banks                                               $   --       $    494
+   Current portion of long-term debt                                       465            367
+   Accounts payable                                                      5,291          5,641
+   Accrued expenses & other current liabilities                          5,056          3,440
+   Accrued payroll                                                       3,954          2,579
+   Accrued commissions                                                   2,357          2,407
+   Customer advances                                                     1,877          2,318
+   Accrued warranty                                                      1,006            826
+   Income taxes payable                                                    990          1,226
+   Deferred income taxes                                                     7              7
+                                                                      --------       --------
+         Total Current Liabilities                                      21,003         19,305
+LONG-TERM DEBT, net of current portion                                  14,440         20,807
+DEFERRED INCOME TAXES                                                      459            459
+OTHER NONCURRENT LIABILITIES                                             1,172          1,565
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED
+   SHARES, $.01 par value - authorized 50,000 shares; none issued           --             --
+SHAREHOLDERS' EQUITY:
+   Preferred stock, $.01 par value - authorized 950,000 shares;
+     none issued                                                            --             --
+   Common stock, $.01 par value - authorized 15,000,000 shares;
+     issued 4,246,209 shares and 4,200,328 shares                           42             42
+   Paid-in capital                                                      14,541         14,120
+   Retained earnings                                                    13,565          9,802
+   Cumulative translation adjustments                                     (890)          (206)
+                                                                      --------       --------
+                                                                        27,258         23,758
+   Treasury stock, 1,062,950 shares - at cost                          (10,564)       (10,564)
+                                                                      --------       --------
+         Total Shareholders' Equity                                     16,694         13,194
+                                                                      --------       --------
+         Total Liabilities and Shareholders' Equity                   $ 53,768       $ 55,330
+                                                                      ========       ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -1-
+<PAGE>   4
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                    (Dollars in Thousands except Share Data)
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                                     Three Months Ended                      Nine Months Ended
+                                                                     ------------------                      -----------------
+                                                                  Sept. 27,         Sept. 28,           Sept. 27,         Sept. 28,
+                                                                    1997              1996                1997              1996
+                                                                    ----              ----                ----              ----
+<S>                                                              <C>                <C>                <C>                <C>
+REVENUES                                                         $   21,790         $   22,547         $   64,897         $   68,006
+
+COST OF REVENUES                                                     11,813             12.943             35,767             38,393
+                                                                 ----------         ----------         ----------         ----------
+      Gross profit                                                    9,977              9,604             29,130             29,613
+
+OPERATING EXPENSES
+     Selling, general and administrative                              7,016              7,145             21,042             22,063
+     Research and development                                           644                523              2,050              1,755
+                                                                 ----------         ----------         ----------         ----------
+                                                                      7,660              7,668             23,092             23,818
+                                                                 ----------         ----------         ----------         ----------
+       Operating Profit                                               2,317              1,936              6,038              5,795
+
+INTEREST EXPENSE                                                        281                505                915              1,684
+                                                                 ----------         ----------         ----------         ----------
+       Income Before Income Taxes                                     2,036              1,431              5,123              4,111
+
+INCOME TAX PROVISION                                                    575                270              1,360              1,270
+                                                                 ----------         ----------         ----------         ----------
+
+     Net Income                                                       1,461              1,161              3,763              2,841
+
+RETAINED EARNINGS
+     Beginning of period                                             12,104              7,456              9,802              5,776
+                                                                 ----------         ----------         ----------         ----------
+     End of period                                               $   13,565            $ 8,617           $ 13,565         $    8,617
+                                                                 ==========         ==========         ==========         ==========
+
+EARNINGS PER SHARE                                               $      .45         $      .37         $     1.17         $      .91
+                                                                 ==========         ==========         ==========         ==========
+
+WEIGHTED AVERAGE NUMBER OF
+   COMMON AND COMMON EQUIVALENT
+    SHARES OUTSTANDING                                            3,227,000          3,138,000          3,207,000          3,128,000
+                                                                 ==========         ==========         ==========         ==========
+</TABLE>
+
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+                                       -2-
+<PAGE>   5
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                                    Nine Months Ended
+                                                                                                    -----------------
+                                                                                                Sept. 27,        Sept. 28,
+                                                                                                  1997             1996
+                                                                                                  ----             ----
+<S>                                                                                            <C>              <C>
+OPERATING ACTIVITIES:
+   Net Income                                                                                  $  3,763         $  2,841
+   Adjustment to reconcile net income to net cash provided by operating activities:
+   Depreciation and amortization                                                                  2,287            2,461
+   Amortization of deferred gain on sale/leaseback transaction                                     (284)            (340)
+   Deferred income taxes                                                                             --              343
+   Changes in assets and liabilities:
+         Accounts receivable, net                                                                  (871)           1,941
+         Inventories                                                                              1,321            3,028
+         Prepaid expenses and other current assets                                                  214               86
+         Other assets                                                                               (66)            (102)
+         Accounts payable                                                                           (95)          (3,646)
+         Accrued expenses and other current liabilities                                           3,229            2,846
+         Accrued warranty                                                                           226              (86)
+         Income taxes                                                                              (221)             256
+                                                                                               --------         --------
+   Net cash provided by operating activities                                                      9,503            9,628
+                                                                                               --------         --------
+
+INVESTING ACTIVITIES:
+   Capital expenditures                                                                          (1,774)          (1,356)
+   Investment in patents                                                                           (151)             (46)
+                                                                                               --------         --------
+
+   Net cash used in investing activities                                                         (1,925)          (1,402)
+                                                                                               --------         --------
+
+FINANCING ACTIVITIES:
+   Net re-payments under notes payable to banks                                                  (5,420)         (14,907)
+   Principal payments on long-term debt                                                            (475)            (213)
+   Proceeds from issuance of long-term debt                                                         225            5,949
+   Proceeds from issuance of common stock                                                           421               70
+                                                                                               --------         --------
+   Net cash used in financing activities                                                         (5,249)          (9,101)
+                                                                                               --------         --------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH EQUIVALENTS                                                                                (264)            (111)
+                                                                                               --------         --------
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                              2,065             (986)
+                                                                                               --------         --------
+
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                                            3,079            3,239
+                                                                                               --------         --------
+   End of period                                                                               $  5,144         $  2,253
+                                                                                               ========         ========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -3-
+
+<PAGE>   6
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 27, 1997
+                                   (Unaudited)
+
+1.       Basis of Presentation
+
+The accompanying unaudited financial statements have been prepared in accordance
+with the instructions for Form 10-Q and do not include all of the information
+and footnotes required by generally accepted accounting principles for complete
+financial statements. The consolidated financial statements include the accounts
+of K-Tron International, Inc. ("K-Tron" or the "Company") and its subsidiaries.
+All intercompany transactions have been eliminated in consolidation. In the
+opinion of management, all adjustments (consisting of a normal recurring nature)
+considered necessary for a fair presentation of results for interim periods have
+been made. The results for the interim periods are not necessarily indicative of
+the results for a full year.
+
+The unaudited financial statements herein should be read in conjunction with the
+Company's Annual Report on Form 10-K for the year ended December 28, 1996 which
+was previously filed with the Securities and Exchange Commission.
+
+2.       Supplemental Disclosures of Cash Flow Information
+
+The Company considers all highly liquid short-term investments purchased with a
+maturity of three months or less to be cash equivalents. Cash paid in the first
+nine months of 1997 and 1996 for interest was $1.0 million and $1.1 million,
+respectively, and for income taxes was $1.5 million and $.6 million,
+respectively.
+
+3.       Impact of New Accounting Pronouncement
+
+In 1997, the Financial Accounting Standards Board issued Statement of Financial
+Accounting Standards No. 128, Earnings Per Share ("SFAS No. 128") which requires
+the Company to present in the financial statements "basic" and "diluted"
+earnings per share, as defined. SFAS No. 128 is effective for interim and annual
+periods ending after December 15, 1997; however, pro forma "basic" and "diluted"
+earnings per share as defined for the third quarter and nine month periods ended
+September 27, 1997 and September 28, 1996 would be as follows, if SFAS No.
+128 were adopted for those periods:
+
+
+<TABLE>
+<CAPTION>
+                              Third Quarter                     Nine Months
+                              -------------                     -----------
+                          1997             1996            1997          1996
+                          ----             ----            ----          ----
+         <S>              <C>              <C>             <C>           <C>
+         Basic            $.46             $.37            $1.19         $.91
+         Diluted          $.45             $.37            $1.17         $.91
+</TABLE>
+
+
+                                       -4-
+
+<PAGE>   7
+
+         ITEM 2.    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                     MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                      NINE MONTHS ENDED SEPTEMBER 27, 1997
+
+Results of Operations
+
+         For the third quarter and first nine months of 1997, the Company
+reported net income of $1,461,000 and $3,763,000, respectively, compared to
+$1,161,000 and $2,841,000 in the same periods in 1996.
+
+         K-Tron is an international company with approximately 60% of its
+revenues derived from products manufactured and services performed from its
+facilities outside the United States, primarily in Europe. As such, the
+financial position and performance of the Company is sensitive to both
+translation and transaction fluctuations in foreign currency exchange rates
+("foreign exchange rates").
+
+         The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues:
+
+
+
+<TABLE>
+<CAPTION>
+                                                Three Months Ended                   Nine Months Ended
+                                              -----------------------              ---------------------
+                                              1997               1996              1997             1996
+                                              ----               ----              ----             ----
+<S>                                          <C>                <C>               <C>               <C>
+Total Revenues                               100.0%             100.0%            100.0%            100.0%
+Cost of Revenues                              54.2               57.4              55.1              56.5
+                                             -----              -----             -----             -----
+Gross Profit                                  45.8               42.6              44.9              43.5
+
+Selling, General & Administrative             32.2               31.7              32.5              32.4
+Research & Development                         3.0                2.3               3.1               2.6
+                                             -----              -----             -----             -----
+Operating Income                              10.6                8.6               9.3               8.5
+Interest                                       1.3                2.2               1.4               2.5
+                                             -----              -----             -----             -----
+Income before income taxes                     9.3%               6.4%              7.9%              6.0%
+                                             =====              =====             =====             =====
+</TABLE>
+
+Backlog at end of period (at Sept. 27,
+1997 constant foreign exchange
+ rates, in millions):
+
+
+                   Sept. 1997            Dec. 1996            Sept.1996
+                   ----------            ---------            ---------
+                    $18,586               $19,606              $19,442
+                    =======               =======              =======
+
+         Translation of the Company's foreign revenues and results of operations
+into U.S. dollars is affected by changes in foreign exchange rates, particularly
+with respect to the Swiss franc and the Deutsche mark. In addition, revenues and
+income of the Company with respect to particular transactions may be affected by
+changes in foreign exchange rates where sales are made in other currencies,
+including in particular the U.S. dollar/Swiss
+
+                                       -5-
+
+<PAGE>   8
+
+franc, U.S. dollar/Deutsche mark and Deutsche mark/Swiss franc exchange rates.
+For the third quarter and first nine months of 1997 as well as the same periods
+in 1996, the changes in these exchange rates were as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                              Three Months Ended           Nine Months Ended
+                                                             --------------------        ----------------------
+                                                             1997            1996        1997              1996
+                                                             ----            ----        ----              ----
+<S>                                                          <C>     <C>     <C>          <C>     <C>      <C>
+Average U.S. dollar equivalent of
+one Swiss franc                                              $.671           $.820        $.687            $.822
+% devaluation vs. prior year                                         -18.2%                       -16.4%
+
+Average U.S. dollar equivalent of
+one Deutsche mark                                            $.554           $.670        $.580            $.670
+% devaluation vs. prior year                                         -17.3%                       -13.4%
+
+Average Swiss franc equivalent of
+one Deutsche mark                                             .826            .817         .845             .815
+% appreciation vs. prior year                                         +1.1%                        +3.7%
+</TABLE>
+
+
+         Total revenues decreased by $.8 million or 3.4% in the third quarter of
+1997 and by $3.1 million or 4.6% for the first nine months of 1997 when compared
+to the same periods in 1996. The decrease in revenues was due to lower exchange
+translation rates of certain currencies into U.S. dollars. If the average
+foreign exchange translation rates for the third quarter and first nine months
+of 1997 were applied to the same periods in 1996, revenues would have increased
+9.6% for the quarter and 6.2 % for the first nine months.
+
+         Gross profit as a percent of revenues improved to 45.8% in the third
+quarter of 1997 and to 44.9% for the first nine months of 1997, as compared to
+42.6% and 43.5% for the same periods in 1996. The change in gross margin in 1997
+was primarily due to sales mix.
+
+         Selling, general and administrative (SG&A) expense decreased by $.1
+million or 1.8% in the third quarter of 1997 and by $1.0 million or 4.6% for the
+first nine months of 1997, as compared to the same periods in 1996. The decrease
+in SG&A was due to the lower foreign exchange translation rates previously
+described offset in part by higher selling expenses.
+
+         Research and development (R&D) expenditures increased by $.1 million or
+23.1% in the third quarter of 1997 and by $.3 million or 16.8% for the first
+nine months of 1997, as compared to the same periods in 1996. R&D expenses
+increased due to the development of new product enhancements, offset in part by
+lower foreign exchange translation rates.
+
+         Interest expense decreased by $.2 million or 44.4% in the third quarter
+of 1997 and by $.8 million or 45.7% for the first nine months of 1997, as
+compared to the same periods in 1996, primarily due to lower debt levels and
+lower foreign exchange translation rates.
+
+         The effective tax rates for the third quarter and first nine months of
+1997 were 28.2% and 26.5%, respectively, compared to 18.9% and 30.9% for the
+same periods in 1996. The effective tax rate in the first nine months of 1997
+was lower than the same period in 1996 due to the utilization of foreign net
+operating loss carry forwards. The effective tax rate was lower in the third
+quarter of 1996 as compared to the same period in 1997 due to the 1996 reduction
+of the valuation allowance for certain foreign net operating loss carry forwards
+that arose from foreign operation restructuring.
+
+
+                                       -6-
+
+<PAGE>   9
+
+         The September 1997 backlog decreased by 5.2%, primarily in the U.S.,
+when compared to December 1996 and decreased by 4.4%, primarily in Europe, when
+compared to the same period in 1996 (at constant foreign exchange rates).
+
+Liquidity and Capital Resources
+
+         The Company's capitalization as of the end of the third quarter of 1997
+and fiscal years 1996 and 1995 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                 September        December      December
+(Dollars in Thousands)                             1997             1996          1995
+                                                 ---------        --------      --------
+<S>                                              <C>            <C>             <C>
+Short-term debt including current
+   portion of long-term debt                      $    465        $    861       $ 2,133
+
+Long-term debt                                      14,440          20,807        35,004
+                                                   -------         -------       -------
+
+Total debt                                          14,905          21,668        37,137
+
+Shareholders' equity                                16,694          13,194         9,421
+                                                   -------         -------       -------
+
+Total debt and shareholders' equity                $31,599         $34,862       $46,558
+                                                   =======         =======       =======
+
+Percent total debt to total capitalization              47%             62%           80%
+
+Percent long-term debt to equity                        86%            158%          372%
+
+Percent total debt to equity                            89%            164%          394%
+</TABLE>
+
+
+         Total debt decreased by $6.8 million in the first nine months of 1997,
+of which $1.1 million was due to the effect of foreign exchange translation.
+Total debt without the effect of the foreign exchange translation decreased by
+$5.7 million. European and U.S. debt decreased by $6.7 million and $.1 million,
+respectively. At September 27, 1997, the Company had $5.0 million of
+availability under its U.S. revolving credit agreement and $9.8 million of
+availability under certain of its Swiss loan agreements.
+
+         At September 27, 1997, there was working capital of $13.5 million as
+compared to $15.4 million at December 28, 1996, and the ratio of current assets
+to current liabilities at those dates was 1.64 and 1.80, respectively. Working
+capital decreased in 1997 primarily due to the utilization of funds generated
+from operations and improved asset management to reduce indebtedness.
+
+         In the first nine months of 1997 and 1996, the Company utilized
+earnings from operations and internally-generated funds to meet its working
+capital needs and reduce debt.
+
+         Net cash provided by operating activities was $9.5 million in the first
+nine months of 1997 as compared to $9.6 million in the same period of 1996.
+
+
+                                       -7-
+
+<PAGE>   10
+
+         Net cash used in investing activities in the first nine months of 1997
+and 1996 was for capital additions.
+
+         Net cash used in financing activities in the first nine months of 1997
+and 1996 was for the reduction of debt and was obtained from the cash provided
+by operating activities.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and Deutsche mark, caused a translation adjustment decrease in
+shareholders' equity of $.7 million in the first nine months of 1997.
+
+
+
+
+
+
+
+                                       -8-
+
+<PAGE>   11
+
+                           PART II. OTHER INFORMATION
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+<TABLE>
+<CAPTION>
+(a)      Exhibits
+<S>      <C>              <C>
+         10.1             Employment Agreement dated as of October 6, 1997 by and between
+                            K-Tron International, Inc. and Edward B. Cloues, II
+         11.1             Computation of Earnings Per Share
+         27.1             Financial Data Schedule
+</TABLE>
+
+(b)      Reports on Form 8-K
+
+         There were no reports on Form 8-K for the nine months ended September
+27, 1997.
+
+
+
+
+                                      -9 -
+
+<PAGE>   12
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                               K-TRON INTERNATIONAL, INC.
+
+
+
+
+Date: October 27, 1997
+      ----------------
+
+                                               By:  /s/ Robert L. Weinberg
+                                                  -----------------------------
+                                               Robert L. Weinberg
+                                               Senior Executive Vice President
+                                               & Chief Financial Officer
+                                               (Duly authorized officer and
+                                               principal financial officer
+                                               of the registrant)
+
+
+
+                                               By: /s/ Alan R. Sukoneck
+                                                  -----------------------------
+                                               Alan R. Sukoneck
+                                               Vice President, Chief Accounting
+                                                & Tax Officer
+                                               (Duly authorized officer and
+                                               principal accounting officer
+                                               of the registrant)
+
+
+
+
+
+                                      -10-
+
+<PAGE>   13
+
+                                  EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+          Exhibit Number        Description
+          --------------        -----------
+          <S>                   <C>
+
+              10.1              Employment Agreement dated as of October 6, 1997
+                                by and between K-Tron International, Inc. and
+                                Edward B. Cloues, II
+
+              11.1              Computation of Earnings Per Share
+
+              27.1              Financial Data Schedule
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>EMPLOYMENT AGREEMENT DATED AS OF OCTOBER 6, 1997
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+
+                              EMPLOYMENT AGREEMENT
+
+               EMPLOYMENT AGREEMENT (the "Agreement") dated as of October 6,
+1997 by and between K-TRON INTERNATIONAL, INC., a New Jersey corporation ("K-
+Tron"), and EDWARD B. CLOUES, II, a resident of Pennsylvania (the "Employee").
+
+               WHEREAS, K-Tron and the Employee desire to enter into an
+agreement to provide for the Employee's employment by K-Tron, upon the terms and
+conditions hereinafter set forth;
+
+               NOW, THEREFORE, the parties hereto, intending to be legally
+bound, hereby agree as follows:
+
+               1.     Employment. K-Tron agrees to employ the Employee, and the
+Employee accepts such employment and agrees to perform his duties and
+responsibilities hereunder, in accordance with the terms, conditions and other
+provisions hereinafter set forth.
+
+               1.1    Employment Term. The employment term of this Agreement
+(the "Employment Term") shall commence on January 5, 1998 and shall continue
+until terminated in accordance with Section 8 or 9 hereof.
+
+               1.2    Duties and Responsibilities. During the Employment Term,
+the Employee shall serve as the Chairman of the Board and Chief Executive
+Officer of K-Tron, and he shall perform all duties and accept all
+responsibilities incident to such positions.
+
+               1.3    Extent of Service. During the Employment Term, the
+Employee shall use his reasonable best efforts in the performance of his duties
+and responsibilities hereunder, and he shall devote such time and attention
+thereto as may be necessary to perform such duties and responsibilities, it
+being understood that substantially all of his business time shall be devoted to
+K-Tron and to other activities of a type that might typically be performed by
+the chairman and chief executive officer of a company such as K-Tron. Without
+limiting other activities in which the Employee may be or become involved, it is
+recognized by K-Tron that the Employee shall continue as the non-executive
+Chairman of the Board of AMREP Corporation; however, the Employee will resign
+this position at any time after December 31, 1998 if so requested at that time
+by the Board of Directors of K-Tron (the "K-Tron Board").
+
+               1.4    Compensation and Benefits. For all the services rendered
+during the Employment Term by the Employee hereunder, K-Tron shall pay the
+Employee a base salary ("Base Salary"), commencing on January 5, 1998, at the
+annual rate of $380,000, payable in installments at such times as K-Tron
+customarily pays its other senior level executives (but in no event less often
+than monthly). Such Base Salary may be increased from time to time during the
+Employment Term in the sole discretion of the K-Tron Board or any duly
+authorized committee thereof, and any such increased salary shall thereafter be
+the Employee's new Base Salary for all purposes of this Agreement. The Employee
+shall also be
+
+<PAGE>   2
+
+entitled to receive bonus payments in the sole discretion of the
+K-Tron Board or any duly authorized committee thereof. In addition to said
+annual salary and bonus payments (if any), the Employee shall be entitled to a
+suitable car or car allowance, an annual physical examination by a physician
+selected by the Employee and annual paid vacation of six weeks per year, and he
+shall also be entitled to participate in such employee benefit plans of K-Tron
+as may exist from time to time on the same basis as other senior level
+executives of K-Tron. Notwithstanding the foregoing, and subject to the Employee
+qualifying for coverage on a reasonable basis, the Employee shall be provided
+with a term life insurance policy having a death benefit of $1,000,000 and
+disability insurance providing coverage equal to $30,000 per month through age
+65 (alternatively, the Employee may purchase such disability coverage himself,
+with a waiting period of two years, and be reimbursed the cost thereof by K-Tron
+plus the estimated income taxes to be incurred on such reimbursement). The
+definition of disability shall be that the Employee is unable to perform his
+duties as the chief executive officer of K-Tron. The other terms of any such
+term life and disability insurance policies shall be reasonably satisfactory to
+both K-Tron and the Employee.
+
+               1.5    Stock Grant. On January 2, 1998, K-Tron shall issue to the
+Employee 10,000 fully vested shares of its Common Stock, which shares shall be
+unregistered and contain an appropriate securities law restrictive legend. On
+October 7, 1998, K-Tron shall issue to the Employee 20,000 shares of its Common
+Stock as a restricted stock grant under Section 6 of the K-Tron International,
+Inc. 1996 Equity Compensation Plan, as amended (the "1996 Equity Compensation
+Plan"), with the grant to provide that the restriction shall lapse as to 10,000
+of such shares on January 5, 1999 and as to the other 10,000 shares on January
+5, 2000, provided that the Employee is still employed by K-Tron on those dates;
+provided, however, that the foregoing restrictions shall lapse immediately if
+the Employment Term is terminated by (a) K-Tron for any reason other than
+"cause" as defined in Section 8.4(b) hereof or (b) the Employee either pursuant
+to Section 8.4(a) hereof or in connection with a Termination upon a Change of
+Control as described in Section 9.1(c) hereof.
+
+               1.6    Early Start Part-Time Employment. The Employee will be
+employed by K-Tron on a part-time basis and in a non-officer capacity from
+October 6, 1997 through January 4, 1998. His compensation for this three-month
+period shall equal $10,000 per month, or $30,000, plus an amount equal to the
+fees he would have received as a non-employee director of K-Tron for this
+period, including any bonus for 1997. This compensation of $10,000 per month
+(excluding the Board fee equivalent) for part-time services rendered by the
+Employee during the last three months of 1997 is intended by the parties to
+equate to, and was determined by reference to, the full-time annual compensation
+to be paid to the Employee in 1998 (that is, the sum of (a) the Base Salary the
+Employee will receive in 1998 when he is a full-time employee plus (b) the
+estimated value of the 10,000 shares of K-Tron Common Stock to be received by
+him on January 2, 1998). The Employee shall not be entitled to any fringe
+benefits during this three-month period, and his sole duty and responsibility
+shall be to work with Leo C. Beebe, the current Chairman and Chief Executive
+Officer of K-Tron, to ensure a smooth transition of responsibilities on January
+5, 1998, which is the beginning of the Employment Term.
+
+
+                                      -2-
+<PAGE>   3
+
+               1.7    Stock Option Grant. As of the date hereof, the Employee
+was granted two ten-year stock options under the 1996 Equity Compensation Plan
+to purchase a total of 100,000 shares of K-Tron Common Stock at the last
+reported sale price on the Nasdaq Stock Market as of this date and on the other
+terms and conditions set forth in two stock option agreements dated as of the
+date hereof between K-Tron and the Employee.
+
+               1.8    Location. Without his express written consent, the
+Employee shall not be obligated to relocate outside of the greater Philadelphia
+metropolitan area.
+
+               2.     Reimbursement of Expenses. K-Tron shall reimburse the
+Employee for all ordinary and necessary out-of-pocket business expenses incurred
+by him in connection with the discharge of his duties and responsibilities
+hereunder in accordance with K-Tron's expense approval procedures then in effect
+and upon presentation by the Employee of an itemized account of such expenses.
+
+               3.     Developments. The Employee shall disclose fully, promptly
+and in writing to K-Tron any and all inventions, discoveries, improvements,
+modifications and the like, whether patentable or not, which he conceives, makes
+or develops, solely or jointly with others, while employed by K-Tron and which
+(a) relate to the business, work or activities of K-Tron or any of its
+subsidiaries (K-Tron and its subsidiaries as they may exist from time to time
+are collectively referred to herein as the "K-Tron Group", and each is sometimes
+individually referred to herein as a "member" of the K-Tron Group) or (b) result
+from or are suggested by the carrying out of his duties hereunder, or from or by
+any information which he may receive while employed by K-Tron. The Employee
+hereby assigns, transfers and conveys to K-Tron or its designee all of his
+right, title and interest in and to any and all such inventions, discoveries,
+improvements, modifications and the like and agrees to take all such actions as
+may be requested by K-Tron at any time with respect to any such invention,
+discovery, improvement, modification or the like to confirm or evidence such
+assignment, transfer and conveyance. Furthermore, at any time and from time to
+time, upon the request of K-Tron, the Employee shall execute and deliver to
+K-Tron, or to another member of the K-Tron Group designated by K-Tron, any and
+all instruments, documents and papers, give evidence and do any and all other
+acts which, in the opinion of counsel for K-Tron, are or may be necessary or
+desirable to document such assignment, transfer and conveyance or to enable
+K-Tron or such other member of the K-Tron Group to file and prosecute
+applications for and to acquire, maintain and enforce any and all patents,
+trademark registrations or copyrights under United States or foreign law with
+respect to any such inventions, discoveries, improvements, modifications or the
+like or to obtain any extension, validation, reissue, continuance or renewal of
+any such patent, trademark or copyright. K-Tron or such other member of the
+K-Tron Group shall be responsible for the preparation of any such instruments,
+documents and papers and for the prosecution of any such proceedings and shall
+reimburse the Employee for all reasonable expenses incurred by him in compliance
+with the provisions of this Section 3.
+
+
+                                       -3-
+
+<PAGE>   4
+
+               4.     Confidential Information. The Employee acknowledges that,
+by reason of his employment by K-Tron, he will have access to confidential
+information of the K-Tron Group, including, without limitation, information and
+knowledge pertaining to business strategies, financial performance, products,
+inventions, discoveries, improvements, innovations, designs, ideas, trade
+secrets, proprietary information, manufacturing, packaging, advertising,
+distribution and sales methods, customer and client lists and relationships
+between members of the K-Tron Group and dealers, distributors, sales
+representatives, wholesalers, customers, clients, suppliers and others who have
+business dealings with such members ("Confidential Information"). The Employee
+acknowledges that such Confidential Information is a valuable and unique asset
+of K-Tron and the other members of the K-Tron Group and covenants that, both
+during and after the Employment Term, he will not disclose any such Confidential
+Information to any person, except in connection with the performance of his
+duties and responsibilities hereunder, without the prior written authorization
+of the K-Tron Board. The obligation of confidentiality imposed by this Section 4
+shall not apply to information which appears in issued patents or printed
+publications, which otherwise becomes generally known in the industry through no
+act of the Employee in breach of this Agreement or which is required to be
+disclosed by court order or applicable law.
+
+               5.     Non-Competition.
+
+                      (a)    During (i) the Employment Term and (ii) for (A) two
+years thereafter only in the event that such Employment Term is terminated under
+Section 8.2 or 8.4(b) hereof or (B) one year thereafter if the Employee
+terminates employment with K-Tron with or without giving the notice required by
+Section 8.1 hereof (but excluding any termination by the Employee under Section
+8.4(a) hereof or which is a Termination upon a Change of Control as defined in
+Section 9.1(c) hereof) or if it is terminated under Section 8.5 hereof, the
+Employee shall not, unless acting as an employee pursuant hereto or with the
+prior written consent of the K-Tron Board, directly or indirectly, own, manage,
+operate, finance, join, control or participate in the ownership, management,
+operation, financing or control of, or be connected as an officer, director,
+employee, partner, principal, agent, representative, consultant or otherwise
+with, or use or permit his name to be used in connection with, any business or
+enterprise engaged in the business of designing, engineering, manufacturing,
+marketing or distributing feeding or blending equipment, or in any other
+business then engaged in by K-Tron or any other member of the K-Tron Group,
+within (i) any state of the United States or the District of Columbia or (ii)
+any other country in which K-Tron or any member of the K-Tron Group has engaged
+in any such business within the prior year; provided, however, that
+notwithstanding the foregoing, the Employee shall not be prohibited from acting
+in any capacity for or with respect to any such entity if the Employee is not
+involved in any way with that part of the entity which is engaged in the
+competitive activity; and further provided, that this provision shall not be
+construed to prohibit the passive ownership by the Employee of not more than 1%
+of the equity of any entity which is engaged in any of the foregoing businesses
+having a class of securities registered pursuant to the Securities Exchange Act
+of 1934, as amended (the "Exchange Act"). In the event that the provisions of
+this Section 5(a) should ever be adjudicated to exceed the time, geographic,
+
+
+                                      -4-
+<PAGE>   5
+
+product or other limitations permitted by applicable law in any jurisdiction,
+then such provisions shall be deemed reformed in such jurisdiction to the
+maximum time, geographic, product or other limitations permitted by applicable
+law.
+
+                      (b) Nothing in Section 5(a) above shall be construed to
+prohibit the Employee from being connected as a partner, principal, shareholder,
+associate, special counsel, of counsel or otherwise with another lawyer or a law
+firm, including Morgan, Lewis & Bockius LLP, which performs services for clients
+engaged in any business or enterprise that is competitive with any business or
+enterprise in which K-Tron or any member of the K-Tron Group is engaged,
+provided that the Employee is not personally and knowingly involved in
+performing services for any such clients during the period specified in Section
+5(a) with respect to any part of their businesses that would be so competitive.
+The parties further agree that, with respect to the confidentiality obligations
+of Section 4 of this Agreement, the Employee's knowledge of such confidential
+information shall not be imputed to any other lawyer or law firm with which the
+Employee may be or become connected.
+
+               6.     No Solicitation. During (a) the Employment Term and (b)
+for (i) two years thereafter only in the event that such Employment Term is
+terminated under Section 8.2 or 8.4(b) hereof or (ii) one year thereafter if the
+Employee terminates employment with K-Tron with or without giving the notice
+required by Section 8.1 hereof (but excluding any termination by the Employee
+under Section 8.4(a) hereof or which is a Termination upon a Change of Control
+as defined in Section 9.1(c) hereof) or if it is terminated under Section 8.5
+hereof, the Employee shall not, unless acting as an employee pursuant hereto or
+with the prior written consent of the K-Tron Board, (A) call on or solicit,
+either directly or indirectly, any person, firm, corporation or other entity who
+or which is, or within two years prior thereto had been, a customer of any
+member of the K-Tron Group, with respect to any matters involving the designing,
+engineering, manufacturing, marketing or distributing of feeding or blending
+equipment or involving any other business then engaged in by any member of the
+K-Tron Group, or (B) knowingly solicit for employment any person who is an
+employee of any member of the K-Tron Group (or who was such an employee within
+six months prior to any such termination).
+
+               7.     Equitable Relief.
+
+                      (a)    The Employee acknowledges that the restrictions
+contained in Sections 3, 4, 5 and 6 hereof are, in view of the nature of the
+business of K-Tron and the other members of the K-Tron Group, reasonable and
+necessary to protect the legitimate interests of the K-Tron Group, that K-Tron
+would not have entered into this Agreement in the absence of such restrictions,
+that the business of the K-Tron Group is international in scope and that any
+violation of any provision of those Sections could result in irreparable injury
+to K-Tron and the other members of the K-Tron Group.
+
+                      (b)    The Employee agrees that in the event of any
+violation of the restrictions referred to in Section 7(a) above, K-Tron shall be
+entitled to preliminary and
+
+
+                                      -5-
+<PAGE>   6
+
+permanent injunctive relief, without the necessity of posting a bond or proving
+actual damages, and to an equitable accounting of all earnings, profits and
+other benefits arising from any such violation, which rights shall be cumulative
+and in addition to any other rights or remedies to which K-Tron may be entitled.
+
+                      (c)    The Employee irrevocably and unconditionally agrees
+that in the event of any violation of the restrictions referred to in Section
+7(a) above, an action may be commenced for preliminary and permanent injunctive
+relief and other equitable relief in any federal or state court of competent
+jurisdiction sitting in Gloucester or Camden County, New Jersey or in any other
+court of competent jurisdiction. The Employee hereby waives, to the fullest
+extent permitted by law, any objection that he may now or hereafter have to such
+jurisdiction or to the laying of the venue of any such suit, action or
+proceeding brought in such a court and any claim that such suit, action or
+proceeding has been brought in an inconvenient forum. The Employee agrees that
+effective service of process may be made upon him by mail under the notice
+provisions contained in Section 14 hereof and that all pleadings, notices and
+other papers may be served upon him in the same manner.
+
+                      (d)    The non-competition and no solicitation provisions
+of Sections 5(a) and 6 above shall be extended by any time period during which
+the Employee is in violation of any of such provisions.
+
+                      (e)    The Employee may provide, and any member of the
+K-Tron Group may similarly provide, a copy of Sections 3, 4, 5 and 6 of this
+Agreement to any business or enterprise (i) which the Employee may directly or
+indirectly own, manage, operate, finance, join, control or participate in the
+ownership, management, operation, financing or control of, or (ii) with which he
+may be connected as an officer, director, employee, partner, principal, agent,
+representative, consultant or otherwise, or in connection with which he may use
+or permit his name to be used; provided, however, that this provision shall not
+apply in respect of Sections 5 and 6 of this Agreement after expiration of the
+time periods set forth therein.
+
+                      (f)    The Employee represents and acknowledges that (i)
+he has been advised by K-Tron to consult his own legal counsel in respect of
+this Agreement and (ii) he has had full opportunity to do so.
+
+               8.     Termination.
+
+               8.1    By Employee. The Employee may terminate the Employment
+Term effective upon not less than 90 days prior written notice to K-Tron. Should
+the Employee elect to terminate the Employment Term on this basis, K-Tron shall
+not have any liability or obligation to the Employee hereunder after the date on
+which the Employment Term ends except for unpaid salary, bonus and benefits
+accrued to such date and any additional benefits or payments (excluding any
+severance benefits or payments) payable to the Employee under
+
+
+                                      -6-
+<PAGE>   7
+
+any applicable formal policy or plan of K-Tron which covers the Employee at the
+time of his termination.
+
+               8.2    Partial or Total Disability. If in the good faith judgment
+of the K-Tron Board, based upon the advice of two disinterested physicians, the
+Employee is unable to perform his duties and responsibilities hereunder by
+reason of illness, injury or incapacity for six consecutive months, or for six
+months during any 12 month period, during which time K-Tron shall continue to
+compensate the Employee hereunder, the Employment Term may be terminated by
+K-Tron. In the event the Employee is terminated for disability as aforesaid, he
+shall be entitled to receive two years of severance following the termination
+date of the Employment Term at his then-annual Base Salary, payable in equal
+monthly installments, plus the amount of any bonus that may have been previously
+awarded to him but not yet paid. All severance payments payable to the Employee
+under this Section 8.2 shall be reduced by the amount of any payments due the
+Employee for this time period under any applicable disability benefit programs,
+including Social Security disability, worker's compensation and disability
+retirement benefits. Except as provided above and in Section 8.6 hereof, and
+except for any other benefits or payments (excluding any other severance
+benefits or payments) payable to the Employee under any applicable formal policy
+or plan of K-Tron which covered the Employee at the termination date of the
+Employment Term, K-Tron shall not have any other liability or obligation to the
+Employee in the event of the termination of the Employment Term due to his
+disability.
+
+               8.3    Death. In the event that the Employee dies during the
+Employment Term, K-Tron shall pay to his executors, administrators or personal
+representatives, as appropriate, an amount equal to the installment of his
+then-annual Base Salary payable for the month in which he dies and for three
+months thereafter (and also the amount of any bonus that may have been
+previously awarded to him but not yet paid). K-Tron shall not have any other
+liability or obligation hereunder to the Employee's executors, administrators,
+personal representatives, heirs, assigns or any other person claiming under or
+through him, except for any benefits or other payments (excluding any severance
+benefits or payments) payable to the Employee under any applicable formal policy
+or plan of K-Tron which covered the Employee at the time of his death.
+
+               8.4    For Cause. The Employment Term may be terminated at any
+time either (a) by the Employee for the failure of K-Tron to observe or perform
+any of the material terms or provisions hereof provided that the Employee has
+given written notice of such failure to K-Tron and such failure has continued
+for 30 days thereafter, or (b) by K-Tron, by action taken in good faith by the
+K-Tron Board, for "cause." For purposes of this Agreement, "cause" shall mean
+the failure of the Employee to observe or perform (other than by reason of
+illness, injury or incapacity) any of the material terms or provisions of this
+Agreement provided that the Employee has been given written notice of such
+failure by the K-Tron Board and such failure has continued for 30 days
+thereafter, conviction of a felony or other crime involving moral turpitude,
+misappropriation of K-Tron funds, habitual insobriety,
+
+
+                                      -7-
+<PAGE>   8
+
+habitual substance abuse or the commission of an act of dishonesty by the
+Employee resulting in or intended to result in wrongful personal gain or
+enrichment at the expense of K-Tron.
+
+               8.5    Without Cause.
+
+                      (a)    K-Tron, by action of the K-Tron Board, may
+terminate the Employment Term effective at any time after January 8, 2001
+without cause upon not less than two years prior written notice to the Employee,
+which notice may be given at any time after the date hereof. If the Employee is
+given notice of the termination of the Employment Term on this basis, the
+Employee may elect to terminate the Employment Term within 60 days after receipt
+of such notice and to be paid, on the date of such termination, a lump sum
+amount equal to 200% of the Employee's then-annual Base Salary, in which event
+K-Tron shall not have any further liability or obligation to the Employee
+hereunder after such date of termination except for (i) any unpaid salary and
+benefits accrued to such date and the amount of any bonus that may have been
+previously awarded to him but not yet paid, (ii) any additional or other
+benefits or payments (excluding any other severance benefits or payments)
+payable to the Employee under any applicable formal policy or plan of K-Tron
+which covers the Employee at that time and (iii) the benefits provided under
+Section 8.6 hereof.
+
+                      (b)    After January 8, 2001, K-Tron, by action of the
+K-Tron Board, may terminate the Employment Term without cause upon not less than
+30 days prior written notice to the Employee accompanied by payment to the
+Employee of a lump sum amount equal to 200% of the Employee's then-annual Base
+Salary, in which event K-Tron shall not have any further liability or obligation
+to the Employee hereunder after the date of termination of the Employment Term
+except for (i) any unpaid salary and benefits accrued to such date and the
+amount of any bonus that may have been previously awarded to him but not yet
+paid, (ii) any additional or other benefits or payments (excluding any other
+severance benefits or payments) payable to the Employee under any applicable
+formal policy or plan of K-Tron which covers the Employee at that time and (iii)
+the benefits provided under Section 8.6 hereof.
+
+               8.6    Continuation of Health Coverage. Notwithstanding any other
+provision of this Agreement, in the event of the termination of the Employment
+Term for partial or total disability under Section 8.2 hereof or without cause
+under Section 8.5 hereof, K-Tron shall continue until the second anniversary of
+the termination date, on the same cost-sharing basis in effect immediately prior
+to such termination, the medical and other health care benefits which were
+provided to the Employee immediately prior to such termination.
+
+               9.     Special Compensation Provisions.
+
+               9.1    Definitions. For purposes hereof, the following terms
+shall have the following meanings unless the context clearly otherwise requires:
+
+
+                                       -8-
+<PAGE>   9
+
+                      (a)    As used in this Section 9, a "Change of Control"
+shall be deemed to have occurred if:
+
+                             (i)    a liquidation or dissolution of K-Tron or
+               the sale (excluding transfers to subsidiaries) of all or a
+               substantial majority of the assets of K-Tron or the K-Tron Group
+               occurs;
+
+                             (ii)   as a result of a tender offer, exchange
+                offer, stock purchase (excluding a redemption approved by the
+                K-Tron Board which is not in connection with any of the other
+                events mentioned in this clause (ii)), other stock acquisition,
+                merger, consolidation, recapitalization, reverse stock split,
+                sale or transfer of assets or other transaction, any person or
+                group (as such terms are used in and under Section 13(d) of the
+                Exchange Act) other than the Employee or a group which includes
+                the Employee becomes the beneficial owner (as defined in Rule
+                13-d under the Exchange Act), directly or indirectly, of
+                securities of K-Tron representing more than 20% of the Common
+                Stock of K-Tron or the combined voting power of K-Tron's then
+                outstanding securities; or
+
+                             (iii)  during any period of two consecutive years,
+               individuals who, at the beginning of such period, constitute the
+               K-Tron Board cease for any reason to constitute at least a
+               majority thereof, unless the election, or the nomination for
+               election by K-Tron's shareholders, of at least two-thirds of the
+               directors who were not directors at the beginning of such period
+               was approved by a vote of at least two-thirds of the directors
+               then still in office who were either directors at the beginning
+               of the period or who, in connection with their election or
+               nomination, received the foregoing two-thirds approval.
+
+                      (b)    "Termination of Employment" means the termination
+of the Employee's actual employment relationship with K-Tron, and "Termination
+Date" means the date of such termination.
+
+                      (c)    "Termination upon a Change of Control" means a
+Termination of Employment upon or within one year after a Change of Control
+either:
+
+                             (i)    initiated by K-Tron or any successor thereto
+               for any reason other than a valid Termination of Employment
+               permitted under any of Sections 8.2, 8.3 or 8.4(b) hereof; or
+
+                             (ii)   initiated by the Employee in his sole
+               discretion and without regard to the reason.
+
+               9.2    Compensation upon Termination Involving a Change of
+Control. In the event of the Employee's Termination upon a Change of Control,
+K-Tron shall:
+
+                                       -9-
+
+<PAGE>   10
+
+                      (a)    pay to the Employee, within five business days of
+the Termination Date, the following sums in cash:
+
+                             (i)    an amount equal to three times the
+                Employee's annual Base Salary in effect either immediately prior
+                to the Termination Date or immediately prior to the Change of
+                Control, whichever is higher; and
+
+                             (ii)   unless the Employee notifies K-Tron in
+                writing that he intends to retain his options, an amount in
+                redemption of such options equal to the amount, if any, by which
+                the aggregate exercise price of all stock options held by the
+                Employee under any K-Tron stock option or similar plan which
+                have an exercise price below the fair market value of the shares
+                subject to such options (whether or not such options are
+                exercisable at the Termination Date) is less than the aggregate
+                fair market value of the shares of stock subject to such
+                options, with all computations based upon the average closing
+                market price of a share of such stock for the five trading days
+                immediately preceding the Termination Date (or, if higher, the
+                highest cash amount per share paid by the acquiror in connection
+                with any tender offer, stock purchase, other stock acquisition,
+                merger, consolidation or other event which constituted the
+                applicable Change of Control);
+
+                      (b)    continue or cause to be continued for the benefit
+of the Employee, and at no cost to the Employee, the coverage existing for his
+benefit immediately prior to the Change of Control under all life, disability,
+health and other welfare benefit plans provided to the Employee pursuant to
+Section 1.4 hereof until the earlier of (i) 24 months after the Termination Date
+and (ii) such time as the Employee has received, at no or nominal cost to him,
+similar benefits from a subsequent employer; and
+
+                      (c)    permit the Employee free use of his company car, if
+any, for a period of 24 additional months. Thereafter, the Employee shall return
+the car to K-Tron unless, in the case of a car owned by a member of the K-Tron
+Group, the Employee elects to purchase the car at the net book value thereof at
+the date of purchase or, in the case of a car leased by a member of the K-Tron
+Group, the Employee pays to such member, as such amounts become due and payable,
+all rental payments charged to such member for the use of such car.
+
+               In the event of the Employee's Termination upon a Change of
+Control, the Employee shall receive the benefits of this Section 9.2 in lieu of
+any other post-termination severance payments to which he might otherwise be
+entitled under this Agreement on account of the termination of his Employment
+Term. In addition, the Employee shall be entitled to receive within five
+business days of the Termination Date any unpaid salary and benefits accrued to
+the date of such termination and the amount of any bonus that may have been
+previously awarded to him but not yet paid, and thereafter the Employee shall
+also be entitled to receive any additional or other benefits or payments
+(excluding any other severance
+
+
+                                      -10-
+<PAGE>   11
+
+benefits or payments) payable to the Employee under any applicable formal policy
+or plan of K-Tron which covered the Employee at the time of his termination.
+
+               9.3    Enforcement. In the event that K-Tron shall fail or refuse
+to make payment of any amount due the Employee under Section 9.2 above within
+the time described therein or to provide the Employee any of the benefits
+described in Sections 9.2(b) and (c) above, K-Tron shall pay to the Employee, in
+addition to the payment of any other sums provided in this Agreement:
+
+                      (a)    interest, compounded quarterly, on any amount
+remaining unpaid from the date payment is required under such Section 9.2 until
+paid to the Employee, at the rate from time to time announced by Citibank N.A.
+(or any successor) as its "prime rate" plus 3%, each change in such rate to take
+effect on the effective date of the change in such prime rate; and
+
+                      (b)    on demand, the amount necessary to reimburse the
+Employee in full for all expenses (including all attorneys' fees and expenses)
+incurred by the Employee in enforcing any of the obligations of K-Tron under
+such Section 9.2.
+
+               9.4    Certain Increase in Payments.
+
+                      (a)    Anything in this Agreement to the contrary
+notwithstanding, in the event that it shall be determined that any payment or
+distribution by K-Tron to or for the benefit of the Employee, whether paid or
+payable or distributed or distributable pursuant to the terms of this Agreement
+or otherwise (the "Payment"), would constitute an "excess parachute payment"
+within the meaning of Section 280G of the Internal Revenue Code of 1986, as
+amended (the "Code"), or any similar successor provision or statute, the
+Employee shall be paid an additional amount (the "Gross-Up Payment") such that
+the net amount retained by the Employee after deduction of (i) any excise tax
+imposed under Section 4999 of the Code, or any similar or successor provision,
+and (ii) all federal, state and local income, wage and employment taxes and
+excise taxes imposed upon the Gross-Up Payment, shall be equal to the Payment.
+For purposes of determining the amount of the Gross-Up Payment, the Employee
+shall be deemed to pay federal income tax and employment taxes at the highest
+marginal rate of federal income and employment taxation in the calendar year in
+which the Gross-Up Payment is to be made and state and local taxes at the
+highest marginal rate of taxation in the state and locality of the Employee's
+residence on the Termination Date, net of the maximum reduction in federal
+income taxes that may be obtained from the deduction of such state and local
+taxes.
+
+                      (b)    All determinations to be made under this Section 9
+shall be made by K-Tron's independent public accounting firm immediately prior
+to the Change of Control (the "Accounting Firm"), which firm shall provide its
+determinations and any supporting calculations to both K-Tron and the Employee
+within 10 days of the Termination Date. Any such determination by the Accounting
+Firm shall be binding upon K-Tron and the Employee. 
+
+
+                                      -11-
+<PAGE>   12
+
+Within five days after the Accounting Firm's determination, K-Tron shall pay 
+(or cause to be paid) or distribute (or cause to be distributed) to or for the 
+benefit of the Employee such amounts as are then due to the Employee under 
+this Agreement which exceed the amount already paid or distributed under 
+Section 9.2(a) above.
+
+                      (c)    In the event that upon any audit by the Internal
+Revenue Service, or by any state or local taxing authority, of the Payment or
+Gross-Up Payment, a change is finally determined to be required in the amount of
+taxes paid by the Employee, appropriate adjustments shall be made under this
+Agreement such that the net amount which is payable to the Employee after taking
+into account the provisions of Section 4999 of the Code, or any similar or
+successor provision, shall reflect the intent of the parties as expressed in
+subsection (a) above, in the manner determined by the Accounting Firm.
+
+                      (d)    All of the fees and expenses of the Accounting Firm
+in performing the determinations referred to in subsections (b) and (c) above
+shall be borne solely by K-Tron. K-Tron agrees to indemnify and hold harmless
+the Accounting Firm of and from any and all claims, damages and expenses
+resulting from or relating to its determinations pursuant to subsections (b) and
+(c) above, except for claims, damages or expenses resulting from the gross
+negligence or willful misconduct of the Accounting Firm.
+
+               10.    Survivorship. The respective rights and obligations of the
+parties under this Agreement shall survive any termination of the Employee's
+employment to the extent necessary for the intended preservation of such rights
+and obligations.
+
+               11.    Mitigation. The Employee shall not be required to mitigate
+the amount of any payment or benefit provided for in this Agreement by seeking
+other employment or otherwise, and there shall be no offset against amounts due
+the Employee under this Agreement on account of any remuneration attributable to
+any subsequent or other employment that the Employee may have or obtain.
+
+               12.    Arbitration; Expenses. In the event of any dispute under
+the provisions of this Agreement other than a dispute in which the primary
+relief sought is an equitable remedy such as an injunction, the parties shall be
+required to have the dispute, controversy or claim settled by arbitration in the
+City of Philadelphia, Pennsylvania in accordance with National Rules for the
+Resolution of Employee Disputes then in effect of the American Arbitration
+Association (the "AAA") (or, if no such rules be in effect, then under the
+regular rules of the AAA), before a panel of three arbitrators, two of whom
+shall be selected by K-Tron and the Employee, respectively, and the third of
+whom shall be selected by the other two arbitrators. Any award entered by the
+arbitrators shall be final, binding and nonappealable (except as provided by
+applicable statutory law), and judgment may be entered thereon by either party
+in accordance with applicable law in any court of competent jurisdiction. This
+arbitration provision shall be specifically enforceable. The arbitrators shall
+have no authority to modify any provision of this Agreement or to award a remedy
+for a dispute involving this Agreement other than a benefit specifically
+provided under or by virtue
+
+
+                                      -12-
+<PAGE>   13
+
+of the Agreement. If the Employee prevails on any material issue which is the
+subject of such arbitration or lawsuit, K-Tron shall be responsible for all of
+the fees of the AAA and the arbitrators and any expenses relating to the conduct
+of the arbitration (including K-Tron's and the Employee's reasonable attorneys'
+fees and expenses). Otherwise, each party shall be responsible for its or his
+own expenses relating to the conduct of the arbitration (including reasonable
+attorneys' fees and expenses) and shall share the fees of the AAA.
+
+               13.    Withholding. K-Tron may withhold from any payments under
+this Agreement all federal, state and local taxes as K-Tron is required to
+withhold pursuant to any law or governmental rule or regulation. Except as
+otherwise specifically provided herein, the Employee shall bear all expense of,
+and be solely responsible for, all federal, state and local taxes due with
+respect to any payment received under this Agreement.
+
+               14.    Notices. All notices and other communications hereunder
+shall be in writing and deemed to have been given when hand delivered, in person
+or by a recognized courier or delivery service, or when mailed by registered or
+certified mail, return receipt requested, as follows (provided that notice of
+change of address shall be deemed given only when received):
+
+                      If to K-Tron, to:
+
+                      K-Tron International, Inc.
+                      Routes 55 and 553
+                      Pitman, NJ  08071
+
+                      Attention:  Corporate Secretary
+
+                      If to the Employee, to:
+
+                      Edward B. Cloues, II
+                      1133 Forest Hill Drive
+                      Lower Gwynedd, PA  19002
+
+or to such other name or address as any designated recipient shall specify by
+notice to the other designated recipient in the manner specified in this Section
+14. Any communication delivered in another manner shall be deemed given when
+actually received by the intended recipient.
+
+               15.    Governing Law. This Agreement shall be governed by and
+interpreted under the laws of the State of New Jersey, without giving effect to
+any conflict of laws provisions.
+
+
+
+                                      -13-
+<PAGE>   14
+
+               16.    Contents of Agreement, Amendment and Assignment.
+
+                      (a)    This Agreement sets forth the entire understanding
+of the parties with respect to the subject matter hereof, supersedes any prior
+employment agreement between the parties and shall not be changed, modified or
+terminated except upon written amendment executed by a duly authorized officer
+of K-Tron and the Employee.
+
+                      (b)    Employee acknowledges that from time to time,
+K-Tron and other members of the K-Tron Group may establish, maintain and
+distribute employee manuals or handbooks or personnel policy manuals, and
+officers or other representatives of K-Tron or other members of the K-Tron Group
+may make written or oral statements relating to personnel policies and
+procedures. Such manuals, handbooks and statements are intended only for general
+guidance. No policies, procedures or statements of any nature by or on behalf of
+any member of the K-Tron Group (whether written or oral, and whether or not
+contained in any employee manual or handbook or personnel policy manual), and no
+acts or practices of any nature, shall be construed to modify this Agreement.
+
+                      (c)    All of the provisions of this Agreement shall be
+binding upon and inure to the benefit of and be enforceable by the respective
+heirs, executors, administrators, personal representatives, successors and
+assigns of the parties hereto, except that the duties and responsibilities of
+the Employee hereunder are of a personal nature and shall not be assignable or
+delegable in whole or in part by the Employee. K-Tron shall require any
+successor (whether direct or indirect, by purchase, merger, consolidation,
+reorganization or otherwise) to all or substantially all of the business or
+assets of K-Tron, by agreement in form and substance satisfactory to the
+Employee, expressly to assume and agree to perform this Agreement in the same
+manner and to the same extent that K-Tron would be required to perform if no
+such succession had taken place.
+
+               17.    Severability. If any provision of this Agreement or the
+application thereof to anyone or any circumstance is held invalid or
+unenforceable in any jurisdiction, the remainder of this Agreement, and the
+application of such provision to such person or entity or such circumstance in
+any other jurisdiction or to other persons, entities or circumstances in any
+jurisdiction, shall not be affected thereby, and to this end the provisions of
+this Agreement are severable.
+
+               18.    Remedies Cumulative; No Waiver. Except as expressly stated
+herein, no remedy conferred upon any party by this Agreement is intended to be
+exclusive of any other remedy, and each and every such remedy shall be
+cumulative and in addition to any other remedy given hereunder or now or
+hereafter existing at law or in equity. No delay or omission by any party in
+exercising any right, remedy or power hereunder or existing at law or in equity
+shall be construed as a waiver thereof, and any such right, remedy or power may
+be exercised by such party from time to time and as often as may be deemed
+expedient or necessary by such party in its or his sole discretion.
+
+
+                                      -14-
+<PAGE>   15
+
+               19.    Beneficiaries/References. The Employee shall be entitled,
+to the extent permitted under any applicable law, to select and change a
+beneficiary or beneficiaries to receive any compensation or benefit payable
+under this Agreement following the Employee's death by giving K-Tron written
+notice thereof. In the event of the Employee's death or a judicial determination
+of the Employee's incompetence, reference in this Agreement to the Employee
+shall be deemed, where appropriate, to refer to the Employee's beneficiary,
+estate or other legal representative.
+
+               20.    K-Tron Counsel. This Agreement has been negotiated on
+K-Tron's behalf by the Compensation and Human Resources Committee of the K-Tron
+Board, comprised solely of independent directors, which has been advised by the
+law firm of Fox, Rothschild, O'Brien & Frankel LLP. The parties acknowledge that
+Morgan, Lewis & Bockius LLP, where the Employee is currently a partner and which
+regularly represents K-Tron, has not advised K-Tron in this matter.
+
+               21.    Miscellaneous. The masculine pronoun whenever used shall
+include the feminine and the singular shall be construed as the plural, where
+applicable. All section headings are for convenience only. This Agreement may be
+executed in several counterparts,
+
+
+
+
+
+
+
+
+
+
+                   [Balance of Page Intentionally Left Blank]
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -15-
+<PAGE>   16
+
+
+each of which shall be an original. It shall not be necessary in making proof of
+this Agreement or any counterpart hereof to produce or account for any of the
+other counterparts.
+
+               IN WITNESS WHEREOF, K-Tron and the Employee have executed this
+Agreement as of the date first above written.
+
+
+[Corporate Seal]                                   K-TRON INTERNATIONAL, INC.
+
+Attest:
+
+
+/s/ MARY E. VACCARA                                By: /s/ LEO C. BEEBE
+- --------------------------                            --------------------------
+Mary E. Vaccara                                        Leo C. Beebe
+As its Assistant Secretary                             As its Chairman and
+                                                       Chief Executive Officer
+
+
+                                                   EMPLOYEE
+
+
+
+
+/s/ TIMOTHY MAXWELL                                /s/ EDWARD B. CLOUES, II
+- --------------------------                         -----------------------------
+Witness                                            Edward B. Cloues, II
+
+
+Approved as of the date first above
+written by the Compensation and
+Human Resources Committee of the
+K-Tron Board of Directors:
+
+
+
+By: /s/ NORMAN COHEN
+- --------------------------
+    Norman Cohen
+    As its Chairman
+
+                                      -16-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF EARNINGS PER SHARE
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 11.1
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+
+                        COMPUTATION OF EARNINGS PER SHARE
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                     Three Months Ended                   Nine Months Ended
+                                                     ------------------                   -----------------
+                                                 Sept. 27,         Sept. 28,         Sept. 27,         Sept. 28,
+                                                   1997              1996              1997              1996
+                                                   ----              ----              ----              ----
+<S>                                             <C>               <C>               <C>               <C>
+AVERAGE COMMON AND
+ COMMON-EQUIVALENT
+ SHARES:
+
+ Weighted Average Common
+  Shares Outstanding per Period                  3,170,000         3,127,000         3,150,000         3,117,000
+
+Stock Options                                       57,000            11,000            57,000            11,000
+                                                ----------        ----------        ----------        ----------
+
+ADJUSTED AVERAGE COMMON
+AND COMMON-EQUIVALENT
+SHARES COMPUTATION                               3,227,000         3,138,000         3,207,000         3,128,000
+                                                ==========        ==========        ==========        ==========
+
+EARNINGS FOR COMMON
+AND COMMON-EQUIVALENT
+SHARES COMPUTATION:
+
+Net income applicable to Common
+ Stock                                          $1,461,000        $1,161,000        $3,763,000        $2,841,000
+                                                ==========        ==========        ==========        ==========
+
+EARNINGS PER SHARE                              $      .45        $      .37        $     1.17        $      .91
+                                                ==========        ==========        ==========        ==========
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          JAN-03-1998
+<PERIOD-END>                               SEP-27-1997
+<CASH>                                           5,144
+<SECURITIES>                                         0
+<RECEIVABLES>                                   17,200
+<ALLOWANCES>                                     1,001
+<INVENTORY>                                     11,435
+<CURRENT-ASSETS>                                34,508
+<PP&E>                                          38,795
+<DEPRECIATION>                                  24,092
+<TOTAL-ASSETS>                                  53,768
+<CURRENT-LIABILITIES>                           21,003
+<BONDS>                                         14,440
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            42
+<OTHER-SE>                                      16,652
+<TOTAL-LIABILITY-AND-EQUITY>                    53,768
+<SALES>                                         64,897
+<TOTAL-REVENUES>                                64,897
+<CGS>                                           35,767
+<TOTAL-COSTS>                                   35,767
+<OTHER-EXPENSES>                                23,092
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 915
+<INCOME-PRETAX>                                  5,123
+<INCOME-TAX>                                     1,360
+<INCOME-CONTINUING>                              3,763
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,763
+<EPS-PRIMARY>                                     1.17
+<EPS-DILUTED>                                     1.17
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

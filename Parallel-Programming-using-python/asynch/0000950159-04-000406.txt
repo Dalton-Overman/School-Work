@@ -1,0 +1,233 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Gbo151CcdNckFBOWTeW1qvlqWjxKTlWFfhUpocerPhLM6AyD1FV1RZXmvM2gz2m0
+ H1NluRNeveQq0Jr8W9+fAQ==
+
+<SEC-DOCUMENT>0000950159-04-000406.txt : 20040416
+<SEC-HEADER>0000950159-04-000406.hdr.sgml : 20040416
+<ACCEPTANCE-DATETIME>20040416092846
+ACCESSION NUMBER:		0000950159-04-000406
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040414
+FILED AS OF DATE:		20040416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		04737127
+
+	BUSINESS ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 & 553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+		BUSINESS PHONE:		856 589 0500
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>cloues4_ex.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2004-04-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000000020</issuerCik>
+        <issuerName>K TRON INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>KTII</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001145949</rptOwnerCik>
+            <rptOwnerName>CLOUES EDWARD B II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>K-TRON INTERNATIONAL INC</rptOwnerStreet1>
+            <rptOwnerStreet2>ROUTES 55 &amp; 553</rptOwnerStreet2>
+            <rptOwnerCity>PITMAN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2004-04-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>103360</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock grant granted to reporting person which vests in full on April 14, 2008.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Mary E. Vaccara, Corporate Secretary and Attorney-in-Fact</signatureName>
+        <signatureDate>2004-04-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<FILENAME>ex24.txt
+<TEXT>
+                                POWER OF ATTORNEY
+
+
+         The undersigned hereby constitutes and appoints each of Alan R.
+Sukoneck, Vice President of K-Tron International, Inc. (the "Company"), and Mary
+E. Vaccara, Secretary of the Company, each having the power to act singly, as
+his/her true and lawful attorney-in-fact to:
+
+                  (1) execute for and on behalf of the undersigned, in the
+         undersigned's capacity as a director or executive officer of the
+         Company, as applicable, Forms 3, 4 or 5 in accordance with Section
+         16(a) of the Securities Exchange Act of 1934, as amended, and the rules
+         thereunder;
+
+                  (2) do and perform any and all acts for and on behalf of the
+         undersigned which may be necessary or desirable to complete the
+         execution of any such Form 3, 4, or 5 and the timely filing of such
+         form with the United States Securities and Exchange Commission and any
+         other authority; and
+
+                  (3) take any other action of any type whatsoever in connection
+         with the foregoing which, in the opinion of such attorney-in-fact, may
+         be of benefit to, in the best interest of, or legally required by, the
+         undersigned, it being understood that the documents executed by such
+         attorney-in-fact on behalf of the undersigned pursuant to this Power of
+         Attorney shall be in such form and shall contain such terms and
+         conditions as such attorney-in-fact may approve in his/her discretion.
+
+         The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform every act and thing whatsoever requisite,
+necessary and proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or his/her
+substitute or substitutes, shall lawfully do or cause to be done by virtue of
+this Power of Attorney and the rights and powers herein granted. The undersigned
+acknowledges that each of the foregoing attorneys-in-fact, in serving in such
+capacity at the request of the undersigned, is not assuming any of the
+undersigned's responsibilities to comply with Section 16 of the Securities
+Exchange Act of 1934, as amended.
+
+         This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4 and 5 with respect to the
+undersigned's holdings of and transactions in securities issued by the Company,
+unless earlier revoked in writing.
+
+         IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney
+on the 15th day of November, 2002.
+
+
+                                                    /s/ Edward B. Cloues, II
+                                                   ----------------------------
+                                                                Signature
+
+                                                        Edward B. Cloues, II
+                                                    ----------------------------
+                                                                Print Name
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

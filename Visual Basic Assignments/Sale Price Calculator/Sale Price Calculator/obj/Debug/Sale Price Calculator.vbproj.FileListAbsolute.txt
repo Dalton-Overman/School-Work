@@ -1,0 +1,11 @@
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbprojAssemblyReference.cache
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Resources.resources
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbproj.GenerateResource.cache
+H:\VB\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+H:\VB\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+H:\VB\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+H:\VB\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.xml
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.xml
+H:\VB\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb

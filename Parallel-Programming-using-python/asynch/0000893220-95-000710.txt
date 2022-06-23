@@ -1,0 +1,1057 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LXhCdF9xDWJAyy45aRdYz2HjjGKZ3dabDPH2aTSV9eAjDrCWMczwr6Lftjplo0ME
+ YmHB5V1qodAyLNmLj1Jqgg==
+
+<SEC-DOCUMENT>0000893220-95-000710.txt : 19951106
+<SEC-HEADER>0000893220-95-000710.hdr.sgml : 19951106
+ACCESSION NUMBER:		0000893220-95-000710
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19950930
+FILED AS OF DATE:		19951103
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		95587133
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002-4607
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q K-TRON INTERNATIONAL INC
+<TEXT>
+
+<PAGE>   1
+                                   FORM 10-Q
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+(Mark One)
+/X/          QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+              For the Quarterly Period Ended September 30, 1995
+                                             ------------------
+
+                                       OR
+
+/ /      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                 For the transition period _______ to _______
+
+                        Commission File Number   0-9576
+                                               ----------
+                           
+                           K-TRON INTERNATIONAL, INC.
+        -------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                            <C>
+          New Jersey                                 22-1759452
+- -------------------------------                 -------------------
+(State or other jurisdiction of                (IRS Employer ID #)
+ incorporation of organization)
+</TABLE>
+
+                                Routes 55 & 553
+                                  P.O. Box 888
+                               Pitman, New Jersey
+                                   08071-0888
+                    ---------------------------------------
+                    (Address of Principal Executive Offices)
+                                   (Zip Code)
+
+                                 (609) 589-0500
+              --------------------------------------------------
+              (Registrant's Telephone Number Including Area Code)
+
+                                 Not Applicable
+              ---------------------------------------------------
+              (Former name, former address and formal fiscal year,
+            if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                        YES   X     NO 
+                                            -----      -----
+
+The number of shares of Common Stock outstanding as of September 30, 1995 was
+                                                       ------------------
+
+                                3,103,573 Shares
+                                ---------
+<PAGE>   2
+
+
+
+
+                  K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                 Page No.
+                                                                 --------
+<S>                 <C>                                            <C>
+PART  I.            FINANCIAL INFORMATION
+                    ---------------------
+
+        Item 1.     Financial Statements
+                    --------------------
+
+                    Consolidated Balance Sheets                     1
+                     September 30, 1995 and December 31, 1994
+
+                    Consolidated Statements of Operations           2
+                     and Retained Earnings
+                     Three Months and Nine Months Ended
+                     September 30, 1995 and October 1, 1994
+
+                    Consolidated Statements of Cash Flows          3-4
+                     Nine Months Ended September 30, 1995 and
+                     October 1, 1994
+
+                    Notes to Consolidated Financial                 5
+                     Statements
+
+        Item 2.     Management's Discussion and Analysis           6-11
+                     of Financial Condition and Results
+                     of Operations
+
+PART II.            OTHER INFORMATION
+                    -----------------
+
+        Item 3.     Defaults upon Senior Securities                12
+
+        Item 4.     Submission of Matters to a Vote of
+                    Security Holders                               12-13
+
+        Item 6.     Exhibits and Reports on Form 8-K               13
+</TABLE>
+
+
+
+<PAGE>   3
+ITEM 1. Financial Statements      PART I. FINANCIAL INFORMATION                 
+                              K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                              -----------------------------------------
+                                   CONSOLIDATED BALANCE SHEETS
+                                   ---------------------------
+                              (Dollars in Thousands except Share Data)
+<TABLE>
+<CAPTION>
+                                                                Sept. 30,             December 31,
+                                                                  1995                    1994
+                     ASSETS                                    (Unaudited)              (Audited)
+                     ------                                    -----------              ---------
+<S>                                                            <C>                     <C>
+CURRENT ASSETS:
+   Cash and cash equivalents                                   $ 2,507                 $  1,086
+   Accounts receivable (less allowance for
+     doubtful accts. of $959 & $1,523)                          22,259                   29,214
+   Inventories                                                  20,633                   25,458
+   Deferred income taxes                                           753                      328
+   Income Tax Receivable                                           400                      442
+   Prepaid expenses & other current assets                       1,912                    1,145
+                                                               -------                 --------
+     TOTAL CURRENT ASSETS                                       48,464                   57,673
+PROPERTY, PLANT AND EQUIPMENT (Net)                             19,033                   31,673
+PATENTS AND LICENSES (Net of accumulated
+ amortization of $4,690 and $7,657)                                567                      908
+EXCESS OF COST OVER NET ASSETS ACQUIRED
+  (Net of accumulated amortization of $2,889 & $4,888)           5,925                   18,661
+OTHER ASSETS                                                       333                      650
+DEFERRED INCOME TAXES, Net                                         810                      385
+                                                               -------                 --------
+TOTAL ASSETS                                                   $75,132                 $109,950
+                                                               =======                 ========
+                    LIABILITIES & SHAREHOLDERS' EQUITY
+                    ----------------------------------
+CURRENT LIABILITIES:
+   Notes payable to banks                                      $40,969                 $ 31,175
+   Current portion of long-term debt                               145                    1,337
+   Accounts payable                                              8,645                   12,251
+   Accrued expenses & other current liabilities                  4,115                    2,469
+   Accrued payroll                                               2,445                    2,211
+   Accrued commissions                                           1,930                    3,039
+   Customer advances                                             2,931                    2,720
+   Accrued warranty                                              1,357                      930
+   Income taxes payable                                            996                    1,241
+   Deferred income taxes                                           336                      849
+                                                               -------                 --------
+       TOTAL CURRENT LIABILITIES                                63,869                   58,222
+
+LONG-TERM DEBT                                                     189                   27,413
+DEFERRED GAIN ON SALE/LEASEBACK                                  2,436                    2,456
+DEFERRED INCOME TAXES                                              199                      399
+NONCURRENT PENSION LIABILITY                                        --                    2,939
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED SHARES,
+  $.01 par value - authorized 50,000 shares; none issued            --                       --
+SHAREHOLDERS' EQUITY:
+     Preferred stock, $.01 par value - authorized,
+       950,000 shares; none issued                                  --                       --
+     Common stock, $.01 par value - authorized,
+       15,000,000 shares; issued 4,166,523 shares                                        
+       and 4,150,887 shares                                         42                       41
+     Paid-in capital                                            13,938                   13,865
+     Retained earnings                                           5,215                   15,070
+     Cumulative translation adjustments                           (192)                     109
+                                                               -------                 --------
+                                                                19,003                   29,085
+     Treasury stock, 1,062,950 shares - at cost                (10,564)                 (10,564)
+                                                               -------                 --------
+       TOTAL SHAREHOLDERS' EQUITY                                8,439                   18,521
+                                                               -------                 --------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                     $75,132                 $109,950
+                                                               =======                 ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+                                      -1-
+
+<PAGE>   4
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   -----------------------------------------
+              CONSOLIDATED STATEMENTS OF OPERATIONS & RETAINED EARNINGS
+              ---------------------------------------------------------
+                    (Dollars in Thousands except Share Data)
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                               Three Months Ended      Nine Months Ended
+                               ------------------      -----------------
+                               Sept. 30,   Oct.1,       Sept. 30,  Oct.1,
+                                 1995      1994          1995      1994
+                                 ----      ----          ----      ----
+<S>                            <C>       <C>           <C>       <C>
+REVENUE:                       $22,297   $26,336       $85,782   $73,062
+                               -------   -------       -------   -------
+COSTS AND EXPENSES:
+  Cost of sales                 13,180    15,627        53,346    43,438
+  Selling, general
+      & administrative           7,460     8,274        27,395    23,760
+  Research & development           535     1,197         2,515     3,302
+  Interest                         747     1,177         3,402     3,127
+                               -------   -------       -------   -------
+     Total costs & expenses     21,922    26,275        86,658    73,627
+                               -------   -------       -------   -------
+
+(LOSS) ON DISPOSITION OF
+   BUSINESS                         --        --       (10,529)       --
+                               -------   -------       -------   -------
+INCOME (LOSS) BEFORE INCOME
+   TAXES                           375        61       (11,405)     (565)
+INCOME TAXES (Benefit)              --        --        (1,550)       --
+                               -------   -------       -------   -------
+NET INCOME (LOSS)                  375        61        (9,855)     (565)
+
+RETAINED EARNINGS
+  Beginning of Period            4,840    21,270        15,070    21,896
+                               -------   -------       -------   -------
+  End of Period                $ 5,215  $ 21,331       $ 5,215   $21,331
+                               =======   =======       =======   =======
+EARNINGS (LOSS) PER SHARE      $   .12  $    .02       $( 3.19)  $  (.18)
+                               =======   =======       =======   =======
+
+WEIGHTED AVERAGE NUMBER OF
+COMMON AND COMMON EQUIVALENT
+SHARES OUTSTANDING           3,104,000 3,081,000     3,093,000 3,071,000
+                             ========= =========     ========= =========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                      -2-
+<PAGE>   5
+
+
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   -----------------------------------------
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                     -------------------------------------
+                             (Dollars in Thousands)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                            Nine Months Ended                                                    
+                                                           -------------------
+                                                           Sept. 30,    Oct. 1,
+                                                             1995        1994
+                                                             ----        ----
+<S>                                                         <C>         <C>
+OPERATING ACTIVITIES:
+  Net (loss)                                                $(9,855)     $(565)
+  Adjustments to reconcile net loss to
+   net cash provided by (used in) operating activities:
+    Loss on disposition of business                          10,529         --
+    Depreciation and amortization                             3,985      4,759
+    Amortization of deferred gain on
+       sale/leaseback transaction                              (351)      (289)
+    Deferred income taxes                                    (1,474)      (167)
+    Changes in assets and liabilities
+       which provided (used) cash:
+          Accounts receivable, net                              521         68
+          Inventories                                           (75)    (5,609)
+          Prepaid expenses and other current assets            (929)      (632)
+          Other assets                                          658       (513)
+          Accounts payable                                   (1,008)     1,925
+          Accrued expenses and other current liabilities        150       (109)
+          Accrued warranty                                      606         20
+          Income taxes payable                                 (274)      (513)
+                                                            --------    -------
+  Net cash provided by (used in) operating activities         2,483     (1,625)
+                                                            --------    -------
+
+INVESTING ACTIVITIES:
+  Proceeds from disposition of business                       9,000         --
+  Capital expenditures                                         (356)    (1,414)
+  Investment in patents and licenses                            (27)      (131)
+                                                            --------    -------
+  Net cash provided by (used in) investing activities         8,617     (1,545)
+                                                            --------    -------
+FINANCING ACTIVITIES:
+  Net (payments) borrowings under notes payable
+   to banks                                                  (9,222)    13,901
+  Net (payments) under long-term lines of credit                 --     (9,550)
+  Principal payments on long-term debt                         (376)    (1,642)
+ Proceeds from issuance of common stock                          74        129
+                                                            --------    -------
+  Net cash (used in) provided by financing activities        (9,524)     2,838
+                                                            --------    -------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH
+   AND CASH EQUIVALENTS                                        (155)       (98)
+                                                            --------    -------
+
+NET INCREASE (DECREASE) IN CASH
+  AND CASH EQUIVALENTS                                        1,421       (430)
+                                                            --------    -------
+
+CASH AND CASH EQUIVALENTS
+   Beginning of Period                                        1,086      1,643
+                                                            --------    -------
+   End of Period                                            $ 2,507     $1,213
+                                                            ========    =======   
+</TABLE>
+                 See Notes to Consolidated Financial Statements
+                                      -3-
+<PAGE>   6
+Consolidated Statements of Cash Flows (continued):
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                            Nine Months Ended
+                                                                           --------------------
+                                                                           Sept. 30,    Oct. 1,
+                                                                             1995        1994
+                                                                             ----        ----
+<S>                                                                         <C>          <C>
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:           
+  Cash paid during the period for:
+    Interest                                                                $2,903       $2,957
+    Income taxes                                                               585          416
+</TABLE>
+
+
+
+
+
+                        Disclosure of Accounting Policy:
+
+For purposes of the statement of cash flows, the Company considers all highly
+liquid short-term investments purchased with a maturity of three months or less
+to be cash equivalents.
+
+
+
+
+
+                 See Notes to Consolidated Financial Statements
+                                      -4-
+<PAGE>   7
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+1.   Basis of Presentation
+     ---------------------
+
+     The accompanying unaudited financial statements have been prepared in
+     accordance with the instructions for Form 10-Q and do not include all of
+     the information and footnotes required by generally accepted accounting
+     principles for complete financial statements.  The consolidated financial
+     statements include the accounts of K-Tron International, Inc. ("K-Tron" or
+     the "Company") and its subsidiaries.  All intercompany transactions have
+     been eliminated in consolidation.  In the opinion of management, all
+     adjustments (consisting of a normal recurring nature) considered necessary
+     for a fair presentation of results for interim periods have been made.
+     The results for the interim periods are not necessarily indicative of the
+     results for a full year.
+
+     The unaudited financial statements herein should be read in conjunction
+     with the Company's Annual Report on Form 10-K for the year ended December
+     31, 1994 which was previously filed with the Securities and Exchange
+     Commission.
+
+
+2.   Disposition of Business
+     -----------------------
+
+     On June 23, 1995, subsidiaries of the Company sold Colortronic GmbH and
+     rights to several related patents and patent applications to an investment
+     group for $9 million.
+
+     The Swiss banks have not yet allocated $5,150,000 of the proceeds to
+     specific debt outstanding, but are expected to do so in the near future.
+     Accordingly, this amount has been reflected as a reduction to notes
+     payable to banks in the accompanying balance sheet as of September 30,
+     1995.
+
+     The Company recorded a pre-tax loss of $10,529,000 on the disposition.
+
+     The Company has generated a significant tax loss carry forward due to the
+     sale of Colortronic GmbH.  In the second quarter the Company recorded a
+     $1,550,000 tax benefit relating to this loss based upon the existence of
+     deferred tax liabilities which no longer will be required and estimates of
+     future income.  The Company has set up a valuation allowance of
+     approximately half of the tax benefit associated with the sale.
+
+                                      -5-
+
+<PAGE>   8
+ITEM 2.                 K-TRON INTERNATIONAL, INC.
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                      NINE MONTHS ENDED SEPTEMBER 30, 1995
+
+Financial Condition
+- -------------------
+
+     As reported in the Company's Annual Report on Form 10-K for the fiscal
+year ended December 31, 1994, the Company and its U.S. manufacturing subsidiary
+are in default under several financial covenants contained in their loan
+agreement with three U.S. banks.  These defaults are continuing and have not
+been waived.  However, on April 28, 1995, the Company and its U.S. subsidiaries
+entered into a forbearance agreement with the U.S. banks in which such banks
+agreed to forbear in the exercise of their rights and remedies under the loan
+documents.  On June 22, 1995 this agreement was amended and extended through
+the earlier of February 28, 1996 or the occurrence of a new event of default
+thereunder.  See subsequent discussion of the effect of a default under Swiss
+loan agreements.  The forbearance agreement also modified the existing loan
+documents in certain aspects, including the granting of additional collateral.
+At September 30, 1995, the principal amount outstanding under the Company's
+U.S. loan agreement was $9.4 million.
+
+     On June 23, 1995, subsidiaries of K-Tron sold Colortronic GmbH and rights
+to several related patents and patent applications to an investment group for
+$9 million.  The group included two K-Tron executives, including its president
+and CEO.  Both subsequently resigned their K-Tron positions, and Leo C. Beebe,
+K-Tron's chairman, assumed the duties of chief executive officer.
+
+     The pro forma results of K-Tron without Colortronic are shown below:
+                           K-Tron International, Inc.
+                                  (Unaudited)
+                                 (in thousands)
+<TABLE>
+<CAPTION>
+                                  Less        Pro Forma
+                 As Reported   Colortronic   Consolidated
+                from Operations  Related   Without Colortronic
+                ---------------  -------   -------------------
+<S>                 <C>        <C>             <C>
+Revenue
+1994                $104,772    $(35,234)      $69,538
+                    ========    =========      =======
+1995: 1st Qtr.      $ 30,503    $(11,179)      $19,324
+      2nd Qtr.        32,982      (8,824)       24,158
+      3rd Qtr.        22,297          --        22,297
+                    --------    ---------      -------
+      Nine Months   $ 85,782   $ (20,003)      $65,779
+                    ========    =========      =======
+</TABLE>
+
+
+                                      -6-
+
+<PAGE>   9
+(Loss) Earnings from Operations
+- -------------------------------
+
+<TABLE>
+<CAPTION>
+                                  Less          Pro Forma
+                  As Reported  Colortronic     Consolidated
+                from Operations  Related    Without Colortronic
+                ---------------  -------    -------------------
+<S>                 <C>         <C>           <C>
+1994                $(7,052)    $(5,576)      $(1,476)
+                    ========    ========      ========
+
+1995: 1st Qtr.      $(1,280)    $(1,314)      $    34
+      2nd Qtr.*          29      (  410)          439
+      3rd Qtr.          375          --           375
+                    -------     -------       -------
+      Nine Months*  $  (876)    $(1,724)      $   848
+                    ========    ========      =======
+</TABLE>
+
+*Excluding the after-tax loss on sale of Colortronic of $8.979 million.
+
+     The Colortronic divestiture generated a pre-tax loss of $10.529 million.
+This loss was primarily a non-cash write-off of goodwill.  The tax loss carry
+forward generated by the sale can be used to offset future cash tax payments.
+As a result of the sale of Colortronic GmbH, K-Tron's debt decreased by $24.2
+million as of July 1, 1995.
+
+     The loss on the sale of Colortronic caused K-Tron's Swiss subsidiary's
+equity to fall below the equity guarantees in its loan agreements with Swiss
+banks.  As a result, the subsidiary is in default and these loans have been
+reclassified as short-term.
+
+     The subsidiary is currently negotiating a revised financing agreement with
+the Swiss banks, but there can be no assurance that a new agreement will be
+entered into or that the Swiss banks will not demand payment of their loans.
+Furthermore, such equity violation is a new event of default under the
+Company's U.S. loan agreement described above.  At September 30, 1995, the
+principal amount outstanding under the Swiss loan agreements was $31.0 million.
+
+     The Company is seeking alternative debt or equity financing.  At this
+time, the Company has not obtained commitments, and its ability to continue as
+a going concern depends on the future availability of its existing credit
+facilities or replacement lines of credit, or the raising of cash through the
+sale of assets or additional equity.  If the Company is unsuccessful in these
+efforts, it may be unable to meet its obligations in a timely manner, making it
+necessary to undertake such other actions as may be appropriate to preserve
+asset values.
+
+Results of Operations
+- ---------------------
+
+     K-Tron is an international company with two-thirds of its business arising
+from sources outside the United States, primarily Europe.  As such, the
+financial position and performance of the Company is sensitive to both
+
+                                    -7-
+
+<PAGE>   10
+translation and transaction fluctuations in foreign currency exchange
+rates.
+
+     The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                    Three Months Ended                      Nine Months Ended
+                                    ------------------                      -----------------
+                                  Sept. 30,        Oct. 1,             Sept. 30,            Oct. 1,
+                                    1995            1994                 1995                1994
+                                    ----            ----                 ----                ----
+<S>                                <C>             <C>                  <C>                 <C>
+Revenues                           100.0%          100.0%               100.0%              100.0%
+Cost of Sales                       59.1            59.4                 62.2                59.5
+                                    ----           -----                -----               -----
+Gross Margin                        40.9            40.6                 37.8                40.5
+
+Selling, General &
+  Administrative                    33.5            31.4                 31.9                32.5
+Research & Development               2.4             4.6                  2.9                 4.5
+Interest                             3.3             4.4                  4.0                 4.3
+                                     ---             ---                  ---                 ---
+  (Loss) Earnings before
+   income taxes and dis-
+   position of business              1.7%             .2%                (1.0)%               (.8)%
+                                     ====             ===                ======               =====
+Quarter-end backlog
+  (in thousands)                  $28,532         $24,649 (1)
+</TABLE>                          =======         =======
+
+(1)At September 30, 1995 foreign exchange translation rates and excluding the
+backlog of Colortronic GmbH.
+
+    Translation of the Company's foreign revenues and results of operations
+into U.S. dollars is affected by changes in foreign exchange rates,
+particularly with respect to the Swiss franc and the Deutsche mark.  Revenues
+and earnings for the first nine months of 1995 were affected by changes in the
+average U.S. dollar/Swiss franc and average U.S. dollar/Deutsche mark exchange
+rates, as follows:
+
+<TABLE>
+<CAPTION>
+                                            Nine Months Ended
+                                            -----------------
+                                       Sept. 30,           Oct. 1,
+                                          1995              1994
+                                          ----              ----
+<S>                                      <C>               <C>
+Swiss franc rate                         $.84              $.72
+    % appreciation vs. prior year               +17%
+
+Deutsche mark rate                       $.70              $.61
+    % appreciation vs. prior year               +15%
+</TABLE>
+
+                                      -8-
+
+<PAGE>   11
+
+
+
+    Without Colortronic revenues in 1994, total revenues for the third quarter
+of 1995 increased by $4.8 million or 27.1% ($3.3 million or 17.5% when using
+constant foreign exchange rates) and $15.6 million or 31.2% for the first nine
+months of 1995 ($8.7 million or 15.3% when using constant foreign exchange
+rates) versus the same periods in 1994.  Total revenues increased due to the
+strong European and United States backlog at the end of the 1995 second
+quarter, continued strong 1995 new order inflow and the effect of a weaker U.S.
+dollar relative to the Swiss franc and Deutsche mark.
+
+    Gross margin as a percent of revenues improved to 40.9% in the third
+quarter of 1995 as compared to 40.6% for the same period in 1994.  Gross margin
+declined to 37.8% for the first nine months of 1995 as compared to 40.5% for
+the same period in 1994.  The improvement in the margin in the third quarter of
+1995 was due to margin improvement in the United States and the sale of the
+Colortronic business which had low margins, offset in part by an increase in
+warranty costs and the inability to pass on increased costs caused by the
+appreciation of the Swiss franc to customers in certain European countries.
+The decline in the margin for the first nine months of 1995 was primarily due
+to heavily discounted orders booked in 1994, as well as the inability to pass
+on increased costs caused by the appreciation of the Swiss franc to customers
+in certain European countries.
+
+    Selling, general and administrative (SG&A) expense decreased by $.8 million
+or 9.8% in the third quarter of 1995 while increasing by $3.6 million or 15.3%
+for the first nine months of 1995 as compared to the same periods in 1994.
+The decrease in SG&A in the third quarter is due to the elimination of
+Colortronic expenses in the third quarter of 1995 offset by higher foreign
+exchange translation rates.  The increase for the nine months was primarily due
+to higher foreign exchange translation rates as well as to higher commissions
+and selling expenses related to the increased sales volume.  In addition, the
+Company incurred costs related to the forbearance agreement and costs related
+to the Company's efforts to arrange new financing or sell assets.  As a percent
+of revenues, SG&A was 33.5% in the third quarter of 1995 and 31.9% for the
+first nine months of 1995 as compared to 31.4% and 32.5%,respectively, for the
+same periods in 1994.  The change in SG&A as a percent of revenues in 1995 was
+primarily due to the change in revenues.
+
+    Research and development (R&D) expenditures in the third quarter and first
+nine months of 1995 decreased $.7 million and $.8 million as compared to the
+same periods in 1994 due to the elimination of Colortronic brand expenses in
+the third quarter of 1995, offset in part by redirection of existing resources
+to the remaining brands and higher foreign exchange translation rates.  R&D
+expense as a percent of revenues was 2.4% in third
+
+
+                                      -9-
+<PAGE>   12
+quarter 1995 and 2.9% for the first nine months of 1995 as compared to 4.6% and
+4.5% respectively in 1994.  The decrease in R&D as a percent of revenues in
+1995 was due to the reductions noted above and to the change in revenues.
+
+    Interest expense decreased in the third quarter of 1995 by $.4 million as
+compared to the same period in 1994 due to lower debt levels following the sale
+of Colortronic, offset in part by higher effective interest rates in the United
+States and higher foreign exchange translation rates.  Interest expense
+increased for the first nine months of 1995 as compared to the same period in
+1994 due to increased debt levels in Europe prior to the sale of Colortronic,
+higher effective interest rates in the United States and higher foreign
+exchange translation rates.
+
+    The Company has generated a significant tax loss carry forward due to the
+sale of Colortronic GmbH.  In the second quarter of 1995 the Company recorded a
+$1,550,000 tax benefit relating to this loss based upon the existence of
+deferred tax liabilities which no longer will be required and estimates of
+future income.  The Company has set up a valuation allowance of approximately
+half of the tax benefit associated with the sale.
+
+    The backlog of orders excluding Colortronic GmbH increased at the end of
+the third quarter of 1995 by 15.8% as compared to the same period in 1994
+(using September 30, 1995 foreign exchange translation rates for both
+calculations), primarily due to the European recovery from recession and
+continued good bookings in the United States.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+    The Company's capitalization as of the end of the first, second and third
+quarters of 1995 and fiscal year 1994 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                  Sept. 30,   July 1,       Apr. 1,       Dec. 31,
+(Dollars in Thousands)              1995       1995          1995          1994
+                                    ----       ----          ----          ----
+  <S>                              <C>        <C>           <C>           <C>
+  Short-term debt including
+   current portion of
+   long-term debt                  $41,114    $42,890       $36,780       $32,512
+    Long-term debt                     189        225        31,428        27,413
+                                   -------    -------       -------       -------
+    Total debt                      41,303     43,115        68,208        59,925
+
+    Shareholders' equity             8,439      8,152        18,310        18,521
+                                   -------    -------       -------       -------
+    Total debt and share-
+      holders' equity              $49,742    $51,267       $86,518       $78,446
+                                   =======    =======       =======       =======
+    Percent debt to total
+      capitalization                   83%        84%           79%           76%
+    Percent debt to equity            489%       529%          373%          324%
+</TABLE>
+                                      -10-
+<PAGE>   13
+    Total debt decreased since year end 1994 by $18.6 million despite a $5.9
+million increase due to the effect of foreign exchange translation.  Total debt
+without the effect of the foreign exchange translation decreased by $24.6
+million.  The debt reduction associated with the sale of Colortronic was $24.2
+million.  The Company had used all of its available borrowing facilities as of
+September 30, 1995.
+
+    At the end of the third quarter of 1995 the Company had a deficit in
+working capital of $15.4 million and the ratio of current assets to current
+liabilities was .76. As explained earlier, the change in working capital was
+heavily affected by reclassifying $24.3 million of Swiss bank debt from long
+term to short term debt.
+
+    Operating activities provided $2.5 million in positive cash flow for the
+first nine months of 1995 as compared to using $1.6 million in the same period
+of 1994. In the third quarter of 1995, $2.6 million of cash was provided from
+operations primarily from profits generated in the quarter and improved asset
+management.
+
+    Cash provided by investing activities for the first nine months of 1995 was
+primarily due to the funds received from the sale of Colortronic GmbH and
+rights to several related patents and patent applications.
+
+    Cash used in finance activities for the first nine months of 1995 was
+primarily the result of using the proceeds from the sale of Colortronic GmbH
+and the cash provided by operating activities to reduce bank debt.
+
+    Changes in foreign exchange rates, particularly with respect to the Swiss
+franc and Deutsche mark, caused a translation adjustment decrease (after the
+elimination of the cumulative translation adjustments associated with the
+Colortronic sale) in shareholders' equity of $.3 million in the first nine
+months of 1995.
+
+
+
+
+
+                                      -11-
+
+<PAGE>   14
+
+                          PART II.  OTHER INFORMATION
+
+
+
+Item 3.  Defaults Upon Senior Securities
+         -------------------------------
+
+    As reported in the Company's Annual Report on Form 10-K for the fiscal year
+ended December 31, 1994, the Company and its U.S. manufacturing subsidiary are
+in default under several financial covenants contained in their loan agreement
+with three U.S. banks.  These defaults are continuing and have not been waived.
+However, on April 28, 1995, the Company and its U.S. subsidiaries entered into
+a forbearance agreement with the U.S. banks in which such banks agreed to
+forbear in the exercise of their rights and remedies under the loan documents.
+On June 22, 1995 this agreement was amended and extended through the earlier of
+February 28, 1996 or the occurrence of a new event of default thereunder. The
+forbearance agreement also modified the existing loan documents in certain
+aspects, including the granting of additional collateral.  At September 30,
+1995, the principal amount outstanding under the Company's U.S. loan agreement
+was $9.4 million.
+
+    The loss on the sale of Colortronic caused K-Tron's Swiss subsidiary's
+equity to fall below the equity guarantees in its loan agreements with Swiss
+banks.  As a result, the subsidiary is in default and these loans have been
+reclassified as short-term.
+
+    The subsidiary is currently negotiating a revised financing agreement with
+the Swiss banks, but there can be no assurance that a new agreement will be
+entered into or that the Swiss banks will not demand payment of their loans.
+Furthermore, such equity violation is a new event of default under the
+Company's U.S. loan agreement described above.  At September 30, 1995, the
+principal amount outstanding under the Swiss loan agreements was $31.0 million.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+         ---------------------------------------------------
+
+         (a)  The Annual Meeting of Shareholders of the Company was held on
+              October 6, 1995.
+
+         (b)  Not applicable.
+
+         (c)) Shareholders of the Company were asked to vote on the election of
+              one Class II director.  The Board of Directors, acting on the
+              recommendation of the Chairman of its
+
+
+                                      -12-
+<PAGE>   15
+
+              Nominating Committee, nominated Johannes Wirth for election as
+              the Class II director.  The results of the votes taken at the
+              Annual Meeting were as follows:
+
+<TABLE>
+<CAPTION>
+                                                     Number of Votes
+                                                    FOR        WITHHELD
+              <S>                                   <C>           <C>
+              Johannes Wirth                        2,547,378     20,053
+</TABLE>
+
+              Since directors are elected by a plurality of the votes cast, a
+              withheld vote had no effect.  In addition, votes cast in the
+              election could not be recorded against or as an abstention, nor
+              could a broker non-vote be recorded.
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+         --------------------------------
+
+(a)      Exhibits
+
+         11.1    Computation of Earnings (Loss) Per Share
+
+         27      Financial Data Schedule
+
+(b)      Reports on Form 8-K
+
+         On July 10, 1995 the Company filed a Current Report on Form 8-K in
+         connection with the sale of Colortronic GmbH and rights to several
+         related patents and patent applications.
+
+
+
+
+
+                                      -13-
+<PAGE>   16
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on his behalf by the
+undersigned thereunto duly authorized.
+
+                                     K-TRON INTERNATIONAL, INC.
+
+
+
+
+Date: November 3, 1995
+      ----------------
+                                     By:  /s/ Robert L. Weinberg
+                                         -----------------------
+                                         Robert L. Weinberg     
+                                         Senior Vice President &   
+                                         Chief Financial Officer
+                                         (Duly authorized officer
+                                         and principal financial              
+                                         officer of the registrant)
+
+
+
+                                     By: /s/ Alan R. Sukoneck
+                                         -------------------------
+                                         Alan R. Sukoneck    
+                                         Vice President & Controller            
+                                         (Duly authorized officer and    
+                                         principal accounting officer
+                                         of the registrant)
+
+
+
+
+
+                                      -14-
+
+<PAGE>   17
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+11.1                                     Computation of Earnings (Loss) Per
+                                         Share
+
+27                                       Financial Data Schedule
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EARNINGS (LOSS) PER SHARE
+<TEXT>
+
+<PAGE>   1
+
+                                                                    Exhibit 11.1
+
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+
+                    COMPUTATION OF EARNINGS (LOSS) PER SHARE
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                              Three Months Ended         Nine Months Ended
+                              ------------------         -----------------
+                             Sept. 30,   Oct. 1,        Sept. 30,   Oct. 1,
+                                1995      1994            1995       1994
+                                ----      ----            ----       ----
+<S>                        <C>        <C>             <C>          <C>
+AVERAGE COMMON AND
+ COMMON-EQUIVALENT
+ SHARES:
+
+ Weighted Average
+ Common Shares
+ Outstanding
+ per Period                3,104,000  3,071,700       3,093,000    3,061,700
+
+ Stock Options and
+ Warrants                         --      9,300              --        9,300
+                           ---------  ---------       ---------    ---------
+
+ADJUSTED AVERAGE COMMON
+ AND COMMON-EQUIVALENT
+ SHARES COMPUTATION        3,104,000  3,081,000       3,093,000    3,071,000
+                           =========  =========       =========    =========
+
+EARNINGS FOR COMMON AND
+ COMMON-EQUIVALENT
+ SHARES COMPUTATION:
+
+    Net income (loss)
+    applicable to
+    Common Stock           $ 375,000  $  61,000     $(9,855,000)   $(565,000)
+                           =========  =========       =========    ==========
+EARNINGS (loss) PER 
+ SHARE:
+
+ Earnings (loss) per
+   Share                   $     .12  $     .02     $     (3.19)   $    (.18)
+                           =========  =========       =========    ==========
+</TABLE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-30-1995
+<PERIOD-END>                               SEP-30-1995
+<CASH>                                           2,507
+<SECURITIES>                                         0
+<RECEIVABLES>                                   23,218
+<ALLOWANCES>                                       959
+<INVENTORY>                                     20,633
+<CURRENT-ASSETS>                                48,464
+<PP&E>                                          46,051
+<DEPRECIATION>                                  27,018
+<TOTAL-ASSETS>                                  75,132
+<CURRENT-LIABILITIES>                           63,869
+<BONDS>                                            189
+<COMMON>                                            42
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                       8,397
+<TOTAL-LIABILITY-AND-EQUITY>                    75,132
+<SALES>                                         85,782
+<TOTAL-REVENUES>                                85,782
+<CGS>                                           53,346
+<TOTAL-COSTS>                                   53,346
+<OTHER-EXPENSES>                                40,439
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               3,402
+<INCOME-PRETAX>                               (11,405)
+<INCOME-TAX>                                   (1,550)
+<INCOME-CONTINUING>                            (9,855)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   (9,855)
+<EPS-PRIMARY>                                   (3.19)
+<EPS-DILUTED>                                   (3.19)
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

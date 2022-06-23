@@ -1,0 +1,564 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ql6u0A3SNto/1ne4zljsvX7TBmSvNXI/8rS7DlId9YmKqC3GvFPT2BAexbfP/Dru
+ uiOBYtNe/Pw41VbB+XCB7A==
+
+<SEC-DOCUMENT>0000893220-97-000897.txt : 19970507
+<SEC-HEADER>0000893220-97-000897.hdr.sgml : 19970507
+ACCESSION NUMBER:		0000893220-97-000897
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		19970506
+EFFECTIVENESS DATE:		19970506
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-26531
+		FILM NUMBER:		97595896
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. FORM S-8
+<TEXT>
+
+<PAGE>   1
+             As filed with the Securities and Exchange Commission on May 6, 1997
+                                                           Registration No. 333-
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+                               ------------------
+
+                                    FORM S-8
+                             REGISTRATION STATEMENT
+                                      Under
+                           THE SECURITIES ACT OF 1933
+                               ------------------
+
+
+                           K-TRON INTERNATIONAL, INC.
+             (Exact name of Registrant as specified in its charter)
+
+           New Jersey                                   22-1759452
+     (State or other jurisdiction of        (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+        Routes 55 and 553
+        Pitman, New Jersey                                08071-0888
+  (Address of principal executive offices)               (Zip Code)
+
+                           K-TRON INTERNATIONAL, INC.
+                          1996 EQUITY COMPENSATION PLAN
+                            (Full title of the plan)
+
+                                  LEO C. BEEBE
+                             Chief Executive Officer
+                           K-Tron International, Inc.
+                                Routes 55 and 553
+                          Pitman, New Jersey 08071-0888
+                     (Name and address of agent for service)
+
+                                 (609) 589-0500
+          (Telephone number, including area code, of agent for service)
+
+
+                         Copy of all communications to:
+                           EDWARD B. CLOUES, II, ESQ.
+                           Morgan, Lewis & Bockius LLP
+                              2000 One Logan Square
+                           Philadelphia, PA 19103-6993
+                                 (215) 963-5000
+
+                         CALCULATION OF REGISTRATION FEE
+
+<TABLE>
+<CAPTION>
+                                                              Proposed maximum            Proposed maximum
+    Title of securities             Amount to be               offering price                aggregate             Amount of
+     to be registered                registered                per share (1)             offering price (1)     registration fee
+- --------------------------------------------------------------------------------------------------------------------------------
+<S>                              <C>                           <C>                       <C>                    <C>
+Common Stock, $.01               450,000 shares(2)                 $11.25                    $5,062,500              $1,535
+par value
+================================================================================================================================
+</TABLE>
+
+
+(1)      Estimated pursuant to Rule 457(h) solely for the purpose of calculating
+         the registration fee, based upon the average of the high and low sales
+         prices of shares of Common Stock on April 29, 1997, as reported on the
+         Nasdaq National Market.
+
+(2)      Pursuant to Rule 416 under the Securities Act of 1933, as amended, this
+         registration statement also covers such additional shares as may
+         hereafter be offered or issued to prevent dilution resulting from stock
+         splits, stock dividends, recapitalizations or certain other capital
+         adjustments.
+<PAGE>   2
+                                     PART II
+
+               INFORMATION REQUIRED IN THE REGISTRATION STATEMENT
+
+ITEM 3.  INCORPORATION OF DOCUMENTS BY REFERENCE.
+
+         The following documents as filed by K-Tron International, Inc. (the
+"Registrant") with the Securities and Exchange Commission (the "Commission")
+pursuant to the Securities Exchange Act of 1934, as amended (the "Exchange
+Act"), are incorporated by reference in this registration statement:
+
+                  (a) The Registrant's Annual Report on Form 10-K for the fiscal
+         year ended December 28, 1996.
+
+                  (b) The Registrant's Quarterly Report on Form 10-Q for the
+         fiscal quarter ended March 29, 1997.
+
+                  (c) The description of the Registrant's shares of common
+         stock, $.01 par value (the "Common Stock"), set forth in the
+         Registrant's registration statement on Form 8-A, filed by the
+         Registrant with the Commission on March 19, 1981 to register such
+         securities under the Exchange Act, as updated by Item 5 of the
+         Registrant's current report on Form 8-K, dated October 3, 1991.
+
+         All documents filed by the Registrant pursuant to Sections 13(a),
+13(c), 14 and 15(d) of the Exchange Act, after the date of this registration
+statement and prior to the filing of a post-effective amendment to this
+registration statement that indicates that all securities offered hereby have
+been sold or that deregisters all securities then remaining unsold, shall be
+deemed to be incorporated by reference in this registration statement and to be
+part hereof from the date of filing of such documents. Any statement contained
+in a document incorporated by reference herein shall be deemed to be modified or
+superseded for purposes hereof to the extent that a statement contained herein
+(or in any other subsequently filed document that is also incorporated by
+reference herein) modifies or supersedes such statement. Any such statement so
+modified or superseded shall not be deemed, except as so modified or superseded,
+to constitute a part hereof.
+
+         Experts.
+
+         The consolidated financial statements of the Registrant and its
+subsidiaries as of December 28, 1996 and for the years ended December 28, 1996,
+December 30, 1995 and December 31, 1994, included in the Registrant's Annual
+Report on Form 10-K for the fiscal year ended December 28, 1996, have been
+incorporated by reference in this registration statement in reliance upon the
+report of Arthur Andersen LLP, independent public accountants, and upon the
+authority of such firm as experts in accounting and auditing. Future
+consolidated financial statements of the Registrant and the reports thereon of
+Arthur Andersen LLP also will be incorporated by reference in this registration
+statement in reliance upon the authority of such firm as experts in giving those
+reports to the extent such firm has audited those consolidated financial
+statements and consented to the use of their reports thereon.
+
+ITEM 4.  DESCRIPTION OF SECURITIES.
+
+         Not applicable.
+
+ITEM 5.  INTERESTS OF NAMED EXPERTS AND COUNSEL.
+
+         The validity of the issuance of the shares of Common Stock described
+herein has been passed upon for the Company by Morgan, Lewis & Bockius LLP,
+Philadelphia, Pennsylvania. Edward B. Cloues, II, a partner of Morgan, Lewis &
+Bockius LLP, is a member of the Registrant's Board of Directors and serves as
+the Registrant's Secretary. As of May 2, 1997, Mr. Cloues owned 30,000 shares of
+Common Stock and options to purchase 10,000 shares of Common Stock, all of which
+are currently exercisable.
+
+                                        1
+<PAGE>   3
+ITEM 6.  INDEMNIFICATION OF DIRECTORS AND OFFICERS.
+
+         The By-Laws of the Registrant generally provide for the mandatory
+indemnification of directors, officers and other corporate agents to the fullest
+extent permitted by the New Jersey Business Corporation Act, as amended
+("NJBCA"), as do various indemnification agreements entered into by the Company
+and its directors and certain officers.
+
+         The NJBCA generally provides that a New Jersey corporation has the
+power to indemnify a director, officer or other agent against his or her
+expenses and liabilities in connection with any proceedings involving the
+director, officer or agent by reason of his or her being or having been such a
+director, officer or agent other than proceedings by or in the right of the
+corporation, if such director, officer or agent acted in good faith and in a
+manner he or she reasonably believed to be in or not opposed to the best
+interests of the corporation; and with respect to any criminal proceeding, such
+director, officer or agent had no reasonable cause to believe that his or her
+conduct was unlawful.
+
+         The indemnification and advancement of expenses shall not exclude any
+other rights, including the right to be indemnified against liabilities and
+expenses incurred in proceedings by or in the right of the corporation, to which
+a director, officer or agent may be entitled under a certificate of
+incorporation, bylaw, agreement, vote of shareholders or otherwise; provided
+that no indemnification shall be made to or on behalf of a director, officer or
+agent if a judgment or other final adjudication adverse to the director, officer
+or agent establishes that his or her acts or omissions (a) were in breach of his
+or her duty of loyalty to the corporation or its shareholders, (b) were not in
+good faith or involved a knowing violation of law or (c) resulted in receipt by
+the director, officer or agent of an improper personal benefit.
+
+         In addition, the Registrant's Restated Certificate of Incorporation
+provides that directors and officers of the Registrant shall not be personally
+liable to the Registrant or its shareholders for damages for breach of any duty
+owed to the Registrant or its shareholders, except that a director or officer
+shall not be relieved from liability for any breach of duty based upon an act or
+omission (a) in breach of such person's duty of loyalty to the Registrant or its
+shareholders, (b) not in good faith or involving a knowing violation of law or
+(c) resulting in receipt by such person of an improper personal benefit.
+
+         The Registrant has purchased a Directors and Officers indemnity
+insurance policy.
+
+ITEM 7.  EXEMPTION FROM REGISTRATION CLAIMED.
+
+         Not applicable.
+
+
+                                        2
+<PAGE>   4
+ITEM 8.  EXHIBITS.
+
+         The following is a list of exhibits filed as part of this registration
+statement. Where so indicated by footnote, exhibits which were previously filed
+are incorporated by reference. For exhibits incorporated by reference, the
+location of the exhibit in the previous filing is indicated in parentheses.
+
+Exhibit
+Number                     Exhibit
+- ------                     -------
+
+ 4                Rights Agreement dated as of October 3, 1991 with First
+                  Interstate Bank of Arizona, N.A., as Rights Agent (1) (Exhibit
+                  1)
+
+ 5*               Opinion of Morgan, Lewis & Bockius LLP
+
+ 23.1*            Consent of Arthur Andersen LLP
+
+ 23.2*            Consent of Morgan, Lewis & Bockius LLP (included in Exhibit 5)
+
+ 24*              Power of Attorney (included on signature page of this
+                  registration statement)
+
+ 99               K-Tron International, Inc. 1996 Equity Compensation Plan, as
+                  amended (2) (Exhibit 10.1)
+
+*        Filed herewith.
+
+ (1)     Filed as an exhibit to report on Form 8-K dated October 3, 1991 File
+         No. 0-9576 and incorporated herein by reference.
+
+ (2)     Filed as an exhibit to quarterly report on Form 10-Q for the fiscal
+         quarter ended September 28, 1996 File No. 0-9576 and incorporated
+         herein by reference.
+
+ITEM 9.  UNDERTAKINGS.
+
+         (a)      The undersigned Registrant hereby undertakes:
+
+                  (1) To file, during any period in which offers or sales are
+being made, a post-effective amendment to this registration statement:
+
+                           (i) To include any prospectus required by Section
+         10(a)(3) of the Securities Act of 1933;
+
+                           (ii) To reflect in the prospectus any facts or events
+         arising after the effective date of the registration statement (or the
+         most recent post-effective amendment thereof) which, individually or in
+         the aggregate, represent a fundamental change in the information set
+         forth in the registration statement; and
+
+                           (iii) To include any material information with
+         respect to the plan of distribution not previously disclosed in the
+         registration statement or any material change to such information in
+         the registration statement;
+
+                  Provided, however, that subparagraphs (a)(1)(i) and (a)(1)(ii)
+of this section do not apply if the information required to be included in a
+post-effective amendment by those subparagraphs is contained in periodic reports
+filed by the Registrant pursuant to Section 13 or Section 15(d) of the
+Securities Exchange Act of 1934 that are incorporated by reference in the
+registration statement.
+
+                  (2) That, for the purpose of determining any liability under
+the Securities Act of 1933, each such post-effective amendment shall be deemed
+to be a new registration statement relating to the securities offered
+
+                                        3
+<PAGE>   5
+therein, and the offering of such securities at that time shall be deemed to be
+the initial bona fide offering thereof.
+
+                  (3) To remove from registration by means of a post-effective
+amendment any of the securities being registered that remain unsold at the
+termination of the offering.
+
+         (b) The undersigned Registrant hereby undertakes that, for the purpose
+of determining any liability under the Securities Act of 1933, each filing of
+the Registrant's annual report pursuant to Section 13(a) or Section 15(d) of the
+Exchange Act (and each filing of an employee benefit plan's annual report
+pursuant to Section 15(d) of the Exchange Act) that is incorporated by reference
+in this registration statement shall be deemed to be a new registration
+statement relating to the securities offered therein and the offering of such
+securities at that time shall be deemed to be the initial bona fide offering
+thereof.
+
+         (c) Insofar as indemnification for liabilities arising under the
+Securities Act of 1933 may be permitted to directors, officers and controlling
+persons of the Registrant pursuant to the foregoing provisions, or otherwise,
+the Registrant has been advised that in the opinion of the Securities and
+Exchange Commission such indemnification is against public policy as expressed
+in the Act and is, therefore, unenforceable. In the event that a claim for
+indemnification against such liabilities (other than the payment by the
+Registrant of expenses incurred or paid by a director, officer or controlling
+person of the Registrant in the successful defense of any action, suit or
+proceeding) is asserted by such director, officer or controlling person in
+connection with the securities being registered, the Registrant will, unless in
+the opinion of its counsel the matter has been settled by controlling precedent,
+submit to a court of appropriate jurisdiction the question whether such
+indemnification by it is against public policy as expressed in the Act and will
+be governed by the final adjudication of such issue.
+
+
+                                        4
+<PAGE>   6
+                        SIGNATURES AND POWER OF ATTORNEY
+
+         Pursuant to the requirements of the Securities Act of 1933, the
+Registrant certifies that it has reasonable grounds to believe that it meets all
+of the requirements for filing on Form S-8 and has duly caused this registration
+statement to be signed on its behalf by the undersigned, thereunto duly
+authorized, in Pitman, New Jersey, on the 2nd day of May, 1997.
+
+                                   K-TRON INTERNATIONAL, INC.
+
+
+                                   By:     /s/  Leo C. Beebe
+                                           ---------------------------------
+                                           Leo C. Beebe
+                                           Chief Executive Officer
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Leo C. Beebe and Edward B. Cloues, II and
+each of them, his true and lawful attorneys-in-fact and agents, with full power
+of substitution and resubstitution, for him and in his name, place and stead, in
+any and all capacities, to sign any and all amendments to this registration
+statement, and to file the same, with the Securities and Exchange Commission,
+granting unto said attorneys-in-fact and agents full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+and about the premises, as fully to all intents and purposes as he might or
+could do in person, hereby ratifying and confirming all that said
+attorneys-in-fact and agents, or their substitute or substitutes, may lawfully
+do or cause to be done by virtue hereof.
+
+         Pursuant to the requirements of the Securities Act 1933, this
+registration statement has been signed below by the following persons in the
+capacities and on the date indicated.
+
+<TABLE>
+<CAPTION>
+            Signatures                                   Title                                    Date
+            ----------                                   -----                                    ----
+<S>                                 <C>                                                         <C>
+/s/ Leo C. Beebe                    Chief Executive Officer (principal                          May 2, 1997
+- -----------------------------       executive officer) and Chairman of the
+Leo C. Beebe                        Board of Directors
+
+
+
+/s/ Robert L. Weinberg              Senior Executive Vice President, Chief                      May 2, 1997
+- -----------------------------       Financial Officer and Treasurer (principal
+Robert L. Weinberg                  financial officer)
+
+
+
+/s/ Alan R. Sukoneck                Vice President, Chief Accounting and Tax                    May 2, 1997
+- -----------------------------       Officer (principal accounting officer)
+Alan R. Sukoneck                    
+
+
+/s/ Edward B. Cloues, II                        Director                                        May 2, 1997
+- -----------------------------
+Edward B. Cloues, II
+
+
+/s/ Norman Cohen                                Director                                        May 2, 1997
+- -----------------------------
+Norman Cohen
+</TABLE>
+
+
+
+                                       5
+<PAGE>   7
+<TABLE>
+<CAPTION>
+            Signatures                                   Title                                    Date
+            ----------                                   -----                                    ----
+<S>                                                    <C>                                      <C>
+/s/ Richard J. Pinola                                  Director                                 May 2, 1997
+- ----------------------------------
+Richard J. Pinola
+
+
+/s/ Hans-Jurg Schurmann                                Director                                 May 2, 1997
+- ----------------------------------
+Hans-Jurg Schurmann
+
+
+/s/ Jean Head Sisco                                    Director                                 May 2, 1997
+- ----------------------------------
+Jean Head Sisco
+
+
+/s/ Johannes Wirth                                     Director                                 May 2, 1997
+- ----------------------------------
+Johannes Wirth
+</TABLE>
+
+
+
+                                        6
+<PAGE>   8
+                                INDEX TO EXHIBITS
+
+
+Exhibit
+Number                     Exhibit
+- ------                     -------
+
+
+ 5       Opinion of Morgan, Lewis & Bockius LLP
+
+ 23.1    Consent of Arthur Andersen LLP
+
+ 23.2    Consent of Morgan, Lewis & Bockius LLP (included in Exhibit 5)
+
+ 24      Power of Attorney (included on signature page of this registration
+         statement)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>2
+<DESCRIPTION>OPINION OF MORGAN, LEWIS & BOCKIUS LLP
+<TEXT>
+
+<PAGE>   1
+                                                                       Exhibit 5
+
+
+
+
+
+May 2, 1997
+
+
+K-Tron International, Inc.
+Routes 55 and 553
+Pitman, NJ  08071-0888
+
+Re:      K-Tron International, Inc.
+         Registration Statement on Form S-8
+         Relating to the K-Tron International, Inc. 1996 Equity Compensation
+         Plan, as amended
+
+Ladies and Gentlemen:
+
+We have acted as counsel to K-Tron International, Inc., a New Jersey corporation
+(the "Company"), in connection with the preparation of a registration statement
+on Form S-8 (the "Registration Statement") to be filed with the Securities and
+Exchange Commission under the Securities Act of 1933, as amended (the "Act"),
+relating to 450,000 shares of the Company's common stock, par value $.01 per
+share (the "Common Stock"), issuable under the K-Tron International, Inc. 1996
+Equity Compensation Plan, as amended (the "Plan"). We have examined such
+certificates, records, statutes and other documents as we have deemed relevant
+in rendering this opinion. As to matters of fact, we have relied on
+representations of officers of the Company. In our examination, we have assumed
+the genuineness of documents submitted to us as originals and the conformity
+with the original of all documents submitted to us as copies thereof.
+
+Based on the foregoing, it is our opinion that the shares of Common Stock
+issuable under the Plan will be, when issued in accordance with the terms of the
+Plan, validly issued, fully paid and nonassessable shares of Common Stock.
+
+The opinion set forth above is limited to the New Jersey Business Corporation
+Act, as amended.
+
+We hereby consent to the use of this opinion as Exhibit 5 to the Registration
+Statement. In giving such opinion, we do not thereby admit that we are acting
+within the category of persons whose consent is required under Section 7 of the
+Act or the rules or regulations of the Securities and Exchange Commission
+thereunder.
+
+Very truly yours,
+
+
+/s/ Morgan, Lewis & Bockius LLP
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN LLP
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 23.1
+
+                    CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To K-Tron International, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation
+by reference in this Registration Statement on Form S-8 of our report dated
+February 10, 1997 in K-Tron International, Inc.'s Form 10-K for the year
+ended December 28, 1996 and to all references to our firm included in
+this Registration Statement.
+
+
+                                                     ARTHUR ANDERSEN LLP
+
+
+Philadelphia, Pa.
+  May 2, 1997
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

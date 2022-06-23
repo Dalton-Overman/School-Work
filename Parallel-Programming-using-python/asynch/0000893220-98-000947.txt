@@ -1,0 +1,1241 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OaYkaeC6tz2cA4Neyu59z0t/29XR5OHDRReumRP1LL3mjk66iwMs7j6truIVYt81
+ 7ck2xFdF6WlW3m8ZKhERww==
+
+<SEC-DOCUMENT>0000893220-98-000947.txt : 19980514
+<SEC-HEADER>0000893220-98-000947.hdr.sgml : 19980514
+ACCESSION NUMBER:		0000893220-98-000947
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		19980513
+EFFECTIVENESS DATE:		19980513
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		
+		SEC FILE NUMBER:	333-52523
+		FILM NUMBER:		98618115
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<DESCRIPTION>FORM S-8 FOR K-TRON INTERNATIONAL, INC.
+<TEXT>
+
+<PAGE>   1
+      As filed with the Securities and Exchange Commission on May 13, 1998
+                                                           Registration No. 333-
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+                                   -----------
+                                    FORM S-8
+                             REGISTRATION STATEMENT
+                                      UNDER
+                           THE SECURITIES ACT OF 1933
+                                   -----------
+
+                           K-TRON INTERNATIONAL, INC.
+             (Exact Name of Registrant as Specified in Its Charter)
+
+          New Jersey                                    22-1759452
+(State or Other Jurisdiction of           (I.R.S. Employer Identification No.)
+ Incorporation or Organization)
+
+         Routes 55 and 553
+         Pitman, New Jersey                            08071-0888
+(Address of Principal Executive Offices)               (Zip Code)
+
+                              AMENDED AND RESTATED
+                           K-TRON INTERNATIONAL, INC.
+                          1996 EQUITY COMPENSATION PLAN
+                            (Full Title of the Plan)
+
+                              EDWARD B. CLOUES, II
+                             Chief Executive Officer
+                           K-Tron International, Inc.
+                                Routes 55 and 553
+                          Pitman, New Jersey 08071-0888
+                     (Name and Address of Agent for Service)
+
+                                 (609) 589-0500
+          (Telephone Number, Including Area Code, of Agent For Service)
+                                   -----------
+                         Copy of all communications to:
+                                 TIMOTHY MAXWELL
+                           Morgan, Lewis & Bockius LLP
+                              2000 One Logan Square
+                           Philadelphia, PA 19103-6993
+                                 (215) 963-5000
+
+                         CALCULATION OF REGISTRATION FEE
+
+<TABLE>
+<CAPTION>
+================================================================================
+                                                     Proposed
+    Title of                                          maximum
+   securities                    Proposed maximum    aggregate
+     to be        Amount to be    offering price  offering price     Amount of
+   registered      registered     per share (1)         (1)       registration fee
+- --------------------------------------------------------------------------------
+<S>                  <C>                <C>              <C>             <C>    
+Common Stock,
+$.01                 150,000            $19.25           $2,887,500      $852
+par value           shares(2)
+================================================================================
+</TABLE>
+
+(1)   Estimated pursuant to Rule 457(h) solely for the purpose of calculating
+      the registration fee, based upon the average of the high and low sales
+      prices of shares of Common Stock on May 7, 1998, as reported on the
+      Nasdaq National Market.
+
+(2)   Pursuant to Rule 416 under the Securities Act of 1933, as amended, this
+      registration statement also covers such additional shares as may hereafter
+      be offered or issued to prevent dilution resulting from stock splits,
+      stock dividends, recapitalizations or certain other capital adjustments.
+
+
+<PAGE>   2
+                                     PART II
+
+               INFORMATION REQUIRED IN THE REGISTRATION STATEMENT
+
+ITEM 3.  INCORPORATION OF DOCUMENTS BY REFERENCE.
+
+      The following documents as filed by K-Tron International, Inc. (the
+"Registrant") with the Securities and Exchange Commission (the "Commission")
+pursuant to the Securities Exchange Act of 1934, as amended (the "Exchange
+Act"), are incorporated by reference in this registration statement:
+
+           (a) The Registrant's Annual Report on Form 10-K for the fiscal year
+      ended January 3, 1998.
+
+           (b) The Registrant's Quarterly Report on Form 10-Q for the fiscal
+      quarter ended April 4, 1998.
+
+           (c) The description of the Registrant's shares of common stock, $.01
+      par value (the "Common Stock"), set forth in the Registrant's registration
+      statement on Form 8-A, filed by the Registrant with the Commission on
+      March 19, 1981 to register such securities under the Exchange Act, as
+      updated by Item 5 of the Registrant's current report on Form 8-K, dated
+      October 3, 1991.
+
+      All documents filed by the Registrant pursuant to Sections 13(a), 13(c),
+14 and 15(d) of the Exchange Act, after the date of this registration statement
+and prior to the filing of a post-effective amendment to this registration
+statement that indicates that all securities offered hereby have been sold or
+that deregisters all securities then remaining unsold, shall be deemed to be
+incorporated by reference in this registration statement and to be part hereof
+from the date of filing of such documents. Any statement contained in a document
+incorporated by reference herein shall be deemed to be modified or superseded
+for purposes hereof to the extent that a statement contained herein (or in any
+other subsequently filed document that is also incorporated by reference herein)
+modifies or supersedes such statement. Any such statement so modified or
+superseded shall not be deemed, except as so modified or superseded, to
+constitute a part hereof.
+
+      Experts.
+
+      The consolidated financial statements of the Registrant and its
+subsidiaries as of January 3, 1998 and for the fiscal years ended January 3,
+1998, December 28, 1996 and December 30, 1995 included in the Registrant's
+Annual Report on Form 10-K for the fiscal year ended January 3, 1998
+incorporated by reference in this registration statement have been audited by
+Arthur Andersen LLP, independent public accountants, as indicated in their
+reports with respect thereto, and are included herein in reliance upon the
+authority of said firm as experts in giving said reports. Future consolidated
+financial statements of the Registrant and the reports thereon of Arthur
+Andersen LLP also will be incorporated by reference in this registration
+statement in reliance upon the authority of that firm as experts in giving those
+reports to the extent that said firm has audited those consolidated financial
+statements and consented to the use of their reports thereon.
+
+ITEM 4.  DESCRIPTION OF SECURITIES.
+
+      Not applicable.
+
+ITEM 5.  INTERESTS OF NAMED EXPERTS AND COUNSEL.
+
+      Not applicable.
+
+                                        1
+
+
+<PAGE>   3
+ITEM 6.  INDEMNIFICATION OF DIRECTORS AND OFFICERS.
+
+      The By-Laws of the Registrant generally provide for the mandatory
+indemnification of directors, officers and other corporate agents to the fullest
+extent permitted by the New Jersey Business Corporation Act, as amended
+("NJBCA"), as do various indemnification agreements entered into by the Company
+and its directors and certain officers.
+
+      The NJBCA generally provides that a New Jersey corporation has the power
+to indemnify a director, officer or other agent against his or her expenses and
+liabilities in connection with any proceedings involving the director, officer
+or agent by reason of his or her being or having been such a director, officer
+or agent other than proceedings by or in the right of the corporation, if such
+director, officer or agent acted in good faith and in a manner he or she
+reasonably believed to be in or not opposed to the best interests of the
+corporation; and with respect to any criminal proceeding, such director, officer
+or agent had no reasonable cause to believe that his or her conduct was
+unlawful.
+
+      The indemnification and advancement of expenses shall not exclude any
+other rights, including the right to be indemnified against liabilities and
+expenses incurred in proceedings by or in the right of the corporation, to which
+a director, officer or agent may be entitled under a certificate of
+incorporation, bylaw, agreement, vote of shareholders or otherwise; provided
+that no indemnification shall be made to or on behalf of a director, officer or
+agent if a judgment or other final adjudication adverse to the director, officer
+or agent establishes that his or her acts or omissions (a) were in breach of his
+or her duty of loyalty to the corporation or its shareholders, (b) were not in
+good faith or involved a knowing violation of law or (c) resulted in receipt by
+the director, officer or agent of an improper personal benefit.
+
+      In addition, the Registrant's Restated Certificate of Incorporation
+provides that directors and officers of the Registrant shall not be personally
+liable to the Registrant or its shareholders for damages for breach of any duty
+owed to the Registrant or its shareholders, except that a director or officer
+shall not be relieved from liability for any breach of duty based upon an act or
+omission (a) in breach of such person's duty of loyalty to the Registrant or its
+shareholders, (b) not in good faith or involving a knowing violation of law or
+(c) resulting in receipt by such person of an improper personal benefit.
+
+      The Registrant has purchased directors and officers indemnity insurance
+coverage.
+
+ITEM 7.  EXEMPTION FROM REGISTRATION CLAIMED.
+
+      Not applicable.
+
+                                        2
+
+
+<PAGE>   4
+ITEM 8.  EXHIBITS.
+
+      The following is a list of exhibits filed as part of this registration
+statement. Where so indicated by footnote, exhibits which were previously filed
+are incorporated by reference. For exhibits incorporated by reference, the
+location of the exhibit in the previous filing is indicated in parentheses.
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number     Exhibit
+- -------    -------
+<S>        <C>    
+
+ 4         Rights Agreement dated as of October 3, 1991 with First Interstate
+           Bank of Arizona, N.A., as Rights Agent (Filed as Exhibit 1 to the
+           Company's report on Form 8-K dated October 3, 1991 and incorporated
+           herein by reference)
+
+ 5         Opinion of Morgan, Lewis & Bockius LLP
+
+ 23.1      Consent of Arthur Andersen LLP
+
+ 23.2      Consent of Morgan, Lewis & Bockius LLP (included in Exhibit 5)
+
+ 24        Power of Attorney (included on signature page of this registration
+           statement)
+
+ 99        Amended and Restated K-Tron International, Inc. 1996
+           Equity Compensation Plan
+</TABLE>
+
+ITEM 9.  UNDERTAKINGS.
+
+      (a)  The undersigned Registrant hereby undertakes:
+
+           (1) To file, during any period in which offers or sales are being
+made, a post-effective amendment to this registration statement:
+
+                (i)  To include any prospectus required by Section
+      10(a)(3) of the Securities Act of 1933;
+
+                (ii) To reflect in the prospectus any facts or events arising
+      after the effective date of the registration statement (or the most recent
+      post-effective amendment thereof) which, individually or in the aggregate,
+      represent a fundamental change in the information set forth in the
+      registration statement; and
+
+                (iii) To include any material information with respect to the
+      plan of distribution not previously disclosed in the registration
+      statement or any material change to such information in the registration
+      statement;
+
+           Provided, however, that subparagraphs (a)(1)(i) and (a)(1)(ii) of
+this section do not apply if the information required to be included in a
+post-effective amendment by those subparagraphs is contained in periodic reports
+filed by the Registrant pursuant to Section 13 or Section 15(d) of the
+Securities Exchange Act of 1934 that are incorporated by reference in the
+registration statement.
+
+           (2) That, for the purpose of determining any liability under the
+Securities Act of 1933, each such post-effective amendment shall be deemed to be
+a new registration statement relating to the securities offered therein, and the
+offering of such securities at that time shall be deemed to be the initial bona
+fide offering thereof.
+
+           (3) To remove from registration by means of a post-effective
+amendment any of the securities being registered that remain unsold at the
+termination of the offering.
+
+      (b) The undersigned Registrant hereby undertakes that, for the purpose of
+determining any liability under the Securities Act of 1933, each filing of the
+Registrant's annual report pursuant to Section 13(a) or Section
+
+                                        3
+
+
+<PAGE>   5
+15(d) of the Exchange Act (and each filing of an employee benefit plan's annual
+report pursuant to Section 15(d) of the Exchange Act) that is incorporated by
+reference in this registration statement shall be deemed to be a new
+registration statement relating to the securities offered herein, and the
+offering of such securities at that time shall be deemed to be the initial bona
+fide offering thereof.
+
+      (c) Insofar as indemnification for liabilities arising under the
+Securities Act of 1933 may be permitted to directors, officers and controlling
+persons of the Registrant pursuant to the foregoing provisions, or otherwise,
+the Registrant has been advised that in the opinion of the Securities and
+Exchange Commission such indemnification is against public policy as expressed
+in the Act and is, therefore, unenforceable. In the event that a claim for
+indemnification against such liabilities (other than the payment by the
+Registrant of expenses incurred or paid by a director, officer or controlling
+person of the Registrant in the successful defense of any action, suit or
+proceeding) is asserted by such director, officer or controlling person in
+connection with the securities being registered, the Registrant will, unless in
+the opinion of its counsel the matter has been settled by controlling precedent,
+submit to a court of appropriate jurisdiction the question whether such
+indemnification by it is against public policy as expressed in the Act and will
+be governed by the final adjudication of such issue.
+
+                                        4
+
+
+<PAGE>   6
+                        SIGNATURES AND POWER OF ATTORNEY
+
+      Pursuant to the requirements of the Securities Act of 1933, the Registrant
+certifies that it has reasonable grounds to believe that it meets all of the
+requirements for filing on Form S-8 and has duly caused this registration
+statement to be signed on its behalf by the undersigned, thereunto duly
+authorized, in Pitman, New Jersey, on this 12th day of May, 1998.
+
+                               K-TRON INTERNATIONAL, INC.
+
+                               By:  \s\ Edward B. Cloues, II
+                                    ------------------------
+                                    Edward B. Cloues, II
+                                    Chief Executive Officer
+
+      KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Edward B. Cloues, II and Robert L.Weinberg, and
+each of them, his true and lawful attorneys-in-fact and agents, with full power
+of substitution and resubstitution, for him and in his name, place and stead, in
+any and all capacities, to sign any and all amendments to this registration
+statement, and to file the same, with the Securities and Exchange Commission,
+granting unto said attorneys-in-fact and agents full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+and about the premises, as fully to all intents and purposes as he might or
+could do in person, hereby ratifying and confirming all that said
+attorneys-in-fact and agents, or their substitute or substitutes, may lawfully
+do or cause to be done by virtue hereof.
+
+      Pursuant to the requirements of the Securities Act 1933, this registration
+statement and Power of Attorney have been signed by the following persons in the
+capacities and on the date indicated.
+
+<TABLE>
+<CAPTION>
+     Signatures                            Title                                                Date
+     ----------                            -----                                                ----
+
+<S>                              <C>                                                      <C>
+\s\ Edward B. Cloues, II         Chief Executive Officer                                  May 12, 1998
+- --------------------------       (principal executive officer) and
+Edward B. Cloues, II             Chairman of the Board of Directors
+
+
+
+\s\ Robert L. Weinberg           Senior Executive Vice President, Chief                   May 12, 1998
+- --------------------------       Financial Officer and Treasurer (principal
+Robert L. Weinberg               financial officer)
+
+
+
+\s\ Alan R. Sukoneck             Vice President, Chief Accounting and Tax                 May 12, 1998
+- ---------------------            Officer (principal accounting officer)
+ Alan R. Sukoneck    
+
+
+
+\s\ Leo C. Beebe                              Director                                    May 12, 1998
+- ---------------------
+Leo C. Beebe
+
+
+
+\s\ Norman Cohen                              Director                                    May 12, 1998
+- ---------------------
+Norman Cohen
+
+</TABLE>
+
+
+                                        5
+
+
+<PAGE>   7
+
+
+<TABLE>
+<CAPTION>
+     Signatures                            Title                            Date
+     ----------                            -----                            ----
+<S>                                       <C>                         <C>
+\s\ Richard J. Pinola                     Director                    May 12, 1998
+- ------------------------
+Richard J. Pinola
+
+
+
+\s\ Hans-Jurg Schurmann                   Director                    May 12, 1998
+- ------------------------
+Hans-Jurg Schurmann
+
+
+
+\s\ Jean Head Sisco                       Director                    May 12, 1998
+- ------------------------
+Jean Head Sisco
+
+
+
+\s\ Johannes Wirth
+- ------------------------
+Johannes Wirth                            Director                    May 12, 1998
+</TABLE>
+
+
+
+                                        6
+
+
+<PAGE>   8
+                                INDEX TO EXHIBITS
+<TABLE>
+<CAPTION>
+Exhibit
+Number     Exhibit
+- -------    -------
+<S>        <C>
+
+ 4         Rights Agreement dated as of October 3, 1991 with First Interstate
+           Bank of Arizona, N.A., as Rights Agent (Filed as Exhibit 1 to the
+           Company's report on Form 8-K dated October 3, 1991 and incorporated
+           herein by reference)
+
+ 5         Opinion of Morgan, Lewis & Bockius LLP
+
+ 23.1      Consent of Arthur Andersen LLP
+
+ 23.2      Consent of Morgan, Lewis & Bockius LLP (included in Exhibit 5)
+
+ 24        Power of Attorney (included on signature page of this registration
+           statement)
+
+ 99        Amended and Restated K-Tron International, Inc. 1996
+           Equity Compensation Plan
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>2
+<DESCRIPTION>OPINION OF MORGAN, LEWIS & BOCKIUS LLP
+<TEXT>
+
+<PAGE>   1
+                                                                       Exhibit 5
+
+May 12, 1998
+
+K-Tron International, Inc.
+Routes 55 and 553
+Pitman, NJ  08071-0888
+
+Re:   K-Tron International, Inc.
+      Registration Statement on Form S-8
+      Relating to the Amended and Restated K-Tron International,
+      Inc. 1996 Equity Compensation Plan
+
+Ladies and Gentlemen:
+
+We have acted as counsel to K-Tron International, Inc., a New Jersey corporation
+(the "Company"), in connection with the preparation of a registration statement
+on Form S-8 (the "Registration Statement") to be filed with the Securities and
+Exchange Commission under the Securities Act of 1933, as amended (the "Act"),
+relating to 150,000 shares of the Company's common stock, par value $.01 per
+share (the "Common Stock"), issuable under the Amended and Restated K-Tron
+International, Inc. 1996 Equity Compensation Plan (the "Plan"). We have examined
+such certificates, records, statutes and other documents as we have deemed
+relevant in rendering this opinion. As to matters of fact, we have relied on
+representations of officers of the Company. In our examination, we have assumed
+the genuineness of documents submitted to us as originals and the conformity
+with the original of all documents submitted to us as copies thereof.
+
+Based on the foregoing, it is our opinion that the shares of Common Stock
+issuable under the Plan will be, when issued in accordance with the terms of the
+Plan, validly issued, fully paid and nonassessable shares of Common Stock.
+
+The opinion set forth above is limited to the New Jersey Business Corporation
+Act, as amended.
+
+We hereby consent to the use of this opinion as Exhibit 5 to the Registration
+Statement. In giving such opinion, we do not thereby admit that we are acting
+within the category of persons whose consent is required under Section 7 of the
+Act or the rules or regulations of the Securities and Exchange Commission
+thereunder.
+
+Very truly yours,
+
+/s/ Morgan, Lewis & Bockius LLP
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN LLP
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 23.1
+
+             CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To K-Tron International, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation by
+reference in this registration statement on Form S-8 of our report dated
+February 10, 1998 in K-Tron International, Inc.'s Form 10-K for the year ended
+January 3, 1998 and to all references to our firm included in this registration
+statement.
+
+                               ARTHUR ANDERSEN LLP
+
+Philadelphia, Pa.
+  May 12, 1998
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<DESCRIPTION>AMENDED/RESTATED EQUITY COMPENSATION PLAN
+<TEXT>
+
+<PAGE>   1
+                                                                      Exhibit 99
+
+                              AMENDED AND RESTATED
+                           K-TRON INTERNATIONAL, INC.
+                          1996 EQUITY COMPENSATION PLAN
+                                (March 13, 1998)
+
+      The purpose of the K-Tron International, Inc. 1996 Equity Compensation
+Plan (the "Plan") is (i) to provide officers and other employees of K-Tron
+International, Inc. (the "Company") and its subsidiaries with the opportunity to
+receive grants of incentive stock options, nonqualified stock options, stock
+appreciation rights and restricted stock and (ii) to provide members of the
+Board of Directors of the Company (the "Board") who are not employees of the
+Company and its subsidiaries ("Non-Employee Directors") with the opportunity to
+receive grants of nonqualified stock options. The Company believes that the Plan
+will provide an incentive to the participants to contribute materially to the
+long-term growth of the Company, will align the economic interests of the
+participants with those of the Company's shareholders and will aid the Company
+and its subsidiaries in attracting and retaining officers, employees and Board
+members of outstanding ability.
+
+1.    Administration
+
+      The Plan shall be administered and interpreted by a committee (the
+"Committee"), which shall consist of two or more persons appointed by the Board,
+all of whom may be "non-employee directors" as defined in Rule 16b-3 under the
+Securities Exchange Act of 1934 (the "Exchange Act") and "outside directors" as
+defined in Section 162(m) of the Internal Revenue Code of 1986, as amended (the
+"Code"), and related Treasury regulations.
+
+      The Committee shall have the sole authority to (i) determine the
+individuals to whom grants shall be made under the Plan, (ii) determine the
+type, size and terms of the grants to be made to each such individual, (iii)
+determine the time when the grants will be made and the duration of any
+applicable exercise or restriction period, including the criteria for vesting
+and the acceleration of vesting and (iv) deal with any other matters arising
+under the Plan.
+
+      The Committee shall have full power and authority to administer and
+interpret the Plan, to make factual determinations and to adopt or amend such
+rules, regulations, agreements and instruments for implementing the Plan and for
+the conduct of its business as it deems necessary or advisable, in its sole
+discretion. The Committee's interpretations of the Plan and all determinations
+made by the Committee pursuant to the powers vested in it hereunder shall be
+conclusive and binding on all persons having any interests in the Plan or in any
+awards granted hereunder. All powers of the Committee shall be executed in its
+sole discretion, in the best interest of the Company and in keeping with the
+objectives of the Plan and need not be uniform as to similarly situated
+individuals.
+
+2.    Grants
+
+      Incentives under the Plan shall consist of incentive stock options,
+nonqualified stock options, stock appreciation rights and restricted stock
+(hereinafter collectively referred to as "Grants"). All Grants shall be subject
+to the terms and conditions set forth herein and to those other terms and
+conditions consistent with the Plan as the Committee deems appropriate and as
+are specified in writing by the Committee to the individual in a grant letter
+(the "Grant Letter") or an amendment thereto. The Committee shall approve the
+form and provisions of each Grant Letter or amendment. Grants under a particular
+Section of the Plan need not be uniform as among the grantees.
+
+3.    Shares Subject to the Plan
+
+      (a) Subject to the adjustments specified in Section 3(b), the aggregate
+number of shares of common stock of the Company (the "Company Stock") that may
+be issued or transferred pursuant to Grants or otherwise under the Plan is
+600,000 shares. Notwithstanding anything in the Plan to the contrary, the
+maximum aggregate number of shares of Company Stock that shall be subject to
+Grants made under the Plan to any single employee during any one year period
+shall be 100,000 shares. The shares may be authorized but unissued shares of
+Company
+
+
+<PAGE>   2
+Stock or reacquired shares of Company Stock, including shares purchased by the
+Company on the open market for purposes of the Plan. If and to the extent
+options granted under the Plan terminate, expire or are canceled, forfeited,
+exchanged or surrendered without having been exercised, or if any shares of
+restricted stock are forfeited, the shares subject to such Grants shall again be
+available for purposes of the Plan.
+
+      (b) If there is any change in the number or kind of shares of Company
+Stock outstanding by reason of (i) a stock dividend, (ii) a recapitalization,
+(iii) a stock split, combination or exchange of shares, (iv) a merger,
+reorganization or consolidation in which the Company is the surviving
+corporation, (v) a reclassification or (vi) any other extraordinary or unusual
+event affecting the outstanding Company Stock as a class without in any of such
+cases the Company's receipt of consideration, or if in the opinion of the
+Committee the value of outstanding shares of Company Stock is substantially
+reduced due to the Company's payment of an extraordinary dividend or
+distribution, the maximum number of shares of Company Stock available for
+Grants, the maximum number of shares of Company Stock which any one individual
+participating in the Plan may be granted during any one year, the number of
+shares covered by outstanding Grants and the price per share or the applicable
+market value of such Grants shall be proportionately adjusted by the Committee
+to reflect any increase or decrease in the number or kind of issued shares of
+Company Stock to preclude the enlargement or dilution of rights and benefits
+under such Grants; provided, however, that any fractional shares resulting from
+such adjustment shall be eliminated. The adjustments determined by the Committee
+shall be final, binding and conclusive. Notwithstanding the foregoing, no
+adjustment shall be authorized or made pursuant to this Section if such
+authorization or adjustment would cause any Incentive Stock Option to fail to
+comply with Section 422 of the Code.
+
+4.    Eligibility for Participation
+
+      All employees employed by the Company or any subsidiary ("Employees")
+(including Employees who are officers or members of the Board) shall be eligible
+to participate in the Plan. The Committee shall select the Employees to receive
+Grants and determine the number of shares of Company Stock subject to a
+particular Grant in such manner as the Committee determines. Non-Employee
+Directors shall be eligible to receive options pursuant to Section 5(i) of the
+Plan. Employees and Non-Employee Directors who receive Grants under this Plan
+shall hereinafter be referred to as "Grantees". The term "Company" as used
+hereinafter when referring to Grantees or matters involving Grantees (such as
+termination of employment or the withholding of taxes) shall include the
+Company's subsidiaries.
+
+      Nothing contained in this Plan shall be construed to limit the right of
+the Company to make Grants in connection with the acquisition, by purchase,
+lease, merger, consolidation or otherwise, of the business or assets of any
+corporation, firm or association, including options granted to employees or
+directors thereof who become Employees or Non-Employee Directors of the Company,
+or for any other proper corporate purpose.
+
+5.    Granting of Stock Options
+
+      (a) Number of Shares. The Committee, in its sole discretion, shall
+determine the number of shares of Company Stock that will be subject to each
+Grant of stock options.
+
+      (b) Type of Option and Price. The Committee may grant options intended to
+qualify as incentive stock options ("Incentive Stock Options") within the
+meaning of Section 422 of the Code or options which are not intended so to
+qualify ("Nonqualified Stock Options") (hereinafter collectively referred to as
+"Stock Options") or any combination of Incentive Stock Options and Nonqualified
+Stock Options, all in accordance with the terms and conditions set forth herein.
+Incentive Stock Options may only be granted to Employees.
+
+      The per share purchase price of Company Stock subject to a Stock Option
+shall be determined by the Committee and may be equal to, greater than or less
+than the Fair Market Value (as defined in the next paragraph) of a share of such
+Stock on the date such Stock Option is granted; provided, however, that (i) the
+per share purchase price of Company Stock subject to an Incentive Stock Option
+shall be equal to, or greater than, the Fair Market Value of a share of such
+Stock on the date such Stock Option is granted and (ii) an Incentive Stock
+Option may not be granted to an Employee who, at the time of grant, owns stock
+possessing more than ten percent (10%) of the total combined voting power of all
+classes of stock of the Company, or any parent or subsidiary of the Company,
+unless
+
+
+<PAGE>   3
+the purchase price per share is not less than one hundred ten percent (110%) of
+the Fair Market Value of a share of such Stock on the date of grant.
+
+      If the Company Stock is traded in a public market, then the Fair Market
+Value per share shall be determined as follows: (i) if the principal trading
+market for the Company Stock is a national securities exchange or the National
+Market segment of The Nasdaq Stock Market, the last reported sale price thereof
+on the relevant date or, if there were no trades on that date, the latest
+preceding date upon which a sale was reported, or (ii) if the Company Stock is
+not principally traded on any such exchange or market, the mean between the last
+reported "bid" and "asked" prices thereof on the relevant date, as reported on
+Nasdaq or, if not so reported, as reported by the National Daily Quotation
+Bureau, Inc. or as reported in a customary financial reporting service, as
+applicable and as the Committee determines. If the Company Stock is not traded
+in a public market or subject to reported transactions or "bid" and "asked"
+quotations as set forth above, the Fair Market Value per share shall be as
+determined by the Committee.
+
+      (c) Exercise Period. The Committee shall determine the exercise period of
+each Stock Option. The exercise period shall not exceed ten (10) years from the
+date of grant. However, an Incentive Stock Option that is granted to an Employee
+who, at the time of grant, owns stock possessing more than ten percent (10%) of
+the total combined voting power of all classes of stock of the Company, or any
+parent or subsidiary of the Company, may not have a term that exceeds five (5)
+years from the date of grant.
+
+      (d) Vesting and Exercisability of Options. Stock Options shall become
+vested and exercisable in accordance with the terms and conditions determined by
+the Committee, in its sole discretion and as specified in the applicable Grant
+Letter. The Committee, in its sole discretion, may accelerate the exercisability
+of any or all outstanding Stock Options at any time for any reason. In addition,
+all outstanding Stock Options shall vest upon a Change of Control (as defined in
+Section 9) unless the Committee determines otherwise pursuant to Section 10.
+
+      (e) Manner of Exercise. A Grantee may exercise a Stock Option which has
+become exercisable, in whole or in part, by delivering a written notice of
+exercise to the Committee or other recipient designated by the Committee for
+this purpose, with accompanying payment of the option price in accordance with
+Section 5(g). Such notice may instruct the Company to deliver shares of Company
+Stock due upon the exercise of the Stock Option to any registered broker or
+dealer designated by the Committee in lieu of delivery to the Grantee, in which
+case such instructions must also designate the account into which the shares are
+to be deposited.
+
+      (f)  Termination of Employment, Disability or Death.
+
+           (1) In the event that a Grantee ceases to be an employee of the
+Company for any reason other than "disability", death or "termination for
+cause", any Stock Option which is otherwise vested and exercisable by the
+Grantee shall terminate unless exercised within thirty (30) days of the date on
+which the Grantee ceases to be an employee of the Company (or within such other
+period of time as may be specified in the Grant Letter), but in any event no
+later than the date of expiration of the option exercise period. Any of the
+Grantee's Stock Options which are not otherwise vested and exercisable as of the
+date on which the Grantee ceases to be an employee of the Company shall
+terminate as of such date.
+
+           (2) In the event that a Grantee ceases to be an employee of the
+Company on account of a "termination for cause" by the Company, any Stock Option
+held by the Grantee shall terminate as of the date the Grantee ceases to be an
+employee of the Company.
+
+           (3) In the event that a Grantee ceases to be an employee of the
+Company because the Grantee is "disabled", any Stock Option which is otherwise
+vested and exercisable by the Grantee shall terminate unless exercised within
+one (1) year of the date on which the Grantee ceases to be an employee of the
+Company (or within such other period of time as may be specified in the Grant
+Letter), but in any event no later than the date of expiration of the option
+exercise period. Any of the Grantee's Stock Options which are not otherwise
+vested and exercisable as of the date on which the Grantee ceases to be an
+employee of the Company shall terminate as of such date.
+
+
+<PAGE>   4
+           (4) In the event of the death of a Grantee while the Grantee is an
+employee of the Company or within not more than thirty (30) days of the date on
+which the Grantee ceases to be an employee of the Company on account of a
+termination of employment for any reason other than "termination for cause" or
+"disability" (or within such other period of time as may be specified in the
+Grant Letter), any Stock Option which is otherwise vested and exercisable by the
+Grantee shall terminate unless exercised within one (1) year of the date on
+which the Grantee ceases to be an employee of the Company (or within such other
+period of time as may be specified in the Grant Letter), but in any event no
+later than the date of expiration of the option exercise period. Any of the
+Grantee's Stock Options which are not otherwise vested and exercisable as of the
+date on which the Grantee ceases to be an employee of the Company shall
+terminate as of such date.
+
+           (5) For purposes of this Section 5(f), the following terms shall be
+defined as follows: (A) "disability" shall mean a Grantee's becoming disabled
+within the meaning of section 22(e)(3) of the Code and (B) "termination for
+cause" shall mean, except to the extent otherwise provided in a Grantee's Grant
+Letter, a finding by the Committee, after full consideration of the facts
+presented on behalf of both the Company and the Grantee, that the Grantee has
+(i) breached his or her employment or service contract with the Company, or (ii)
+has engaged in disloyalty to the Company, fraud, embezzlement, theft, commission
+of a felony or proven dishonesty in the course of his or her employment by or
+service to the Company, or (iii) has disclosed trade secrets or other
+confidential information of the Company to persons not entitled to receive the
+same. In the event of a finding by the Committee of "termination for cause" with
+respect to a Grantee, in addition to the immediate termination of all Stock
+Options held by such Grantee, the Grantee shall automatically forfeit all option
+shares for any exercised portion of a Stock Option for which the Company has not
+yet delivered the share certificates upon refund by the Company of the option
+price paid by the Grantee for such option shares.
+
+      (g) Satisfaction of Option Price. The Grantee shall pay the option price
+specified in the Grant Letter in (i) cash, (ii) with the approval of the
+Committee, by delivering shares of Company Stock owned by the Grantee (including
+Company Stock acquired in connection with the exercise of a Stock Option),
+subject to such restrictions as the Committee deems appropriate, and having a
+Fair Market Value on the date of exercise equal to the option price or (iii)
+through any combination of (i) and (ii). The Grantee shall pay the option price
+and the amount of withholding tax due, if any, at the time of exercise. Shares
+of Company Stock shall not be issued or transferred upon exercise of a Stock
+Option until the option price is fully paid and any required withholding is
+made.
+
+      (h) Limits on Incentive Stock Options. Each Incentive Stock Option shall
+provide that, if the aggregate Fair Market Value on the date of the Grant of the
+Company Stock with respect to which Incentive Stock Options are exercisable for
+the first time by a Grantee during any calendar year (under the Plan or any
+other stock option plan of the Company or a parent or subsidiary corporation)
+exceeds $100,000, then such option, as to the excess, shall be treated as a
+Nonqualified Stock Option.
+
+      (i) Option Grants to Non-Employee Directors. The Committee may grant such
+Nonqualified Stock Options as it deems appropriate to Non-Employee Directors.
+Unless the Committee determines otherwise, Nonqualified Stock Options shall be
+granted annually to Non-Employee Directors with the following terms:
+
+           (i) On the date of each annual meeting of the shareholders of the
+Company, beginning with the 1998 annual meeting, each Non-Employee Director who
+is elected to the Board or who continues his or her term on the Board on that
+date shall receive a Nonqualified Stock Option to purchase 1,000 shares of
+Company Stock. The option price for the Stock Options shall be equal to the Fair
+Market Value of a share of Company Stock on the date of the annual shareholders'
+meeting. The Stock Options shall be fully vested on the date of grant and shall
+have a term of ten years.
+
+           (ii) If a Grantee ceases to be a member of the Board for any reason
+other than "disability" (as defined in subsection (f) above), death or becoming
+an employee of the Company, the Grantee's Stock Options shall terminate unless
+exercised within ninety (90) days of the date on which the Grantee ceases to be
+a member of the Board (or within such other period of time as may be specified
+in the Grant Letter), but in any event no later than the date of expiration of
+the option exercise period. If the Grantee ceases to be a member of the Board
+because he or she is "disabled," the Grantee's Stock Options shall terminate
+unless exercised within one year of the date on which the Grantee ceases to be a
+member of the Board (or within such other period of time as may be specified in
+
+
+<PAGE>   5
+the Grant Letter), but in any event no later than the expiration of the option
+exercise period. In the event of the death of a Grantee while the Grantee is a
+member of the Board or within not more than ninety (90) days of the date on
+which the Grantee ceases to be a member of the Board for any reason other than
+"disability" (or within such other period of time as may be specified in the
+Grant Letter), the Grantee's Stock Options shall terminate unless exercised
+within one year of the date on which the Grantee ceases to be a member of the
+Board (or within such other period of time as may be specified in the Grant
+Letter), but in any event no later than the date of expiration of the option
+exercise period. If the Grantee ceases to be a member of the Board but becomes
+or remains an Employee of the Company, the Grantee's Stock Options shall remain
+in effect until the Grantee is no longer an Employee or member of the Board (but
+not later than the expiration date of the option exercise period), at which time
+the foregoing provisions shall apply as if the Grantee had then ceased to be a
+member of the Board.
+
+           (iii) In other respects, the provisions of the foregoing paragraphs
+of this Section 5 applicable to Nonqualified Stock Options shall apply to Stock
+Options granted to Non-Employee Directors.
+
+6.    Restricted Stock Grants
+
+      The Committee may issue or transfer shares of Company Stock to an Employee
+under a Grant (a "Restricted Stock Grant"), upon such terms as the Committee
+deems appropriate. The following provisions are applicable to Restricted Stock
+Grants:
+
+      (a) General Requirements. Shares of Company Stock issued or transferred
+pursuant to Restricted Stock Grants may be issued or transferred for
+consideration or for no consideration, at the sole discretion of the Committee.
+The Committee shall establish conditions under which restrictions on the
+transfer of shares of Company Stock shall lapse over a period of time or
+according to such other criteria as the Committee deems appropriate. The period
+of years during which the Restricted Stock Grant will remain subject to
+restrictions will be designated in the Grant Letter as the "Restriction Period."
+
+      (b) Number of Shares. The Committee shall issue or transfer to each
+Grantee of a Restricted Stock Grant such number of shares of restricted Company
+Stock as the Committee deems appropriate.
+
+      (c) Requirement of Employment. If a Grantee's employment terminates during
+the period designated in the Grant Letter as the Restriction Period, or if other
+specified conditions are not met, the Restricted Stock Grant shall terminate as
+to all shares covered by the Grant as to which the restrictions on transfer have
+not lapsed, and those shares of Company Stock must be immediately returned to
+the Company. The Committee may, however, provide for complete or partial
+exceptions to this requirement as it deems equitable.
+
+      (d) Restrictions on Transfer and Legend on Share Certificate. During the
+Restriction Period, a Grantee may not sell, assign, transfer, pledge or
+otherwise dispose of the shares of Company Stock to which such Restriction
+Period applies except to a Successor Grantee under Section 8(a). Each
+certificate for shares issued or transferred under a Restricted Stock Grant
+shall contain a legend giving appropriate notice of the restrictions in the
+Grant. The Grantee shall be entitled to have the legend removed from the share
+certificate covering any of the shares subject to restrictions when all
+restrictions on such shares have lapsed. The Committee, in its sole discretion,
+may determine that the Company will not issue certificates for shares of
+Restricted Stock until all restrictions on such shares have lapsed, or that the
+Company will retain possession of certificates for shares of Restricted Stock
+until all restrictions on such shares have lapsed.
+
+      (e) Right to Vote and to Receive Dividends. During the Restriction Period,
+unless the Committee determines otherwise, the Grantee shall have the right to
+vote shares subject to the Restricted Stock Grant and to receive any dividends
+or other distributions paid on such shares, subject to any restrictions deemed
+appropriate by the Committee.
+
+      (f) Lapse of Restrictions. All restrictions imposed under a Restricted
+Stock Grant shall lapse upon the expiration of the applicable Restriction Period
+and the satisfaction of any conditions imposed by the Committee. The Committee
+may determine, as to any or all Restricted Stock Grants, that all the
+restrictions shall lapse without regard to any Restriction Period. All
+outstanding Restricted Stock Grants shall vest upon a Change of Control,
+
+
+<PAGE>   6
+unless the Committee determines otherwise pursuant to Section 10.
+
+7.    Stock Appreciation Rights
+
+      (a) The Committee may grant stock appreciation rights ("SARs") to any
+Grantee in tandem with any Stock Option, for all or a portion of the applicable
+Stock Option, either at the time the Stock Option is granted or at any time
+thereafter while the Stock Option remains outstanding; provided, however, that
+in the case of an Incentive Stock Option, such rights may be granted only at the
+time of the Grant of such Incentive Stock Option. Unless the Committee
+determines otherwise, the base price of each SAR shall be equal to the greater
+of (i) the exercise price of the related Stock Option or (ii) the Fair Market
+Value of a share of Company Stock as of the date of Grant of such SAR.
+
+      (b) The number of SARs granted to a Grantee which shall be exercisable
+during any given period of time shall not exceed the number of shares of Company
+Stock which the Grantee may purchase upon the exercise of the related Stock
+Option during such period of time. Upon the exercise of a Stock Option, the SARs
+relating to the Company Stock covered by such Stock Option shall terminate. Upon
+the exercise of SARs, the related Stock Option shall terminate to the extent of
+an equal number of shares of Company Stock.
+
+      (c) Upon a Grantee's exercise of some or all of the Grantee's SARs, the
+Grantee shall receive in settlement of such SARs an amount equal to the value of
+the stock appreciation for the number of SARs exercised, payable in cash,
+Company Stock or a combination thereof. The stock appreciation for an SAR is the
+difference between the base price of the SAR as described in Section 7(a) and
+the Fair Market Value of the underlying Company Stock on the date of exercise of
+such SAR.
+
+      (d) At the time of such exercise, the Grantee shall have the right to
+elect the portion of the amount to be received that shall consist of cash and
+the portion that shall consist of Company Stock, which, for purposes of
+calculating the number of shares of Company Stock to be received, shall be
+valued at their Fair Market Value on the date of exercise of such SARs. The
+Committee shall have the right to disapprove a Grantee's election to receive
+cash in full or partial settlement of the SARs exercised and to require that
+shares of Company Stock be delivered in lieu of cash. If shares of Company Stock
+are to be received upon exercise of an SAR, cash shall be delivered in lieu of
+any fractional share. A SAR shall be exercisable only during the period when the
+Stock Option to which it is related is also exercisable.
+
+8.    Transferability of Grants
+
+      (a) Only the Grantee or a Successor Grantee (as defined below) may
+exercise rights under a Grant. Such persons may not transfer those rights,
+except that a Grantee may transfer rights under a Grant by will or by the laws
+of descent and distribution or, with respect to Grants other than Incentive
+Stock Options, if permitted under Rule 16b-3 of the Exchange Act and if
+permitted in any specific case by the Committee in its sole discretion, pursuant
+to a domestic relations order as defined under the Code or Title I of the
+Employee Retirement Income Security Act of 1974, as amended, or the regulations
+thereunder. When a Grantee dies, the representative or other person entitled to
+succeed to the rights of the Grantee ("Successor Grantee") may exercise such
+rights. A Successor Grantee must furnish proof satisfactory to the Company of
+his or her right to receive the Grant under the Grantee's will or under the
+applicable laws of descent and distribution.
+
+      (b) Notwithstanding the foregoing, the Committee may provide, in a Grant
+Letter, that a Grantee may transfer Nonqualified Stock Options to family members
+or other persons or entities according to such terms as the Committee may
+determine.
+
+9.    Change of Control of the Company
+
+      As used herein, a "Change of Control" shall be deemed to have occurred if:
+
+      (a) A liquidation or dissolution of the Company or the sale (excluding
+transfers to subsidiaries) of all or substantially all of the Company's assets
+occurs;
+
+
+<PAGE>   7
+      (b) As a result of a tender offer, stock purchase, other stock
+acquisition, merger, consolidation, recapitalization, reverse split or sale or
+transfer of assets, any person or group (as such terms are used in and under
+Section 13(d) of the Exchange Act) becomes the beneficial owner (as defined in
+Rule 13-d under the Exchange Act), directly or indirectly, of securities of the
+Company representing more than 20% of the common stock of the Company or the
+combined voting power of the Company's then outstanding securities; or
+
+      (c) During any period of two consecutive years, individuals who, at the
+beginning of such period, constitute the Board cease for any reason to
+constitute at least a majority thereof, unless the election, or the nomination
+for election by the Company's shareholders, of at least two-thirds of the
+directors who were not directors at the beginning of such period was approved by
+a vote of at least two-thirds of the directors then still in office who were
+either directors at the beginning of the period or who, in connection with their
+election or nomination, received the foregoing two-thirds approval.
+
+10.   Consequences of a Change of Control
+
+      (a) Upon a Change of Control, unless the Committee determines otherwise,
+(i) the Company shall provide to each Grantee who holds an outstanding Grant
+written notice of such Change of Control, (ii) all outstanding Stock Options and
+SARs shall automatically accelerate and become fully exercisable, and (iii) the
+restrictions and conditions on all outstanding Restricted Stock shall
+immediately lapse. Notwithstanding the foregoing, if a Change of Control
+described in Section 9(a) will occur, or if a Change of Control described in
+Section 9(b) will occur and the Company will not be the surviving corporation
+(or will survive only as a subsidiary of another corporation), then the
+provisions of this Section 10(a) shall be mandatory, subject to the provisions
+of Section 10(d) below.
+
+      (b) In the event of a Change of Control where the Company is not the
+surviving corporation (or survives only as a subsidiary of another corporation),
+unless the Committee determines otherwise, all outstanding Stock Options and
+SARs that are not exercised shall be assumed by, or replaced with comparable
+options or rights by, the surviving corporation.
+
+      (c) In addition, in the event of a Change of Control, the Committee may
+take one or both of the following actions: the Committee may (i) require that
+Grantees surrender their outstanding Stock Options and SARs in exchange for a
+payment by the Company, in cash or Company Stock as determined by the Committee,
+in an amount equal to the amount by which the then Fair Market Value of the
+shares of Company Stock subject to the Grantee's outstanding Stock Options and
+SARs exceeds the purchase price of the Options or the base price of the SARs, as
+applicable, or (ii) after giving Grantees an opportunity to exercise their
+outstanding Stock Options and SARs, terminate any or all outstanding Stock
+Options and SARs at such time as the Committee deems appropriate. Such surrender
+or termination shall take place as of the date of the Change of Control or such
+other date as the Committee may specify.
+
+      (d) Notwithstanding anything in the Plan to the contrary, in the event of
+a Change of Control, the Committee shall not have the right to take any actions
+described in the Plan (including without limitation actions described in Section
+10(c) above) that would make the Change of Control ineligible for pooling of
+interest accounting treatment or that would make the Change of Control
+ineligible for desired tax treatment if, in the absence of such right, the
+Change of Control would qualify for such treatment and the Company intends to
+use such treatment with respect to the Change of Control.
+
+      (e) The Committee may make determinations under this Section 10 prior to
+the Change of Control or, if the Committee making such determinations following
+a Change of Control is comprised of the same members as served on the Committee
+immediately prior to such Change of Control, within twenty (20) days following
+such Change of Control.
+
+11.   Amendment and Termination of the Plan
+
+      (a)  Amendment.  The Board may amend or terminate the Plan at any time;
+provided, however, that
+
+
+<PAGE>   8
+any amendment that increases the aggregate number (or individual limit for any
+single Grantee) of shares of Company Stock that may be issued or transferred
+under the Plan (other than by operation of Section 3(b)), or modifies the
+requirements as to eligibility for participation in the Plan, shall be subject
+to approval by the shareholders of the Company and provided, further, that the
+Board shall not amend the Plan without shareholder approval if such approval is
+required by Section 162(m) of the Code.
+
+      (b) Termination of Plan. The Plan shall terminate on May 9, 2006 unless
+terminated earlier by the Board or unless extended by the Board with the
+approval of the shareholders.
+
+      (c) Termination and Amendment of Outstanding Grants. A termination or
+amendment of the Plan that occurs after a Grant is made shall not materially
+impair the rights of a Grantee under such Grant unless the Grantee consents or
+unless the Committee acts under Section 19(b).  The termination of the Plan
+shall not impair the power and authority of the Committee with respect to any
+outstanding Grant. Whether or not the Plan has terminated, an outstanding Grant
+may be terminated or amended under Section 19(b) or may be amended by agreement
+of the Company and the Grantee consistent with the Plan.
+
+      (d) Governing Document. The Plan shall be the controlling document. No
+other statements, representations, explanatory materials or examples, oral or
+written, may amend the Plan in any manner. The Plan shall be binding upon and
+enforceable against the Company and its successors and assigns.
+
+12.   Funding of the Plan
+
+      The Plan shall be unfunded. The Company shall not be required to establish
+any special or separate fund or to make any other segregation of assets to
+assure the payment of any Grants under the Plan. In no event shall interest be
+paid or accrued on any Grant, including unpaid installments of Grants.
+
+13.   Rights of Participants
+
+      Nothing in the Plan shall entitle any Employee or other person to any
+claim or right to be granted a Grant under the Plan. Neither the Plan nor any
+action taken hereunder shall be construed as giving any individual any rights to
+be retained by or in the employ of the Company or any other employment rights.
+
+14.   No Fractional Shares
+
+      No fractional shares of Company Stock shall be issued or delivered
+pursuant to the Plan or any Grant. The Committee shall determine whether cash,
+other awards or other property shall be issued or paid in lieu of such
+fractional shares or whether such fractional shares or any rights thereto shall
+be forfeited or otherwise eliminated.
+
+15.   Withholding of Taxes
+
+      (a) The Company shall have the right to deduct from all Grants paid in
+cash, or from other wages paid to a Grantee, any federal, state or local taxes
+required by law to be withheld with respect to such cash awards and, in the case
+of Grants paid in Company Stock, the Grantee or other person receiving such
+shares shall be required to pay to the Company the amount of any such taxes
+which the Company is required to withhold with respect to such Grants or the
+Company shall have the right to deduct from other wages paid to the Grantee by
+the Company the amount of any withholding due with respect to such Grants.
+
+      (b) If the Committee so permits, a Grantee may elect to satisfy the
+Company's income tax withholding obligation with respect to a Grant paid in
+Company Stock by having shares withheld up to an amount that does not exceed the
+Grantee's maximum marginal tax rate for federal (including FICA), state and
+local tax liabilities. The election must be in a form and manner prescribed by
+the Committee and shall be subject to the prior approval of the Committee.
+
+
+<PAGE>   9
+16.   Requirements for Issuance or Transfer of Shares
+
+      No Company Stock shall be issued or transferred in connection with any
+Grant hereunder unless and until all legal requirements applicable to the
+issuance or transfer of such Company Stock have been complied with to the
+satisfaction of the Committee. The Committee shall have the right to condition
+any Grant made to any Grantee hereunder on such Grantee's undertaking in writing
+to comply with such restrictions on his or her subsequent disposition of such
+shares of Company Stock as the Committee shall deem necessary or advisable as a
+result of any applicable law, regulation or official interpretation thereof and
+certificates representing such shares may be legended to reflect any such
+restrictions. Certificates representing shares of Company Stock issued or
+transferred under the Plan will be subject to such stop-transfer orders and
+other restrictions as may be applicable under such laws, regulations and other
+obligations of the Company, including any requirement that a legend or legends
+be placed thereon.
+
+17.   Headings
+
+      Section headings are for reference only. In the event of a conflict
+between a title and the content of a Section, the content of the Section shall
+control. References herein to a Section or a Subsection are references to
+Sections or Subsections of the Plan unless otherwise noted.
+
+18.   Effective Date of the Plan
+
+      The Plan became effective on May 10, 1996 when it was approved by the
+Company's shareholders.
+
+19.   Miscellaneous
+
+      (a) Substitute Grants. The Committee may make a Grant to an employee of
+another corporation who becomes an Employee by reason of a corporate merger,
+consolidation, acquisition of stock or property, reorganization or liquidation
+involving the Company or any of its subsidiaries in substitution for a stock
+option or restricted stock grant made by such corporation ("Substituted Stock
+Incentives"). The terms and conditions of the substitute grant may vary from the
+terms and conditions required by the Plan and from those of the Substituted
+Stock Incentives. The Committee shall prescribe the provisions of the substitute
+grants.
+
+      (b) Compliance with Law. The Plan, the exercise of Stock Options and the
+obligation of the Company to issue or transfer shares of Company Stock under
+Grants shall be subject to all applicable laws and to approvals by any
+governmental or regulatory agency as may be required. With respect to persons
+subject to Section 16 of the Exchange Act, it is the intent of the Company that
+the Plan and all transactions under the Plan comply with all applicable
+provisions of Rule 16b-3 or its successors under the Exchange Act. The Committee
+may revoke any Grant if it is contrary to law or modify a Grant to bring it into
+compliance with any valid and mandatory government regulation. The Committee may
+also adopt rules regarding the withholding of taxes on payments to Grantees. The
+Committee may, in its sole discretion, agree to limit its authority under this
+Section 19(b).
+
+      (c) Ownership of Stock. A Grantee or Successor Grantee shall have no
+rights as a shareholder with respect to any shares of Company Stock covered by a
+Grant until the shares are issued or transferred to the Grantee or Successor
+Grantee on the stock transfer records of the Company.
+
+      (d) Governing Law. The validity, construction, interpretation and effect
+of the Plan and Grant Letters issued under the Plan shall exclusively be
+governed by and determined in accordance with the law of the State of New
+Jersey.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

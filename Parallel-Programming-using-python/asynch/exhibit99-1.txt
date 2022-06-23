@@ -1,0 +1,104 @@
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exhibit99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+[GRAPHIC OMITTED]
+
+
+
+For Release:   Immediately
+
+Contact:       Ronald Remick, Senior Vice President and Chief Financial Officer
+               Tel: (856) 256-3311          E-mail: remick@ktron.com
+
+              K-TRON REPORTS $0.34 PER SHARE FIRST QUARTER EARNINGS
+
+Pitman,  New  Jersey  -  -  April  17,  2003  -  -  K-Tron  International,  Inc.
+(NASDAQ-KTII) today reported first quarter 2003 net income of $0.835 million, or
+$0.34 per share (diluted),  on revenues of $23.40 million compared to net income
+of $0.751 million,  or $0.31 per share (diluted),  on revenues of $16.78 million
+for the same period in 2002.
+
+In announcing  the above  results,  the Company  pointed out that if the average
+foreign  currency  exchange  rates for the first quarter of 2002 were applied to
+the  first  quarter  of  2003,  the  Company's  revenues  would  have  increased
+approximately 29 percent instead of approximately 39 percent, and its net income
+and earnings  per share in the first  quarter of 2003 would have been lower than
+reported.  This is the result of a significantly weaker U.S. dollar in the first
+three  months of 2003  compared  to the same  period of 2002  against  the Swiss
+franc, the euro and other relevant foreign currencies.
+
+Commenting on the Company's results, K-Tron Chairman and Chief Executive Officer
+Edward B. Cloues,  II said,  "K-Tron's ten percent  earnings per share  increase
+over the first  quarter  of 2002 was a solid  performance  in a  generally  poor
+global economy,  particularly for the purchase of industrial  capital equipment.
+This increase  reflected  improved  margins in our feeder business in Europe and
+Asia and favorable foreign exchange rates, and it was achieved despite very weak
+demand  for  our  feeder  equipment  in the  United  States.  As  expected,  our
+Pennsylvania Crusher Corporation subsidiary, which was acquired at the beginning
+of this year's first  quarter,  made a positive  contribution  to earnings  even
+though sales of its size  reduction and other  equipment  were also below normal
+levels."
+
+In addition to his  comments on  operating  results,  Mr.  Cloues noted that the
+Company's cash position had strengthened  from $2.694 million at the end of 2002
+to $4.325 million at the end of the first quarter.  He also pointed out that the
+acquisition of Pennsylvania  Crusher and its  wholly-owned  subsidiary,  Jeffrey
+Specialty  Equipment  Corporation,  had broadened and  diversified the Company's
+bulk solids material handling  equipment  business and reduced its dependence on
+some of the more cyclical  markets  traditionally  served,  such as plastics and
+chemicals.
+
+K-Tron  International,  Inc. and its subsidiaries  design,  produce,  market and
+service material handling equipment and systems for a wide variety of industrial
+markets.  The  Company  has  manufacturing  facilities  in  the  United  States,
+Switzerland, the United Kingdom and Canada, and its equipment is sold throughout
+the world.
+
+                                    * * * * *
+                            (Financial Data Follows)
+
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+                                   (Unaudited)
+                    (Dollars in thousands, except share data)
+
+
+                                                         Three Months Ended
+                                                         ------------------
+                                                        March 28,      March 30,
+                                                          2003          2002
+                                                          ----          ----
+
+Revenues                                               $   23,398    $   16,778
+                                                       ==========    ===========
+Operating income                                       $    1,505    $    1,178
+
+Interest expense                                              380           173
+                                                       ----------    -----------
+Income before income taxes                                  1,125         1,005
+
+Income taxes                                                  290           254
+                                                       ----------    -----------
+Net income                                             $      835    $      751
+                                                       ==========    ===========
+Basic earnings per share                               $     0.34    $     0.31
+                                                       ==========    ===========
+Diluted earnings per share                             $     0.34    $     0.31
+                                                       ==========    ===========
+Average number of common shares outstanding (basic)     2,432,000     2,432,000
+                                                       ==========    ===========
+Average number of common & common equivalent            2,484,000     2,449,000
+  shares outstanding (diluted)                         ==========    ===========
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

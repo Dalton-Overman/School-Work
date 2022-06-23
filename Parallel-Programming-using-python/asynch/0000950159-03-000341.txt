@@ -1,0 +1,284 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U8xooj7EDOGJE0w5Av/bTVTbJsoX/UTazOwc3D16VsCv2wv/F9CsbDz3NHEmVEyH
+ 9Pf2IqV0VXF6bdh+I3VeUw==
+
+<SEC-DOCUMENT>0000950159-03-000341.txt : 20030421
+<SEC-HEADER>0000950159-03-000341.hdr.sgml : 20030421
+<ACCEPTANCE-DATETIME>20030421151110
+ACCESSION NUMBER:		0000950159-03-000341
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030417
+ITEM INFORMATION:		Financial statements and exhibits
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20030421
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03656824
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>k-tron8k.txt
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  _____________
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+        Date of report (Date of earliest event reported): April 17, 2003
+                                                          --------------
+
+
+                           K-TRON INTERNATIONAL, INC.
+                           --------------------------
+                 (Exact Name of Registrant Specified in Charter)
+
+        New Jersey                      0-9576                   22-1759452
+      --------------                --------------            -----------------
+      (State or Other              (Commission File           (I.R.S. Employer
+      Jurisdiction of                   Number)              Identification No.)
+      Incorporation)
+
+
+
+               Routes 55 & 553
+                P.O. Box 888
+             Pitman, New Jersey                          08071-0888
+       ------------------------------                  --------------
+   (Address of Principal Executive Offices)              (Zip Code)
+
+
+
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                           --------------
+
+
+
+                                 Not Applicable
+          -------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+<PAGE>
+
+
+
+Item 7.    Financial Statements, Pro Forma Financial Information and Exhibits.
+
+           (c) Exhibits.
+
+           99.1  Press Release, dated April 17, 2003, issued by K-Tron
+                        International, Inc.
+
+Item 9.    Regulation FD Disclosure.
+
+The following information and exhibit is being furnished under "Item 12.
+Disclosure of Results of Operations and Financial Condition."
+
+           On April 17, 2003, K-Tron International, Inc. issued a press release
+announcing its first quarter 2003 financial results. The press release is being
+filed with this Current Report on Form 8-K as Exhibit 99.1 and is hereby
+incorporated herein by reference.
+
+
+
+                                      -2-
+
+<PAGE>
+
+                                    SIGNATURE
+
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                             K-TRON INTERNATIONAL, INC.
+
+
+                             By   /s/ Edward B. Cloues, II
+                                  -------------------------
+                                  Edward B. Cloues, II
+                                  Chairman of the Board and
+                                  Chief Executive Officer
+
+
+
+Dated: April 21, 2003
+
+
+                                      -3-
+<PAGE>
+
+                                  Exhibit Index
+                                  -------------
+
+
+         Exhibit
+         -------
+
+         99.1   Press Release, dated April 17, 2003, issued by K-Tron
+                International, Inc.
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exhibit99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+[GRAPHIC OMITTED]
+
+
+
+For Release:   Immediately
+
+Contact:       Ronald Remick, Senior Vice President and Chief Financial Officer
+               Tel: (856) 256-3311          E-mail: remick@ktron.com
+
+              K-TRON REPORTS $0.34 PER SHARE FIRST QUARTER EARNINGS
+
+Pitman,  New  Jersey  -  -  April  17,  2003  -  -  K-Tron  International,  Inc.
+(NASDAQ-KTII) today reported first quarter 2003 net income of $0.835 million, or
+$0.34 per share (diluted),  on revenues of $23.40 million compared to net income
+of $0.751 million,  or $0.31 per share (diluted),  on revenues of $16.78 million
+for the same period in 2002.
+
+In announcing  the above  results,  the Company  pointed out that if the average
+foreign  currency  exchange  rates for the first quarter of 2002 were applied to
+the  first  quarter  of  2003,  the  Company's  revenues  would  have  increased
+approximately 29 percent instead of approximately 39 percent, and its net income
+and earnings  per share in the first  quarter of 2003 would have been lower than
+reported.  This is the result of a significantly weaker U.S. dollar in the first
+three  months of 2003  compared  to the same  period of 2002  against  the Swiss
+franc, the euro and other relevant foreign currencies.
+
+Commenting on the Company's results, K-Tron Chairman and Chief Executive Officer
+Edward B. Cloues,  II said,  "K-Tron's ten percent  earnings per share  increase
+over the first  quarter  of 2002 was a solid  performance  in a  generally  poor
+global economy,  particularly for the purchase of industrial  capital equipment.
+This increase  reflected  improved  margins in our feeder business in Europe and
+Asia and favorable foreign exchange rates, and it was achieved despite very weak
+demand  for  our  feeder  equipment  in the  United  States.  As  expected,  our
+Pennsylvania Crusher Corporation subsidiary, which was acquired at the beginning
+of this year's first  quarter,  made a positive  contribution  to earnings  even
+though sales of its size  reduction and other  equipment  were also below normal
+levels."
+
+In addition to his  comments on  operating  results,  Mr.  Cloues noted that the
+Company's cash position had strengthened  from $2.694 million at the end of 2002
+to $4.325 million at the end of the first quarter.  He also pointed out that the
+acquisition of Pennsylvania  Crusher and its  wholly-owned  subsidiary,  Jeffrey
+Specialty  Equipment  Corporation,  had broadened and  diversified the Company's
+bulk solids material handling  equipment  business and reduced its dependence on
+some of the more cyclical  markets  traditionally  served,  such as plastics and
+chemicals.
+
+K-Tron  International,  Inc. and its subsidiaries  design,  produce,  market and
+service material handling equipment and systems for a wide variety of industrial
+markets.  The  Company  has  manufacturing  facilities  in  the  United  States,
+Switzerland, the United Kingdom and Canada, and its equipment is sold throughout
+the world.
+
+                                    * * * * *
+                            (Financial Data Follows)
+
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+                                   (Unaudited)
+                    (Dollars in thousands, except share data)
+
+
+                                                         Three Months Ended
+                                                         ------------------
+                                                        March 28,      March 30,
+                                                          2003          2002
+                                                          ----          ----
+
+Revenues                                               $   23,398    $   16,778
+                                                       ==========    ===========
+Operating income                                       $    1,505    $    1,178
+
+Interest expense                                              380           173
+                                                       ----------    -----------
+Income before income taxes                                  1,125         1,005
+
+Income taxes                                                  290           254
+                                                       ----------    -----------
+Net income                                             $      835    $      751
+                                                       ==========    ===========
+Basic earnings per share                               $     0.34    $     0.31
+                                                       ==========    ===========
+Diluted earnings per share                             $     0.34    $     0.31
+                                                       ==========    ===========
+Average number of common shares outstanding (basic)     2,432,000     2,432,000
+                                                       ==========    ===========
+Average number of common & common equivalent            2,484,000     2,449,000
+  shares outstanding (diluted)                         ==========    ===========
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,986 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OK4bnHzR3d/e20DUvA+lQLy3uL9ryw9zAZpsaCk5BGa28HimDJi4h6XaOV4/cxFr
+ /rulxxDVzIMtUyPoBftLHA==
+
+<SEC-DOCUMENT>0000950123-10-033537.txt : 20100409
+<SEC-HEADER>0000950123-10-033537.hdr.sgml : 20100409
+<ACCEPTANCE-DATETIME>20100409142952
+ACCESSION NUMBER:		0000950123-10-033537
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20100409
+DATE AS OF CHANGE:		20100409
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		10742220
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>w78026sc13dza.htm
+<DESCRIPTION>SC 13D/A
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13dza</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="font-size: 1pt; width: 100%; border-bottom: black 2pt solid"> </DIV> <DIV style="font-size: 1pt; width: 100%; border-bottom: black 1pt solid"> </DIV> <P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>SCHEDULE 13D/A</B>
+
+
+<P align="center" style="font-size: 12pt"><B>Under the Securities Exchange Act of 1934<BR>
+(Amendment No.&nbsp;5)</B>
+
+
+<DIV align="center">
+<DIV style="font-size: 24pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">K-Tron International, Inc.</DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name of Issuer)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Common Stock, par value $.01 per share</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Title of Class of Securities)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">482730108</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(CUSIP Number)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Joanne R. Soslow, Esq.<BR>Morgan, Lewis &amp; Bockius LLP<BR>1701 Market Street<BR>Philadelphia, PA 19103-2921<BR>(215) 963-5000<BR></DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name, Address and Telephone Number of Person Authorized<BR>
+ to Receive Notices and Communications)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">April 1, 2010</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Date of Event Which Requires Filing of this Statement)
+</DIV>
+
+<P align="left" style="font-size: 10pt">If the filing person has previously filed a statement on Schedule&nbsp;13G to report the acquisition that is the subject of this Schedule&nbsp;13D, and is filing this schedule because of &#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box <FONT face="wingdings" size="2">&#111;</FONT>
+
+<P align="left" style="font-size: 10pt"><B>Note: </B>Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See &#167;240.13d-7 for other parties to whom copies are to be sent.
+
+<P align="left" style="font-size: 10pt">The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+
+<P align="left" style="font-size: 10pt">The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;<U>Act</U>&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;1. Security and Issuer.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;2. Identity and Background.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">Item&nbsp;3. Source and Amount of Funds or Other Consideration.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">Item&nbsp;4. Purpose of Transaction.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">Item&nbsp;5. Interest in Securities of the Issuer.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#005">Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships with Respect to Securities of the Issuer.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">Item&nbsp;7. Material to be Filed as Exhibits.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#007">SIGNATURE</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+<P>&nbsp;<DIV style="width: 100%; border: 1px solid black"><DIV align="center">
+
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="1" width="100%">
+<!-- Begin Table Head --><TR style="font-size: 1px">
+<TD width="5%">&nbsp;</TD>
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="83%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD valign="middle" align="center"><FONT style="font-size: 18pt"><B>1</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>NAMES OF REPORTING PERSONS</B><BR>
+<BR>
+Edward B. Cloues, II</TD>
+</TR>
+<TR valign="bottom">
+<TD>&nbsp;</TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>2</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See Instructions)</B><BR><BR></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(a)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(b)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>3</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>SEC USE ONLY</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>4</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>SOURCE OF FUNDS</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">OO</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>5</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>6</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>CITIZENSHIP OR PLACE OF ORGANIZATION</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">United States of America
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>7</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left"><B>SOLE VOTING POWER</B></TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>NUMBER OF</B></TD>
+<TD>&nbsp;</TD>
+<TD align="left">None</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>SHARES</B></TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>8</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left"><B>SHARED VOTING POWER</B></TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>BENEFICIALLY</B></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>OWNED BY</B></TD>
+<TD>&nbsp;</TD>
+<TD>None</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>EACH</B></TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>9</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left"><B>SOLE DISPOSITIVE POWER</B></TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>REPORTING</B></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>PERSON</B></TD>
+<TD>&nbsp;</TD>
+<TD align="left">None</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3"><B>WITH</B></TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>10</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left"><B>SHARED DISPOSITIVE POWER</B></TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="left">None</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>11</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">None</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>12</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>CHECK IF THE AGGREGATE AMOUNT IN ROW (11)&nbsp;EXCLUDES CERTAIN SHARES (See Instructions)</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT>
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>13</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">0.0&#37;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>14</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><B>TYPE OF REPORTING PERSON (See Instructions)</B></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">IN</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+<DIV style="font-size: 10pt; margin-top: 3pt">
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">
+
+2
+
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link2 "Item&nbsp;1. Security and Issuer." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. Security and Issuer.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This statement relates to the common stock, $.01 par value (the &#147;Common Stock&#148;), of K-Tron
+International, Inc., a New Jersey corporation (the &#147;Issuer&#148;). The principal executive office of the
+Issuer is located at Routes 55 &#038; 553, Pitman, New Jersey 08071-0888.
+</DIV>
+<!-- link2 "Item&nbsp;2. Identity and Background." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;2. Identity and Background.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;This statement is being filed by Edward B. Cloues, II (the &#147;Filing Person&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;The principal business address of the Filing Person is c/o K-Tron International, Inc.,
+Routes 55 &#038; 553, Pitman, New Jersey 08071-0888<I>. </I>Prior to the Merger (as defined below), the Filing
+Person&#146;s principal occupation was as the Chairman and Chief Executive Officer of the Issuer.
+Following the Merger (as defined below), the Filing Person became a director of Hillenbrand, Inc.,
+an Indiana corporation and the sole shareholder of the Issuer (&#147;Hillenbrand&#148;), and continued in his
+positions as a director and non-executive Chairman of the Board of AMREP Corporation and a director
+of Penn Virginia Corporation and of Penn Virginia Resource GP, LLC, the general partner of Penn
+Virginia Resource Partners, L.P. During the last five years, the Filing Person has not been
+convicted in a criminal proceeding.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;During the last five years, the Filing Person has not been a party to a civil proceeding
+of a judicial or administrative body of competent jurisdiction as a result of which he was or is
+subject to a judgment, decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, Federal or State securities laws or finding any violation with
+respect to such laws.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;The Filing Person is a citizen of the United States of America.
+</DIV>
+<!-- link2 "Item&nbsp;3. Source and Amount of Funds or Other Consideration." -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;3. Source and Amount of Funds or Other Consideration.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+<!-- link2 "Item&nbsp;4. Purpose of Transaction." -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;4. Purpose of Transaction.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On April&nbsp;1, 2010, pursuant to the terms of the Agreement and Plan of Merger (the &#147;Merger
+Agreement&#148;), dated as of January&nbsp;8, 2010, by and between the Issuer, Hillenbrand and Krusher
+Acquisition Corp., a New Jersey corporation and a direct, wholly owned subsidiary of Hillenbrand
+(&#147;Merger Sub&#148;), Merger Sub merged with and into the Issuer (the &#147;Merger&#148;), the separate corporate
+existence of Merger Sub ceased and the Issuer, as the surviving corporation of the Merger, became a
+wholly owned subsidiary of Hillenbrand.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the effective time of the Merger:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>each share of Common Stock issued and outstanding immediately prior to the effective
+time of the Merger was converted into the right to receive $150.00 in cash (without
+interest and less any required withholding tax);
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>each share of the Issuer&#146;s unvested restricted Common Stock issued and outstanding
+immediately prior to the effective time of the Merger became fully vested and was converted
+into the right to receive $150.00 (without interest and less any required withholding tax);</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>each stock option issued and outstanding immediately prior to the effective time of the
+Merger, whether vested or unvested, was cancelled and exchanged for a cash payment equal to
+the excess of $150.00 (without interest and less any required withholding tax) per
+underlying share of Common Stock over the per share exercise price of the option; and</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>each Restricted Stock Unit award issued and outstanding immediately prior to the
+effective time of the Merger vested and was canceled in exchange for a cash payment of
+$150.00 (without interest and less any required withholding tax) per underlying share of
+Common Stock.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the effective time of the Merger, the Issuer&#146;s certificate of incorporation was amended and
+restated substantially as was set forth in Exhibit&nbsp;C to the Merger Agreement, and the by-laws of
+Merger Sub became the by-laws of the Issuer, except all references to Merger Sub&#146;s name were
+replaced with references to K-Tron International, Inc. The amended and restated certificate of
+incorporation and by-laws of the Issuer are listed as Exhibits 3.1 and 3.2 hereto, respectively, and
+are incorporated by reference to Exhibits 3.1 and 3.2, respectively,
+of the Issuer&#146;s Current Report on Form 8-K filed with the SEC on
+April 5, 2010 (the &#147;April 5 Form 8-K&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the terms of the Merger Agreement, at the effective time of the Merger (i)&nbsp;each
+member of the board of directors of the Issuer ceased to hold such position and (ii)&nbsp;the Filing
+Person resigned as the Chairman and Chief Executive Officer of the Issuer and resigned from each
+other position held with the Issuer and each of its subsidiaries.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shares of the Issuer&#146;s Common Stock ceased trading on the Nasdaq Global Select Market
+(&#147;Nasdaq&#148;) after the closing of the market on April&nbsp;1, 2010. Following the effective time of the
+Merger, Nasdaq filed a Form&nbsp;25 with the Securities and Exchange Commission (the &#147;SEC&#148;) to delist
+the Common Stock.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing description of the Merger Agreement does not purport to be complete and is
+qualified in its entirety by reference to such agreement. The Merger Agreement, listed as Exhibit
+2.1 hereto, is incorporated by reference to Exhibit&nbsp;2.1 of the Issuer&#146;s Current Report on Form 8-K
+filed with the SEC on January&nbsp;12, 2010 (the &#147;January&nbsp;12 Form&nbsp;8-K&#148;).
+</DIV>
+<!-- link2 "Item&nbsp;5. Interest in Securities of the Issuer." -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5. Interest in Securities of the Issuer.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;As a result of the Merger, the Filing Person does not beneficially own, nor may he be
+deemed to beneficially own, any shares of Common Stock.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;See line items 7 through 10 of the cover sheet to this Amendment No.&nbsp;5 to Schedule&nbsp;13D.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;The following sets forth the transactions in Common Stock by the Filing Person during the
+ 60&nbsp;days preceding the date hereof:
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>On March&nbsp;23, 2010, the Filing Person transferred 100 shares of Common Stock as a
+gift to Upper Dublin Lutheran Church.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>On April&nbsp;1, 2010, at the effective time of the Merger, in connection with the
+consummation of the Merger and pursuant to the terms of the Merger Agreement:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>204,187 shares of Common Stock held by the Filing Person were automatically
+converted into the right to receive $150.00 per share (without interest);</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>9,000 shares of unvested restricted Common Stock held by the Filing Person
+fully vested and were converted into the right to receive $150.00 per share
+(without interest);</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>an exercisable stock option to purchase 10,000 shares of Common Stock held
+by the Filing Person was canceled in exchange for a cash payment of $1,378,000,
+representing the excess of $150.00 (without interest) per underlying share of
+Common Stock over the $12.20 per share exercise price of the stock option; and</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>2,000 Restricted Common Stock Units held by the Filing Person were canceled
+in exchange for a cash payment of $150.00 (without interest) per underlying
+share of Common Stock.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;On April&nbsp;1, 2010, the Filing Person ceased to be the beneficial owner of more than five
+percent of shares of Common Stock.
+</DIV>
+<!-- link2 "Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships with Respect to Securities of the Issuer." -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships with Respect to Securities of
+the Issuer.</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>None.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<!-- link2 "Item&nbsp;7. Material to be Filed as Exhibits." -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;7. Material to be Filed as Exhibits.</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">2.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Agreement and Plan of Merger, dated as of January&nbsp;8, 2010, by and among Hillenbrand, Merger
+Sub and the Issuer (Filed as Exhibit&nbsp;2.1 to the January&nbsp;12 Form 8-K and incorporated herein by
+reference)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">3.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Amended and Restated Certificate of Incorporation of the Issuer, effective as of April&nbsp;1,
+2010 (Filed as Exhibit&nbsp;3.1 to the April 5 Form&nbsp;8-K and incorporated herein by reference)</TD>
+</TR>
+
+
+
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">3.2</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>By-Laws of the Issuer, effective as of April&nbsp;1, 2010 (Filed as Exhibit&nbsp;3.2 to the April 5
+Form 8-K and incorporated herein by reference)</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<!-- link2 "SIGNATURE" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, I certify that the
+information set forth in this statement is true, complete and correct.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">                                                              April  8, 2010
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">(Date)&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">                                                             /s/  EDWARD B. CLOUES, II
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">(Signature)&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">                                                             Edward B. Cloues, II
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">(Name and Title)&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

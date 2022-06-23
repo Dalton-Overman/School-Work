@@ -1,0 +1,289 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ tSsFgKt5JtapiVwYQ8sHayl4210JnyFKfGVm4UaD6Tdo9HTaONJ4cSfih0dcktso
+ ywyr2kS4hUNHsaStvr3Xwg==
+
+<IMS-DOCUMENT>0000315066-94-000681.txt : 19940216
+<IMS-HEADER>0000315066-94-000681.hdr.sgml : 19940216
+ACCESSION NUMBER:		0000315066-94-000681
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	3823
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0104
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		94508500
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTES 55 & 553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+		BUSINESS PHONE:		6095890500
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FMR CORP
+		CENTRAL INDEX KEY:			0000315066
+		STANDARD INDUSTRIAL CLASSIFICATION:	0000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		82 DEVONSHIRE ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6175706339
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G - 2-14-94 - K-TRON INTERNATIONAL INCORPORATED
+<TEXT>
+
+
+
+SCHEDULE 13G
+
+Amendment No. 1
+K-Tron International Incorporated
+common stock
+Cusip # 482730108
+Filing Fee: No
+
+
+Cusip # 482730108
+Item 1:   Reporting Person - FMR Corp. - (Tax ID:  04-2507163)
+Item 4:   Commonwealth of Massachusetts
+Item 5:   None
+Item 6:   None
+Item 7:   133,500
+Item 8:   None
+Item 9:   133,500
+Item 11:  4.38%
+Item 12:  HC 
+
+
+
+
+Cusip # 482730108
+Item 1:   Reporting Person - Edward C. Johnson 3d - (Tax ID:  ###-##-####)
+Item 4:   United States of America
+Item 5:   None
+Item 6:   None
+Item 7:   133,500
+Item 8:   None
+Item 9:   133,500
+Item 11:  4.38%
+Item 12:  IN 
+
+
+
+
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+
+Item 1(a).    Name of Issuer:
+
+         K-Tron International Incorporated
+
+Item 1(b).    Name of Issuer's Principal Executive Offices:
+
+         Rt. 55 & 553
+         Pitman, NJ  08071
+
+Item 2(a).    Name of Person Filing: 
+
+         FMR Corp.
+
+Item 2(b).    Address or Principal Business Office or, if None, Residence:
+
+         82 Devonshire Street, Boston, Massachusetts  02109
+
+Item 2(c).    Citizenship:
+
+         Not applicable
+
+Item 2(d).    Title of Class of Securities:
+
+         Common Stock
+
+Item 2(e).    CUSIP Number:  
+
+         482730108
+
+Item 3.  This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b) and the
+person filing, FMR Corp., is a parent holding company in accordance
+with Section 240.13d-1(b)(ii)(G).  (Note:  See Item 7).
+
+Item 4.  Ownership
+
+         (a)  Amount Beneficially Owned:    133,500
+
+         (b)  Percent of Class:   4.38%
+
+         (c)  Number of shares as to which such person has:  
+
+              (i)   sole power to vote or to direct the vote:   None
+
+              (ii)  shared power to vote or to direct the vote: None
+
+              (iii) sole power to dispose or to direct the disposition of:
+    133,500
+
+              (iv)  shared power to dispose or to direct the disposition
+of: None
+
+
+
+
+Item 5.  Ownership of Five Percent or Less of a Class.
+
+         If this statement is being filed to report the fact that as
+of the date hereof, the reporting person has ceased to be
+the beneficial owner of more than five percent of the class
+of securities, check the following (X).
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another Person.
+
+         Not applicable.
+
+Item 7.  Identification and Classification of the Subsidiary Which Acquired
+the Security Being Reported on By the Parent Holding Company.
+
+         See attached Exhibit(s) A and B.
+
+Item 8.  Identification and Classification of Members of the Group.
+
+         Not applicable, see attached Exhibit A. 
+
+Item 9.  Notice of Dissolution of Group.
+
+         Not applicable.
+
+
+Item 10. Certification.
+
+         Inasmuch as the reporting persons are no longer the beneficial
+owners of more than 5% of the number of shares outstanding, the
+reporting persons have no further reporting obligation under
+section 13(d) of the Securities and Exchange Commission
+thereunder, and the reporting persons have no obligation to amend
+this Statement if any material change occurs in the facts set
+forth herein.
+
+
+Signature
+
+         After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct. 
+
+
+
+    February 11, 1994   
+Date
+
+
+
+    /S/Arthur S. Loring
+Signature
+
+
+
+    Arthur S. Loring, Vice President
+    
+Name/Title
+
+
+
+
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+    Pursuant to the instructions in Item 7 of Schedule 13G, Fidelity
+Management & Research Company ("Fidelity"), 82 Devonshire Street, Boston,
+Massachusetts 02109, a wholly-owned subsidiary of FMR Corp. and an
+investment adviser registered under Section 203 of the Investment Advisers
+Act of 1940, is the beneficial owner of 133,500 shares or 4.38% of the
+common stock outstanding of K-Tron International Incorporated ("the
+Company") as a result of acting as investment adviser to several investment
+companies registered under Section 8 of the Investment Company Act of 1940.  
+
+    Edward C. Johnson 3d, FMR Corp., through its control of Fidelity, and
+the Funds each has sole power to dispose of the 133,500 shares owned by the
+Funds.
+
+    Neither FMR Corp. nor Edward C. Johnson 3d, Chairman of FMR Corp., 
+has the sole power to vote or direct the voting of the Shares owned
+directly by the Fidelity Funds, which power resides with the Funds' Boards
+of Trustees.  Fidelity carries out the voting of the Shares under written
+guidelines established by the Funds' Boards of Trustees.
+
+    Edward C. Johnson 3d owns 34.0% of the outstanding voting common stock
+of FMR Corp.  Mr. Johnson 3d is Chairman of FMR Corp.  Various Johnson
+family members and trusts for the benefit of Johnson family members own FMR
+Corp. voting common stock.  These Johnson family members, through their
+ownership of voting common stock, form a controlling group with respect to
+FMR Corp.
+
+
+
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+RULE 13d-1(e)  AGREEMENT
+
+    The undersigned persons, on February 11, 1994, agree and consent to
+the joint filing on their behalf of this Schedule 13G in connection with
+their beneficial ownership of the common stock of K-Tron International
+Incorporated at December 31, 1993.
+
+    FMR Corp.
+    By   /S/Arthur S. Loring
+Arthur S. Loring
+Vice President - Legal
+         Edward C. Johnson 3d
+    By   /S/Arthur S. Loring
+Arthur S. Loring
+Under Power of Attorney
+dated 5/17/89
+On File with Schedule 13G
+for
+Airborne Freight Corp.
+9/10/91
+    Fidelity Management & Research Company
+    By   /S/Arthur S. Loring
+Arthur S. Loring
+Sr. V.P. and General
+Counsel
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

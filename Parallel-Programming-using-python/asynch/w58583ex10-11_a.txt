@@ -1,0 +1,23 @@
+<DOCUMENT>
+<TYPE>EX-10.11.A
+<SEQUENCE>6
+<FILENAME>w58583ex10-11_a.txt
+<DESCRIPTION>SUPPLEMENT SCHEDULE LISTING ADDITIONAL PERSONS
+<TEXT>
+<PAGE>
+                                                                  EXHIBIT 10.11A
+
+
+                           Indemnification Agreements
+
+
+The following additional persons are parties to Indemnification Agreements with
+K-Tron International, Inc.:
+
+
+Kevin C. Bowen
+Edward T. Hurd
+
+
+</TEXT>
+</DOCUMENT>

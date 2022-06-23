@@ -1,0 +1,11 @@
+H:\VB\TipCalc\TipCalc\bin\Debug\TipCalc.exe.config
+H:\VB\TipCalc\TipCalc\bin\Debug\TipCalc.exe
+H:\VB\TipCalc\TipCalc\bin\Debug\TipCalc.pdb
+H:\VB\TipCalc\TipCalc\bin\Debug\TipCalc.xml
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.vbprojAssemblyReference.cache
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.Form1.resources
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.Resources.resources
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.vbproj.GenerateResource.cache
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.exe
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.xml
+H:\VB\TipCalc\TipCalc\obj\Debug\TipCalc.pdb

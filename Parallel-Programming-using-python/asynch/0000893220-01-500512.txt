@@ -1,0 +1,784 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D2gL5AZOG5aQok8TClY32BcQVKptibxYecDC/tuRJJMdCqNzXK/DX4qHsuFSEAk5
+ ywOJ2Oqd+doLFN1vyuY8kQ==
+
+<SEC-DOCUMENT>0000893220-01-500512.txt : 20010730
+<SEC-HEADER>0000893220-01-500512.hdr.sgml : 20010730
+ACCESSION NUMBER:		0000893220-01-500512
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20010727
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		1691012
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 & 553
+		CITY:			PIBMAN
+		STATE:			NJ
+		ZIP:			08071
+		BUSINESS PHONE:		8565890500
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PIBMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>w51848sc13d.txt
+<DESCRIPTION>K-TRON INTERNATIONAL SCHEDULE 13D
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13D
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+                 TO RULES 13d-1(a) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13D-2(a)
+
+                           (AMENDMENT NO. ______)(1)
+
+                           K-Tron International, Inc.
+                           --------------------------
+                                (Name of Issuer)
+
+                     Common Stock, par value $.01 per share
+                     --------------------------------------
+                         (Title of Class of Securities)
+
+                                    482730108
+                                    ---------
+                                 (CUSIP Number)
+
+                                  June 28, 2001
+
+             (Date of Event Which Requires Filing of this Statement)
+
+                             Joanne R. Soslow, Esq.
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                           Philadelphia, PA 19103-2921
+                                 (215) 963-5000
+
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+         If the filing person has previously filed a statement on schedule 13G
+to report the acquisition that is the subject of this Schedule 13D, and is
+filing this Schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box ____
+
+Note: Schedules filed in paper format shall include a signed original and two
+copies of the Schedule including all exhibits. See Rule 13d-7 for other parties
+to whom copies are to be sent.
+
+
+                               (Page 1 of 6 pages)
+
+- --------
+(1)  The remainder of this cover page shall be filled out for a reporting
+     person's initial filing on this form with respect to the subject class of
+     securities, and for any subsequent amendment containing information which
+     would alter the disclosures provided in a prior cover page.
+
+     The information required in the remainder of this cover page shall not be
+     deemed to be "filed" for the purpose of Section 18 of the Securities
+     Exchange Act of 1934 or otherwise subject to the liabilities of that
+     section of the Act but shall be subject to all other provisions of the Act
+     (however, see the Notes).
+<PAGE>   2
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 2 OF 6
+
+
+
+1  NAMES OF REPORTING PERSONS
+
+   I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+           Edward B. Cloues, II
+
+2  CHECK THE APPROPRIATE BOX IF A
+   MEMBER OF A GROUP*                                                   (a) / /
+
+                                                                        (b) /X/
+
+3  SEC USE ONLY
+
+4  SOURCE OF FUNDS                             OO
+
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEM
+   2(d) OR 2(e) _____
+
+6  CITIZENSHIP OR PLACE OF ORGANIZATION   United States of America
+
+
+NUMBER OF SHARES    7      SOLE VOTING POWER            175,360 shares*
+BENEFICIALLY
+OWNED BY EACH              *Includes 100,000 shares underlying options and
+REPORTING                  4,000 shares subject to a restricted stock grant,
+PERSON                     which restricted shares are subject to forfeiture
+WITH                       until November 1, 2002.
+
+                    8      SHARED VOTING POWER               60,385
+
+                    9      SOLE DISPOSITIVE POWER           175,360*
+
+                           *Includes 100,000 shares underlying options and 4,000
+                           shares subject to a restricted stock grant, which
+                           restricted shares are subject to forfeiture until
+                           November 1, 2002.
+
+                    10     SHARED DISPOSITIVE POWER      60,385
+
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON   235,745*
+
+   *Includes 100,000 shares underlying options and 4,000 shares
+   subject to a restricted stock grant, which restricted shares
+   are subject to forfeiture until November 1, 2002.
+
+12 CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN
+   SHARES*                                                                   / /
+
+13 PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 11   9.3%
+
+14 TYPE OF REPORTING PERSON*          IN
+
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>   3
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 3 OF 6
+
+
+ITEM 1.           SECURITY OF THE ISSUER.
+
+                  This statement relates to the common stock, $.01 par value
+(the "Common Stock"), of K-Tron International, Inc., a New Jersey corporation
+(the "Issuer"). The principal executive offices of the Issuer are located at
+Routes 55 & 553, Pitman, New Jersey 08071-0888.
+
+ITEM 2.           IDENTITY AND BACKGROUND.
+
+                  (a) This statement is being filed by Edward B. Cloues, II (the
+"Filing Person").
+
+                  (b) The principal business address of the Filing Person is
+Routes 55 & 553, Pitman, New Jersey 08071-0888.
+
+                  (c) The present principal occupation of the Filing Person is
+Chairman of the Board and Chief Executive Officer of the Issuer.
+
+                  (d) During the last five years, the Filing Person has not been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+                  (e) During the last five years, the Filing Person has not been
+a party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which he was or is subject to a judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to, Federal or State securities laws or finding any violation
+with respect to such laws.
+
+                  (f) The Filing Person is a citizen of the United States of
+America.
+
+                  (g) - (j)  Not applicable.
+
+ITEM 3.           SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+                  The Filing Person obtained indirect beneficial ownership of
+the 60,385 shares of Common Stock described in Item 5(c) through the execution
+of a power-of-attorney by one of the then joint owners of the shares (the other
+joint owner is now deceased). The Filing Person now shares voting and
+dispositive power over the 60,385 shares with the grantor of the
+power-of-attorney.
+
+ITEM 4.           PURPOSE OF TRANSACTION.
+
+                  The Filing Person was Chairman of the Board and Chief
+Executive Officer of the Issuer prior to the acquisition of indirect beneficial
+ownership of the Common Stock described in Item 5, and continues to serve in
+those capacities. The Filing Person held 71,360 shares of Common Stock in his
+own name (as well as options to purchase 100,000 shares of Common Stock) prior
+to his acquisition of indirect beneficial ownership of an additional 60,385
+shares of Common Stock through the power-of-attorney mentioned above. The filing
+person subsequently acquired 4,000 shares of restricted stock and now holds
+75,360 shares of Common Stock in his
+<PAGE>   4
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 4 OF 6
+
+
+own name. The Filing Person may acquire additional securities of the Issuer
+directly or may, in the future, dispose of the securities he holds directly and
+indirectly. Except as set forth above, the Filing Person has no plans or
+proposals that relate to or would result in any of the actions specified in
+clauses (a) through (j) of this Item 4.
+
+ITEM 5.           INTEREST IN THE SECURITIES OF THE ISSUER.
+
+                  (a) The Filing Person beneficially owns 235,745 shares of the
+Common Stock, including 100,000 shares underlying stock options, 4,000 shares
+subject to a restricted stock grant and 60,385 shares for which the Filing
+Person holds a power-of-attorney, which constitute 9.3% of the outstanding
+shares of Common Stock, calculated in accordance with Rule 13d-3(d)(i)(D).
+
+                  (b) The Filing Person has sole power to vote or direct the
+vote and sole power to dispose or direct the disposition of 175,360 shares
+reported herein and shared power to vote or direct the vote and to dispose or
+direct the disposition of 60,385 shares reported herein. Power to vote and
+dispose of the 60,385 shares is shared with Jan W. Beebe whose address is 5160
+Hidalgo Street, Houston, Texas 77056. Mrs. Beebe is retired and is a citizen of
+the United States. During the last five years, Mrs. Beebe has not been convicted
+in a criminal proceeding (excluding traffic violations or similar misdemeanors).
+In addition, during the last five years, Mrs. Beebe has not been a party to a
+civil proceeding of a judicial or administrative body of competent jurisdiction
+as a result of which she was or is subject to a judgment, decree or final order
+enjoining future violations of, or prohibiting or mandating activities subject
+to, Federal or State securities laws or finding any violation with respect to
+such laws.
+
+                  (c) On June 28, 2001, the Filing Person acquired indirect
+beneficial ownership of 60,385 shares due to the execution of a
+power-of-attorney from one of the then joint owners of the shares. The other
+joint owner, who served on the Board of Directors of the Issuer, is now
+deceased.
+
+                  (d)  Not applicable.
+
+                  (e)  Not applicable.
+
+ITEM 6.           CONTRACT, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS
+                  WITH RESPECT TO SECURITIES OF THE ISSUER.
+
+                  The Filing Person has been appointed Attorney-in-Fact by Jan
+W. Beebe (the "Principal") pursuant to an Asset Management Durable General Power
+of Attorney dated June 28, 2001 (the "Power of Attorney"). Under the Power of
+Attorney, the Filing Person is authorized to transact all of the Principal's
+business and manage all of the Principal's property and affairs, including:
+taking custody of the Principal's stocks; selling, surrendering or exchanging
+any such stocks; signing and delivering assignments or stock powers and other
+documents required for sale, assignment, surrender or exchange; purchasing
+stocks; providing instructions regarding the registration of stock and the
+mailing of dividends; representing the Principal at shareholders' meetings and
+voting proxies on the Principal's behalf; and generally
+<PAGE>   5
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 5 OF 6
+
+
+handling or managing the Principal's investments. The Principal shares the above
+powers with the Filing Person.
+
+                  The Principal currently holds 60,385 shares of Common Stock.
+As a result of the Power of Attorney, the Filing Person possesses indirect
+beneficial ownership of the 60,385 shares of Common Stock held by the Principal.
+
+                  Unless earlier revoked, the Power of Attorney terminates at
+the death of the Principal. The Filing Person will hold all of the powers
+granted under the Power of Attorney until such termination or until a successor
+agent is appointed.
+
+ITEM 7.           MATERIAL TO BE FILED AS EXHIBITS.
+
+99.1              Asset Management Durable General Power of Attorney, dated June
+                  28, 2001.
+<PAGE>   6
+CUSIP NO. 482730108                  SCHEDULE 13D                    PAGE 6 OF 6
+
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                                 July 25, 2001
+                                      -----------------------------------
+                                                    (Date)
+
+                                          /s/ Edward B. Cloues, II
+                                      -----------------------------------
+                                                  (Signature)
+
+                                              Edward B. Cloues, II
+                                      -----------------------------------
+                                                (Name / Title)
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>w51848ex99-1.txt
+<DESCRIPTION>ASSET MANAGEMENT DURABLE GENERAL POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 99.1
+
+
+                                ASSET MANAGEMENT
+                        DURABLE GENERAL POWER OF ATTORNEY
+
+
+                  I, JAN W. BEEBE (sometimes herein referred to as "Principal"),
+of Jacksonville Beach, Florida, do hereby appoint EDWARD B. CLOUES, II, as my
+true and lawful Attorney-in-fact (hereinafter referred to as "my Agent"), for me
+and in my name and stead, to transact all my business and to manage all my
+property and affairs as completely as I might do if personally present,
+including but not limited to exercising the powers set forth below.
+
+                  This power shall not be affected by the passage of time or by
+any subsequent disability or incapacity. All acts done by my Agent pursuant to
+this power, including acts performed during any period of disability or
+incapacity, shall have the same effect and enure to my benefit and bind me and
+my successors in interest as if I were competent and not disabled.
+
+                  I hereby revoke all powers of attorney which I may have
+heretofore granted, except (i) limited powers authorizing any lawyer or
+certified public accountant to act on my behalf in any matter relating to
+federal taxes; (ii) limited powers over any bank, brokerage or mutual fund
+safe-deposit box; provided that in either case the power is signed by me on a
+form authorized or supplied by the Internal Revenue Service or the institution
+involved, as the case may be; and (iii) any advance directive for health care,
+or similar document.
+
+                              MANAGEMENT OF ASSETS
+
+
+         1. CASH ACCOUNTS - To collect and receive any money or similar assets
+to which I may be entitled; to deposit cash and checks in any of my accounts; to
+endorse for deposit, transfer or collection, in my name and for my account, any
+checks payable to my order;
+
+
+                                       1
+<PAGE>   2
+and to draw and sign checks for me and in my name on any accounts, including any
+accounts opened by my Agent in my name at any banking institution or elsewhere
+and to receive and apply the proceeds of such checks.
+
+         2. SECURITIES - To take custody of my stocks, bonds and other
+investments of all kinds; to sell, surrender or exchange any such investments
+and to receive and apply the proceeds therefrom; to sign and deliver
+assignments, stock and bond powers and other documents required for any such
+sale, assignment, surrender or exchange; to purchase stocks bonds and other
+investments of any kind; to give instructions as to the registration thereof and
+the mailing of dividends and interest therefrom; to deposit bond coupons; to
+represent me at shareholders' meetings and vote proxies on my behalf; to buy,
+sell or exchange Treasury securities; and generally to handle and manage my
+investments.
+
+         3. TANGIBLE PERSONAL PROPERTY - To buy or sell at public or private
+sale for cash or credit or by any other means whatsoever, or to acquire, lease,
+dispose of, repair, alter, store or manage my tangible personal property or any
+interest therein.
+
+         4. REAL ESTATE AND COOPERATIVE APARTMENTS - To lease, sell, assign,
+release, convey, extinguish or mortgage any interest I may have in any real
+estate, or in any proprietary lease or any stock evidencing my ownership of any
+cooperative apartment, on such terms as my Agent deems advisable; to purchase or
+otherwise acquire any interest in or possession of real property or cooperative
+apartments and to accept all deeds for such property; and to manage, repair,
+improve, maintain, restore, build, subdivide or develop any such property.
+
+
+                                       2
+<PAGE>   3
+         5. SAFE-DEPOSIT BOXES - To have access to any and all safe-deposit
+boxes in my name; to add to or remove all or any part of the contents thereof;
+and to enter into or renew leases for such boxes or to surrender same.
+
+         6. INSURANCE - To procure, change, carry or cancel insurance against
+any and all risks affecting property or persons against liability, damage or
+claims of any sort.
+
+         7. BENEFIT PLANS - To apply for and receive any government, insurance
+and retirement benefits to which I may be entitled, including the right to act
+as my representative the Social Security Administration, and to exercise any
+right to elect benefits or payment options; to terminate, to change
+beneficiaries or ownership, to assign borrow or receive cash value in return for
+the surrender of any or all rights I may have in life insurance policies, plans
+or benefits, or in any retirement, profit-sharing and employee welfare plans and
+benefits; and or waive consent in connection with designation of beneficiaries
+and election or waiver of joint and survivor under any employee benefit plan,
+including spousal rights provided under the Retirement Equity Act of 1984 with
+respect to qualified pension and profit-sharing plans.
+
+         8. TAXES - To represent me in all tax matters; to prepare, sign and
+file federal, state or local income, personal property, gift or other tax
+returns of all kinds, including, where appropriate, joint returns, FICA returns,
+payroll tax returns, claims for refunds, requests for extensions of time,
+protests or petitions to administrative agencies o courts regarding tax matters,
+and any and all other tax- elated documents, including, but not limited to,
+consents and agreements under Section 2032A of the Internal Revenue Code of
+1986, as amended (hereinafter, the "Code"), or any successor section thereto
+and, where appropriate, consents to split gifts, closing agreements, extensions
+or waivers of the period of limitations and any power
+
+
+                                       3
+<PAGE>   4
+of attorney required by the Internal Revenue Service or any state or local
+taxing authority with respect to any tax year between the years 1950 and 2050;
+to pay taxes due and to collect and make such disposition of refunds as my Agent
+shall deem appropriate; to post bonds, receive confidential information and
+contest deficiencies determined by the Internal Revenue Service or any state or
+local taxing authority; to exercise any elections I may have under federal,
+state or local tax law, and generally to represent me or to obtain professional
+representation for me in all tax matters an proceedings of all kinds for all
+periods between the years 1950 and 2050 before all officers of the Internal
+Revenue Service and state and local authorities or in any court; and to engage,
+compensate and discharge lawyers, accountants and other tax and financial
+advisers and consultants to represent or assist me in connection with any and
+all tax matters involving or in any way related to me or any property in which I
+have any interest or for which I bear any responsibility.
+
+         9. BORROWING - To borrow from any lender for my account on whatever
+terms and conditions my Agent deems advisable, including the right to borrow on
+any insurance policy for any purpose; to pledge any of my property as security
+for any loan; and to assign and deliver such policy as security without any
+obligation whatsoever on the part of such insurance company to determine the
+purpose for such loan or the application of the proceeds.
+
+         10. OPERATION OF BUSINESS - To manage any business in which I have an
+interest for such time and in such manner as my Agent may deem advisable,
+including representing me at shareholders' meetings and voting proxies; to sell,
+liquidate, reorganize, incorporate or otherwise restructure any business or
+interest therein at such time and on such terms as my Agent deems advisable; and
+to enter into partnership agreements, shareholders'
+
+
+                                       4
+<PAGE>   5
+agreements or similar agreements or modifications thereof on such terms as my
+Agent deems advisable.
+
+         11. EMPLOYMENT OF OTHERS - To employ lawyers, investment counsel,
+accountants and other persons to render services for or to me or my estate and
+to pay such persons for their services.
+
+         12. CLAIMS - To institute, prosecute, defend, compromise, settle or
+otherwise dispose of any claim relating to me or to any property of mine either
+alone or in conjunction with other persons, including any claim my Agent, after
+consultation with my attorney, deems appropriate for any injury sustained by me;
+to appear for me in any proceedings at law or in equity or otherwise before any
+tribunal for the enforcement or for the defense of any such claim; to obtain,
+discharge and substitute counsel and authorize appearance of such counsel to be
+entered for me in any such action or proceeding; to compromise or arbitrate any
+claim in which I may be in any manner interested and for that purpose to enter
+into agreements to compromise or to arbitrate, either through counsel or
+otherwise; and to carry out such compromise or arbitration and perform or
+enforce any award entered in arbitration.
+
+         13. WAIVER OF PRIVILEGE - To waive any privilege, whether statutory or
+common law, against disclosures of information or communications that I am
+otherwise entitled to claim.
+
+                           ESTATE PLANNING PROVISIONS
+
+
+         14. LIMITED GIFTS - To make gifts, as limited hereafter, either
+outright or in trust or, in the case of minors, in accordance with the Uniform
+Transfers to Minors Act or any
+
+
+                                       5
+<PAGE>   6
+successor thereto and, in the case of gifts made in trust, to execute a deed of
+trust for such purpose designating one or more persons, including any Agent
+hereunder, as original or successor trustees, and to make additions to an
+existing trust. With respect to such gifts, the donees need not be treated
+equally or proportionately, one or more permissible donees may be excluded
+entirely, and the pattern followed on the occasion of any such gift or gifts
+need not be followed on the occasion of any other gift or gifts. Such gifts,
+however, shall be limited as to donees to my spouse, my issue and my spouse's
+issue (including any Agent hereunder if such Agent is a member of such class),
+and charitable organizations described in Section 501(c)(3) of the Code, or any
+successor provision of the Code. Any such gift to an individual shall be limited
+in amount to an aggregate value not in excess of, and shall be made in such
+manner as to qualify in its entirety as to such donee for, the annual exclusion
+from Federal Gift Tax allowed under Section 2503(b) of the Code, or any
+successor provision thereto, taking into account Section 2513(a) of the Code or
+any successor provision thereto.
+
+         15. PAYMENT OF OTHERS' EDUCATIONAL AND MEDICAL EXPENSES. To pay
+directly to educational organizations and medical care providers educational and
+medical expenses on behalf of one or more of my issue and my spouse's issue
+(including any Agent hereunder if such Agent is a member of such class). Any
+such payment shall be made in such manner as to qualify in its entirety for the
+exclusion from Federal Gift Tax allowed under Section 2503(e) of the Code, or
+any successor provision thereto.
+
+         16. CREATION OF TRUST - To create a trust for my benefit and to execute
+a deed therefor, designating one or more persons. including any Agent hereunder,
+as original or successors trustees and to transfer to the trust any or all
+property owned by me, provided that during my lifetime the income and principal
+of the trust shall either be distributable to me, or to
+
+
+                                       6
+<PAGE>   7
+my Agent or to the guardian of my estate to be applied for my benefit, and that
+upon my death, any remaining balance of principal or unexpended income of the
+trust shall be distributed to my estate. Furthermore, the deed of trust shall be
+amendable and revocable at any time and from time to time, in whole or in part,
+by me or by my Agent, provided that any such amendment made by my Agent shall
+not include any provision which could not have been included in the original
+deed.
+
+         17. ADDITIONS TO AN EXISTING TRUST BENEFITING ME - To add, at any time
+or times, any or all of the property owned by me to any trust in existence for
+my benefit when this power was created, provided that during my lifetime the
+income and principal of the trust shall either be distributable to me, or to my
+Agent or to the guardian of my estate to be applied for my benefit, and further
+provided that upon my death, any remaining principal and unexpended income of
+the trust shall be distributed to my estate or, if my Will so provides, the
+residue of my estate shall be distributed to such trust.
+
+         18. CLAIM OF ELECTIVE SHARE OF THE ESTATE OF MY DECEASED SPOUSE - To
+elect to take against the Will and conveyances of my deceased spouse, if
+appropriate, and to disclaim any interest in property which I am required to
+disclaim as a result of such election; to retain any property which I have the
+right to elect to retain; to file petitions pertaining to the election,
+including petitions to extend the time for electing and petitions for orders,
+decrees and judgments; and to take all other actions which my Agent deems
+appropriate in order to effectuate the election. Notwithstanding the foregoing,
+if I am then incompetent, the election shall be made only upon approval of the
+court having jurisdiction over my estate, if I have been formally adjudicated an
+incompetent, or upon approval of the court having jurisdiction
+
+
+                                       7
+<PAGE>   8
+over my deceased spouse's estate, if I am an incompetent but have not been
+adjudicated such, in either case after a finding by such court that the exercise
+of such right of election is advisable.
+
+         19. RELEASE OR DISCLAIMER OF INTERESTS - To release, renounce or
+disclaim, in whole or in part, on my behalf any interest in property, without
+need of court approval.
+
+         20. RENUNCIATION OR RESIGNATION OF FIDUCIARY AND OTHER POSITIONS - To
+renounce any fiduciary position to which I have been appointed, including the
+custodianship of any property held for the benefit of a minor; to resign any
+fiduciary position in which I may be serving and either file an accounting with
+a court of competent jurisdiction or settle on receipt and release or other
+informal method as my Agent deems advisable; to renounce or resign from any
+position as an officer or director of any corporation, association, or political
+or governmental body; and to waive or release any fees or commissions to which I
+may be entitled with respect to any such position.
+
+         21. POWER TO WITHDRAW - To demand, withdraw and receive the income or
+corpus of any trust over which I have the power to make withdrawals and to
+request and receive the income or corpus of any trust with respect to which the
+trustee thereof has the discretionary power to make distributions to me or on my
+behalf, as my Agent deems appropriate in light of my needs and my overall estate
+planning; and to execute a receipt and release or similar document for any
+property so received.
+
+         22. FUNERAL ARRANGEMENTS - To make advance arrangements for my funeral
+and burial, including the purchase of a burial plot and marker, and such other
+related
+
+
+                                       8
+<PAGE>   9
+arrangements as my Agent deems advisable. I will seek to communicate my wishes
+with respect to these matters and my Agent should rely upon such communications.
+
+                               GENERAL PROVISIONS
+
+
+         23. EXECUTE DOCUMENTS, ENTER INTO CONTRACTS, AND PAY COMPENSATION OR
+COSTS IN IMPLEMENTING THE ABOVE POWERS - My Agent is authorized to sign,
+execute, deliver, and make declarations in any contracts or other documents may
+be necessary, desirable, convenient or proper in order to exercise any of the
+powers granted and to pay reasonable compensation or costs in the exercise of
+any such powers.
+
+         24. THIRD- PARTY RELIANCE - For the purposes of inducing any bank,
+broker, custodian, insurer, lender, transfer agent, taxing authority,
+governmental agency or other party to act in accordance with the powers granted
+in this document, I hereby represent, warrant and agree that:
+
+                  A. The powers conferred on my Agent by this document shall be
+exercisable by him alone, without need for court approval (except where
+expressly required), and his signature or acts under the authority granted in
+this document shall be accepted by third parties as fully authorized by me and
+with the same force and effect as if I were personally present, competent and
+acting on my own behalf.
+
+                  B. All such actions of my Agent shall bind me and my heirs,
+distributees, legal representatives, successors and assigns, and for the purpose
+of inducing anyone to act in accordance with the powers I have granted herein, I
+hereby represent, warrant and agree that if this Power of Attorney is revoked or
+terminated for any reason, I and my heirs, distributees, legal
+
+
+                                       9
+<PAGE>   10
+representatives, successors and assigns will hold such party or parties harmless
+from any loss suffered or liability incurred by such party or parties while
+acting in accordance with this power prior to that party's receipt of written
+notice of revocation by me or by a guardian of my estate or that party's actual
+knowledge of termination of such power by reason of my death.
+
+                  C. No person who acts in reliance upon any representation my
+Agent may make regarding the scope of authority granted under this document
+shall incur any liability to me, my estate, my heirs, successors or assigns for
+permitting my Agent to exercise any such power, nor shall any person who deals
+with my Agent be required to determine or ensure the proper application of funds
+or property.
+
+                  D. My Agent shall have the right to seek appropriate court
+orders mandating acts which he deems appropriate if a third party refuses to
+comply with actions taken by him which are authorized by this document, or to
+enjoin acts by third parties which he has not authorized. In addition, he may
+bring legal action against any third party who fails to comply with actions I
+have authorized him to take and demand damages, including punitive damages, on
+my behalf for such noncompliance.
+
+         25. NOMINATION OF GUARDIAN - My Agent is authorized to nominate a
+guardian or guardians of my estate (including any Agent hereunder) for
+consideration by a court if incompetency proceedings for my estate are hereafter
+commenced. If my Agent fails or ceases to serve in any jurisdiction, my Agent is
+authorized to nominate a guardian of my estate in such jurisdiction.
+Notwithstanding the foregoing, my Agent may oppose the appointment of any such
+guardian if he believes that such appointment would not increase the quality of
+services already afforded by this Power of Attorney.
+
+
+                                       10
+<PAGE>   11
+         26. APPOINTMENT OF SUCCESSOR - To the extent not otherwise effectually
+provided in the introductory paragraph to this Power of Attorney, my Agent and
+any successors thereto shall have the power to appoint a successor or
+successors. Any such appointment may be changed by the person or persons making
+the same before it takes effect, need not take effect immediately, and may be
+contingent upon the occurrence or nonoccurrence of any event.
+
+         27. APPOINTMENT OF ANCILLARY AGENTS - If at any time my Agent deems it
+necessary or desirable in his discretion to appoint one or more ancillary Agents
+to act on my behalf in any other jurisdiction or jurisdictions, my Agent may
+appoint one or more such ancillary Agents. In making any such appointment my
+Agent may sign, execute, deliver, acknowledge and make declarations in any
+documents (including living wills, health care declarations or similar
+documents) as may be necessary, desirable, convenient or proper in order to
+effectuate any such ancillary appointment, and he may grant to any ancillary
+Agent any or all of the powers, duties and authorities granted him hereunder,
+but may not grant to any such ancillary Agent powers which are inconsistent with
+those powers granted to my Agent hereunder.
+
+         28. FLORIDA LAW GOVERNS - Questions pertaining to the validity,
+construction and powers created under this instrument shall be determined in
+accordance with the laws of Florida.
+
+
+                                       11
+<PAGE>   12
+                  IN WITNESS WHEREOF, and intending to be legally bound hereby,
+I have signed this Power of Attorney this 28th day of June, 2001.
+
+Witnesses:
+
+
+         /s/ Theodore Glasser                        /s/ Jan W. Beebe     (SEAL)
+- ------------------------------------        ------------------------------------
+Signature                                   Jan W. Beebe
+                                            1221 First Street South
+                                            Unit 5A
+Address:                                    Jacksonville Beach, FL  32250
+         --------------------------
+                                            Social Security No.:
+         --------------------------                               --------------
+
+         /s/ Kevin Bowen
+- ------------------------------------
+Signature
+
+Address:
+         --------------------------
+
+         --------------------------
+
+
+                                       12
+<PAGE>   13
+                                     ACKNOWLEDGMENT FOR PRINCIPAL'S SIGNATURE
+
+
+STATE OF FLORIDA                    :
+                                    :ss
+COUNTY OF          Dade             :
+
+                  On this 28th day of June, 2001, personally appeared before me,
+Notary Public in and for the said County and State, the above-named JAN W.
+BEEBE, who acknowledged the foregoing Power of Attorney to be her act and deed
+and desires the same might be recorded as such according to law.
+
+                  WITNESS my hand and Notarial Seal the day and year aforesaid.
+
+                                        /s/ Bonnie L. Hood
+                                        -----------------------------------
+                                                Notary Public
+
+                                        My Commission Expires:
+
+
+                                       13
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

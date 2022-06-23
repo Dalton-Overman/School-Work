@@ -1,0 +1,273 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T0ydaoBG5P5GNJ7rEI0ZgLZYJDRmJlsVO2I50DhWLHP8DX5VIO/I4u899G0i9Gu0
+ YGkSalBjzwITSiSUqNxBKQ==
+
+<SEC-DOCUMENT>0000950135-05-003176.txt : 20050615
+<SEC-HEADER>0000950135-05-003176.hdr.sgml : 20050615
+<ACCEPTANCE-DATETIME>20050606153839
+ACCESSION NUMBER:		0000950135-05-003176
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20050606
+DATE AS OF CHANGE:		20050606
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		05880517
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nichols James William
+		CENTRAL INDEX KEY:			0001328618
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		207-942-8737
+
+	MAIL ADDRESS:	
+		STREET 1:		175 EXCHANGE STREET
+		STREET 2:		PO BOX 904
+		CITY:			BANGOR
+		STATE:			ME
+		ZIP:			04402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>b55378ktsc13g.txt
+<DESCRIPTION>K-TRON INTERNATIONAL INC.  SC 13G
+<TEXT>
+<PAGE>
+                                                                    OMB APPROVAL
+                                                           OMB Number: 3235-0145
+                                                      Expires: December 31, 2005
+                                                        Estimated average burden
+                                                         hours per response...11
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+
+                    Under the Securities Exchange Act of 1934
+                                (Amendment No. )*
+
+                            K-TRON INTERNATIONAL INC.
+                                (Name of Issuer)
+
+                         (Title of Class of Securities)
+
+                                  Common stock
+
+                                    482730108
+                                 (CUSIP Number)
+
+                                December 31, 2004
+
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+     [X] Rule 13d-1 (b)
+
+     [ ] Rule 13d-1 (c)
+
+     [ ] Rule 13d-1 (d)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 or otherwise subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however, see the notes).
+
+PERSONS WHO RESPOND TO THE COLLECTION OF INFORMATION CONTAINED IN THIS FORM ARE
+NOT REQUIRED TO RESPOND UNLESS THE FORM DISPLAYS A CURRENTLY VALID OMB CONTROL
+NUMBER.
+<PAGE>
+                                       13G
+
+CUSIP No. 082073 10 7                                                Page 2 of 5
+
+ 1.  Name of Reporting Person:
+     Nichols, James William D/B/A
+     Nichols Investment Management
+
+     I.R.S. Identification Nos. of above persons (entities only):
+     04-3352585
+
+ 2.  Check the Appropriate Box if a Member of a Group:
+     (a) [ ]
+     (b) [ ]
+
+ 3.  SEC Use Only:
+ 4.  Citizenship or Place of Organization:
+     U.S.
+
+   Number of
+     Shares
+  Beneficially
+    Owned by
+ Each Reporting
+  Person With
+
+                 5.   Sole Voting Power:
+                      14,200
+                 6.   Shared Voting Power:
+
+                 7.   Sole Dispositive Power:
+                      173,088
+                 8.   Shared Dispositive Power:
+
+ 9.  Aggregate Amount Beneficially Owned by Each Reporting Person:
+     173,088
+
+ 10. Check if the Aggregate Amount in Row (9) Excludes Certain Shares:
+     [ ]
+
+ 11. Percent of Class Represented by Amount in Row (9): 6.8%
+
+ 12. Type of Reporting Person:
+     IA
+
+
+                                        2
+<PAGE>
+ITEM 1(A).  NAME OF ISSUER:  K-TRON INTERNATIONAL INC.
+
+ITEM 1(B).  ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+            Routes 55 and 553
+            P.O. Box 888
+            Pitman, NJ  08071-0888
+
+ITEM 2(A).  NAME OF PERSONS FILING:
+            Nichols, James William D/B/A Nichols Investment Management
+
+ITEM 2(B).  ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE:
+            175 Exchange Street   P.O. Box 904  Bangor, ME  04402-0904
+
+ITEM 2(C).  CITIZENSHIP:
+            U.S.
+
+ITEM 2(D).  TITLE AND CLASS OF SECURITIES:
+            Common shares
+
+ITEM 2(E).  CUSIP NUMBER:
+            482730108
+
+
+                                        3
+<PAGE>
+ITEM 3. IF THIS STATEMENT IS FILED PURSUANT TO RULES 13D-1(B), OR 13D-2(B),
+CHECK WHETHER THE PERSON FILING IS A:
+
+(a)      [ ]   Broker or dealer registered under Section 15 of the Act;
+
+(b)      [ ]   Bank as defined in Section 3(a)(6) of the Act;
+
+(c)      [ ]   Insurance Company as defined in Section 3(a)(19) of the Act;
+
+(d)      [ ]   Investment Company registered under Section 8 of the Investment
+               Company Act;
+
+(e)      [X]   Investment Adviser registered under Section 203 of the Investment
+               Advisers Act of 1940;
+
+(f)      [ ]   Employee Benefit Plan, Pension Fund which is subject to the
+               provisions of the Employee Retirement Income Security Act of
+               1974 or Endowment Fund;
+
+(g)      [ ]   Parent Holding Company, in accordance with Rule 13d-1(b)(ii)(G);
+
+(h)      [ ]   Group, in accordance with Rule 13d-1(b)(l)(ii)(H).
+
+ITEM 4.  OWNERSHIP .
+(a)      Amount beneficially owned:   173,088
+(b)      Percent of class:   6.8%
+(c)      Number of shares as to which such person has:
+         (i)   Sole power to vote or to direct the vote:  14,200
+         (ii)  Shared power to vote or to direct the vote:  -0-
+         (iii) Sole power to dispose or to direct the disposition of:  173,088
+         (iv)  Shared power to dispose or to direct the disposition of:  -0-
+ITEM 5.  OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS .
+
+ITEM 6.  OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON.
+         158,888 shares reported in this schedule 13G report are owned by
+         advisory clients  of the Reporting Person.
+
+ITEM 7.  IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE
+         SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY.
+         Not Applicable
+
+ITEM 8.  IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+         Not Applicable
+
+ITEM 9.  NOTICE OF DISSOLUTION OF GROUP.
+         Not Applicable
+
+ITEM 10. CERTIFICATION.
+
+
+
+                                        4
+<PAGE>
+                                    SIGNATURE
+
+    After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete, and
+correct.
+
+Dated: June 6 , 2005
+
+
+                                      By: /s/ James William Nichols
+                                          --------------------------
+
+
+                                        5
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

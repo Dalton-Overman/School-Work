@@ -1,0 +1,25 @@
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>10
+<FILENAME>w58583ex23-1.txt
+<DESCRIPTION>CONSENT OF INDEPENDENT ACCOUNTANTS
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 23.1
+
+                    CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To K-Tron International, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation of our
+report included in this Form 10-K, into the Company's previously filed
+Registration Statements on Form S-8 File Nos. 333-52523, 333-26531, 33-7921,
+33-39039, 33-39040 and 2-72898.
+
+                             /s/Arthur Andersen LLP
+
+Philadelphia, Pennsylvania
+March 18, 2002
+
+</TEXT>
+</DOCUMENT>

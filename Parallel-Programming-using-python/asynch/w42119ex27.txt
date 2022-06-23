@@ -1,0 +1,53 @@
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>w42119ex27.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-30-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                             716
+<SECURITIES>                                         0
+<RECEIVABLES>                                   16,841
+<ALLOWANCES>                                       786
+<INVENTORY>                                     12,290
+<CURRENT-ASSETS>                                31,158
+<PP&E>                                          41,359
+<DEPRECIATION>                                  26,752
+<TOTAL-ASSETS>                                  49,748
+<CURRENT-LIABILITIES>                           18,290
+<BONDS>                                         11,724
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            44
+<OTHER-SE>                                      19,362
+<TOTAL-LIABILITY-AND-EQUITY>                    49,748
+<SALES>                                         62,366
+<TOTAL-REVENUES>                                62,366
+<CGS>                                           33,476
+<TOTAL-COSTS>                                   33,476
+<OTHER-EXPENSES>                                21,418
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 751
+<INCOME-PRETAX>                                  6,721
+<INCOME-TAX>                                     1,955
+<INCOME-CONTINUING>                              4,766
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     4,766
+<EPS-BASIC>                                       1.85
+<EPS-DILUTED>                                     1.81
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>

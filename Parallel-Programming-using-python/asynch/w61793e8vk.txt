@@ -1,0 +1,170 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w61793e8vk.txt
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. FORM 8-K
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+
+
+
+
+                                    FORM 8-K
+
+
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+
+
+         Date of Report (Date of earliest event reported) June 22, 2002
+                                                          ---------------
+
+
+
+
+                           K-TRON INTERNATIONAL, INC.
+                           ---------------------------
+               (Exact name of registrant as specified in charter)
+
+
+         New Jersey                       0-9576                  22-1759452
+----------------------------     -----------------------     -------------------
+(State of other jurisdiction     (Commission file number)    (IRS Identification
+     of incorporation)                                              number)
+
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey               08071-0888
+-------------------------------------------------               ----------
+   (Address of principal executive offices)                     (Zip Code)
+
+
+Registrant's telephone number, including area code  (856) 589-0500
+                                                    --------------
+
+
+<PAGE>
+
+
+
+         Item 4.  Changes in Registrant's Certifying Accountant.
+
+                  The Audit Committee of the Board of Directors of K-Tron
+         International, Inc. ("K-Tron") annually considers and recommends to the
+         Board the selection of K-Tron's independent public accountants. As
+         recommended by K-Tron's Audit Committee, the Board of Directors on June
+         22, 2002 decided to no longer engage Arthur Andersen LLP ("Andersen")
+         as K-Tron's independent public accountants and has engaged KPMG LLP to
+         serve as K-Tron's independent public accountants for the fiscal year
+         ending 28 December 2002.
+
+                  Andersen's reports on K-Tron's consolidated financial
+         statements for the past two years did not contain an adverse opinion or
+         disclaimer of opinion, nor were they qualified or modified as to
+         uncertainty, audit scope or accounting principles.
+
+                  During K-Tron's two most recent fiscal years and through the
+         date of this Form 8-K, there were no disagreements with Andersen on any
+         matter of accounting principles or practices, financial statement
+         disclosure or auditing scope or procedure which, if not resolved to
+         Andersen's satisfaction, would have caused it to make reference to the
+         subject matter in connection with its report on K-Tron's consolidated
+         financial statements for such years. There were no reportable events as
+         listed in Item 304(a)(1)(v) of Regulation S-K.
+
+                  K-Tron has provided Andersen with a copy of the foregoing
+         disclosure. Attached as Exhibit 16 is a copy of Andersen's letter,
+         dated June 26, 2002, stating its agreement with such statements.
+
+                  During K-Tron's two most recent fiscal years and through the
+         date of this Form 8-K, K-Tron did not consult with KPMG LLP with
+         respect to the application of accounting principles to a specified
+         transaction, either completed or posed, or the type of audit opinion
+         that might be rendered on K-Tron's consolidated financial statements,
+         or any other matters or reportable events listed in Items 304(a)(2)(i)
+         and (ii) of Regulation S-K.
+
+
+                                       2
+<PAGE>
+
+         Item 7.  Financial Statements and Exhibits
+
+         c)   Exhibits.  The following Exhibits are filed with this document.
+              --------
+
+              Exhibit
+              Number     Description
+              -------    -----------
+                 16      Letter from Arthur Andersen LLP to the Securities and
+                         Exchange Commission dated June 26, 2002
+
+                 99      Press Release dated June 24, 2002
+
+
+
+                                       3
+
+
+<PAGE>
+
+
+
+
+                                   SIGNATURES
+
+
+                  Pursuant to the requirements of the Securities Exchange Act of
+         1934, the registrant has duly caused this report to be signed on its
+         behalf by the undersigned, thereunto duly authorized.
+
+
+                                        K-Tron International, Inc.
+                                        --------------------------
+                                        (Registrant)
+
+
+
+
+         Dated:  June 26, 2002      By: /s/ Ronald R. Remick
+                                        -------------------------
+                                        Ronald R. Remick
+                                        Senior Vice President & Chief
+                                         Financial Officer
+                                        (Duly authorized officer and principal
+                                         financial officer of the Registrant)
+
+
+                                       4
+
+<PAGE>
+
+
+
+
+                                 EXHIBIT INDEX
+
+
+         Exhibit
+         Number         Description
+         ------         -----------
+           16           Letter from Arthur Andersen LLP to the Securities and
+                        Exchange Commission dated June 26, 2002
+
+           99           Press Release dated June 24, 2002
+
+</TEXT>
+</DOCUMENT>

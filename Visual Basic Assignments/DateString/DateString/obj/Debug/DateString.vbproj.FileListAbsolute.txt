@@ -1,0 +1,11 @@
+H:\VB\DateString\DateString\bin\Debug\DateString.exe.config
+H:\VB\DateString\DateString\bin\Debug\DateString.exe
+H:\VB\DateString\DateString\bin\Debug\DateString.pdb
+H:\VB\DateString\DateString\bin\Debug\DateString.xml
+H:\VB\DateString\DateString\obj\Debug\DateString.vbprojAssemblyReference.cache
+H:\VB\DateString\DateString\obj\Debug\DateString.Form1.resources
+H:\VB\DateString\DateString\obj\Debug\DateString.Resources.resources
+H:\VB\DateString\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
+H:\VB\DateString\DateString\obj\Debug\DateString.exe
+H:\VB\DateString\DateString\obj\Debug\DateString.xml
+H:\VB\DateString\DateString\obj\Debug\DateString.pdb

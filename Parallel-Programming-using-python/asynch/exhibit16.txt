@@ -1,0 +1,34 @@
+<DOCUMENT>
+<TYPE>EX-16
+<SEQUENCE>3
+<FILENAME>exhibit16.txt
+<TEXT>
+August 19, 2003
+
+
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+Ladies and Gentlemen:
+
+We were previously principal accountants for K-Tron International, Inc. and,
+under the date of February 10, 2003, we reported on the consolidated financial
+statements of K-Tron International, Inc. as of and for the year ended December
+28, 2002. On August 13, 2003, our appointment as principal accountants was
+terminated. We have read K-Tron International Inc.'s statements included under
+Item 4 of its Form 8-K dated August 13, 2003, and we agree with such statements,
+except that we are not in a position to agree or disagree with K-Tron
+International Inc.'s statement that Grant Thornton LLP was not engaged regarding
+the application of accounting principles to a specified transaction or the type
+of audit opinion that might be rendered on K-Tron International Inc.'s
+consolidated financial statements.
+
+Very truly yours,
+
+
+/s/ KPMG LLP
+KPMG LLP
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1503 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T+EhuSN2cAv4YjJLA8j5C9K4wPUMURoa44vtWEjRapRTg1hhs0FDYABg9cVoQpwe
+ aTJgCuD6KZlxE3/APu0eBQ==
+
+<SEC-DOCUMENT>0000893220-06-001725.txt : 20060804
+<SEC-HEADER>0000893220-06-001725.hdr.sgml : 20060804
+<ACCEPTANCE-DATETIME>20060804140316
+ACCESSION NUMBER:		0000893220-06-001725
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20060804
+DATE AS OF CHANGE:		20060804
+EFFECTIVENESS DATE:		20060804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-136299
+		FILM NUMBER:		061005234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>w23671sv8.htm
+<DESCRIPTION>FORM S-8 FOR K-TRON INTERNATIONAL,INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sv8</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">As filed with the Securities and Exchange Commission on August&nbsp;4, 2006
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 6pt">Registration No.&nbsp;333-<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM S-8</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>REGISTRATION STATEMENT<BR>
+UNDER<BR>
+THE SECURITIES ACT OF 1933</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>K-TRON INTERNATIONAL, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of issuer as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>New Jersey</B><BR>
+(State or other jurisdiction of<BR>
+incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>22-1759452</B><BR>
+(I.R.S. Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Routes 55 and 553<BR>
+Pitman, New Jersey 08071-0888</B><BR>
+(Address of principal executive offices)
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>K-Tron International, Inc. 2006 Equity Compensation Plan</B><BR>
+(Full title of the plan)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>EDWARD B. CLOUES, II<BR>
+Chairman and Chief Executive Officer<BR>
+K-Tron International, Inc.<BR>
+Routes 55 and 553<BR>
+Pitman, New Jersey 08071-0888</B><BR>
+(Name and address of agent for service)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(856)&nbsp;589-0500</B><BR>
+(Telephone number, including area code, of agent for service)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Copy to:</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>JOANNE R. SOSLOW, ESQ.<BR>
+Morgan, Lewis &#038; Bockius LLP<BR>
+1701 Market Street<BR>
+Philadelphia, Pennsylvania 19103<BR>
+(215)&nbsp;963-5000</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>CALCULATION OF REGISTRATION FEE</B></DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="54%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+
+    <TD width="1%">&nbsp;</TD>
+</TR><TR style="font-size: 1px" valign="bottom">
+    <TD nowrap align="left" colspan="17" style="border-bottom: 3px double #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">    <TD width="1%">&nbsp;</TD>
+
+    <TD>&nbsp;</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Proposed Maximum</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Proposed Maximum</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">    <TD width="1%">&nbsp;</TD>
+
+    <TD nowrap align="center">Title of Each Class of Securities</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Amount</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Offering Price Per</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Aggregate Offering</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Amount of</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">    <TD width="1%">&nbsp;</TD>
+
+    <TD nowrap align="center">to be Registered</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">to be Registered (1)</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Share (2)</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Price (3)</TD>
+    <TD style="border-right: 2px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Registration Fee (4)</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD width="1%" style="border-top: 2px solid #000000">&nbsp;</TD>
+                    <TD valign="top" style="border-top: 2px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">Common stock, par value $0.01 per
+share
+</DIV></TD>
+    <TD style="border-right: 2px solid #000000; border-top: 2px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 2px solid #000000">&nbsp;</TD>
+    <TD nowrap align="right" valign="top" style="border-top: 2px solid #000000">&nbsp;</TD>
+    <TD align="right" valign="top" style="border-top: 2px solid #000000">200,000</TD>
+    <TD nowrap valign="top" style="border-top: 2px solid #000000">&nbsp;</TD>
+    <TD style="border-right: 2px solid #000000; border-top: 2px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 2px solid #000000">&nbsp;</TD>
+
+<TD align="center" valign="top" style="border-top: 2px solid #000000">$51.20
+</TD>
+    <TD style="border-right: 2px solid #000000; border-top: 2px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 2px solid #000000">&nbsp;</TD>
+
+<TD align="center" valign="top" style="border-top: 2px solid #000000">$10,239,000
+</TD>
+    <TD style="border-right: 2px solid #000000; border-top: 2px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 2px solid #000000">&nbsp;</TD>
+
+<TD align="center" valign="top" style="border-top: 2px solid #000000">$1,096</TD>
+    <TD width="1%" style="border-top: 2px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px" valign="bottom">
+    <TD nowrap align="left" colspan="17" style="border-top: 3px double #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV style="margin-top: 3pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">(1)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This registration statement covers shares of common stock of K-Tron International, Inc. (the
+&#147;Registrant&#148;) to be issued pursuant to the K-Tron International, Inc. 2006 Equity Compensation
+Plan (the &#147;Plan&#148;). In addition, pursuant to Rule 416(a) under the Securities Act of 1933, as
+amended (the &#147;Securities Act&#148;), this registration statement also covers an indeterminate
+number of shares of common stock that may be issued upon stock splits, stock dividends or
+similar transactions in accordance with Rule&nbsp;416 promulgated under the Securities Act.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(2)</TD>
+    <TD>&nbsp;</TD>
+    <TD>The maximum offering price per share has been calculated pursuant to Rule 457(h) and (c)
+under the Securities Act, solely for the purpose of calculating the registration fee, based
+upon the average of the high and low prices of our common stock as reported on The NASDAQ
+Stock Market LLC on August&nbsp;3, 2006.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Associated with each share of common stock is the preferred stock purchase right, par value
+$0.01 per share, or the &#147;Rights&#148;, which entitles the holder to purchase from the Registrant
+one one-hundredth of a share of the Registrant&#146;s Series&nbsp;B Junior Participating Preferred
+Stock, par value $0.01 per share, pursuant to the Rights Agreement, dated as of October&nbsp;16,
+2001, by and between the Registrant and American Stock Transfer &#038; Trust Company, as Rights
+Agent. The Rights do not carry a separate purchase price or necessitate an additional filing
+fee.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(4)</TD>
+    <TD>&nbsp;</TD>
+    <TD>Calculated pursuant to Section 6(b) of the Securities Act and Securities and Exchange
+Commission (the &#147;Commission&#148;) Rule 457(h) promulgated under the Securities Act.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART I</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>INFORMATION REQUIRED IN THE SECTION 10(a) PROSPECTUS</B>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;1.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Plan Information.*</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;2.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Registrant Information and Employee Plan Annual Information.*</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;The documents containing the information specified in this Part&nbsp;I of Form S-8 (plan
+information and registrant information and employee plan annual information) will be sent or given
+to employees and directors as specified by Rule&nbsp;428(b)(1) of the Securities Act. Such documents
+need not be filed with the Commission either as part of this registration statement or as
+prospectuses or prospectus supplements pursuant to Rule&nbsp;424. These documents and the documents
+incorporated by reference in this registration statement pursuant to Item&nbsp;3 of Part&nbsp;II of this Form
+S-8, taken together, constitute a prospectus that meets the requirements of Section 10(a) of the
+Securities Act.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>INFORMATION REQUIRED IN THE REGISTRATION STATEMENT</B>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;3.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Incorporation of Documents by Reference.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following documents, as filed by the Registrant with the Commission, are incorporated by
+reference in this registration statement and made a part hereof:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(a)&nbsp;The Registrant&#146;s Annual Report on Form 10-K for the fiscal year ended December&nbsp;31, 2005;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(b)&nbsp;The Registrant&#146;s Quarterly Report on Form 10-Q for the quarter ended April&nbsp;1, 2006;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(c)&nbsp;The Registrant&#146;s Current Reports on Form 8-K dated March&nbsp;8, 2006, March&nbsp;10, 2006, May
+10, 2006, May&nbsp;18, 2006 and June&nbsp;20, 2006;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(d)&nbsp;The description of the Common Stock of the Registrant contained in a registration
+statement filed on Form 8-A under the Securities Exchange Act of 1934, as amended (the
+&#147;Exchange Act&#148;), filed on March&nbsp;19, 1981, including any amendment or report filed for the
+purpose of updating such description; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">(e)&nbsp;The description of the Rights contained in a registration statement on Form 8-A under
+the Exchange Act, filed on October&nbsp;18, 2001, including any amendment or report filed for the
+purpose of updating such description.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All reports and other documents subsequently filed by the Registrant pursuant to Sections
+13(a), 13(c), 14 and 15(d) of the Exchange Act, prior to the filing of a post-effective amendment
+which indicates that all securities offered hereby have been sold or which deregisters all
+securities then remaining unsold, shall be deemed to be incorporated by reference herein and to be
+part hereof from the date of filing of such documents. Any statement contained in any document,
+all or a portion of which is incorporated by reference herein, shall be deemed to be modified or
+superseded for purposes of this registration statement to the extent that a statement contained or
+incorporated by reference herein modifies or supersedes such statement. Any statement so modified
+or superseded shall not be deemed, except as so modified or superseded, to constitute a part of
+this registration statement.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;4.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Description of Securities.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not applicable.
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;5.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Interests of Named Experts and Counsel.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not applicable.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;6.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Indemnification of Directors and Officers.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The by-laws of the Registrant generally provide for the mandatory indemnification of
+directors, officers and other corporate agents to the fullest extent permitted by the New Jersey
+Business Corporation Act, as amended (&#147;NJBCA&#148;), as do various indemnification agreements entered
+into by the Company and its directors and certain officers.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The NJBCA generally provides that a New Jersey corporation has the power to indemnify a
+director, officer or other agent against his or her expenses and liabilities in connection with any
+proceedings involving the director, officer or agent by reason of his or her being or having been
+such a director, officer or agent other than proceedings by or in the right of the corporation, if
+such director, officer or agent acted in good faith and in a manner he or she reasonably believed
+to be in or not opposed to the best interests of the corporation; and with respect to any criminal
+proceeding, such director, officer or agent had no reasonable cause to believe that his or her
+conduct was unlawful.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The indemnification and advancement of expenses shall not exclude any other rights, including
+the right to be indemnified against liabilities and expenses incurred in proceedings by or in the
+right of the corporation, to which a director, officer or agent may be entitled under a certificate
+of incorporation, by-law, agreement, vote of shareholders or otherwise; provided that no
+indemnification shall be made to or on behalf of a director, officer or agent if a judgment or
+other final adjudication adverse to the director, officer or agent establishes that his or her acts
+or omissions (a)&nbsp;were in breach of his or her duty of loyalty to the corporation or its
+shareholders, (b)&nbsp;were not in good faith or involved a knowing violation of law or (c)&nbsp;resulted in
+receipt by the director, officer or agent of an improper personal benefit.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, the Registrant&#146;s Restated Certificate of Incorporation, as amended, provides that
+directors and officers of the Registrant shall not be personally liable to the Registrant or its
+shareholders for damages for breach of any duty owed to the Registrant or its shareholders, except
+that a director or officer shall not be relieved from liability for any breach of duty based upon
+an act or omission (a)&nbsp;in breach of such person&#146;s duty of loyalty to the Registrant or its
+shareholders, (b)&nbsp;not in good faith or involving a knowing violation of law or (c)&nbsp;resulting in
+receipt by such person of an improper personal benefit.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Registrant has purchased a Directors&#146; and Officers&#146; indemnity insurance policy.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;7.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Exemption from Registration Claimed.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not applicable.
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;8.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Exhibits.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The following is a list of exhibits filed as part of this registration statement.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3"><B><u>Exhibit Number</u></B></TD>
+<td>&nbsp;</td>
+    <TD nowrap align="left"><B><u>Description</u></B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Restated Certificate of Incorporation of the Registrant, as
+amended (Filed as Exhibit&nbsp;3.1 to our annual report on Form&nbsp;10-K
+for the year ended January&nbsp;2, 1999 and incorporated herein by
+reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">By-laws of the Registrant, as amended (Filed as Exhibit&nbsp;3.2 to
+our annual report on Form&nbsp;10-K for the year ended December&nbsp;29,
+2001 and incorporated herein by reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.3</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">K-Tron International, Inc. 2006 Equity Compensation Plan (Filed
+as Exhibit&nbsp;10.1 to our current report on Form&nbsp;8-K dated June&nbsp;20,
+2006 and incorporated herein by reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">5.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Opinion of Morgan, Lewis &#038; Bockius LLP</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3"><B><u>Exhibit Number</u></B></TD>
+<td>&nbsp;</td>
+    <TD nowrap align="left"><B><u>Description</u></B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Consent of Grant Thornton LLP</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Consent of Morgan, Lewis &#038; Bockius LLP (contained in the opinion
+of counsel filed as Exhibit&nbsp;5.1)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">24.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Powers of Attorney (included as part of the signature page hereof)</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;9.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Undertakings.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned Registrant hereby undertakes:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;To file, during any period in which offers or sales are being made, a post-effective
+amendment to this registration statement:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;To include any prospectus required by Section&nbsp;10(a)(3) of the Securities Act;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;To reflect in the prospectus any facts or events arising after the effective date of this
+registration statement (or the most recent post-effective amendment thereof) which, individually or
+in the aggregate, represent a fundamental change in the information set forth in this registration
+statement. Notwithstanding the foregoing, any increase or decrease in volume of securities offered
+(if the total dollar value of securities offered would not exceed that which was registered) and
+any deviation from the low or high end of the estimated maximum offering range may be reflected in
+the form of prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the
+changes in volume and price represent no more than 20&nbsp;percent change in the maximum aggregate
+offering price set forth in the &#147;Calculation of Registration Fee&#148; table in the effective
+registration statement; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii)&nbsp;To include any material information with respect to the plan of distribution not
+previously disclosed in this registration statement or any material change to such information in
+this registration statement;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><I>provided, however</I>, that paragraphs (1)(i) and (1)(ii) do not apply if this registration statement
+is on Form S-8, and the information required to be included in a post-effective amendment by those
+paragraphs is contained in reports filed with or furnished to the Commission by the Registrant
+pursuant to Section&nbsp;13 or Section 15(d) of the Exchange Act that are incorporated by reference in
+this registration statement.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;That, for the purpose of determining any liability under the Securities Act, each such
+post-effective amendment shall be deemed to be a new registration statement relating to the
+securities offered therein, and the offering of such securities at the time shall be deemed to be
+the initial <I>bona fide </I>offering thereof.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;To remove from registration by means of a post-effective amendment any of the securities
+being registered which remain unsold at the termination of the offering.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)&nbsp;That, for the purpose of determining liability under the Securities Act to any purchaser:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;If the Registrant is relying on Rule&nbsp;430B:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(A)&nbsp;Each prospectus filed by the Registrant pursuant to Rule&nbsp;424(b)(3) shall be deemed to be
+part of this registration statement as of the date the filed prospectus was deemed part of and
+included in this registration statement; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(B)&nbsp;Each prospectus required to be filed pursuant to Rule&nbsp;424(b)(2), (b)(5) or (b)(7) as part
+of this registration statement or in reliance on Rule&nbsp;430B relating to an offering made pursuant to
+Rule&nbsp;415(a)(1)(i), (vii), or (x)&nbsp;for the purpose of providing the information required by Section
+10(a) of the Securities Act shall be deemed to be part of and included in this registration
+statement as of the earlier of the date such form of prospectus is first used after effectiveness
+or the date of the first contract of sale of securities in the offering described in the
+</div>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">prospectus. As provided in Rule&nbsp;430B, for liability purposes of the issuer and any person
+that is at that date an underwriter, such date shall be deemed to be a new effective date of this
+registration statement relating to the securities in this registration statement to which that
+prospectus relates, and the offering of such securities at that time shall be deemed to be the
+initial <I>bona fide </I>offering thereof. <I>Provided, however, </I>that no statement made in this registration
+statement or prospectus that is part of this registration statement or made in a document
+incorporated or deemed incorporated by reference into this registration statement or prospectus
+that is part of this registration statement will, as to a purchaser with a time of contract of sale
+prior to such effective date, supersede or modify any statement that was made in this registration
+statement or prospectus that was part of this registration statement or made in any such document
+immediately prior to such effective date; or
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;If the Registrant is subject to Rule&nbsp;430C, each prospectus filed pursuant to Rule 424(b)
+as part of a registration statement relating to an offering, other than registration statements
+relying on Rule 430B or other than prospectuses filed in reliance on Rule&nbsp;430A, shall be deemed to
+be part of and included in this registration statement as of the date it is first used after
+effectiveness. <I>Provided, however, </I>that no statement made in this registration statement or
+prospectus that is part of this registration statement or made in a document incorporated or deemed
+incorporated by reference into this registration statement or prospectus that is part of this
+registration statement will, as to a purchaser with a time of contract of sale prior to such first
+use, supersede or modify any statement that was made in this registration statement or prospectus
+that was part of this registration statement or made in any such document immediately prior to such
+date of first use.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)&nbsp;That, for the purpose of determining liability of the Registrant under the Securities Act
+to any purchaser in the initial distribution of the securities:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned Registrant undertakes that in a primary offering of securities of the
+undersigned Registrant pursuant to this registration statement, regardless of the underwriting
+method used to sell the securities to the purchaser, if the securities are offered or sold to such
+purchaser by means of any of the following communications, the undersigned Registrant will be a
+seller to the purchaser and will be considered to offer or sell such securities to such purchaser:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;Any preliminary prospectus or prospectus of the undersigned Registrant relating to the
+offering required to be filed pursuant to Rule&nbsp;424;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;Any free writing prospectus relating to the offering prepared by or on behalf of the
+undersigned Registrant or used or referred to by the undersigned Registrant;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii)&nbsp;The portion of any other free writing prospectus relating to the offering containing
+material information about the undersigned Registrant or its securities provided by or on behalf of
+the undersigned Registrant; and
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv)&nbsp;Any other communication that is an offer in the offering made by the undersigned
+Registrant to the purchaser.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Registrant hereby undertakes that, for purposes of determining any liability under the
+Securities Act, each filing of the Registrant&#146;s annual report pursuant to Section 13(a) or 15(d) of
+the Exchange Act (and, where applicable, each filing of an employee benefit plan&#146;s annual report
+pursuant to Section 15(d) of the Exchange Act) that is incorporated by reference in this
+registration statement shall be deemed to be a new registration statement relating to the
+securities offered therein, and the offering of such securities at that time shall be deemed to be
+the initial <I>bona fide </I>offering thereof.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Insofar as indemnification for liabilities arising under the Securities Act may be permitted
+to directors, officers and controlling persons of the Registrant pursuant to the foregoing
+provisions, or otherwise, the Registrant has been advised that in the opinion of the Securities and
+Exchange Commission such indemnification is against public policy as expressed in the Securities
+Act and is, therefore, unenforceable. In the event that a claim for indemnification against such
+liabilities (other than the payment by the Registrant of expenses incurred or paid by a director,
+officer or controlling person of the Registrant in the successful defense of any action, suit or
+proceeding) is
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">asserted by such director, officer or controlling person in connection with the securities
+being registered, the Registrant will, unless in the opinion of its counsel the matter has been
+settled by controlling precedent, submit to a court of appropriate jurisdiction the question
+whether such indemnification by it is against public policy as expressed in the Securities Act and
+will be governed by the final adjudication of such issue.
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Act, the Registrant has reasonable grounds to
+believe that it meets all of the requirements for filing on Form S-8 and has duly caused this
+registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, in
+Pitman, New Jersey on August&nbsp;4, 2006.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>K-TRON INTERNATIONAL, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+
+<TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/
+Edward B. Cloues, II&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Edward B. Cloues, II&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chairman and Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Act, this registration statement has been
+signed below by the following persons in the capacities and on the dates indicated.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each person in so signing also makes, constitutes and appoints Edward B. Cloues, II, Chairman
+and Chief Executive Officer of K-Tron International, Inc., and Ronald R. Remick, Senior Vice
+President, Chief Financial Officer and Treasurer of K-Tron International, Inc., and each of them
+acting alone, as his true and lawful attorneys-in-fact, in his name, place and stead, to execute
+and cause to be filed with the Securities and Exchange Commission any or all amendments to this
+registration statement.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="14%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Signature</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Title</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Date</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/ Edward B. Cloues, II&nbsp;</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chief Executive Officer
+(principal executive officer) and
+Chairman of the Board of
+Directors
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Edward B. Cloues, II</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Ronald R. Remick</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Vice President, Chief
+Financial Officer and Treasurer
+(principal financial officer)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Ronald R. Remick</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Alan R. Sukoneck</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President, Chief Accounting
+and Tax Officer (principal
+accounting officer)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Alan R. Sukoneck</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Norman Cohen</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Norman Cohen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Robert A. Engel</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Robert A. Engel</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Edward T. Hurd</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Edward T. Hurd</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><DIV style="border-bottom: 1px solid #000000">/s/
+Richard J. Pinola</DIV>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">August&nbsp;4, 2006</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px">Richard J. Pinola</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>K-TRON INTERNATIONAL, INC.</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3"><B><u>Exhibit Number</u></B></TD>
+<td>&nbsp;</td>
+    <TD nowrap align="left"><B><u>Description</u></B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Restated Certificate of Incorporation of the Registrant, as
+amended (Filed as Exhibit&nbsp;3.1 to our annual report on Form&nbsp;10-K
+for the year ended January&nbsp;2, 1999 and incorporated herein by
+reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">By-laws of the Registrant, as amended (Filed as Exhibit&nbsp;3.2 to
+our annual report on Form&nbsp;10-K for the year ended December&nbsp;29,
+2001 and incorporated herein by reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">4.3</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">K-Tron International, Inc. 2006 Equity Compensation Plan (Filed
+as Exhibit&nbsp;10.1 to our current report on Form&nbsp;8-K dated June&nbsp;20,
+2006 and incorporated herein by reference)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">5.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Opinion of Morgan, Lewis &#038; Bockius LLP</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Consent of Grant Thornton LLP</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">23.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Consent of Morgan, Lewis &#038; Bockius LLP (contained in the opinion
+of counsel filed as Exhibit&nbsp;5.1)</DIV></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">24.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Powers of Attorney (included as part of the signature page hereof)</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>w23671exv5w1.htm
+<DESCRIPTION>OPINION OF MORGAN,LEWIS & BOCKIUS LLP
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv5w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><b>Exhibit&nbsp;5.1</b>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">August&nbsp;4, 2006
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">K-Tron International, Inc.<BR>
+Routes 55 and 553<BR>
+Pitman, New Jersey 08071-0888
+
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">RE:</TD>
+    <TD>&nbsp;</TD>
+    <TD><u>K-Tron International, Inc., Registration Statement on Form&nbsp;S-8</u></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Ladies and Gentlemen:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We have acted as counsel to K-Tron International, Inc., a New Jersey corporation (the &#147;Company&#148;),
+in connection with the preparation of a Registration Statement on Form S-8 (the &#147;Registration
+Statement&#148;) filed with the Securities and Exchange Commission under the Securities Act of 1933, as
+amended (the &#147;Act&#148;), relating to the registration of 200,000 shares of Common Stock, par value
+$0.01 per share (the &#147;Shares&#148;), of the Company issuable in connection with the K-Tron
+International, Inc. 2006 Equity Compensation Plan (the &#147;Plan&#148;). In connection with this opinion
+letter, we have examined the Registration Statement and originals, or copies or copies certified or
+otherwise identified to our satisfaction, of the Restated Certificate of Incorporation, as amended,
+and By-laws of the Company, as amended, the Plan and such other documents, records and other
+instruments as we have deemed appropriate for the purposes of the opinion set forth herein.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We have assumed the genuineness of all signatures, the legal capacity of all natural persons, the
+authenticity of the documents submitted to us as originals, the conformity with the originals of
+all documents submitted to us as certified, facsimile or photostatic copies and the authenticity of
+the originals of all documents submitted to us as copies.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Based upon the foregoing, we are of the opinion that the Shares have been duly authorized by the
+Company and, when issued and delivered by the Company in the manner and on the terms described in
+the Plan, will be validly issued, fully paid and non-assessable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The opinions expressed herein are limited to the Business Corporation Act of the State of New
+Jersey.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We hereby consent to the use of this opinion as Exhibit&nbsp;5.1 to the Registration Statement. In
+giving such opinion, we do not thereby admit that we are acting within the category of persons
+whose consent is required under Section&nbsp;7 of the Act or the rules or regulations of the Securities
+and Exchange Commission thereunder.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Very
+truly yours,<br><br>/s/ Morgan, Lewis&nbsp;&amp;&nbsp;Bockius LLP
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>w23671exv23w1.htm
+<DESCRIPTION>CONSENT OF GRANT THORNTON LLP
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv23w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><b>Exhibit&nbsp;23.1</b>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U>Consent of Independent Registered Public Accounting Firm</U>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have issued our report dated February&nbsp;28, 2006 (except for Note 3, as to which the date is
+March&nbsp;6, 2006) accompanying the consolidated financial statements and schedule of K-Tron
+International, Inc. and Subsidiaries included in the Annual Report on Form 10-K for the year ended
+December&nbsp;31, 2005 which are incorporated by reference in this Registration Statement. We consent
+to the incorporation by reference in the Registration Statement of the aforementioned report.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">/s/ Grant
+Thornton LLP<br>Philadelphia, Pennsylvania<BR>
+August&nbsp;4, 2006
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

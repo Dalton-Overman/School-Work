@@ -1,0 +1,224 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GoHURKAw6OrqIRF8QueD2daTMAeb6Z9dS0jC3yj5h2NqYMbcNIswnHTKW9/YotfL
+ wEAjCE7im4bb5U3M52XumQ==
+
+<SEC-DOCUMENT>0000950159-03-000646.txt : 20030807
+<SEC-HEADER>0000950159-03-000646.hdr.sgml : 20030807
+<ACCEPTANCE-DATETIME>20030807133538
+ACCESSION NUMBER:		0000950159-03-000646
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030805
+FILED AS OF DATE:		20030807
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PINOLA RICHARD J
+		CENTRAL INDEX KEY:			0001099662
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03828287
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O RIGHT MANAGEMENT CONSULTANTS INC
+		STREET 2:		1818 MARKET ST 33RD FL
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103-3614
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RIGHT MANAGEMENT CONSULTANTS INC
+		STREET 2:		1818 MARKET ST 33RD FL
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103-3614
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>pinola4_ex.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<!-- - EDGAR Ease Plus 1.0                                   07/25/03  TT    -->
+<ownershipDocument>
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType>
+   <periodOfReport>2003-08-05</periodOfReport>
+   <notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0000000020</issuerCik>
+        <issuerName>K TRON INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>KTII</issuerTradingSymbol>
+   </issuer>
+   <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001099662</rptOwnerCik>
+            <rptOwnerName>PINOLA RICHARD J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RIGHT MANAGEMENT CONSULTANTS INC</rptOwnerStreet1>
+            <rptOwnerStreet2>1818 MARKET ST 33RD FL</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103-3614</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+         <isDirector>1</isDirector>
+         <isOfficer>0</isOfficer>
+         <isTenPercentOwner>0</isTenPercentOwner>
+         <isOther>0</isOther>
+      </reportingOwnerRelationship>
+   </reportingOwner>
+ <nonDerivativeTable>
+   <nonDerivativeTransaction>
+      <securityTitle>
+         <value>Common Stock</value>
+      </securityTitle>
+      <transactionDate>
+         <value>2003-08-05</value>
+      </transactionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>P</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>100</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>16.10</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>13394</value>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+            <value>D</value>
+         </directOrIndirectOwnership>
+      </ownershipNature>
+   </nonDerivativeTransaction>
+   <nonDerivativeTransaction>
+      <securityTitle>
+         <value>Common Stock</value>
+      </securityTitle>
+      <transactionDate>
+         <value>2003-08-05</value>
+      </transactionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>P</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>100</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>16.60</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>13494</value>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+            <value>D</value>
+         </directOrIndirectOwnership>
+      </ownershipNature>
+   </nonDerivativeTransaction>
+   <nonDerivativeTransaction>
+      <securityTitle>
+         <value>Common Stock</value>
+      </securityTitle>
+      <transactionDate>
+         <value>2003-08-05</value>
+      </transactionDate>
+      <transactionCoding>
+         <transactionFormType>4</transactionFormType>
+         <transactionCode>P</transactionCode>
+         <equitySwapInvolved>0</equitySwapInvolved>
+      </transactionCoding>
+      <transactionAmounts>
+         <transactionShares>
+           <value>100</value>
+         </transactionShares>
+         <transactionPricePerShare>
+           <value>17.10</value>
+         </transactionPricePerShare>
+         <transactionAcquiredDisposedCode>
+           <value>A</value>
+         </transactionAcquiredDisposedCode>
+      </transactionAmounts>
+      <postTransactionAmounts>
+         <sharesOwnedFollowingTransaction>
+           <value>13594</value>
+         </sharesOwnedFollowingTransaction>
+      </postTransactionAmounts>
+      <ownershipNature>
+         <directOrIndirectOwnership>
+            <value>D</value>
+         </directOrIndirectOwnership>
+      </ownershipNature>
+   </nonDerivativeTransaction>
+ </nonDerivativeTable>
+   <ownerSignature>
+      <signatureName>Mary Vaccara, Corporate Secretary and Attorney-in-Fact</signatureName>
+      <signatureDate>2003-08-07</signatureDate>
+   </ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

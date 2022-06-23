@@ -1,0 +1,144 @@
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exhibit99.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                 Exhibit 99.1
+
+
+K-TRON INTERNATIONAL, INC.
+Routes 55 & 553, PO Box 888
+Pitman, NJ 08071-0888
+(856) 589-0500                                             FAX (856) 582-7968
+www.ktron.com
+E-mail: ktii@ktron.com
+
+
+
+For Release:      Immediately
+
+Contact:        Ronald Remick, Senior Vice President and Chief Financial Officer
+                 Tel: (856) 256-3311          E-mail: remick@ktron.com
+
+
+             K-TRON REPORTS $ 0.36 PER SHARE THIRD QUARTER EARNINGS
+
+Pitman, New Jersey - - October 16, 2003 - - K-Tron International, Inc.
+(NASDAQ-KTII) today reported third quarter 2003 net income of $0.910 million, or
+$0.36 per share (diluted), on revenues of $22.16 million compared to net income
+of $0.836 million, or $0.34 per share (diluted), on revenues of $16.91 million
+for the same period in 2002.
+
+For the first nine months of 2003, K-Tron reported net income of $2.610 million,
+or $1.05 per share (diluted), on revenues of $68.22 million compared to $2.401
+million, or $0.97 per share (diluted), on revenues of $50.56 million for the
+same period in 2002.
+
+In announcing the above results, the Company pointed out that if the average
+foreign currency exchange rates for the third quarter and first nine months of
+2002 were applied to the same periods in 2003, the Company's revenues would have
+increased approximately 28 percent for the third quarter of 2003 instead of 31
+percent and would have increased approximately 27 percent for the first nine
+months of 2003 instead of 35 percent, in each case compared to the numbers
+reported for the same periods in 2002, and its net income and earnings per share
+for the first nine months of 2003 (but not the third quarter) would have been
+lower than reported. This is due to a significantly weaker U.S. dollar in the
+first nine months of 2003 compared to the same period in 2002 against the Swiss
+franc, the euro and other relevant foreign currencies.
+
+Commenting on the Company's results, K-Tron Chairman and Chief Executive Officer
+Edward B. Cloues, II said, "K-Tron turned in another good performance in the
+third quarter, despite continued sluggishness in capital equipment spending
+affecting nearly all of the major industrial markets that we serve. Net income
+was up almost nine percent over last year's third quarter, while earnings per
+share increased approximately six percent. For the first nine months of 2003,
+both net income and earnings per share were up between eight and nine percent
+compared to the same period in 2002. So far this year, the key to our success
+has been our January 2, 2003 acquisition of Pennsylvania Crusher Corporation.
+While Penn Crusher's 2003 results have been somewhat impacted by weaker than
+normal spending for its size reduction equipment by electric utilities, its
+revenues and still solid profitability during the first three quarters have more
+than offset the lower revenues and profits in the feeder and pneumatic conveying
+parts of our material handling business."
+
+<PAGE>
+
+
+In addition to his comments on operating results, Mr. Cloues noted that K-Tron
+had reduced its worldwide debt by $1.55 million in the third quarter, from
+$31.22 million to $29.67 million, while at the same time improving its cash
+position by $660 thousand from $5.95 million to $6.61 million. Foreign exchange
+was not a significant factor in either of these changes.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service material handling equipment and systems for a wide variety of industrial
+markets. The Company has manufacturing facilities in the United States,
+Switzerland, the United Kingdom and Canada, and its equipment is sold throughout
+the world.
+
+                                    * * * * *
+
+                            (Financial Data Follows)
+
+
+
+
+                                        2
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+                                   (Unaudited)
+                    (Dollars in thousands, except share data)
+
+                                                     Three Months Ended                         Nine Months Ended
+                                                     ------------------                         ------------------
+                                              September 27,           September 28,        September 27,        September 28,
+                                                  2003                    2002                  2003                 2002
+                                                  ----                    ----                  ----                 ----
+<S>                                             <C>                     <C>                   <C>                  <C>
+Revenues                                        $22,158                 $16,905               $68,217              $50,560
+                                                =======                 =======               =======              =======
+
+Operating income                                 $1,794                  $1,276                $4,937               $3,761
+
+Interest expense                                    429                     104                 1,209                 406
+                                                -------                 -------               -------              -------
+
+Income before income taxes                        1,365                   1,172                 3,728                3,355
+
+Income taxes                                        455                     336                 1,118                  954
+                                                -------                 -------               -------              -------
+
+Net income                                        $ 910                   $ 836                $2,610               $2,401
+                                                =======                 =======               =======              =======
+
+Basic earnings per share                         $ 0.37                  $ 0.34                $ 1.07               $ 0.99
+                                                =======                 =======               =======              =======
+
+Diluted earnings per share                       $ 0.36                  $ 0.34                $ 1.05               $ 0.97
+                                                =======                 =======               =======              =======
+
+Average number of common                      2,439,000               2,432,000             2,434,000            2,432,000
+   shares outstanding (basic)                 =========               =========             =========            =========
+
+
+Average number of common                      2,508,000               2,468,000             2,494,000            2,463,000
+  & common equivalent                         =========               =========             =========            =========
+  shares outstanding (diluted)
+
+
+</TABLE>
+
+                                       3
+
+
+
+</TEXT>
+</DOCUMENT>

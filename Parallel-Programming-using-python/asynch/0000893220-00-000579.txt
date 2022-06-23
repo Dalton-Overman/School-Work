@@ -1,0 +1,962 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D4aDrNdYn5wNgJQPi18+X+hrnSN1zLSceCAfE1+J8egPRXsDrwcZpHN1N0LdZw+M
+ 3LXBqnNWD87lyWE+qw0T3A==
+
+<SEC-DOCUMENT>0000893220-00-000579.txt : 20000502
+<SEC-HEADER>0000893220-00-000579.hdr.sgml : 20000502
+ACCESSION NUMBER:		0000893220-00-000579
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000401
+FILED AS OF DATE:		20000501
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		614828
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR APRIL 1,2000
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+          [X]   QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended April 1, 2000
+
+                                       OR
+
+          [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+                For the transition period from            to
+
+                         Commission file number 0-9576
+
+
+                           K-TRON INTERNATIONAL, INC.
+
+             (Exact Name of Registrant as Specified in Its Charter)
+
+          New Jersey                                     22-1759452
+(State or Other Jurisdiction of               (I.R.S. Employer Identification #)
+ Incorporation or Organization)
+
+ROUTES 55 & 553, P.O. BOX 888, PITMAN, NEW JERSEY                    08071-0888
+(Address of Principal Executive Offices)                             (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (856) 589-0500
+
+                                 NOT APPLICABLE
+
+   (Former Name, Former Address and Formal Fiscal Year, if Changed Since Last
+                                    Report)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                                         Yes   X       No
+
+
+
+
+The Registrant had 2,421,405 shares of Common Stock outstanding as of April 1,
+2000.
+<PAGE>   2
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                              Page No.
+                                                                                              --------
+
+PART  I.          FINANCIAL INFORMATION
+
+         Item 1.           Financial Statements
+
+<S>                                                                                             <C>
+                           Consolidated Balance Sheets                                           1
+                           April 1, 2000 and January 1, 2000
+
+                           Consolidated Statements of Income                                     2
+                           & Retained Earnings for the Three
+                           Months Ended April 1, 2000 and
+                           April 3, 1999
+
+                           Consolidated Statements of Cash Flows                                 3
+                           for the Three Months Ended April 1, 2000
+                           and April 3, 1999
+
+                           Notes to Consolidated Financial Statements                            4 - 6
+
+         Item 2.           Management's Discussion and Analysis                                  7 - 11
+                           of Financial Condition and Results
+                           of Operations
+
+PART II.                   OTHER INFORMATION
+
+         Item 6.           Exhibits and Reports on Form 8-K                                     12
+</TABLE>
+<PAGE>   3
+                          PART I. FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS.
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                       April 1,        January 1,
+                                                                        2000             2000
+                                                                     (Unaudited)      (Audited)
+                                                                     -----------      ---------
+                                    ASSETS
+
+CURRENT ASSETS:
+<S>                                                                    <C>            <C>
+   Cash and cash equivalents                                           $  1,364       $  3,093
+   Accounts receivable (less allowance for doubtful accounts of
+     $898 and $924)                                                      15,767         20,500
+   Inventories                                                           10,885         10,193
+   Deferred income taxes                                                    473            473
+   Prepaid expenses and other current assets                              1,286          1,516
+                                                                       --------       --------
+          Total current assets                                           29,775         35,775
+
+PROPERTY, PLANT AND EQUIPMENT, net                                       14,457         14,611
+PATENTS, net                                                                883            879
+GOODWILL, net                                                             3,267          3,486
+OTHER ASSETS                                                                118             19
+                                                                       --------       --------
+         Total assets                                                  $ 48,500       $ 54,770
+                                                                       ========       ========
+
+
+                              LIABILITIES & SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+   Notes payable to banks                                              $     --       $  2,543
+   Current portion of long-term debt                                      3,750          2,084
+   Accounts payable                                                       4,809          5,691
+   Accrued expenses & other current liabilities                           2,702          3,200
+   Accrued payroll                                                        1,362          2,713
+   Accrued commissions                                                    1,463          1,971
+   Customer advances                                                      1,859          1,134
+   Accrued warranty                                                       1,220          1,294
+   Income taxes payable                                                   1,519          1,088
+                                                                       --------       --------
+         Total current liabilities                                       18,684         21,718
+
+LONG-TERM DEBT, net of current portion                                   12,653          7,252
+DEFERRED INCOME TAXES                                                       303            303
+OTHER NONCURRENT LIABILITIES                                                192            287
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED
+   SHARES, $.01 par value - authorized 50,000 shares; none issued            --             --
+SHAREHOLDERS' EQUITY:
+   Preferred stock, $.01 par value - authorized 950,000 shares;
+     none issued                                                             --             --
+   Common stock, $.01 par value - authorized 50,000,000 shares;
+     issued 4,376,755 shares and 4,374,505 shares                            44             44
+   Paid-in capital                                                       16,128         16,103
+   Retained earnings                                                     29,971         28,598
+   Cumulative translation adjustments                                    (2,642)        (1,946)
+                                                                       --------       --------
+                                                                         43,501         42,799
+   Treasury stock, 1,955,350 and 1,447,350 shares - at cost             (26,833)       (17,589)
+                                                                       --------       --------
+         Total shareholders' equity                                      16,668         25,210
+                                                                       --------       --------
+         Total liabilities and shareholders' equity                    $ 48,500       $ 54,770
+                                                                       ========       ========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+                                      -1-
+<PAGE>   4
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                    (Dollars in Thousands except Share Data)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                Three Months Ended
+                                                ------------------
+                                             April 1,       April 3,
+                                               2000          1999
+                                               ----          ----
+<S>                                           <C>          <C>
+REVENUES                                      $20,288      $19,840
+
+COST OF REVENUES                               11,012       10,719
+                                              -------      -------
+         Gross profit                           9,276        9,121
+
+OPERATING EXPENSES:
+       Selling, general and administrative      6,324        6,606
+       Research and development                   827          821
+                                              -------      -------
+                                                7,151        7,427
+                                              -------      -------
+         Operating income                       2,125        1,694
+
+INTEREST EXPENSE                                  122          134
+                                              -------      -------
+         Income before income taxes             2,003        1,560
+
+INCOME TAX PROVISION                              630          200
+                                              -------      -------
+         Net income                             1,373        1,360
+
+RETAINED EARNINGS:
+     Beginning of period                       28,598       21,839
+                                              -------      -------
+     End of period                            $29,971      $23,199
+                                              =======      =======
+
+EARNINGS PER SHARE:
+     Basic                                    $  0.48      $  0.46
+                                              =======      =======
+     Diluted                                  $  0.47      $  0.44
+                                              =======      =======
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+                                      -2-
+<PAGE>   5
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                              Three Months Ended
+                                                                              ------------------
+                                                                        April 1,           April 3,
+                                                                         2000                1999
+                                                                         ----                ----
+
+OPERATING ACTIVITIES:
+<S>                                                                    <C>                <C>
+   Net income                                                          $ 1,373            $ 1,360
+   Adjustment to reconcile net income to net cash provided by
+      operating activities:
+      Depreciation and amortization                                        784                803
+      Amortization of deferred gain on sale/leaseback transaction          (85)               (96)
+      Changes in assets and liabilities:
+          Accounts receivable, net                                       4,400              1,935
+          Inventories                                                     (907)            (1,421)
+          Prepaid expenses and other current assets                        194               (624)
+          Other assets                                                    (103)                (7)
+          Accounts payable                                                (753)               241
+          Accrued expenses and other current liabilities                (1,724)
+          Accrued warranty                                                 (39)               (19)
+          Income taxes payable                                             446                194
+                                                                       -------            -------
+               Net cash provided by operating activities                 3,586              1,508
+                                                                       -------            -------
+
+INVESTING ACTIVITIES:
+   Capital expenditures                                                   (856)              (902)
+   Investment in patents                                                   (23)               (40)
+                                                                       -------            -------
+               Net cash used in investing activities                      (879)              (942)
+                                                                       -------            -------
+
+FINANCING ACTIVITIES:
+   Net repayments under notes payable to banks                          (2,493)              (244)
+   Proceeds from issuance of long-term debt                              7,950              1,500
+   Principal payments on long-term debt                                   (629)              (421)
+   Purchase of treasury stock                                           (9,244)            (1,812)
+   Proceeds from issuance of common stock                                   25                194
+                                                                       -------            -------
+               Net cash used in financing activities                    (4,391)              (783)
+                                                                       -------            -------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH  EQUIVALENTS                                                       (45)              (140)
+                                                                       -------            -------
+
+NET DECREASE  IN CASH AND CASH EQUIVALENTS                              (1,729)              (357)
+                                                                       -------            -------
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                   3,093              3,220
+                                                                       -------            -------
+   End of period                                                       $ 1,364            $ 2,863
+                                                                       =======            =======
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+                                      -3-
+<PAGE>   6
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  April 1, 2000
+                                   (Unaudited)
+
+1.       Basis of Presentation
+
+The accompanying unaudited financial statements have been prepared in accordance
+with the instructions for Form 10-Q and do not include all of the information
+and footnotes required by generally accepted accounting principles for complete
+financial statements. The consolidated financial statements include the accounts
+of K-Tron International, Inc. and its subsidiaries ("K-Tron" or the "Company").
+All intercompany transactions have been eliminated in consolidation. In the
+opinion of management, all adjustments (consisting of a normal recurring nature)
+considered necessary for a fair presentation of results for interim periods have
+been made. The results for the interim periods are not necessarily indicative of
+the results for a full year.
+
+The unaudited financial statements herein should be read in conjunction with the
+Company's Annual Report on Form 10-K for the year ended January 1, 2000 which
+was previously filed with the Securities and Exchange Commission.
+
+2.       Supplemental Disclosures of Cash Flow Information
+
+The Company considers all highly liquid short-term investments purchased with a
+maturity of three months or less to be cash equivalents.
+
+Cash paid in the first three months of 2000 and 1999 for interest was $0.1
+million and $0.1 million, respectively, and for income taxes was $0.2 million
+and $0.0 million, respectively.
+
+3.       Earnings per Share
+
+The Company adopted SFAS No. 128, "Earnings per Share," which requires that the
+Company report Basic and Diluted Earnings Per Share. Basic Earnings Per Share
+represents net income less preferred dividends divided by the weighted average
+common shares outstanding. Diluted Earnings Per Share is calculated similarly,
+except that the denominator includes weighted average common shares outstanding
+plus the dilutive effect of options, warrants, convertible securities and other
+instruments with dilutive effects if exercised.
+
+The Company's Basic and Diluted Earnings Per Share are calculated as follows:
+
+<TABLE>
+<CAPTION>
+                                          For the Three Months Ended April 1, 2000
+                                          ----------------------------------------
+
+(Dollars and Shares in Thousands
+except Per Share Data)
+
+                                    Income Available
+                                       To Common                              Earnings
+                                      Shareholders             Shares         Per Share
+                                      ------------             ------         ---------
+<S>                                 <C>                       <C>            <C>
+Basic                                     $1,373               2,877          $   0.48
+
+     Common Share Equivalent                  --                  52             (0.01)
+     of Outstanding Options
+                                          ------              ------          --------
+Diluted                                   $1,373               2,929          $   0.47
+                                          ======              ======          ========
+</TABLE>
+
+
+
+                                      -4-
+<PAGE>   7
+<TABLE>
+<CAPTION>
+                                    For the Three Months Ended April 3, 1999
+                                    ----------------------------------------
+(Dollars and Shares in Thousands
+ except Per Share Data)
+
+                                 Income Available
+                                     To Common                       Earnings
+                                   Shareholders       Shares         Per Share
+                                   ------------       ------         ---------
+<S>                                  <C>              <C>            <C>
+Basic                                $1,360           2,976          $   0.46
+
+        Common Share Equivalent          --             100             (0.02)
+        of Outstanding Options
+                                     ------          ------          --------
+Diluted                              $1,360           3,076          $   0.44
+                                     ======          ======          ========
+</TABLE>
+
+Diluted earnings per common share are based on the weighted average number of
+common and common equivalent shares outstanding during a given time period. Such
+average shares include the weighted average number of common shares outstanding
+plus the shares issuable upon exercise of stock options after the assumed
+repurchase of common shares with the related proceeds.
+
+4.       Comprehensive Income
+
+The Company adopted SFAS No. 130, "Reporting Comprehensive Income," which
+establishes standards for the reporting and display of comprehensive income and
+its components. Comprehensive income is the total of net income and the current
+year change in cumulative translation adjustments, which is the only nonowner
+change in equity. For the three months in the periods ended April 1, 2000 and
+April 3, 1999, the following table sets forth the Company's comprehensive
+income:
+
+(Dollars in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                      Three Months Ended
+                                                      ------------------
+                                                  April 1,           April 3,
+                                                   2000               1999
+                                                   ----               ----
+<S>                                               <C>                <C>
+Net Income                                        $ 1,373            $ 1,360
+Cumulative Translation Adjustments                   (696)            (1,007)
+                                                  -------            -------
+Comprehensive Income                              $   677            $   353
+                                                  =======            =======
+</TABLE>
+
+
+5.       Management Segment Information
+
+The Company adopted SFAS No. 131, "Disclosures About Segments of an Enterprise
+and Related Information," which introduced a new model for segment reporting
+called the management approach. The management approach is based on the way that
+the chief operating decision maker organizes segments within a company for
+making operating decisions and assessing performance.
+
+
+
+                                      -5-
+<PAGE>   8
+The Company is engaged in one business segment, the development, manufacturing
+and marketing of gravimetric and volumetric feeders, pneumatic conveying systems
+and related equipment. The Company operates in two primary geographic locations,
+North America and Western Europe. For the three months in the periods ended
+April 1, 2000 and April 3, 1999, the following tables set forth the Company's
+segment information:
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                   North         Western      Elimi-          Consoli-
+                                        America        Europe       nations          dated
+                                        -------        ------       -------          -----
+THREE MONTHS ENDED April 1, 2000:
+
+<S>                                    <C>            <C>           <C>            <C>
+  Revenues-
+  Sales to unaffiliated customers      $  9,482       $ 10,806      $     --       $ 20,288
+  Sales to affiliates                     1,114            821        (1,935)            --
+                                       --------       --------      --------       --------
+      Total sales                      $ 10,596       $ 11,627      $ (1,935)      $ 20,288
+                                       ========       ========      ========       ========
+
+Operating income                       $  1,668       $    407      $     50       $  2,125
+                                       ========       ========      ========
+Interest expense                                                                       (122)
+                                                                                   --------
+
+Income before income taxes                                                         $  2,003
+                                                                                   ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                     North           Western          Elimi-         Consoli-
+                                          America          Europe           nations         dated
+                                          -------          ------           -------         -----
+
+THREE MONTHS ENDED April 3, 1999:
+  Revenues-
+<S>                                       <C>              <C>             <C>              <C>
+  Sales to unaffiliated customers         $ 7,327          $12,513         $    --          $19,840
+  Sales to affiliates                       1,011              521          (1,532)              --
+                                          -------          -------         -------          -------
+      Total sales                         $ 8,338          $13,034         $(1,532)         $19,840
+                                          =======          =======         =======          =======
+
+Operating income                          $   591          $ 1,107         $    (4)         $ 1,694
+                                          =======          =======         =======
+Interest expense                                                                               (134)
+                                                                                            -------
+
+Income before income taxes                                                                  $ 1,560
+                                                                                            =======
+</TABLE>
+
+
+
+                                      -6-
+<PAGE>   9
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS.
+
+Results of Operations
+
+         For the first three months of 2000 and 1999, the Company reported net
+income of $1,373,000 and $1,360,000, respectively.
+
+         K-Tron is an international company which derived approximately 53% and
+63% of its first quarter 2000 and 1999 revenues, respectively, from products
+manufactured in, and services performed from, its facilities located outside the
+United States, primarily in Europe. As such, the financial position and
+performance of the Company is sensitive to changes in foreign currency exchange
+rates ("foreign exchange rates"), which can affect both the translation of
+financial statement items into U.S. dollars and the impact of transactions where
+the revenues and related expenses may initially be accounted for in different
+currencies, such as sales made from the Company's Swiss manufacturing facilities
+in currencies other than the Swiss franc.
+
+         The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                        Three Months Ended
+                                        ------------------
+                                        April 1,    April 3,
+                                         2000         1999
+
+<S>                                      <C>         <C>
+Total revenues                           100.0%      100.0%
+Cost of revenues                          54.3        54.0
+                                         -----       -----
+Gross profit                              45.7        46.0
+
+Selling, general & administrative         31.1        33.3
+Research & development                     4.1         4.1
+                                         -----       -----
+Operating income                          10.5         8.6
+Interest                                   0.6         0.7
+                                         -----       -----
+Income before income taxes                 9.9%        7.9%
+                                         =====       =====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                   April 2000   December 1999     April 1999
+                                   ----------   -------------     ----------
+<S>                                <C>            <C>             <C>
+Backlog at end of period (at
+April 1, 2000 foreign exchange      $21,258        $17,461         $22,780
+rates, in thousands)                =======        =======         =======
+</TABLE>
+
+
+
+
+                                      -7-
+<PAGE>   10
+         More than half of the Company's revenues are normally derived from
+activities in foreign jurisdictions. Consequently, the Company's results can be
+significantly affected by changes in foreign exchange rates, particularly in
+U.S. dollar exchange rates with respect to the Swiss franc, German mark and euro
+and, to a lesser degree, the British pound sterling, French franc and other
+currencies. When the U.S. dollar strengthens against these currencies, the U.S.
+dollar value of non-U.S. dollar-based sales decreases. When the U.S. dollar
+weakens against these currencies, the U.S. dollar value of non-U.S. dollar-based
+sales increases. Correspondingly, the U.S. dollar value of non-U.S. dollar-based
+costs increases when the U.S. dollar weakens and decreases when the U.S. dollar
+strengthens. Overall, the Company typically receives a majority of its revenues
+in currencies other than the U.S. dollar and, as such, benefits from a weaker
+dollar and is adversely affected by a stronger dollar relative to major
+currencies worldwide, especially those identified above. Accordingly, changes in
+foreign exchange rates, and in particular a strengthening of the U.S. dollar,
+may adversely affect the Company's total revenues, gross profit and operating
+income as expressed in U.S. dollars.
+
+         In addition, revenues and income of the Company with respect to
+particular transactions may be affected by changes in foreign exchange rates
+where sales are made in currencies other than the functional currency of the
+facility manufacturing the product subject to the sale, including in particular
+the U.S. dollar/Swiss franc (for inter-company transactions) and the euro/Swiss
+franc and German mark/Swiss franc (for sales from the Company's Swiss
+manufacturing facilities which are made in euros or German marks) exchange
+rates. For the first three months of each of 2000 and 1999, the changes in these
+and the U.S. dollar/euro and U.S. dollar/German mark exchange rates were as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                   Three Months Ended
+                                                                   ------------------
+                                                               April 1,            April 3,
+                                                                2000                 1999
+                                                                ----                  ----
+<S>                                                          <C>                   <C>
+Average U.S. dollar equivalent of                              0.613                  0.698
+   one Swiss franc
+% change vs. prior year                                                   -12.2%
+
+Average U.S. dollar equivalent of                              0.984                  1.12
+   one euro
+% change vs. prior year                                                   -12.1%
+
+Average U.S. dollar equivalent of                              0.503                  0.570
+   one German mark
+% change vs. prior year                                                   -11.8%
+
+Average Swiss franc equivalent of                              0.821                  0.817
+   one German mark
+% change vs. prior year                                                     0.5%
+
+Average Swiss franc equivalent of                              1.605                  1.605
+   one euro
+% change vs. prior year                                                     0.0%
+</TABLE>
+
+
+
+                                      -8-
+<PAGE>   11
+         Total revenues increased $0.4 million or 2.3% in the first quarter of
+2000 compared to the same period in 1999. North American revenues increased and
+Western European revenues decreased in the first quarter of 2000 compared to the
+same period in 1999. If the average foreign exchange rates for the first quarter
+of 2000 were applied to the same period in 1999, total revenues would have
+increased by $2.0 million or 10.8% for the quarter.
+
+         Gross profit as a percent of revenues decreased to 45.7% for the first
+quarter of 2000 compared to 46.0% for the same period in 1999. The decrease in
+gross margin in 2000 was primarily due to sales mix.
+
+         Selling, general and administrative (SG&A) expense decreased by $0.3
+million or 4.3% for the first quarter of 2000 compared to the same period in
+1999. This decrease in SG&A in the first quarter was primarily due to lower
+foreign exchange translation rates, partly offset by higher commissions on the
+increased revenues. As a percent of total revenues, SG&A for the first quarter
+of 2000 was 31.1%, compared to 33.3% for the same period in 1999.
+
+         Research and development (R&D) expenditures remained constant for the
+first quarter of 2000 compared to the same period in 1999. R&D expenses
+increased due to greater emphasis on the development of new products, offset by
+lower foreign exchange translation rates. R&D expense as a percent of total
+revenues was 4.1% for the first quarters of 2000 and 1999.
+
+         Interest expense decreased by $12 thousand or 9.0% for the first
+quarter 2000 compared to the same period in 1999, primarily due to lower foreign
+exchange translation rates offset in part by the interest on funds borrowed in
+March 2000 related to the Company's repurchase of 508 thousand shares of its
+Common Stock, which is discussed in the liquidity section.
+
+         The effective tax rate for the first quarter of 2000 was 31.4%,
+compared to 12.8% for the same period in 1999. These higher rates in 2000 were
+due to increased taxable income in the United States as well as providing for
+Swiss income taxes for the first time since fiscal 1992, as it is anticipated
+that the remaining net operating loss in Switzerland will be fully utilized in
+2000.
+
+         The backlog of customer orders increased by 21.7% at the end of the
+first quarter compared to the end of 1999 and decreased by 6.7% compared to the
+same period in 1999, in each case at constant foreign exchange rates. The
+increase was from orders received at the manufacturing facilities both in the
+United States and in Switzerland. The decrease in the backlog as compared to the
+first quarter of 1999 was due to the shipment of a large order in the fourth
+quarter of 1999 that was included in the first quarter 1999 backlog, partly
+offset by the increased orders noted above.
+
+
+
+                                      -9-
+<PAGE>   12
+Liquidity and Capital Resources
+
+         On March 23, 2000 the Company completed a tender offer begun on
+February 16, 2000 and repurchased 508 thousand shares of its Common Stock at
+$18.00 per share for a total cost of $9.244 million (including $100 thousand of
+costs associated with the tender offer). The share purchase represented
+approximately 17.3% of the Common Stock then outstanding. The purchase was
+financed by using $1.194 million of available cash, all of a $7 million loan
+facility obtained from a U.S. bank on February 4, 2000 and $950 thousand from an
+existing $5 million line of credit with that same bank. The $7 million loan is
+payable in equal monthly installments of principal plus accrued interest over a
+period of four years commencing May 1, 2000 and is secured by liens on the same
+collateral securing other loans from the same U.S. bank. One-half of the loan
+bears interest at the fixed rate of 8.23% for the first two years and the other
+half is subject to a variable rate of interest equal to one month LIBOR plus
+1.85% (7.66% at the date of the borrowing). As of April 1, 2000 the Company had
+repaid $550 thousand on the credit line and has a total of $7.4 milllion debt
+outstanding associated with the share repurchase.
+
+         The Company's capitalization as of the end of the first quarter of 2000
+and as of the end of fiscal years 1999 and 1998 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                April 1,      Jan. 1,        Jan. 2,
+(Dollars in Thousands)                           2000          2000           1999
+                                                 ----          ----           ----
+<S>                                             <C>           <C>           <C>
+Short-term debt, including current
+   portion of long-term debt                    $ 3,750       $ 4,627       $ 1,534
+Long-term debt                                   12,653         7,252         9,638
+                                                -------       -------       -------
+Total debt                                       16,403        11,879        11,172
+
+Shareholders' equity                             16,668        25,210        22,274
+                                                -------       -------       -------
+Total debt and shareholders' equity             $33,071       $37,089       $33,446
+                                                =======       =======       =======
+         (total capitalization)
+
+Percent total debt to total capitalization           50%           32%           33%
+Percent long-term debt to equity                     76%           29%           43%
+Percent total debt to equity                         98%           47%           50%
+</TABLE>
+
+
+         Total debt increased by $4.5 million in the first three months of 2000
+($4.8 million using a constant foreign exchange rate). U.S. debt increased by
+$7.3 million while debt in Switzerland decreased by $2.8 million. At April 1,
+2000 the Company had $4.6 million of borrowing availability under its U.S. loan
+agreements and $4.2 million of borrowing availability under its Swiss loan
+agreements. The increase in the U.S. debt was due to the share repurchase
+described above.
+
+         At April 1, 2000, there was working capital of $11.1 million compared
+to $14.1 million at January 1, 2000, and the ratio of current assets to current
+liabilities at those dates was 1.59 and 1.65, respectively. The decreases in
+working capital and in the current ratio was primarily due to the increase in
+short-term debt associated with the share repurchase.
+
+         In the first three months of 2000 and 1999, the Company utilized
+internally-generated funds to meet its working capital needs and used its bank
+borrowings and available cash to complete the share repurchase.
+
+
+
+                                      -10-
+<PAGE>   13
+         Net cash provided by operating activities was $3.6 million in the first
+three months of 2000 compared to $1.5 million in the same period of 1999, with
+the increase being primarily due to a reduction in accounts receivable.
+
+         Net cash used in investing activities in the first three months of 2000
+and 1999 was primarily for capital additions.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and German mark, caused a translation adjustment decrease in
+shareholders' equity of $0.7 million in the first three months of 2000.
+
+Forward-Looking Statements
+
+         The Private Securities Litigation Reform Act of 1995 (the "Act")
+provides a safe harbor for forward-looking statements made by or on behalf of
+the Company. The Company and its representatives may from time to time make
+written or oral statements that are "forward-looking," including statements
+contained in this report and other filings with the Securities and Exchange
+Commission, reports to the Company's shareholders and news releases. All
+statements that express expectations, estimates, forecasts and projections are
+forward-looking statements within the meaning of the Act. In addition, other
+written or oral statements which constitute forward-looking statements may be
+made by or on behalf of the Company. Words such as "expects," "anticipates,"
+"intends," "plans," "believes," "seeks," "estimates," "projects," "forecasts,"
+"may," "should," variations of such words and similar expressions are intended
+to identify such forward-looking statements. These statements are not guarantees
+of future performance and involve certain risks, uncertainties and assumptions
+which are difficult to predict. Therefore, actual outcomes and results may
+differ materially from what is expressed or forecasted in or suggested by such
+forward-looking statements. The Company undertakes no obligation to update
+publicly any forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+         A wide range of factors could materially affect future developments and
+the performance of the Company, including the following: (i) increasing price
+and product/service competition by domestic and foreign competitors, including
+new entrants; (ii) the mix of products/services sold by the Company; (iii) rapid
+technological changes and developments and the Company's ability to continue to
+introduce competitive new products on a timely and cost-effective basis; (iv)
+changes in U.S. and global financial and currency markets, including significant
+interest rate and foreign currency exchange rate fluctuations; (v) protection
+and validity of patent and other intellectual property rights, both of the
+Company and its competitors; (vi) the cyclical nature of the Company's business
+as a capital goods supplier; (vii) possible future litigation and governmental
+proceedings; (viii) the availability of financing and financial resources in the
+amounts, at the times and on the terms required to support the Company's future
+business, including capacity expansions and possible acquisitions; (ix) the loss
+of key customers, employees or suppliers; (x) the failure to carry out marketing
+and sales plans; (xi) the failure successfully to integrate acquired businesses,
+if any, into the Company without substantial costs, delays or other operational
+or financial problems; (xii) economic, business and regulatory conditions and
+changes which may affect the level of new investments and purchases made by
+customers, including general economic and business conditions that are less
+favorable than expected; and (xiii) domestic and international political and
+economic conditions.
+
+         This list of factors that may affect future performance and the
+accuracy of forward-looking statements is illustrative, but it is by no means
+exhaustive. Accordingly, all forward-looking statements should be evaluated with
+the understanding of their inherent uncertainty.
+
+
+
+                                      -11-
+<PAGE>   14
+                           PART II. OTHER INFORMATION
+
+         ITEM 6.          EXHIBITS AND REPORTS ON FORM 8-K.
+
+         (a)      Exhibits
+
+                  27.1             Financial Data Schedule
+
+         (b)      Reports on Form 8-K
+
+                  There were no reports on Form 8-K for the quarter ended April
+                  1, 2000.
+
+
+
+                                      -12-
+<PAGE>   15
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                K-TRON INTERNATIONAL, INC.
+
+
+Date: May 1, 2000               By:   /s/ Ronald R. Remick
+                                      --------------------
+                                      Ronald R. Remick
+                                      Senior Vice President & Chief
+                                      Financial Officer
+                                      (Duly authorized officer and principal
+                                      financial officer of the Registrant)
+
+
+                                By:   /s/ Alan R. Sukoneck
+                                      Vice President,Chief Accounting
+                                      & Tax Officer
+                                      (Duly authorized officer and principal
+                                      accounting officer of the Registrant)
+
+
+
+                                      -13-
+<PAGE>   16
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+                             Exhibit Number           Description
+                             --------------           -----------
+<S>                                                   <C>
+                                   27.1               Financial Data Schedule
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-30-2000
+<PERIOD-END>                               APR-01-2000
+<CASH>                                           1,364
+<SECURITIES>                                         0
+<RECEIVABLES>                                   16,665
+<ALLOWANCES>                                       898
+<INVENTORY>                                     10,885
+<CURRENT-ASSETS>                                29,775
+<PP&E>                                          40,497
+<DEPRECIATION>                                  26,040
+<TOTAL-ASSETS>                                  48,500
+<CURRENT-LIABILITIES>                           18,684
+<BONDS>                                         12,653
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            44
+<OTHER-SE>                                      16,624
+<TOTAL-LIABILITY-AND-EQUITY>                    48,500
+<SALES>                                         20,288
+<TOTAL-REVENUES>                                20,288
+<CGS>                                           11,012
+<TOTAL-COSTS>                                   11,012
+<OTHER-EXPENSES>                                 7,151
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 122
+<INCOME-PRETAX>                                  2,003
+<INCOME-TAX>                                       630
+<INCOME-CONTINUING>                              1,373
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,373
+<EPS-BASIC>                                        .48
+<EPS-DILUTED>                                      .47
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

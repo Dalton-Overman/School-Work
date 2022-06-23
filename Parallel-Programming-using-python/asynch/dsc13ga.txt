@@ -1,0 +1,357 @@
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>dsc13ga.txt
+<DESCRIPTION>SCHEDULE 13G/A
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                  SCHEDULE 13G
+
+
+
+                    Under the Securities Exchange Act of 1934
+
+                               (Amendment No. 3)*
+
+
+                           K-TRON INTERNATIONAL, INC.
+--------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                                  COMMON STOCK
+--------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    482730108
+                        ------------------------------
+                                 (CUSIP Number)
+
+
+                               December 31, 2001
+--------------------------------------------------------------------------------
+            (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+     [X] Rule 13d-1(b)
+     [_] Rule 13d-1(c)
+     [_] Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+                               Page 1 of 6 pages
+
+<PAGE>
+
+CUSIP NO. 482730108                   13G                    Page 2 of 6 Pages
+
+------------------------------------------------------------------------------
+      NAMES OF REPORTING PERSONS
+ 1    I.R.S. IDENTIFICATION NOs. OF ABOVE PERSONS
+
+      HEARTLAND ADVISORS, INC.
+      #39-1078128
+------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+ 2                                                              (a) [_]
+                                                                (b) [_]
+------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 4
+      WISCONSIN, U.S.A.
+------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     5
+     NUMBER OF            208,400
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      6
+     OWNED BY             None
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     7
+    REPORTING             277,500
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          8
+                          None
+------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+ 9
+      277,500
+------------------------------------------------------------------------------
+      CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+10
+                                                                    [_]
+------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+11
+      11.4%
+------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON
+12
+      IA
+------------------------------------------------------------------------------
+
+<PAGE>
+
+CUSIP NO. 482730108                   13G                    Page 3 of 6 Pages
+
+------------------------------------------------------------------------------
+      NAMES OF REPORTING PERSONS
+ 1    I.R.S. IDENTIFICATION NOs. OF ABOVE PERSONS
+
+      WILLIAM J. NASGOVITZ
+------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+ 2                                                              (a) [_]
+                                                                (b) [_]
+------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 4
+      U.S.A.
+------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     5
+     NUMBER OF            None
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      6
+     OWNED BY             None
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     7
+    REPORTING             None
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          8
+                          None
+------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+ 9
+      0
+------------------------------------------------------------------------------
+      CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+10
+                                                                    [_]
+------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+11
+      0.0%
+------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON
+12
+      IN
+------------------------------------------------------------------------------
+
+<PAGE>
+
+
+CUSIP NUMBER  482730108                                        Page 4 Of 6 Pages
+
+Item 1.
+       (a) Name of Issuer: K-Tron International, Inc.
+           --------------
+
+
+       (b) Address of Issuer's Principal Executive Offices:
+           -----------------------------------------------
+            Route 55 & 553
+            P.O. Box 888
+            Pitman, NJ 08071-0888
+
+Item 2.
+       (a) Name of Person Filing:
+           ---------------------
+       (1) Heartland Advisors, Inc.
+
+       (2) William J. Nasgovitz
+
+
+       (b) Address of Principal Business Office:
+           ------------------------------------
+            (1) 789 North Water Street
+                Milwaukee, WI  53202
+
+            (2) 789 North Water Street
+                Milwaukee, WI  53202
+
+
+       (c) Citizenship:
+           -----------
+           Heartland Advisors is a Wisconsin corporation.
+           William J. Nasgovitz - U.S.A
+
+       (d) Title of Class of Securities:  Common Stock
+           ----------------------------
+
+       (e) CUSIP Number: 482730108
+           ------------
+
+Item 3. The persons filing this Schedule 13G are Heartland Advisors, Inc., an
+investment adviser registered with the SEC, and William J. Nasgovitz, President
+and principal shareholder of Heartland Advisors, Inc. Mr. Nasgovitz joins in
+this filing pursuant to SEC staff positions authorizing certain individuals in
+similar situations to join in a filing with a controlled entity eligible to file
+on Schedule 13G. The reporting persons do not admit that they constitute a
+group.
+
+Item 4. Ownership.
+        ---------
+
+       (a) Amount beneficially owned:
+           -------------------------
+
+277,500 shares may be deemed beneficially owned within the meaning of Rule 13d-3
+of the Securities Exchange Act of 1934 by (1) Heartland Advisors, Inc. by virtue
+of its investment discretion and in some cases voting power over client
+securities, which may be revoked; and (2) William J. Nasgovitz, as a result of
+his position with and stock ownership of Heartland which could be deemed to
+confer upon him voting and/or investment power over the shares Heartland
+beneficially owns. Of these 277,500 shares, none of the shares may be deemed
+beneficially owned within the meaning of Rule 13d-3 of the Securities Exchange
+Act of 1934 by Mr. Nasgovitz as a result of his position as an officer and
+director of Heartland Group, Inc. which could be deemed to confer upon him
+voting power over the shares Heartland Group beneficially owns.
+
+       (b) Percent of Class:
+           ----------------
+           11.4%
+
+
+       (c) For information on voting and dispositive power with respect to the
+ above listed shares, see Items 5-8 of the Cover Page.
+
+
+
+<PAGE>
+
+Item 5. Ownership of Five Percent or Less of a Class.
+        --------------------------------------------
+
+        If this statement is being filed to report the fact that as
+of the date hereof the reporting person has ceased to be the
+beneficial owner of more than five percent of the class of
+securities, check the following: [_]
+
+Item 6. Ownership of more than Five Percent on Behalf of Another Person.
+        ---------------------------------------------------------------
+
+        The shares of common stock to which this Schedule relates are held in
+investment advisory accounts of Heartland Advisors, Inc. As a result, various
+persons have the right to receive or the power to direct the receipt of
+dividends from, or the proceeds from the sale of, the securities. No such
+account is known to have such an interest relating to more than 5% of the class.
+
+
+Item 7.   Identification and Classification of the Subsidiary Which Acquired the
+          ----------------------------------------------------------------------
+Security Being Reported on By the Parent Holding Company.
+--------------------------------------------------------
+
+          Not Applicable.
+
+
+Item 8.   Identification and Classification of Members of the Group.
+          ---------------------------------------------------------
+
+          Not Applicable.
+
+
+Item 9.   Notice of Dissolution of Group.
+          ------------------------------
+
+          Not Applicable.
+
+
+Item 10.  Certification.
+          -------------
+
+          By signing below, the undersigned certify that, to the best of their
+knowledge and belief, the securities referred to above were acquired and are
+held in the ordinary course of business and were not acquired and are not held
+for the purpose of or with the effect of changing or influencing the control of
+the issuer of the securities and were not acquired and are not held in
+connection with or as a participant in any transaction having that purpose or
+effect.
+
+                                    SIGNATURE
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+DATE: January 8, 2002
+
+
+
+WILLIAM J. NASGOVITZ                        HEARTLAND ADVISORS, INC.
+
+By: /s/ PAUL T. BESTE                       By: /s/ PAUL T. BESTE
+    -----------------                           -----------------
+    Paul T. Beste                                    Paul T. Beste
+    As Attorney in Fact for                          Chief Operating Officer
+    William J. Nasgovitz
+
+
+
+EXHIBIT INDEX
+
+      Exhibit 1     Joint Filing Agreement
+
+<PAGE>
+
+EXHIBIT 1
+
+
+                             Joint Filing Agreement
+
+The undersigned persons agree and consent to the joint filing on their behalf of
+this Schedule 13G in connection with their beneficial ownership of K-Tron
+International Inc. at December 31, 2001.
+
+
+
+WILLIAM J. NASGOVITZ
+
+By: /s/ PAUL T. BESTE
+    -----------------
+         Paul T. Beste
+As Attorney in Fact for William J. Nasgovitz
+
+
+
+HEARTLAND ADVISORS, INC.
+
+
+By:  /s/ PAUL T. BESTE
+     -----------------
+          Paul T. Beste
+          Chief Operating Officer
+
+</TEXT>
+</DOCUMENT>

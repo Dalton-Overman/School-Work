@@ -1,0 +1,126 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.txt
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  _____________
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+       Date of report (Date of earliest event reported): October 16, 2003
+                                                         ----------------
+
+
+                           K-TRON INTERNATIONAL, INC.
+                  -------------------------------------------
+                 (Exact Name of Registrant Specified in Charter)
+
+
+      New Jersey                     0-9576                     22-1759452
+      (State or Other            (Commission File          (I.R.S. Employer
+      Jurisdiction of                Number)              Identification No.)
+      Incorporation)
+----------------------------- -------------------------- -----------------------
+
+
+             Routes 55 & 553
+               P.O. Box 888
+             Pitman, New Jersey                             08071-0888
+          ------------------------                          ----------
+  (Address of Principal Executive Offices)                  (Zip Code)
+--------------------------------------------------------------------------------
+
+
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                            -------------
+
+
+                                 Not Applicable
+           ----------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+<PAGE>
+
+
+Item 12.  Results of Operations and Financial Condition.
+
+      On October 16, 2003,  K-Tron  International,  Inc.  issued a press release
+announcing its third quarter and first nine months 2003 financial  results.  The
+press  release is being  filed with this  Current  Report on Form 8-K as Exhibit
+99.1 and is hereby incorporated herein by reference.
+
+
+
+
+
+                                      -2-
+
+<PAGE>
+
+
+
+                                    SIGNATURE
+
+
+      Pursuant to the  requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+
+                                             K-TRON INTERNATIONAL, INC.
+
+
+                                                  By /s/ Edward B. Cloues, II
+                                                  ----------------------------
+                                                  Edward B. Cloues, II
+                                                  Chairman of the Board and
+                                                  Chief Executive Officer
+
+
+
+Dated: October 21, 2003
+
+
+                                      -3-
+
+<PAGE>
+
+
+
+                                  Exhibit Index
+                                 --------------
+
+         Exhibit
+         -------
+
+            99.1        Press Release,  dated October 16, 2003, issued by K-Tron
+                        International, Inc.
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

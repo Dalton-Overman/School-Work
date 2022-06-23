@@ -1,0 +1,1012 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NXj5r1/cBziLyRMYnljWVbtQxoKdzoqKxYyDE/ouSdNtPovgw6kYvL8STgt9x/lQ
+ 3XshYFTC/5MJmjmIRATKKQ==
+
+<SEC-DOCUMENT>0000893220-02-000537.txt : 20020430
+<SEC-HEADER>0000893220-02-000537.hdr.sgml : 20020430
+ACCESSION NUMBER:		0000893220-02-000537
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020330
+FILED AS OF DATE:		20020430
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		02627086
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>w60117e10-q.txt
+<DESCRIPTION>FORM 10-Q K-TRON INTERNATIONAL, INC.
+<TEXT>
+<PAGE>
+
+
+                        SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+(Mark One)
+[X]             QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended          March 30, 2002
+                                              ---------------------------------
+
+
+                                      OR
+
+[ ]          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+             For the transition period from                to
+                                            --------------    --------------
+
+                       Commission file number   0-9576
+                                              ----------
+
+                          K-TRON INTERNATIONAL, INC.
+- ------------------------------------------------------------------------------
+            (Exact Name of Registrant as Specified in Its Charter)
+
+           New Jersey                                 22-1759452
+- ------------------------------------------------------------------------------
+(State or Other Jurisdiction of                    (I.R.S. Employer
+ Incorporation or Organization)                   Identification #)
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey             08071-0888
+- ------------------------------------------------------------------------------
+(Address of Principal Executive Offices)                      (Zip Code)
+
+Registrant's Telephone Number, Including Area Code     (856) 589-0500
+                                                  ----------------------------
+
+                                Not Applicable
+- ------------------------------------------------------------------------------
+             (Former Name, Former Address and Formal Fiscal Year,
+                        if Changed Since Last Report)
+
+Indicate by check X whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days. Yes   X     No
+                                      -------     -------
+
+The Registrant had 2,432,092 shares of Common Stock outstanding as of March
+30, 2002.
+
+
+<PAGE>
+
+
+
+                 K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                    INDEX
+
+
+<TABLE>
+<CAPTION>
+                                                                                       Page No.
+                                                                                       --------
+
+<S>                        <C>                                                       <C>
+PART  I.                   FINANCIAL INFORMATION
+                           ---------------------
+
+         Item 1.           Financial Statements.
+
+                           Consolidated Balance Sheets                                  1
+                           March 30, 2002 and December 29, 2001
+
+                           Consolidated Statements of Income                            2
+                           & Retained Earnings for the Three Months
+                           Ended March 30, 2002 and March 31, 2001
+
+                           Consolidated Statements of Cash Flows                        3
+                           for the Three Months Ended March 30, 2002
+                           and March 31, 2001
+
+                           Notes to Consolidated Financial Statements                   4 - 7
+
+         Item 2.           Management's Discussion and Analysis                         8 - 12
+                           of Financial Condition and Results of Operations
+
+PART II.                   OTHER INFORMATION
+                           -----------------
+
+         Item 6.           Exhibits and Reports on Form 8-K.                            13
+</TABLE>
+
+
+
+
+
+<PAGE>
+
+
+                        PART I.  FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS.
+
+                  K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                         CONSOLIDATED BALANCE SHEETS
+                   (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                                           March 30,      December 29,
+                                                                                             2002             2001
+                                                                                             ----             ----
+                                                                                          (Unaudited)
+<S>                                                                                   <C>                <C>
+                           ASSETS
+                           ------
+CURRENT ASSETS:
+     Cash and cash equivalents                                                              $ 3,106          $ 2,214
+     Accounts receivable, net of allowance for
+       doubtful accounts of $695 and $687                                                    14,815           14,723
+     Inventories                                                                              9,285           10,212
+     Deferred income taxes                                                                      326              326
+     Prepaid expenses and other current assets                                                1,600            1,293
+                                                                                            -------          -------
+           Total current assets                                                              29,132           28,768
+
+PROPERTY, PLANT AND EQUIPMENT, net                                                           13,361           13,848
+PATENTS, net                                                                                    787              799
+GOODWILL, net                                                                                 2,053            2,053
+NOTES RECEIVABLE AND OTHER ASSETS                                                             2,135            2,176
+                                                                                            -------          -------
+           Total assets                                                                     $47,468          $47,644
+                                                                                            =======          =======
+
+                           LIABILITIES & SHAREHOLDERS' EQUITY
+                           ----------------------------------
+CURRENT LIABILITIES:
+     Current portion of long-term debt                                                      $ 2,200          $ 2,186
+     Accounts payable                                                                         4,548            4,218
+     Accrued expenses and other current liabilities                                           4,850            4,547
+     Accrued commissions                                                                      1,399            1,220
+     Customer advances                                                                        1,028            1,032
+                                                                                            -------          -------
+                           Total current liabilities                                         14,025           13,203
+
+LONG-TERM DEBT, net of current portion                                                       10,835           12,499
+DEFERRED INCOME TAXES                                                                           381              381
+COMMITMENTS AND CONTINGENCIES
+SERIES B JUNIOR PARTICIPATING PREFERRED SHARES,
+     $.01 par value - authorized 50,000 shares; none issued                                      --               --
+SHAREHOLDERS' EQUITY:
+     Preferred stock, $.01 par  - authorized 950,000 shares; none issued                         --               --
+     Common stock, $.01 par value - authorized 50,000,000 shares;
+        issued 4,433,342 shares and 4,432,742 shares                                             44               44
+Paid-in capital                                                                              16,701           16,697
+Retained earnings                                                                            36,235           35,484
+Cumulative translation adjustments                                                           (3,256)          (3,167)
+                                                                                            -------          --------
+                                                                                             49,724           49,058
+                                                                                            -------          -------
+Treasury stock, 2,001,250 and 2,001,250 shares - at cost                                    (27,497)         (27,497)
+                                                                                            -------          -------
+     Total shareholders' equity                                                              22,227           21,561
+                                                                                            -------          -------
+     Total liabilities and shareholders' equity                                             $47,468          $47,644
+                                                                                            =======          =======
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                     -1-
+
+
+<PAGE>
+
+
+                  K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+            CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                   (Dollars in Thousands except Share Data)
+                                 (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                           Three Months Ended
+                                                           ------------------
+                                                     March 30,           March 31,
+                                                       2002                2001
+                                                       ----                ----
+<S>                                                 <C>                 <C>
+REVENUES                                             $16,568             $21,558
+
+COST OF REVENUES                                       9,432              12,658
+                                                     -------             -------
+         Gross Profit                                  7,136               8,900
+
+OPERATING EXPENSES:
+   Selling, general and administrative                 5,252               6,496
+   Research and development                              706                 749
+                                                     -------             -------
+                                                       5,958               7,245
+                                                     -------             -------
+
+
+         Operating Income                              1,178               1,655
+
+INTEREST EXPENSE                                         173                 311
+                                                     -------             -------
+   Income before income taxes                          1,005               1,344
+
+INCOME TAX PROVISION                                     254                 369
+                                                     -------             -------
+
+         Net Income                                      751                 975
+
+RETAINED EARNINGS
+   Beginning of period                                35,484              34,436
+                                                     -------             -------
+   End of period                                     $36,235             $35,411
+                                                     =======             =======
+
+EARNINGS PER SHARE
+   Basic                                             $  0.31             $  0.40
+                                                     =======             =======
+   Diluted                                           $  0.31             $  0.39
+                                                     =======             =======
+</TABLE>
+
+
+
+
+                See Notes to Consolidated Financial Statements
+
+
+
+                                     -2-
+
+<PAGE>
+
+
+                  K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                    CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (Dollars in Thousands)
+                                 (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                               Three Months Ended
+                                                                                          ---------------------------
+                                                                                          March 30,         March 31,
+                                                                                             2002              2001
+                                                                                             ----              ----
+<S>                                                                                      <C>               <C>
+OPERATING ACTIVITIES:
+   Net income                                                                              $   751           $   975
+   Adjustment to reconcile net income to net cash provided by operating activities:
+       Depreciation and amortization                                                           683               802
+       Changes in assets and liabilities:
+         Accounts receivable, net                                                             (151)              614
+         Inventories                                                                           899              (978)
+         Prepaid expenses and other current assets                                            (314)             (541)
+         Other assets                                                                           33                 1
+         Accounts payable                                                                      354            (1,208)
+         Accrued expenses and other current liabilities                                        509             1,306
+                                                                                           -------           -------
+                  Net cash provided by operating activities                                  2,764               971
+                                                                                           -------           -------
+
+INVESTING ACTIVITIES:
+   Capital expenditures                                                                       (218)             (578)
+   Investment in patents                                                                       (15)              (24)
+                                                                                           -------           -------
+                  Net cash used in investing activities                                       (233)             (602)
+                                                                                           -------           -------
+
+FINANCING ACTIVITIES:
+   Net repayments under notes payable to banks                                              (1,116)               --
+   Proceeds from issuance of long-term debt                                                     --               481
+   Principal payments on long-term debt                                                       (509)             (438)
+   Proceeds from issuance of common stock                                                        4                71
+                                                                                           -------           -------
+                  Net cash used in (provided by) financing activities                       (1,621)              114
+                                                                                           -------           -------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH EQUIVALENTS                                                                            (18)              (53)
+                                                                                           -------           -------
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS                                                      892               430
+                                                                                           -------           -------
+
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                                       2,214               553
+                                                                                           -------           -------
+   End of period                                                                           $ 3,106           $   983
+                                                                                           =======           =======
+</TABLE>
+
+
+                See Notes to Consolidated Financial Statements
+
+
+
+
+                                     -3-
+
+
+<PAGE>
+
+
+                  K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                March 30, 2002
+                                 (Unaudited)
+
+
+1.       Basis of Presentation
+
+The accompanying unaudited financial statements have been prepared in
+accordance with the instructions for Form 10-Q and do not include all of the
+information and footnotes required by generally accepted accounting principles
+for complete financial statements. The consolidated financial statements
+include the accounts of K-Tron International, Inc. and its subsidiaries
+("K-Tron" or the "Company"). All intercompany transactions have been
+eliminated in consolidation. In the opinion of management, all adjustments
+(consisting of a normal recurring nature) considered necessary for a fair
+presentation of results for interim periods have been made. The results for
+the interim periods are not necessarily indicative of the results for a full
+year.
+
+Certain reclassifications were made to the prior year's consolidated financial
+statements to conform to the current year presentation.
+
+The unaudited financial statements herein should be read in conjunction with
+the Company's Annual Report on Form 10-K for the year ended December 29, 2001
+which was previously filed with the Securities and Exchange Commission.
+
+2.       Supplemental Disclosures of Cash Flow Information
+
+The Company considers all highly liquid short-term investments purchased with
+an original maturity of three months or less to be cash equivalents.
+
+Cash paid in the first three months of 2002 and 2001 for interest was $0.2
+million and $0.3 million, respectively, and for income taxes was zero and $0.1
+million, respectively.
+
+3.       Inventories
+
+Inventories consist of the following:
+
+
+<TABLE>
+<CAPTION>
+                                     March 30,        December 29,
+                                       2002               2001
+                                       ----               ----
+                                             (in thousands)
+<S>                                  <C>                <C>
+Components                           $7,776             $ 8,416
+Work-in-process                       1,383               1,692
+Finished goods                          126                 104
+                                     ------             -------
+                                     $9,285             $10,212
+                                     ======             =======
+</TABLE>
+
+
+
+                                     -4-
+
+
+<PAGE>
+
+
+4.       Earnings Per Share
+
+The Company's Basic and Diluted Earnings Per Share are calculated as follows:
+
+<TABLE>
+<CAPTION>
+                                       For the Three Months Ended March 30, 2002
+                                       -----------------------------------------
+(Dollars and Shares in Thousands
+except Per Share Data)               Net Income Available
+                                          To Common                     Earnings
+                                         Shareholders        Shares     Per Share
+                                     --------------------    ------     ---------
+<S>                                  <C>                     <C>        <C>
+Basic                                      $751               2,432       $ 0.31
+
+      Common Share Equivalent
+        of Outstanding Options               --                  17        (0.00)
+                                           ----               -----       ------
+Diluted                                    $751               2,449       $ 0.31
+                                           ====               =====       ======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                       For the Three Months Ended March 31, 2001
+                                       -----------------------------------------
+(Dollars and Shares in Thousands
+except Per Share Data)               Net Income Available
+                                          To Common                     Earnings
+                                         Shareholders        Shares     Per Share
+                                     --------------------    ------     ---------
+<S>                                 <C>                     <C>        <C>
+Basic                                      $975               2,442      $ 0.40
+
+      Common Share Equivalent
+        of Outstanding Options               --                  60       (0.01)
+                                           ----               -----      ------
+Diluted                                    $975               2,502      $ 0.39
+                                           ====               =====      ======
+</TABLE>
+
+Diluted earnings per common share are based on the weighted average number of
+common and common equivalent shares outstanding during a given time period.
+Such average shares include the weighted average number of common shares
+outstanding plus the shares issuable upon exercise of stock options after the
+assumed repurchase of common shares with the related proceeds.
+
+
+5.       Comprehensive Income
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                      Three Months Ended
+                                            ------------------
+                                       March 30,             March 31,
+                                          2002                  2001
+                                          ----                  ----
+<S>                                   <C>                    <C>
+Net Income                                $751                $   975
+Cumulative Translation Adjustments         (89)                (1,153)
+                                          ----                -------
+Comprehensive Income (loss)               $662                $  (178)
+                                          ====                =======
+</TABLE>
+
+
+
+
+                                     -5-
+
+
+<PAGE>
+
+
+6.       Management Segment Information
+
+The Company is engaged in one principal business segment, material handling
+equipment and systems. The Company operates in two primary geographic
+locations, North America and Western Europe. For the three months in the
+periods ended March 30, 2002 and March 31, 2001, the following tables set
+forth the Company's segment information:
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                         North     Western    Elimi-     Consoli-
+                                              America     Europe    nations     dated
+                                              -------     ------    -------     -----
+
+<S>                                           <C>         <C>       <C>        <C>
+THREE MONTHS ENDED March 30, 2002:
+     Revenues-
+     Sales to unaffiliated customers          $7,479      $9,089    $    --    $16,568
+     Sales to affiliates                         948         305     (1,253)        --
+                                              ------      ------    -------    -------
+         Total sales                          $8,427      $9,394    $(1,253)   $16,568
+                                              ======      ======    =======    =======
+
+
+  Operating income                            $  644      $  534    $    --    $ 1,178
+                                              ======      ======    =======
+   Interest expense                                                               (173)
+                                                                               -------
+   Income before income taxes                                                  $ 1,005
+                                                                               =======
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                         North     Western    Elimi-     Consoli-
+                                              America     Europe    nations     dated
+                                              -------     ------    -------     -----
+
+<S>                                           <C>         <C>       <C>        <C>
+THREE MONTHS ENDED March 31, 2001:
+     Revenues-
+     Sales to unaffiliated customers          $ 9,069    $12,489    $    --    $21,558
+     Sales to affiliates                        1,280        581     (1,861)        --
+                                              -------    -------    -------    -------
+         Total sales                          $10,349    $13,070    $(1,861)   $21,558
+                                              =======    =======    =======    =======
+
+
+   Operating income                           $ 1,068    $   587    $    --    $ 1,655
+                                              =======    =======    =======
+   Interest expense                                                               (311)
+                                                                               -------
+   Income before income taxes                                                  $ 1,344
+                                                                               =======
+</TABLE>
+
+
+
+
+                                     -6-
+
+
+<PAGE>
+
+
+7.       Goodwill
+
+
+The Company adopted Statement of Financial Accounting Standard (SFAS) No. 142,
+"Goodwill and Other Intangible Assets," on December 30, 2001. This Statement
+provides that goodwill and intangible assets with indefinite lives will no
+longer be amortized. The Statement requires the Company to conduct an
+impairment test of goodwill to assess whether there is an indication that
+goodwill is impaired within six months of the adoption date of the standard.
+If this test indicates that goodwill may be impaired, the Company is required
+to conduct a second test to calculate the amount of impairment loss by
+December 28, 2002. In subsequent years, an impairment test will be performed
+on an annual basis and whenever events or circumstances occur indicating that
+goodwill may be impaired. The Company is currently performing an impairment
+test of goodwill as of December 30, 2001.
+
+As required by SFAS 142, the Company has reassessed the balance sheet
+classification, useful lives and residual values of all acquired intangible
+assets. As a result of this assessment, no adjustments or reclassifications
+were required and only goodwill was determined to have an indefinite life.
+Goodwill amortization in fiscal 2001 was $345 thousand on an after-tax basis,
+or $0.14 per share. Goodwill amortization for the three months ended March 31,
+2001 was $132 thousand on an after-tax basis, or $0.05 per share.
+
+
+
+
+                                     -7-
+
+
+<PAGE>
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS.
+
+RESULTS OF OPERATIONS
+
+         For the first three months of 2002 and 2001, we reported net income
+of $0.751 million and $0.975 million, respectively. On July 31, 2001, we sold
+our Hasler heavy feeder business, which sale is more fully discussed in our
+Annual Report on Form 10-K for the year ended December 29, 2001. Revenues and
+profits for the first quarter declined from year ago levels due to both the
+Hasler sale and a weaker global economy with reduced capital equipment
+spending.
+
+         We are an international company, and we derived approximately 55% and
+58% of our first three months 2002 and 2001 revenues, respectively, from
+products manufactured in, and services performed from, our facilities located
+outside the United States, primarily in Europe. Since we operate globally, we
+are sensitive to changes in foreign currency exchange rates ("foreign exchange
+rates"), which can affect both the translation of financial statement items
+into U.S. dollars and the impact of transactions where the revenues and
+related expenses may initially be accounted for in different currencies, such
+as sales made from our Swiss manufacturing facility in currencies other than
+the Swiss franc.
+
+         The following table sets forth our results of operations expressed as
+a percentage of total revenues for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                   Three Months Ended
+                                                   ------------------
+                                              March 30,           March 31,
+                                                2002                2001
+                                                ----                ----
+<S>                                          <C>                 <C>
+Total revenues                                 100.0%              100.0%
+Cost of revenues                                56.9                58.7
+                                               -----               -----
+Gross profit                                    43.1                41.3
+
+Selling, general & administrative               31.7                30.1
+Research & development                           4.3                 3.5
+                                               -----               -----
+Operating income                                 7.1                 7.7
+Interest                                         1.0                 1.5
+                                               -----               -----
+Income before income taxes                       6.1%                6.2%
+                                               =====               =====
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                              March 30, 2002     December 29, 2001      March 31, 2001
+                                              --------------     -----------------      --------------
+<S>                                          <C>                <C>                    <C>
+Backlog at end of period (at
+March 30, 2002 foreign
+exchange rates, in thousands)
+
+Backlog including Hasler business                 11,482                12,091               16,661
+                                                  ======                ======               ======
+
+Backlog excluding Hasler
+  business (sold July 31, 2001)                   11,482                12,091               14,052
+                                                  ======                ======               ======
+</TABLE>
+
+
+
+
+                                     -8-
+
+
+<PAGE>
+
+
+         As previously noted, more than half of our revenues are normally
+derived from activities in foreign jurisdictions. Consequently, our results can
+be significantly affected by changes in foreign exchange rates, particularly in
+U.S. dollar exchange rates with respect to the Swiss franc and euro and, to a
+lesser degree, the British pound sterling and other currencies. When the U.S.
+dollar strengthens against these currencies, the U.S. dollar value of non-U.S.
+dollar-based sales decreases. When the U.S. dollar weakens against these
+currencies, the U.S. dollar value of non-U.S. dollar-based sales increases.
+Correspondingly, the U.S. dollar value of non-U.S. dollar-based costs increases
+when the U.S. dollar weakens and decreases when the U.S. dollar strengthens.
+Overall, since we typically receive a majority of our revenues in currencies
+other than the U.S. dollar, we generally benefit from a weaker dollar and are
+adversely affected by a stronger dollar relative to major currencies worldwide,
+especially those identified above. Accordingly, changes in foreign exchange
+rates, and in particular a strengthening of the U.S. dollar, may adversely
+affect our total revenues, gross profit and operating income as expressed in
+U.S. dollars.
+
+         In addition, our revenues and income with respect to particular
+transactions may be affected by changes in foreign exchange rates where sales
+are made in currencies other than the functional currency of the facility
+manufacturing the product subject to the sale, including in particular the U.S.
+dollar/Swiss franc (for inter-company transactions) and the euro/Swiss franc
+(for sales from the Company's Swiss manufacturing facility) exchange rates. For
+the first three months of 2002 and 2001, the changes in these and the U.S.
+dollar/euro exchange rates were as follows:
+
+
+<TABLE>
+<CAPTION>
+                                             Three Months Ended
+                                             ------------------
+                                          March 30,       March 31,
+                                            2002             2001
+                                            ----             ----
+<S>                                       <C>       <C>     <C>
+Average U.S. dollar equivalent of
+   one Swiss franc                          0.595           0.602
+% change vs. prior year                             -1.2.%
+
+Average U.S. dollar equivalent of
+   one euro                                 0.876           0.923
+% change vs. prior year                             -5.1%
+
+Average Swiss franc equivalent of
+   one euro                                 1.472           1.533
+% change vs. prior year                             -4.0%
+</TABLE>
+
+
+         Total revenues decreased by $4.99 million or 23.1% ($3.06 million or
+15.6% without Hasler) in the first quarter of 2002 compared to the same period
+in 2001. Compared to the first quarter of 2001 and excluding Hasler, the
+decrease in revenues for the first three months of 2002 was driven by declines
+in Western Europe and to a lesser extent in North America, partially offset by a
+full quarter of revenues from a November 2001 acquisition in the United Kingdom.
+The effect of foreign exchange translation was minimal when comparing 2002 with
+2001.
+
+
+
+
+                                     -9-
+
+
+<PAGE>
+
+
+
+         Gross profit as a percent of revenues increased to 43.1% for the first
+quarter of 2002 compared to 41.3% for the same period in 2001. The improvement
+in gross profit was primarily due to the change in sales mix as a result of the
+July 31, 2001 sale of the Hasler business and a reduction in fixed costs,
+including the elimination of goodwill expense as the Company adopted SFAS No.
+142 on December 30, 2001.
+
+         Selling, general and administrative (SG&A) expense decreased by $1.2
+million or 19.2% ($0.5 million or 8.1% without Hasler) for the first quarter of
+2002 compared to the same period in 2001. The decrease in 2002 SG&A was
+primarily due to lower commissions on the reduced revenues, fewer employees and
+the elimination of Hasler SG&A. As a percent of total revenues, SG&A for the
+first quarter of 2002 was 31.7% compared to 30.1% for the same period in 2001.
+
+         Research and development (R&D) expenditures decreased by $43 thousand
+or 5.7% for the first quarter of 2002 compared to the same period in 2001. R&D
+expenses decreased due to lower staff costs, offset in part by an increase in
+tooling costs. R&D expense as a percent of total revenues was 4.3% for the first
+quarter compared to 3.5% for the same period in 2001.
+
+         Interest expense decreased by $138 thousand or 44.4% for the first
+quarter of 2002 compared to the same period in 2001. The decrease for the first
+quarter was primarily due to lower interest rates and debt reductions.
+
+         The effective tax rate for the first quarter of 2002 was 25.3% compared
+to 27.5% for the same period in 2001. The lower effective tax rate in 2002 was
+primarily due to lower taxable income in the United States.
+
+         The backlog of non-Hasler customer orders decreased by 5.0% at the end
+of the first quarter of 2002 compared to year end 2001 and by 18.3% compared to
+the end of the first quarter in 2001, in each case at constant foreign exchange
+rates. The decrease as compared to the end of 2001 was primarily the result of
+lower orders received in Switzerland while the decrease as compared to the first
+quarter of 2001 was the result of lower orders received at our facilities in
+Switzerland and the United States.
+
+
+
+
+                                     -10-
+
+
+<PAGE>
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         Our capitalization as of the end of the first quarter of 2002 and as of
+the end of fiscal years 2001 and 2000 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                     March 30,          Dec. 29,         Dec. 30,
+(Dollars in Thousands)                                  2002              2001            2000
+                                                     ---------         ----------        --------
+<S>                                                 <C>                    <C>          <C>
+Short-term debt, including current
+   portion of long-term debt                           $ 2,200           $ 2,186          $ 3,595
+Long-term debt                                          10,835            12,499           12,390
+                                                        ------            ------          -------
+Total debt                                              13,035            14,685           15,985
+                                                        ======            ======           ======
+
+Shareholders' equity                                    22,227            21,561           21,311
+                                                        ------            ------           ------
+Total debt and shareholders' equity                    $35,262           $36,246          $37,296
+         (total capitalization)                        =======           =======          =======
+
+Percent total debt to total capitalization                 37%               41%              43%
+Percent long-term debt to equity                           49%               58%              58%
+Percent total debt to equity                               59%               68%              75%
+</TABLE>
+
+         Total debt decreased by $1.65 million in the first three months of
+2002, or $1.63 million when adjusted to a constant foreign exchange rate, with
+U.S. debt decreasing by $1.63 million. At March 30, 2002, we had $5.0 million
+of unused borrowing availability under our U.S. revolving credit agreement and
+$1.6 million of unused borrowing availability under our foreign loan
+agreements.
+
+         At March 30, 2002, working capital was $15.1 million compared to
+$15.6 million at December 29, 2001, and the ratio of current assets to current
+liabilities at those dates was 2.08 and 2.18, respectively.
+
+         In the first three months of 2002 and 2001, we utilized
+internally-generated funds to meet our working capital needs.
+
+         Net cash provided by operating activities was $2.8 million in the
+first three months of 2002 compared to $1.0 million in the same period of
+2001. The increase in operating cash flow during the first three months of
+2002 compared to the same period in 2001 was primarily due to a reduction in
+inventory and an increase in accounts payable and accrued expenses.
+
+         Net cash used in investing activities in the first three months of
+2002 and 2001 was primarily for capital additions.
+
+         Cash used in financing activities in the first three months of 2002
+was primarily for debt reduction.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and euro, caused a decrease in shareholders' equity of $89
+thousand in the first three months of 2002.
+
+
+
+
+                                     -11-
+
+
+<PAGE>
+
+
+FORWARD-LOOKING STATEMENTS AND RISK FACTORS
+
+     The Private Securities Litigation Reform Act of 1995 (the "Act") provides
+a safe harbor for forward-looking statements made by us or on our behalf. We
+and our representatives may from time to time make written or oral statements
+that are "forward-looking," including statements contained in this report and
+other filings with the Securities and Exchange Commission, reports to our
+shareholders and news releases. All statements that express expectations,
+estimates, forecasts or projections are forward-looking statements within the
+meaning of the Act. In addition, other written or oral statements which
+constitute forward-looking statements may be made by us or on our behalf.
+Words such as "expects," "anticipates," "intends," "plans," "believes,"
+"seeks," "estimates," "projects," "forecasts," "may," "should," variations of
+such words and similar expressions are intended to identify such
+forward-looking statements. These statements are not guarantees of future
+performance and involve certain risks, uncertainties and assumptions which are
+difficult to predict. Therefore, actual outcomes and results may differ
+materially from what is expressed or forecasted in or suggested by such
+forward-looking statements. The forward-looking statements contained in this
+report include statements regarding the effect of changes in foreign exchange
+rates on our business. We undertake no obligation to update publicly any
+forward-looking statements, whether as a result of new information, future
+events or otherwise.
+
+         A wide range of factors could materially affect our future
+performance and financial and competitive position, including the following:
+(i) increasing price and product/service competition by domestic and foreign
+competitors, including new entrants; (ii) the mix of products/services sold by
+us; (iii) rapid technological changes and developments and our ability to
+continue to introduce competitive new products on a timely and cost-effective
+basis; (iv) changes in U.S. and global financial and currency markets,
+including significant interest rate and foreign currency exchange rate
+fluctuations; (v) protection and validity of patent and other intellectual
+property rights held by us and our competitors; (vi) the cyclical nature of
+our business as a capital goods supplier; (vii) possible future litigation and
+governmental proceedings; (viii) the availability of financing and financial
+resources in the amounts, at the times and on the terms required to support
+our future business, including capacity expansions and possible acquisitions;
+(ix) the loss of key customers, employees or suppliers; (x) the failure to
+carry out marketing and sales plans; (xi) the failure to integrate acquired
+businesses without substantial costs, delays or other operational or financial
+problems; (xii) economic, business and regulatory conditions and changes which
+may affect the level of new investments and purchases made by customers,
+including general economic and business conditions that are less favorable
+than expected; (xiii) domestic and international political and economic
+conditions; and (xiv) the outcome of any legal proceeding in which we are
+involved.
+
+         This list of factors that may affect our future performance and
+financial and competitive position and also the accuracy of forward-looking
+statements is illustrative, but it is by no means exhaustive. Accordingly, all
+forward-looking statements should be evaluated with the understanding of their
+inherent uncertainty.
+
+
+
+
+
+
+
+                                     -12-
+
+
+<PAGE>
+
+
+                           PART II. OTHER INFORMATION
+
+
+ITEM 6.          EXHIBITS AND REPORTS ON FORM 8-K.
+
+(a)      Exhibits
+
+         None
+
+(b)      Reports on Form 8-K
+
+         We did not file a report on Form 8-K during the quarter ended March
+30, 2002.
+
+
+
+
+
+
+                                     -13-
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                 K-TRON INTERNATIONAL, INC.
+
+
+Date:  April 30, 2002            By:   /s/ Ronald R. Remick
+- ---------------------                  -----------------------
+                                       Ronald R. Remick
+                                       Senior Vice President & Chief
+                                       Financial Officer
+                                       (Duly authorized officer and principal
+                                       financial officer of the Registrant)
+
+
+                                 By:   /s/ Alan R. Sukoneck
+                                       ----------------------
+                                       Vice President, Chief Accounting
+                                       & Tax Officer
+                                       (Duly authorized officer and principal
+                                       accounting officer of the Registrant)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -14-
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

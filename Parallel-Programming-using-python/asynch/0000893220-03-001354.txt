@@ -1,0 +1,1858 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fdi9/HalnRfzlZ4JF1RmUGYM9mT1WFJJUxRMP9AcmS1mpzuB4dJxov3aFOMFroR0
+ gzgpjqm12VOlwTiNBNG8og==
+
+<SEC-DOCUMENT>0000893220-03-001354.txt : 20030806
+<SEC-HEADER>0000893220-03-001354.hdr.sgml : 20030806
+<ACCEPTANCE-DATETIME>20030806143733
+ACCESSION NUMBER:		0000893220-03-001354
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20030628
+FILED AS OF DATE:		20030806
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		03825959
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>w89012e10vq.txt
+<DESCRIPTION>FORM 10-Q K-TRON INTERNATIONAL, INC.
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+  [X]        QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended June 28, 2003
+
+                                       OR
+
+  [ ]        TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+             For the transition period from ________________ to ________________
+
+                          Commission file number 0-9576
+
+                           K-TRON INTERNATIONAL, INC.
+- --------------------------------------------------------------------------------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+                 New Jersey                                        22-1759452
+- --------------------------------------------------------------------------------
+(State or Other Jurisdiction of Incorporation                   (I.R.S. Employer
+             or Organization)                                  Identification #)
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey                   08071-0888
+- --------------------------------------------------------------------------------
+   (Address of Principal Executive Offices)                         (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (856) 589-0500
+
+                                 Not Applicable
+- --------------------------------------------------------------------------------
+         (Former Name, Former Address and Formal Fiscal Year, if Changed
+                               Since Last Report)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes [X]                          No [ ]
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+
+Yes [ ]                          No [X]
+
+The Registrant had 2,434,354 shares of Common Stock outstanding as of August 6,
+2003.
+
+<PAGE>
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                            Page No.
+                                                                                            --------
+<S>                                                                                         <C>
+PART I.                FINANCIAL INFORMATION
+
+       Item 1.        Financial Statements.
+
+                      Consolidated Balance Sheets                                                 1
+                      June 28, 2003 and December 28, 2002
+
+                      Consolidated Statements of Income                                           2
+                      & Retained Earnings for the Three and Six
+                      Months Ended June 28, 2003 and June 29, 2002
+
+                      Consolidated Statements of Cash Flows                                       3
+                      for the Six Months Ended June 28, 2003
+                      and June 29, 2002
+
+                      Notes to Consolidated Financial Statements                             4 - 11
+
+       Item 2.        Management's Discussion and Analysis                                  12 - 20
+                      of Financial Condition and Results of Operations.
+
+       Item 3.        Quantitative and Qualitative Disclosures About                             20
+                      Market Risk.
+
+       Item 4.        Controls and Procedures.                                                   20
+
+PART II.              OTHER INFORMATION
+
+        Item 4.       Submission of Matters to a Vote of Security Holders.                       21
+
+        Item 6.       Exhibits and Reports on Form 8-K.                                          21
+
+SIGNATURES                                                                                       22
+</TABLE>
+
+<PAGE>
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS.
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                  June 28,    December 28,
+                                                                                    2003          2002
+                                                                                    ----          ----
+<S>                                                                               <C>           <C>
+                                    ASSETS
+CURRENT ASSETS:
+     Cash and cash equivalents                                                    $  5,950      $  2,694
+     Accounts receivable, net of allowance for
+       doubtful accounts of $773 and $716                                           15,389        15,275
+     Inventories                                                                    13,698         9,318
+     Deferred income taxes                                                             169           169
+     Prepaid expenses and other current assets                                       1,550         1,775
+                                                                                  --------      --------
+          Total current assets                                                      36,756        29,231
+
+PROPERTY, PLANT AND EQUIPMENT, net                                                  25,609        16,170
+PATENTS, net                                                                         1,962           767
+GOODWILL, net                                                                        2,053         2,053
+OTHER INTANGIBLES                                                                    8,982            --
+NOTES RECEIVABLE AND OTHER ASSETS                                                    2,216         2,238
+                                                                                  --------      --------
+          Total assets                                                            $ 77,578      $ 50,459
+                                                                                  ========      ========
+
+                      LIABILITIES & SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+     Current portion of long-term debt                                            $  3,471      $  2,005
+     Accounts payable                                                                4,995         4,934
+     Accrued expenses and other current liabilities                                  7,431         5,845
+     Accrued commissions                                                             1,494         1,532
+     Customer advances                                                               1,083           809
+                                                                                  --------      --------
+          Total current liabilities                                                 18,474        15,125
+
+LONG-TERM DEBT, net of current portion                                              27,745         6,499
+OTHER NON-CURRENT LIABILITIES                                                          292            --
+DEFERRED INCOME TAXES                                                                  416           416
+COMMITMENTS AND CONTINGENCIES
+SERIES B JUNIOR PARTICIPATING PREFERRED SHARES,
+     $.01 par value - authorized 50,000 shares; none issued                             --            --
+SHAREHOLDERS' EQUITY:
+     Preferred stock, $.01 par value - authorized 950,000 shares; none issued           --            --
+     Common stock, $.01 par value - authorized 50,000,000 shares;
+          issued 4,436,928 shares and 4,433,342 shares                                  44            44
+     Paid-in capital                                                                16,737        16,701
+     Retained earnings                                                              40,468        38,768
+     Accumulated other comprehensive income                                            916           420
+                                                                                  --------      --------
+                                                                                    58,165        55,933
+     Treasury stock, 2,002,574 and 2,002,574 shares - at cost                      (27,514)      (27,514)
+                                                                                  --------      --------
+          Total shareholders' equity                                                30,651        28,419
+                                                                                  --------      --------
+          Total liabilities and shareholders' equity                              $ 77,578      $ 50,459
+                                                                                  ========      ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -1-
+
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                    (Dollars in Thousands except Share Data)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended           Six Months Ended
+                                               ------------------           ----------------
+                                             June 28,      June 29,      June 28,      June 29,
+                                               2003          2002          2003          2002
+                                               ----          ----          ----          ----
+<S>                                          <C>           <C>           <C>           <C>
+REVENUES                                     $22,661       $16,877       $46,059       $33,655
+
+COST OF REVENUES                              13,663         9,683        27,620        19,325
+                                             -------       -------       -------       -------
+            Gross Profit                       8,998         7,194        18,439        14,330
+
+OPERATING EXPENSES:
+    Selling, general & administrative          6,682         5,301        13,947        10,553
+    Research and development                     678           586         1,349         1,292
+                                             -------       -------       -------       -------
+                                               7,360         5,887        15,296        11,845
+                                             -------       -------       -------       -------
+
+            Operating Income                   1,638         1,307         3,143         2,485
+
+INTEREST EXPENSE                                 400           129           780           302
+                                             -------       -------       -------       -------
+            Income before income taxes         1,238         1,178         2,363         2,183
+
+INCOME TAX PROVISION                             373           364           663           618
+                                             -------       -------       -------       -------
+
+NET INCOME                                       865           814         1,700         1,565
+
+RETAINED EARNINGS
+    Beginning of period                       39,603        36,235        38,768        35,484
+                                             -------       -------       -------       -------
+    End of period                            $40,468       $37,049       $40,468       $37,049
+                                             =======       =======       =======       =======
+
+EARNINGS PER SHARE
+    Basic                                    $  0.36       $  0.33       $  0.70       $  0.64
+                                             =======       =======       =======       =======
+    Diluted                                  $  0.35       $  0.33       $  0.68       $  0.64
+                                             =======       =======       =======       =======
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -2-
+
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                              Six Months Ended
+                                                                                              ----------------
+                                                                                          June 28,        June 29,
+                                                                                            2003            2002
+                                                                                            ----            ----
+<S>                                                                                       <C>             <C>
+OPERATING ACTIVITIES:
+   Net income                                                                             $  1,700        $  1,565
+   Adjustment to reconcile net income to net cash provided by operating activities:
+         Depreciation and amortization                                                       1,457           1,290
+         Changes in assets and liabilities:
+              Accounts receivable, net                                                       3,338             601
+              Inventories                                                                      367           1,131
+              Prepaid expenses and other current assets                                        520            (407)
+              Other assets                                                                     198            (220)
+              Accounts payable                                                              (1,037)            301
+              Accrued expenses and other current liabilities                                (1,340)            659
+                                                                                          --------        --------
+                    Net cash provided by operating activities                                5,203           4,920
+                                                                                          --------        --------
+
+INVESTING ACTIVITIES:
+   Business acquired, net of cash acquired                                                 (18,988)             --
+   Capital expenditures                                                                     (1,769)           (743)
+   Other                                                                                        (8)            (34)
+                                                                                          --------        --------
+                    Net cash used in investing activities                                  (20,765)           (777)
+                                                                                          --------        --------
+
+FINANCING ACTIVITIES:
+   Net (repayments) borrowing under notes payable to banks                                     236          (1,108)
+   Proceeds from issuance of long-term debt                                                 20,000             752
+   Principal payments on long-term debt                                                     (1,603)         (1,103)
+   Proceeds from issuance of common stock                                                       36               4
+                                                                                          --------        --------
+                    Net cash provided by (used in) financing activities                     18,669          (1,455)
+                                                                                          --------        --------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH EQUIVALENTS                                                                            149             542
+                                                                                          --------        --------
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS                                                    3,256           3,230
+                                                                                          --------        --------
+
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                                       2,694           2,214
+                                                                                          --------        --------
+   End of period                                                                          $  5,950        $  5,444
+                                                                                          ========        --------
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -3-
+
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                  June 28, 2003
+                                   (Unaudited)
+
+1.       Basis of Presentation
+
+         The accompanying unaudited consolidated financial statements have been
+         prepared in accordance with the instructions for Form 10-Q and do not
+         include all of the information and footnotes required by accounting
+         principles generally accepted in the United States of America for
+         complete financial statements. The consolidated financial statements
+         include the accounts of K-Tron International, Inc. and its subsidiaries
+         ("K-Tron" or the "Company," including in fiscal 2003 the January 2,
+         2003 Pennsylvania Crusher Corporation acquisition noted below). All
+         intercompany transactions have been eliminated in consolidation. In the
+         opinion of management, all adjustments (consisting of a normal
+         recurring nature) considered necessary for a fair presentation of
+         results for interim periods have been made.
+
+         The unaudited financial statements herein should be read in conjunction
+         with the Company's annual report on Form 10-K for the year ended
+         December 28, 2002 which was previously filed with the Securities and
+         Exchange Commission.
+
+2.       Acquisition
+
+         On January 2, 2003, the Company acquired all of the stock of
+         privately-held Pennsylvania Crusher Corporation. The purchase price
+         paid for the Pennsylvania Crusher Corporation stock was $23.5 million,
+         plus a post-closing adjustment of $205 thousand based on Pennsylvania
+         Crusher Corporation's consolidated shareholders' equity at December 31,
+         2002. Of this amount, $19.705 million was paid in cash and $4.0 million
+         was in unsecured, promissory notes which are payable in equal, annual
+         installments on January 2 in each of 2005, 2006 and 2007. The excess of
+         the purchase price over the carrying value of the net assets acquired
+         was allocated as follows (in millions): inventory -- $0.3, property,
+         plant & equipment -- $4.7, patents -- $1.3, trademarks and tradenames
+         -- $1.9, and other identified intangibles -- $7.1. Trademarks and
+         tradenames and other identified intangibles are included in other
+         intangibles in the consolidated balance sheet.
+
+         If the acquisition of Pennsylvania Crusher Corporation had occurred at
+         the beginning of fiscal 2002, pro forma K-Tron revenues, net income and
+         diluted earnings per share for the second quarter and first six months
+         ended June 29, 2002 would have been approximately $26.9 million and
+         $51.7 million, $1.5 million and $2.5 million, and $0.62 per share and
+         $1.03 per share, respectively. These pro forma disclosures are
+         unaudited and are based on historical results, adjusted for the impact
+         of certain acquisition-related items such as depreciation and
+         amortization of property, plant and equipment and identified
+         intangibles,
+
+                                       -4-
+
+<PAGE>
+
+         increased interest expense on acquisition debt and the related income
+         tax effects. This unaudited pro forma disclosure is presented for
+         informational purposes only and should not be construed to be
+         indicative of the actual results of operations of the combined
+         companies on the dates for the periods indicated or of the results that
+         may be obtained in the future.
+
+3.       Intangible Assets
+
+<TABLE>
+<CAPTION>
+                                    Six Months Ended June 28, 2003
+                                    ------------------------------
+                                             (in thousands)
+
+                                     Gross Carrying   Accumulated
+                                         Amount       Amortization
+                                     --------------   ------------
+<S>                                 <C>               <C>
+Amortized intangible assets
+  Patents                                $2,764         $  802
+  Drawings                                3,550             57
+                                         ------         ------
+                                         $6,314         $  859
+                                         ======         ======
+
+Unamortized intangible assets
+  Trademarks                             $1,890
+  Other identifiable intangibles          3,599
+                                         ------
+                                         $5,489
+                                         ======
+</TABLE>
+
+         The amortized intangible assets are being amortized on the
+         straight-line basis over the expected period of benefits, which is 17
+         to 25 years. Intangible assets of $10.3 million were acquired during
+         the first quarter of 2003 as part of the acquisition of Pennsylvania
+         Crusher Corporation (see Note 2). Amortization expense in the six-month
+         periods ended June 28, 2003 and June 29, 2002 was $139 thousand and $42
+         thousand, respectively.
+
+4.       Supplemental Disclosures of Cash Flow Information
+
+         The Company considers all highly liquid short-term investments
+         purchased with an original maturity of three months or less to be cash
+         equivalents.
+
+         Cash paid for interest in the six-month periods ended June 28, 2003 and
+         June 29, 2002 was $647 thousand and $352 thousand, respectively, and
+         for income taxes was $228 thousand and a cash refund of $121 thousand,
+         respectively.
+
+                                       -5-
+
+<PAGE>
+
+5.       Inventories
+
+         Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                                        June 28,             December 28,
+                                          2003                   2002
+                                          ----                   ----
+                                                (in thousands)
+<S>                                     <C>                  <C>
+Components                              $11,479                 $8,064
+Work-in-process                           2,158                  1,151
+Finished goods                               61                    103
+                                        -------                 ------
+                                        $13,698                 $9,318
+                                        =======                 ======
+</TABLE>
+
+6.       Accrued Warranty
+
+         The Company offers a product warranty on a majority of its products.
+         Warranty is accrued as a percentage of sales on a monthly basis and is
+         included in accrued expenses and other current liabilities. The
+         following is a rollforward of accrued warranty for the six-month
+         periods ended June 28, 2003 and June 29, 2002.
+
+<TABLE>
+<CAPTION>
+                                              June 28,         June 29,
+                                                2003             2002
+                                                ----             ----
+                                                   (in thousands)
+<S>                                           <C>              <C>
+Beginning balance                             $   687          $   662
+Accrued warranty of acquired business             553               --
+Accrual                                           746              475
+Expense                                          (918)            (634)
+Foreign exchange adjustment                        13               57
+                                              -------          -------
+Ending balance                                $ 1,081          $   560
+                                              =======          =======
+</TABLE>
+
+7.       Earnings Per Share
+
+         The Company's basic and diluted earnings per share are calculated as
+         follows:
+
+<TABLE>
+<CAPTION>
+                                                     For the Three Months Ended June 28, 2003
+                                                     ----------------------------------------
+                                                Net Income Available
+(Dollars and Shares in Thousands                     To Common                               Earnings
+except Per Share Data)                             Shareholders           Shares            Per Share
+                                                   ------------           ------            ---------
+<S>                                             <C>                       <C>               <C>
+Basic                                                  $ 865               2,433             $ 0.36
+
+           Common Share Equivalent
+             of Outstanding Options                       --                  60              (0.01)
+                                                       -----              ------             ------
+Diluted                                                $ 865               2,493             $ 0.35
+                                                       =====              ======              =====
+</TABLE>
+
+                                       -6-
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                                       For the Three Months Ended June 29, 2002
+                                                       ----------------------------------------
+                                                Net Income Available
+(Dollars and Shares in Thousands                    To Common                               Earnings
+except Per Share Data)                             Shareholders           Shares            Per Share
+                                                   ------------           ------            ---------
+<S>                                            <C>                        <C>               <C>
+Basic                                                  $ 814               2,432             $ 0.33
+
+           Common Share Equivalent
+             of Outstanding Options                       --                  36              (0.00)
+                                                       -----              ------             ------
+Diluted                                                $ 814               2,468             $ 0.33
+                                                       =====              ======             ======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                       For the Six Months Ended June 28, 2003
+                                                       --------------------------------------
+                                                Net Income Available
+(Dollars and Shares in Thousands                    To Common                               Earnings
+except Per Share Data)                             Shareholders           Shares            Per Share
+                                                   ------------           ------            ---------
+<S>                                            <C>                        <C>               <C>
+Basic                                                 $1,700               2,433             $ 0.70
+
+           Common Share Equivalent
+             of Outstanding Options                       --                  56              (0.02)
+                                                      ------              ------             ------
+Diluted                                               $1,700               2,489             $ 0.68
+                                                      ======              ======             ======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                       For the Six Months Ended June 29, 2002
+                                                       --------------------------------------
+                                                Net Income Available
+(Dollars and Shares in Thousands                    To Common                               Earnings
+except Per Share Data)                             Shareholders           Shares            Per Share
+                                                   ------------           ------            ---------
+<S>                                            <C>                        <C>               <C>
+Basic                                                  $1,565              2,432             $ 0.64
+
+           Common Share Equivalent
+             of Outstanding Options                        --                 28              (0.00)
+                                                       ------             ------             ------
+Diluted                                                $1,565              2,460             $ 0.64
+                                                       ======             ======             ======
+</TABLE>
+
+         Diluted earnings per common share are based on the weighted average
+         number of common and common equivalent shares outstanding during a
+         given time period. Such average shares include the weighted average
+         number of common shares outstanding plus the shares issuable upon
+         exercise of stock options after the assumed repurchase of common shares
+         with the related proceeds.
+
+                                       -7-
+
+<PAGE>
+
+8.       Stock-Based Compensation
+
+         In December 2002, the Financial Accounting Standards Board issued
+         Statement of Financial Accounting Standards (SFAS) No. 148, "Accounting
+         for Stock-Based Compensation - Transition and Disclosure." SFAS No. 148
+         amends the disclosure requirements of SFAS No. 123, "Accounting for
+         Stock-Based Compensation," to require more prominent and frequent
+         disclosures in financial statements. Also, SFAS No. 148 provides
+         alternative methods of transition for a voluntary change to the fair
+         value based method of accounting for stock-based employee compensation.
+         The Company has included the interim disclosures prescribed under SFAS
+         No. 148.
+
+         At June 28, 2003, the Company had various stock-based compensation
+         plans as described in Note 11 to the consolidated financial statements
+         in the Company's annual report on Form 10-K for the year ended December
+         28, 2002. As permitted under SFAS No. 123, as amended by SFAS No. 148,
+         the Company has elected to continue to account for compensation costs
+         using the intrinsic value-based method of accounting as prescribed by
+         Accounting Principles Board Opinion No. 25, "Accounting for Stock
+         Issued to Employees." No compensation expense has been recognized in
+         net income for stock options, as options granted had an exercise price
+         equal to the market value of the underlying common stock on the date of
+         grant. The following table illustrates the effect on net income and
+         earnings per share if the Company had applied the fair value
+         recognition provisions of SFAS No. 123 to its stock option plans.
+
+<TABLE>
+<CAPTION>
+                                                   Three Months Ended              Six Months Ended
+                                                   ------------------              ----------------
+                                                  June 28,      June 29,         June 28,     June 29,
+(in thousands, except per share)                    2003          2002             2003         2002
+                                                    ----          ----             ----         ----
+<S>                                                <C>          <C>              <C>          <C>
+Net income - as reported                            $865          $814            $1,700       $1,565
+Net income - pro forma                               794           714             1,561        1,380
+Basic earnings per share - as reported              0.36          0.33              0.70         0.64
+Basic earnings per share - pro forma                0.33          0.29              0.64         0.57
+Diluted earnings per share - as reported            0.35          0.33              0.68         0.64
+Diluted earnings per share - pro forma              0.32          0.29              0.63         0.56
+</TABLE>
+
+                                       -8-
+
+<PAGE>
+
+9.       Comprehensive Income
+
+         Comprehensive income is the total of net income, the change in the
+         unrealized gain or loss on derivatives, net of tax, and the change in
+         translation adjustments, all for a given period, which are the
+         Company's only non-owner changes in equity. For the three- and
+         six-month periods ending June 28, 2003 and June 29, 2002, the following
+         table sets forth the Company's comprehensive income:
+
+<TABLE>
+<CAPTION>
+       (in thousands)                          Three Months Ended              Six Months Ended
+                                               ------------------              ----------------
+                                            June 28,         June 29,      June 28,         June 29,
+                                              2003            2002           2003             2002
+                                              ----            ----           ----             ----
+<S>                                         <C>              <C>           <C>              <C>
+Net Income                                  $  865           $  814         $1,700           $1,565
+Unrealized loss on derivatives,
+  net of tax                                   (80)              --           (178)              --
+Translation Adjustments                        341            2,181            674            2,092
+                                            ------           ------         ------           ------
+Comprehensive Income                        $1,126           $2,995         $2,196           $3,657
+                                            ======           ======         ======           ======
+</TABLE>
+
+                                       -9-
+
+<PAGE>
+
+10.      Management Segment Information
+
+         The Company is engaged in one principal business segment -- material
+         handling equipment and systems. The Company operates in two primary
+         geographic locations, North and South America (the "Americas") and
+         Europe, the Middle East, Africa and Asia ("EMEA/Asia"). For the three
+         and six months ended June 28, 2003 and June 29, 2002, the following
+         tables set forth the Company's segment information:
+
+<TABLE>
+<CAPTION>
+                                                                 EMEA/           Elimi-           Consoli-
+                                             Americas            Asia            nations           dated
+                                             --------            ----            -------           -----
+                                                                     (in thousands)
+<S>                                          <C>               <C>              <C>               <C>
+THREE MONTHS ENDED
+   June 28, 2003
+   Revenues
+     Sales to unaffiliated customers         $ 13,191          $  9,470         $     --          $ 22,661
+     Sales to affiliates                          563               450           (1,013)               --
+                                             --------          --------         --------          --------
+          Total sales                        $ 13,754          $  9,920         $ (1,013)         $ 22,661
+                                             ========          ========         ========          ========
+
+   Operating income                          $  1,135          $    503         $     --          $  1,638
+                                             ========          ========         ========
+   Interest expense                                                                                   (400)
+                                                                                                  --------
+   Income before income taxes                                                                     $  1,238
+                                                                                                  ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 EMEA/           Elimi-           Consoli-
+                                             Americas            Asia            nations           dated
+                                             --------            ----            -------           -----
+                                                                     (in thousands)
+<S>                                          <C>               <C>              <C>               <C>
+THREE MONTHS ENDED
+   June 29, 2002
+   Revenues
+     Sales to unaffiliated customers         $  6,968          $  9,909         $     --          $ 16,877
+     Sales to affiliates                          964               493           (1,457)               --
+                                             --------          --------         --------          --------
+          Total sales                        $  7,932          $ 10,402         $ (1,457)         $ 16,877
+                                             ========          ========         ========          ========
+
+   Operating income                          $    631          $    676         $     --          $  1,307
+                                             ========          ========         ========
+   Interest expense                                                                                   (129)
+                                                                                                  --------
+   Income before income taxes                                                                     $  1,178
+                                                                                                  ========
+</TABLE>
+
+                                      -10-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                 EMEA/           Elimi-           Consoli-
+                                             Americas            Asia            nations           dated
+                                             --------            ----            -------           -----
+                                                                     (in thousands)
+<S>                                          <C>               <C>              <C>               <C>
+SIX MONTHS ENDED
+   June 28, 2003
+   Revenues
+     Sales to unaffiliated customers         $ 26,408          $ 19,651         $     --          $ 46,059
+     Sales to affiliates                        1,312             1,018           (2,330)               --
+                                             --------          --------         --------          --------
+          Total sales                        $ 27,720          $ 20,669         $ (2,330)         $ 46,059
+                                             ========          ========         ========          ========
+
+   Operating income                          $  1,808          $  1,354         $    (19)         $  3,143
+                                             ========          ========         ========
+   Interest expense                                                                                   (780)
+                                                                                                  --------
+   Income before income taxes                                                                     $  2,363
+                                                                                                  ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 EMEA/           Elimi-           Consoli-
+                                             Americas            Asia            nations           dated
+                                             --------            ----            -------           -----
+                                                                     (in thousands)
+<S>                                          <C>               <C>              <C>               <C>
+SIX MONTHS ENDED
+   June 29, 2002
+   Revenues
+     Sales to unaffiliated customers         $ 14,540          $ 19,115         $     --          $ 33,655
+     Sales to affiliates                        1,912               798           (2,710)               --
+                                             --------          --------         --------          --------
+          Total sales                        $ 16,452          $ 19,913         $ (2,710)         $ 33,655
+                                             ========          ========         ========          ========
+
+   Operating income                          $  1,275          $  1,210         $     --          $  2,485
+                                             ========          ========         ========
+   Interest expense                                                                                   (302)
+                                                                                                  --------
+   Income before income taxes                                                                     $  2,183
+                                                                                                  ========
+</TABLE>
+
+                                      -11-
+
+<PAGE>
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS.
+
+         The following provides information that management believes is relevant
+to an assessment and understanding of our consolidated results of operations and
+financial condition. The discussion should be read in conjunction with our
+consolidated financial statements and accompanying notes. All references to the
+second quarter or first six months of 2003 or 2002 mean the quarter or six-month
+period ended June 28, 2003 or June 29, 2002, as the case may be.
+
+         On January 2, 2003, we acquired all of the outstanding capital stock of
+privately-held Pennsylvania Crusher Corporation ("Penn Crusher"). As a result of
+this purchase, we also acquired Jeffrey Specialty Equipment Corporation
+("Jeffrey"), a wholly-owned subsidiary of Penn Crusher. The purchase price
+consisted of a combination of $19,500,000 in cash, $4,000,000 in unsecured
+promissory notes and a post-closing cash payment of $205,000 based on Penn
+Crusher's consolidated shareholders' equity at December 31, 2002. With respect
+to the payment of the cash portion of the purchase price and related acquisition
+costs, we financed $15,000,000 through a $17,000,000 secured credit facility
+with Penn Crusher as the borrower (the additional $2,000,000 is available for
+working capital and general corporate purposes, subject to certain limitations).
+This facility is directly with Penn Crusher, and the lender has no recourse
+against any K-Tron company other than Penn Crusher and Jeffrey with respect to
+any amounts borrowed thereunder (except to recover the stock of Penn Crusher).
+Additionally, we borrowed $5,000,000 from a U.S. bank through a K-Tron
+wholly-owned subsidiary, the repayment of which loan was guaranteed by K-Tron
+International, and we used these funds to pay part of the purchase price. K-Tron
+International also issued the $4,000,000 of unsecured promissory notes referred
+to above.
+
+         As noted above, we incurred substantial debt as a result of the Penn
+Crusher acquisition, which debt is described in more detail in the Liquidity and
+Capital Resources section below; however, we expect to have sufficient cash flow
+to cover all required principal and interest payments and, in particular, Penn
+Crusher's cash flow should be adequate to cover required principal and interest
+payments on its secured credit facility.
+
+RESULTS OF OPERATIONS
+
+         For the second quarter and first six months of 2003, K-Tron reported
+net income of $865,000 and $1,700,000, respectively, compared to $814,000 and
+$1,565,000 for the same periods in 2002.
+
+         We are engaged in one principal business segment - material handling
+equipment and systems. We operate in two primary geographic locations - North
+and South America (the "Americas") and Europe, the Middle East, Africa and Asia
+("EMEA/Asia"). We derived approximately 43% and 57% of our first six months of
+2003 and 2002 revenues, respectively, from products manufactured in, and
+services performed from, our facilities located outside the
+
+                                      -12-
+
+<PAGE>
+
+United States, primarily in Europe. Since we operate globally, we are sensitive
+to changes in foreign currency exchange rates ("foreign exchange rates"), which
+can affect both the translation of financial statement items into U.S. dollars
+as well as transactions where the revenues and related expenses may initially be
+accounted for in different currencies, such as sales made from our Swiss
+manufacturing facility in currencies other than the Swiss franc. The reduction
+in the percentage of our revenues derived from outside the United States in the
+first six months of 2003 as compared to the same period in 2002 was primarily
+due to the acquisition of Penn Crusher and Jeffrey noted above, since most of
+their revenues were derived from within the United States.
+
+         The following table sets forth our results of operations expressed as a
+percentage of total revenues for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                             Three Months Ended                  Six Months Ended
+                                             ------------------                  ----------------
+                                          June 28,        June 29,           June 28,       June 29,
+                                            2003            2002               2003          2002
+                                            ----            ----               ----          ----
+<S>                                       <C>             <C>                <C>            <C>
+Total revenues                             100.0%          100.0%             100.0%         100.0%
+Cost of revenues                            60.3            57.4               60.0           57.4
+                                           -----           -----              -----          -----
+Gross profit                                39.7            42.6               40.0           42.6
+Selling, general and administrative         29.5            31.4               30.3           31.4
+Research and development                     3.0             3.5                2.9            3.8
+                                           -----           -----              -----          -----
+Operating income                             7.2             7.7                6.8            7.4
+Interest                                     1.7             0.7                1.7            0.9
+                                           -----           -----              -----          -----
+Income before income taxes                   5.5%            7.0%               5.1%           6.5%
+                                           =====           =====              =====          =====
+</TABLE>
+
+         The following table summarizes our order backlog as of the dates
+indicated, all adjusted to June 28, 2003 foreign exchange rates:
+
+<TABLE>
+<CAPTION>
+(Dollars in Thousands)                 June 28, 2003            December 28, 2002                June 29, 2002
+                                       -------------            -----------------                -------------
+<S>                                    <C>                      <C>                              <C>
+Order backlog                             $15,244                     $8,735                        $11,438
+</TABLE>
+
+         The June 28, 2003 order backlog includes $6,480,000 of order backlog of
+Penn Crusher and Jeffrey.
+
+         As previously noted, we derive a substantial amount of our revenues
+from activities in foreign jurisdictions. Consequently, our results can be
+significantly affected by changes in foreign exchange rates, particularly in
+U.S. dollar exchange rates with respect to the Swiss franc, euro and British
+pound sterling and, to a lesser degree, the Singapore dollar and other
+currencies.
+
+                                      -13-
+
+<PAGE>
+
+When the U.S. dollar weakens against these currencies, the U.S. dollar value of
+non-U.S. dollar-based sales increases. When the U.S. dollar strengthens against
+these currencies, the U.S. dollar value of non-U.S. dollar-based sales
+decreases. Correspondingly, the U.S. dollar value of non-U.S. dollar-based costs
+increases when the U.S. dollar weakens and decreases when the U.S. dollar
+strengthens. Overall, since we typically receive a significant amount of our
+revenues in currencies other than the U.S. dollar, we generally benefit from a
+weaker dollar and are adversely affected by a stronger dollar relative to major
+currencies worldwide, especially those identified above. In particular, a
+general weakening of the U.S. dollar against other currencies would positively
+affect our revenues, gross profit and operating income as expressed in U.S.
+dollars (provided that the gross profit and operating income numbers from
+foreign operations are not losses, since in the case of a loss, the effect would
+be to increase the loss), whereas a general strengthening of the U.S. dollar
+against such currencies would have the opposite effect.
+
+         In addition, our revenues and income with respect to particular
+transactions may be affected by changes in foreign exchange rates where sales
+are made in currencies other than the functional currency of the facility
+manufacturing the product subject to the sale, including in particular the U.S.
+dollar/Swiss franc (for inter-company transactions) and the Swiss franc/euro and
+Swiss franc/British pound sterling (for sales from the Company's Swiss
+manufacturing facility) exchange rates. For the second quarter and first six
+months of 2003 and 2002, the changes in certain key exchange rates were as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                            Three Months Ended                     Six Months Ended
+                                                            ------------------                     ----------------
+                                                        June 28,          June 29,            June 28,          June 29,
+                                                          2003              2002                2003              2002
+                                                          ----              ----                ----              ----
+<S>                                                     <C>       <C>     <C>                 <C>      <C>      <C>
+Average U.S. dollar equivalent of
+one Swiss franc                                          0.749             0.631               0.740             0.613
+% change vs. prior year                                           +18.7%                               +20.7%
+
+Average U.S. dollar equivalent of
+one euro                                                 1.138             0.924               1.106             0.900
+% change vs. prior year                                           +23.2%                               +22.9%
+
+Average U.S. dollar equivalent of
+one British pound sterling                               1.619             1.465               1.611             1.446
+% change vs. prior year                                           +10.5%                               +11.4%
+
+Average Swiss franc equivalent of
+ one euro                                                1.519             1.464               1.495             1.468
+% change vs. prior year                                            +3.8%                               + 1.8%
+
+Average Swiss franc equivalent of
+ one British pound sterling                              2.162             2.322               2.177             2.360
+% change vs. prior year                                            -6.9%                               - 7.8%
+</TABLE>
+
+                                      -14-
+
+<PAGE>
+
+         With the acquisition of Penn Crusher and Jeffrey, we are less affected
+by foreign exchange rates since most of their sales are in U.S. dollars.
+Nevertheless, more than 40% of our revenues in the first six months of 2003 were
+from products manufactured in, and services performed from, our facilities
+outside the United States, so that we will continue to have significant
+sensitivity to foreign exchange rate changes.
+
+         Total revenues increased by $5,784,000 or 34.3% in the second quarter
+of 2003 and by $12,404,000 or 36.9% in the first six months of 2003 compared to
+the same periods in 2002. This increase in revenues was primarily attributable
+to a full six months of revenues in 2003 from the January 2, 2003 acquisition of
+Penn Crusher and Jeffrey ($7,650,000 from Penn Crusher and Jeffrey for the
+second quarter and $14,911,000 for the first six months of 2003) and the
+positive effect of a weaker U.S. dollar when translating the revenues of foreign
+operations into U.S. dollars, partially offset by lower revenues in our
+pre-acquisition feeder and pneumatic conveying businesses due to a generally
+weaker global economy, the war in Iraq and the outbreak of the SARS illness.
+These factors contributed to reduced spending for industrial capital equipment
+in many of the industries that we serve. The favorable impact of foreign
+currency translation accounted for 8.5% of the revenue increase for the second
+quarter and 9.6% for the six months of 2003 compared to the same periods in
+2002.
+
+         Gross profit as a percent of total revenues decreased to 39.7% in the
+second quarter of 2003 and 40.0% in the first six months of 2003 from 42.6% for
+the same periods in 2002. These decreases in gross profit were primarily due to
+geographic and product sales mix and the weaknesses in capital equipment
+spending described above, which led to fixed costs being absorbed over a smaller
+revenue base.
+
+         Selling, general and administrative (SG&A) expenses increased by
+$1,381,000 or 26.1% in the second quarter of 2003 and by $3,394,000 or 32.2% in
+the first six months of 2003 compared to the same periods in 2002. These
+increases in SG&A were primarily due to the addition of Penn Crusher and Jeffrey
+and the effect of a weaker U.S. dollar, partially offset by lower spending
+levels. As a percent of total revenues, SG&A was 29.5% in the second quarter and
+30.3% in the first six months of 2003 compared to 31.4% in the same periods in
+2002.
+
+         Research and development (R&D) expenditures increased by $92,000 or
+15.7% in the second quarter of 2003 and by $57,000 or 4.4% in the first six
+months of 2003 compared to the same periods in 2002. These increases in R&D were
+primarily due to the effect of a weaker U.S. dollar, partially offset by lower
+tooling costs in 2003. R&D expense as a percent of total revenues was 3.0% in
+the second quarter of 2003 and 2.9% in the first six months of 2003 compared to
+3.5% and 3.8% for the same periods in 2002.
+
+         Interest expense increased by $271,000 or 210% in the second quarter of
+2003 and by $478,000 or 158% in the first six months of 2003 compared to the
+same periods in 2002. These increases reflected the substantial debt incurred in
+connection with the Penn Crusher acquisition, partially offset by lower interest
+costs on other debt as a result of significant reductions in that debt which
+were made in the last nine months of 2002.
+
+                                      -15-
+
+<PAGE>
+
+         Income before income taxes was $865,000 in the second quarter of 2003
+and $1,700,000 in the first six months of 2003 compared to $814,000 and
+$1,565,000 for the same periods in 2002. Income before income taxes improved
+versus the same periods in 2002, primarily as a result of the Penn Crusher
+acquisition.
+
+         The effective tax rate for the second quarter and first six months of
+2003 was 30.1% and 28.1%, respectively, compared to 30.9% and 28.3% for the same
+periods in 2002.
+
+         Our backlog at constant foreign exchange rates increased by 74.5% and
+33.3% at the end of the second quarter of 2003 compared to December 28, 2002 and
+June 29, 2002, respectively, due to the Penn Crusher acquisition, partially
+offset in the comparison to June 29, 2002 by reduced backlog in our other
+businesses resulting from the very weak environment for industrial capital
+equipment spending that existed during the second half of 2002 and the first
+half of 2003 in many of the industries that we serve.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         To finance the Penn Crusher acquisition described earlier, in January
+2003 we borrowed $20,000,000 from two U.S. banks, and we also issued $4,000,000
+in unsecured promissory notes to the former Penn Crusher stockholders.
+
+         We borrowed $5,000,000 from a U.S. bank through K-Tron's U.S.
+manufacturing subsidiary, which loan was combined with an outstanding term loan
+from that bank to that subsidiary and resulted in a $7,333,000 term loan.
+Monthly principal payments of $83,000 plus interest at a fixed rate of 5.625% on
+approximately half the loan and at a variable rate of one-month LIBOR plus 1.85%
+on the other half (3.17% at June 28, 2003) began in February 2003, with the
+final principal payment of approximately $2,416,000 plus interest being due in
+January 2008. This loan is secured by substantially all of the assets of the
+U.S. manufacturing subsidiary and is guaranteed by K-Tron International, Inc.
+
+         Penn Crusher borrowed $15,000,000 from another U.S. bank consisting of
+an aggregate of $13,500,000 term debt ($10,000,000 with a five-year term and
+$3,500,000 with a six-year term) and $1,500,000 under a five-year revolving
+credit facility. Subject to certain conditions, the revolving credit facility
+provides for up to an additional $2,000,000 of availability. Quarterly term debt
+principal payments of $400,000 began March 31, 2003 and increase each year by
+$62,500 per quarter (or $250,000 per year in the aggregate) through December 31,
+2007, with final quarterly payments of $750,000 in 2008. Interest is based on
+one- to six-month LIBOR plus 3% to 3.5%, and the 3% to 3.5% can be reduced to 2%
+to 2.5% upon meeting certain financial ratios. In January 2003, Penn Crusher
+entered into an interest rate swap related to the entire $10,000,000 five-year
+term loan where interest will not exceed 6.11% for the full term of the loan and
+can be reduced to 5.11% upon meeting certain financial ratios. The interest
+rates on the $10,000,000 term loan, $3,500,000 term loan and $1,500,000
+revolving credit facility were 6.11%, 4.91% and 4.34%, respectively, as of June
+28, 2003. The Penn Crusher debt is guaranteed by Jeffrey and secured by
+substantially all of the assets of Penn Crusher and Jeffrey, but it is not
+guaranteed by any other K-Tron company (except by a non-recourse pledge of the
+stock of Penn Crusher).
+
+                                      -16-
+
+<PAGE>
+
+         In addition, K-Tron International, Inc. issued $4,000,000 of unsecured
+promissory notes to the former Penn Crusher stockholders as part of the Penn
+Crusher purchase price, which notes are payable in three equal, annual
+installments on the second, third and fourth anniversaries of the closing date.
+Interest at 6% per annum is payable quarterly.
+
+         As stated previously, we expect to have sufficient cash flow to cover
+all required principal and interest payments on the foregoing debt as well as on
+K-Tron's other indebtedness for money borrowed.
+
+         Our capitalization at the end of the second quarter of 2003 and at the
+end of fiscal years 2002 and 2001 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                   June 28,       December 28,     December 29,
+        (Dollars in Thousands)                       2003             2002             2001
+                                                     ----             ----             ----
+<S>                                                <C>            <C>              <C>
+Short-term debt, including current
+  portion of long-term debt                        $ 3,471          $ 2,005          $ 2,186
+Long-term debt                                      27,745            6,499           12,499
+                                                   -------          -------          -------
+Total debt                                          31,216            8,504           14,685
+
+Shareholders' equity                                30,651           28,419           21,561
+                                                   -------          -------          -------
+Total debt and shareholders' equity                $61,867          $36,923          $36,246
+  (total capitalization)
+                                                   =======          =======          =======
+
+Percent total debt to total capitalization              50%              23%              41%
+
+Percent long-term debt to equity                        91%              23%              58%
+
+Percent total debt to equity                           102%              30%              68%
+</TABLE>
+
+         Total debt increased by $22,712,000 in the first six months of 2003
+($24,000,000 related to the Penn Crusher acquisition net of debt repayments of
+$1,367,000 and a $79,000 increase due to the effect of the weaker U.S. dollar on
+the translation of our foreign debt). At June 28, 2003 and subject to certain
+conditions, we had $5,775,000 of unused borrowing availability under our U.S.
+loan agreements and $7,012,000 of unused borrowing availability under our
+foreign loan agreements.
+
+         At June 28, 2003, working capital was $18,282,000 compared to
+$14,106,000 at December 28, 2002, and the ratio of current assets to current
+liabilities at those dates was 1.99 and 1.93, respectively. The increase in
+working capital was primarily due to the Penn Crusher acquisition.
+
+         In the first six months of 2003 and 2002, we utilized internally
+generated funds to meet our working capital needs.
+
+                                      -17-
+
+<PAGE>
+
+         Net cash provided by operating activities was $5,203,000 in the first
+six months of 2003 compared to $4,920,000 in the same period of 2002. The
+increase in operating cash flow during the first six months of 2003 compared to
+the same period in 2002 was primarily due to an increase in net income and
+depreciation and amortization with net changes in assets and liabilities being
+approximately the same.
+
+         Net cash used in investing activities in the first six months of 2003
+was primarily for the acquisition of Penn Crusher and capital additions, while
+in the first six months of 2002 net cash used in investing activities was
+primarily for capital additions.
+
+         Cash provided by financing activities in the first six months of 2003
+was primarily due to the borrowings related to the Penn Crusher acquisition net
+of debt reduction, while cash used in financing activities in the same period of
+2002 was primarily for debt reduction.
+
+         Of the total increase in shareholders' equity of $2,232,000 in the
+first six months of 2003, $1,700,000 was from net income, $674,000 was from
+changes in foreign exchange rates, particularly the strengthening of the Swiss
+franc and euro versus the U.S. dollar, and $36,000 was from the issuance of
+common stock related to the exercise of stock options, reduced by $178,000 which
+was an unrealized loss net of taxes on an interest rate swap.
+
+CONTRACTUAL OBLIGATIONS
+
+         We are obligated to make future payments under various contracts such
+as debt agreements and lease agreements, and we are subject to certain other
+commitments and contingencies. There have been no material changes to
+Contractual Obligations as reflected in the Liquidity and Capital Resources
+section of Management's Discussion and Analysis in the Company's annual report
+on Form 10-K for the year ended December 28, 2002 (the "2002 Form 10-K"). Refer
+to Notes 9 and 16 to the consolidated financial statements in the 2002 Form 10-K
+for additional information on long-term debt and commitments and contingencies.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+         Management's discussion and analysis of our financial condition and
+results of operations is based on the accounting policies used and disclosed in
+our 2002 consolidated financial statements and accompanying notes that were
+prepared in accordance with accounting principles generally accepted in the
+United States of America and included as part of our 2002 Form 10-K. The
+preparation of those financial statements required management to make estimates
+and assumptions that affected the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the dates of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting periods. Actual results could differ from those estimates.
+
+         The significant accounting policies of the Company are described in
+Note 2 to the 2002 consolidated financial statements, and the critical
+accounting policies and estimates are described in Management's Discussion and
+Analysis included in our 2002 Form 10-K. Information
+
+                                      -18-
+
+<PAGE>
+
+concerning our implementation and impact of new accounting standards issued by
+the Financial Accounting Standards Board (FASB) is included in the notes to the
+2002 consolidated financial statements. Otherwise, we did not adopt an
+accounting policy in the current period that had a material impact on our
+financial condition, liquidity or results of operations.
+
+FORWARD-LOOKING STATEMENTS AND RISK FACTORS
+
+         The Private Securities Litigation Reform Act of 1995 (the "Act")
+provides a safe harbor for forward-looking statements made by us or on our
+behalf. We and our representatives may from time to time make written or oral
+statements that are "forward-looking," including statements contained in this
+report and other filings with the Securities and Exchange Commission, reports to
+our shareholders and news releases. All statements that express expectations,
+estimates, forecasts or projections are forward-looking statements within the
+meaning of the Act. In addition, other written or oral statements which
+constitute forward-looking statements may be made by us or on our behalf. Words
+such as "expects," "anticipates," "intends," "plans," "believes," "seeks,"
+"estimates," "projects," "forecasts," "may," " should," variations of such words
+and similar expressions are intended to identify such forward-looking
+statements. These statements are not guarantees of future performance and
+involve certain risks, uncertainties and assumptions which are difficult to
+predict. Therefore, actual outcomes and results may differ materially from what
+is expressed or forecasted in or suggested by such forward-looking statements.
+The forward-looking statements contained in this report include statements
+regarding the effect of changes in foreign exchange rates on our business and
+our ability to repay debt, including in particular the principal and interest
+payments related to the Penn Crusher acquisition. We undertake no obligation to
+update publicly any forward-looking statements, whether as a result of new
+information, future events or otherwise.
+
+         A wide range of factors could materially affect our future performance
+and financial and competitive position, including the following: (i) increasing
+price and product/service competition by domestic and foreign competitors,
+including new entrants; (ii) the mix of products/services sold by us; (iii)
+rapid technological changes and developments and our ability to continue to
+introduce competitive new products on a timely and cost-effective basis; (iv)
+changes in U.S. and global financial and currency markets, including significant
+interest rate and foreign currency exchange rate fluctuations; (v) protection
+and validity of patent and other intellectual property rights held by us and our
+competitors; (vi) the cyclical nature of our business as a capital goods
+supplier; (vii) possible future litigation and governmental proceedings; (viii)
+the availability of financing and financial resources in the amounts, at the
+times and on the terms required to support our future business, including
+capacity expansions and possible acquisitions; (ix) the loss of key customers,
+employees or suppliers; (x) the failure to carry out marketing and sales plans;
+(xi) the failure to integrate acquired businesses without substantial costs,
+delays or other operational or financial problems; (xii) economic, business and
+regulatory conditions and changes which may affect the level of new investments
+and purchases made by customers, including general economic and business
+conditions that are less favorable than expected; (xiii) domestic and
+international political, economic and health conditions, including wars such as
+the Iraq war and the outbreak of diseases such as the SARS illness, which may
+disrupt the global economy or important regional economies; and (xiv) the
+outcome of any legal proceeding in which we are involved.
+
+                                      -19-
+
+<PAGE>
+
+         This list of factors that may affect our future performance and
+financial and competitive position and also the accuracy of forward-looking
+statements is illustrative, but it is by no means exhaustive. Accordingly, all
+forward-looking statements should be evaluated with the understanding of their
+inherent uncertainty.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+                  Not applicable
+
+ITEM 4.  CONTROLS AND PROCEDURES.
+
+         (a)      Evaluation of Disclosure Controls and Procedures
+
+         The Company's management, with the participation of the Company's Chief
+Executive Officer and Chief Financial Officer, evaluated the effectiveness the
+Company's disclosure controls and procedures as of the end of the period covered
+by this report. Based on that evaluation, the Chief Executive Officer and Chief
+Financial Officer concluded that the Company's disclosure controls and
+procedures as of the end of the period covered by this report have been designed
+and are functioning effectively to provide reasonable assurance that the
+information required to be disclosed by the Company in reports filed under the
+Securities Exchange Act of 1934 is recorded, processed, summarized and reported
+within the time periods specified in the Securities and Exchange Commission's
+rules and forms. The Company believes that a controls system, no matter how well
+designed and operated, cannot provide absolute assurance that the objectives of
+the controls system are met, and no evaluation of controls can provide absolute
+assurance that all control issues and instances of fraud, if any, within a
+company have been detected.
+
+         (b)      Change in Internal Control over Financial Reporting
+
+         No change in the Company's internal control over financial reporting
+occurred during the Company's most recent fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+                                      -20-
+
+<PAGE>
+
+                           PART II. OTHER INFORMATION
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+     (a) The Annual Meeting of Shareholders of the Company was held on May 16,
+         2003.
+
+     (b) Not applicable
+
+     (c) Shareholders of the Company were asked to vote on a proposal to elect
+         one Class II director. The Board of Directors nominated Robert A. Engel
+         as the Class II director. There were no other nominations. Mr. Engel
+         was then elected as the Class II director, with the result of the vote
+         being as follows:
+
+<TABLE>
+<CAPTION>
+                                   Number of Votes
+                                   ---------------
+                               For                  Withheld
+                               ---                  --------
+<S>                         <C>                     <C>
+Robert A. Engel             2,166,979                22,834
+</TABLE>
+
+         Directors are elected by a plurality of the votes cast; therefore,
+         votes cast in the election could not be recorded against or as an
+         abstention, nor could broker non-votes be recorded.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+     (a) Exhibits.
+
+         10.1   Amendment No. 1 dated May 12, 2003 to Credit Agreement dated
+                January 3, 2003 among Pennsylvania Crusher Corporation, the
+                Lenders party to that Credit Agreement and National City Bank,
+                as Agent
+
+         99.1   Certification of Chief Executive Officer pursuant to Section 302
+                of the Sarbanes-Oxley Act of 2002
+
+         99.2   Certification of Chief Financial Officer pursuant to Section 302
+                of the Sarbanes-Oxley Act of 2002
+
+         99.3   Certification of Chief Executive Officer pursuant to Section 906
+                of the Sarbanes-Oxley Act of 2002
+
+         99.4   Certification of Chief Financial Officer pursuant to Section 906
+                of the Sarbanes-Oxley Act of 2002
+
+     (b) Reports on Form 8-K.
+
+         Current Report on Form 8-K dated April 17, 2003 and filed with the
+         Securities and Exchange Commission on April 21, 2003 reporting first
+         quarter 2003 financial results.
+
+                                      -21-
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                          K-TRON INTERNATIONAL, INC.
+
+Date: August 6, 2003                  By: /s/ Ronald R. Remick
+                                          --------------------
+                                          Ronald R. Remick
+                                          Senior Vice President & Chief
+                                          Financial Officer
+                                          (Duly authorized officer and principal
+                                          financial officer of the registrant)
+
+                                      By: /s/Alan R. Sukoneck
+                                          -------------------
+                                          Alan R. Sukoneck
+                                          Vice President, Chief Accounting
+                                          & Tax Officer
+                                          (Duly authorized officer and principal
+                                          accounting officer of the registrant)
+
+                                      -22-
+
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                          Description
+- -------                                         -----------
+<S>                <C>
+ 10.1              Amendment No. 1 dated May 12, 2003 to Credit Agreement dated January
+                   3, 2003 among Pennsylvania Crusher Corporation, the Lenders party to
+                   that Credit Agreement and National City Bank, as Agent
+
+ 99.1              Certification of Chief Executive Officer pursuant to Section 302 of the
+                   Sarbanes-Oxley Act of 2002
+
+ 99.2              Certification of Chief Financial Officer pursuant to Section 302 of the
+                   Sarbanes-Oxley Act of 2002
+
+ 99.3              Certification of Chief Executive Officer pursuant to Section 906 of the
+                   Sarbanes-Oxley Act of 2002
+
+ 99.4              Certification of Chief Financial Officer pursuant to Section 906 of the
+                   Sarbanes-Oxley Act of 2002
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>4
+<FILENAME>w89012exv10w1.txt
+<DESCRIPTION>AMENDMENT NO. 1 DATED MAY 12,2003 TO CREDIT AGREE.
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.1
+
+                       AMENDMENT NO. 1 TO CREDIT AGREEMENT
+                       (PENNSYLVANIA CRUSHER CORPORATION)
+
+                  AMENDMENT NO. 1, dated as of May 12, 2003, (this "AMENDMENT
+NO. 1") among PENNSYLVANIA CRUSHER CORPORATION, a Delaware corporation (the
+"BORROWER"); the financial institutions referred to as "LENDERS" in the Credit
+Agreement referred to below (the "LENDERS"); and National City Bank, as agent
+for the Lenders (together with its successors and assigns in such capacity, the
+"AGENT").
+
+                                   Background
+
+                  The Borrower, the Lenders and the Agent entered into a certain
+Credit Agreement, dated as of January 3, 2003, (the "EXISTING CREDIT AGREEMENT"
+and the same, as it may be further amended, restated, modified and/or
+supplemented from time to time, the "CREDIT AGREEMENT"), which provides for
+certain extensions of credit to the Borrower, subject to certain conditions.
+
+                  The Borrower has requested that the Lenders agree to modify
+the definition of "Base Amount" in the Existing Credit Agreement so that the
+Amount will be based on the Borrower's financial statements for the first fiscal
+quarter of 2003. The Agent and the Lenders are willing to make the amendments
+requested by the Borrower pursuant to the terms, and subject to the conditions,
+specified below. Accordingly, the parties hereto agree as follows.
+
+                  SECTION 1. DEFINITIONS. Except as otherwise defined in this
+Amendment No. 1, terms defined in the Existing Credit Agreement are used herein
+as defined therein.
+
+                  SECTION 2. AMENDMENTS TO EXISTING CREDIT AGREEMENT. Subject to
+the satisfaction of the conditions precedent specified in Section 4 below,
+
+                           2.1.1 Section 6.1 of the Existing Credit Agreement
+(Minimum Tangible Net Worth) is amended in its entirety to read as follows:
+
+                                    The Borrower and its Subsidiaries, on a
+                  Consolidated basis, shall maintain a Tangible Net Worth of not
+                  less the sum of (a) the Base Amount (as defined below) plus
+                  (b) an amount equal to 50% of the Consolidated Net Income of
+                  the Borrower and its Subsidiaries for the period commencing on
+                  the first day of the second fiscal quarter of the Borrower's
+                  2003 fiscal year and ending on the last day of the fiscal
+                  quarter ending on, or most recently prior to, the applicable
+                  test date. Test dates for this covenant shall be the last day
+                  of each fiscal quarter commencing with the second fiscal
+                  quarter in the 2003 fiscal year. "BASE AMOUNT" means the
+                  Tangible Net Worth of the Borrower and its Subsidiaries as at
+                  the last day of the first fiscal quarter of 2003.
+
+<PAGE>
+
+                  SECTION 3. REPRESENTATIONS AND WARRANTIES. In order to induce
+the Lenders and the Agent to agree to amend the Existing Credit Agreement in the
+manner set forth herein, the Borrower makes the following representations and
+warranties, which shall survive the execution and delivery of this Amendment
+No. 1:
+
+                           (a)      As of the date hereof, no Default or Event
+of Default has occurred and is continuing after giving effect to the amendments
+contained herein; and
+
+                           (b)      Each of the representations and warranties
+set forth in the Existing Credit Agreement and other Loan Documents is true and
+correct in all material respects before and after giving effect to the
+amendments and transactions contemplated hereby as though each such
+representation and warranty were made at and as of the date hereof.
+
+                  SECTION 4. CONDITIONS PRECEDENT.
+
+                  The amendments to the Existing Credit Agreement set forth in
+Section 2 above, shall become effective upon the execution and delivery of this
+Amendment No. 1 by (a) the Borrower, (b) the Agent and (c) the Majority Lenders,
+and the execution and delivery of the acknowledgement below by the Persons
+indicated thereon.
+
+                  SECTION 5. MISCELLANEOUS.
+
+                           5.1      COUNTERPARTS. This Amendment No. 1 may be
+executed in counterparts and by different parties hereto in separate
+counterparts, each of which, when executed and delivered, shall be deemed to be
+an original and all of which, when taken together, shall constitute one and the
+same instrument. A photocopied or facsimile signature shall be deemed to be the
+functional equivalent of a manually executed original for all purposes.
+
+                           5.2      RATIFICATION. The Existing Credit Agreement,
+as amended by this Amendment No. 1 and the other Loan Documents are, and shall
+continue to be, in full force and effect and are hereby in all respects
+confirmed, the approved and ratified. Without limiting the generality of the
+foregoing, the undersigned confirms the pledges and the security interests
+granted pursuant to such Loan Documents.
+
+                           5.3      PAYMENT OF FEES AND EXPENSES. Without
+limiting other payment obligations of the Borrower set forth in the Loan
+Documents, the Borrower agrees to pay all costs and expenses incurred by the
+Agent in connection with the preparation, execution and delivery of this
+Amendment No. 1 and any other documents or instruments which may be delivered
+in connection herewith, including, without limitation, the reasonable fees and
+expenses of its counsel, Drinker Biddle & Reath LLP.
+
+                                       2
+
+<PAGE>
+
+                           5.4      AUTHORIZATION TO AGENT. Each Lender hereby
+authorizes the Agent to take such action as shall be consistent with the
+purposes hereof and as it shall deem necessary or appropriate to carry out the
+purposes of this Amendment No. 1.
+
+                           5.5      GOVERNING LAW. This Amendment No. 1 shall be
+construed in accordance with, and governed by, the laws of the Commonwealth of
+Pennsylvania, without regard to choice of law principles.
+
+                           5.6      REFERENCE. From and after the Amendment
+No. 1 Effective Date, each reference in the Credit Agreement to "this
+Agreement", "hereof", "hereunder" or words of like import, and all references
+to the Credit Agreement in any and all Loan Documents, other agreements,
+instruments, documents, certificates and writings of every kind and nature,
+shall be deemed to mean the Existing Credit Agreement as modified and amended
+by this Amendment No. 1 and as the same may be further amended, modified or
+supplemented in accordance with the terms thereof.
+
+                                       3
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, the undersigned have caused this Amendment
+No. 1 to be duly executed by their respective, duly authorized officers as of
+the date first above written.
+
+BORROWER:
+
+                                        PENNSYLVANIA CRUSHER CORPORATION
+
+                                        By: /s/ R. Remick
+                                            ----------------------
+                                        Name:  R. REMICK
+                                        Title: VP & TREASURER
+
+                                       4
+
+<PAGE>
+
+AGENT AND LENDERS:
+
+                             NATIONAL CITY BANK, in its capacity as Agent and a
+                             Lender
+
+                             By: /s/ Lyle P. Cunningham
+                                ------------------------------
+                             Name:  Lyle P. Cunningham
+                             Title: Senior Vice President
+
+                                       5
+
+<PAGE>
+
+                                Acknowledgement
+
+Each of the undersigned acknowledges the foregoing amendment and confirms its
+obligations under each of the Loan Documents to which it is a party, provided,
+however, it is agreed that the consent of the undersigned is not required to
+amend the Credit Agreement or any Loan Document except where it is a party to
+such Loan Document.
+
+JEFFREY SPECIALTY EQUIPMENT CORPORATION
+
+ BY: /s/ R. Remick
+    --------------------------
+Name:  R. REMICK
+Title: VP & TREASURER
+
+K-TRON INVESTMENT CO.
+
+By: /s/ EB Cloues, II
+   ---------------------------
+Name: EDWARD B. CLOUES, II
+Title: CHAIRMAN AND PRESIDENT
+
+K-TRON INTERNATIONAL INC.
+
+By: /s/ EB Cloues, II
+   ---------------------------
+Name: EDWARD B. CLOUES, II
+Title: CHAIRMAN AND CEO
+
+                                       6
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>w89012exv99w1.txt
+<DESCRIPTION>CERTIFICATION OF CEO PURSUANT TO SECTION 302
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.1
+
+                                  CERTIFICATION
+
+I, Edward B. Cloues, II, certify that:
+
+1.   I have reviewed the Quarterly Report on Form 10-Q for the period ended June
+     28, 2003 of K-Tron International, Inc.;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The registrant's other certifying officer and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+              (a) Designed such disclosure controls and procedures, or caused
+         such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+              (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+              (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+5.   The registrant's other certifying officer and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of registrant's board of
+     directors (or persons performing the equivalent functions):
+
+              (a) All significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting which
+         are reasonably likely to adversely affect the registrant's ability to
+         record, process, summarize and report financial information; and
+
+<PAGE>
+
+              (b) Any fraud, whether or not material, that involves management
+         or other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+
+Date: August 6, 2003
+
+                                        /s/ Edward B. Cloues, II
+                                        ----------------------------------------
+                                        Edward B. Cloues, II
+                                        Chairman and Chief Executive Officer
+
+                                        2
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>6
+<FILENAME>w89012exv99w2.txt
+<DESCRIPTION>CERTIFICATION OF CFO PURSUANT TO SECTION 302
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.2
+
+                                  CERTIFICATION
+
+I, Ronald R. Remick, certify that:
+
+1.   I have reviewed the Quarterly Report on Form 10-Q for the period ended June
+     28, 2003 of K-Tron International, Inc.;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The registrant's other certifying officer and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+              (a) Designed such disclosure controls and procedures, or caused
+         such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+              (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+              (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+5.   The registrant's other certifying officer and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of registrant's board of
+     directors (or persons performing the equivalent functions):
+
+              (a) All significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting which
+         are reasonably likely to adversely affect the registrant's ability to
+         record, process, summarize and report financial information; and
+
+<PAGE>
+
+              (b) Any fraud, whether or not material, that involves management
+         or other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+
+Date: August 6, 2003
+
+                               /s/ Ronald R. Remick
+                               -------------------------------------------------
+                               Ronald R. Remick
+                               Senior Vice President and Chief Financial Officer
+
+                                        2
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>7
+<FILENAME>w89012exv99w3.txt
+<DESCRIPTION>CERTIFICATION OF CEO PURSUANT TO SECTION 906
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.3
+
+                                  CERTIFICATION
+
+In connection with the Quarterly Report of K-Tron International, Inc. (the
+"Company") on Form 10-Q for the period ended June 28, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Edward
+B. Cloues, II, Chairman and Chief Executive Officer of the Company, hereby
+certify, based on my knowledge, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+1.   The Report fully complies with the requirements of Section 13(a) or 15(d)
+     of the Securities Exchange Act of 1934; and
+
+2.   The information contained in the Report fairly presents, in all material
+     respects, the financial condition and results of operations of the Company.
+
+Date: August 6, 2003
+
+                                            /s/ Edward B. Cloues, II
+                                            ------------------------------------
+                                            Edward B. Cloues, II
+                                            Chairman and Chief Executive Officer
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906, has been provided to K-Tron International, Inc. and
+will be retained by K-Tron International, Inc. and furnished to the Securities
+and Exchange Commission or its staff upon request.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>8
+<FILENAME>w89012exv99w4.txt
+<DESCRIPTION>CERTIFICATION OF CFO PURSUANT TO SECTION 906
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.4
+
+                                  CERTIFICATION
+
+In connection with the Quarterly Report of K-Tron International, Inc. (the
+"Company") on Form 10-Q for the period ended June 28, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Ronald
+R. Remick, Senior Vice President and Chief Financial Officer, hereby certify,
+based on my knowledge, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+1.   The Report fully complies with the requirements of Section 13(a) or 15(d)
+     of the Securities Exchange Act of 1934; and
+
+2.   The information contained in the Report fairly presents, in all material
+     respects, the financial condition and results of operations of the Company.
+
+Date: August 6, 2003
+
+                                                     /s/ Ronald R. Remick
+                                                     ---------------------------
+                                                     Ronald R. Remick
+                                                     Senior Vice President and
+                                                     Chief Financial Officer
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906, has been provided to K-Tron International, Inc. and
+will be retained by K-Tron International, Inc. and furnished to the Securities
+and Exchange Commission or its staff upon request.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

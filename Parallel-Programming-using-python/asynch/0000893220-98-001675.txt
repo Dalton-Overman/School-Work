@@ -1,0 +1,1080 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DJ5P+VZbzzi8qIsiUwfBIuGsRsfOIkcGHsZlHJnCR6unaEM0yZqNu+ttDQmnysKi
+ aaTuBeWGA5khzGW1YAghDg==
+
+<SEC-DOCUMENT>0000893220-98-001675.txt : 19981106
+<SEC-HEADER>0000893220-98-001675.hdr.sgml : 19981106
+ACCESSION NUMBER:		0000893220-98-001675
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19981003
+FILED AS OF DATE:		19981105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		98738759
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR K-TRON INTERNATIONAL, INC.
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                ----------------
+
+                                    FORM 10-Q
+(Mark One)
+[X]              QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934.
+
+                 For the quarterly period ended         October 3, 1998
+                                                --------------------------------
+
+
+                                       OR
+
+[ ]           TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+              For the transition period from ________________ to ______________
+
+                          Commission file number 0-9576
+                                                 ------
+
+                           K-TRON INTERNATIONAL, INC.
+- --------------------------------------------------------------------------------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+           New Jersey                                    22-1759452
+- --------------------------------------------------------------------------------
+(State or Other Jurisdiction of               (I.R.S. Employer Identification #)
+ Incorporation or Organization)
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey          08071-0888
+- --------------------------------------------------------------------------------
+(Address of Principal Executive Offices)                              (Zip Code)
+
+Registrant's Telephone Number, Including Area Code         (609) 589-0500
+                                                  ------------------------------
+
+                                 Not Applicable
+- --------------------------------------------------------------------------------
+              (Former Name, Former Address and Formal Fiscal Year,
+                         if Changed Since Last Report)
+
+Indicate by check X whether the registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+                                               Yes  X     No     
+                                                  -----     -----
+
+The number of shares of Common Stock outstanding as of October 3, 1998 was:
+                                                       ---------------
+3,016,468 Shares
+- ---------
+
+<PAGE>   2
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                      INDEX
+                                      -----
+
+                                                                        Page No.
+                                                                        --------
+
+PART  I.                   FINANCIAL INFORMATION
+
+         Item 1.           Financial Statements
+
+                           Consolidated Balance Sheets
+                           October 3, 1998 and January 3, 1998            1
+
+                           Consolidated Statements of Income
+                           & Retained Earnings for the Three and
+                           Nine Months Ended October 3, 1998 and
+                           September 27, 1997                             2
+
+                           Consolidated Statements of Cash Flows
+                           for the Nine Months Ended October 3, 1998
+                           and September 27, 1997                         3
+
+                           Notes to Consolidated Financial Statements     4-6
+
+         Item 2.           Management's Discussion and Analysis
+                           of Financial Condition and Results
+                           of Operations                                  7-10
+
+PART II.                   OTHER INFORMATION
+
+
+         Item 6.           Exhibits and Reports on Form 8-K               11
+
+
+
+
+<PAGE>   3
+
+
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                      October 3,    January 3,
+                                                                         1998          1998
+                                                                     (Unaudited)    (Audited)
+                                                                     -----------    ---------
+<S>                                                                  <C>            <C>     
+                                     ASSETS
+CURRENT ASSETS:
+   Cash and cash equivalents                                          $  3,838      $  5,154
+   Accounts receivable (less allowance for doubtful accounts of
+     $1,275 and $1,119)                                                 18,744        15,336
+   Inventories                                                          11,228        10,010
+   Deferred income taxes                                                   950           950
+   Prepaid expenses and other current assets                             1,545         1,196
+                                                                      --------      --------
+         Total current assets                                           36,305        32,646
+
+PROPERTY, PLANT AND EQUIPMENT, net                                      16,174        15,437
+PATENTS, net                                                               744           694
+GOODWILL, net                                                            4,658         4,844
+OTHER ASSETS                                                               273           628
+                                                                      --------      --------
+         Total assets                                                 $ 58,154      $ 54,249
+                                                                      ========      ========
+
+
+                              LIABILITIES & SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+   Notes payable to banks                                             $      9      $  2,088
+   Current portion of long-term debt                                     1,310         1,060
+   Accounts payable                                                      5,823         5,426
+   Accrued expenses & other current liabilities                          5,302         4,270
+   Accrued payroll                                                       4,237         3,869
+   Accrued commissions                                                   2,869         2,463
+   Customer advances                                                     2,777         1,627
+   Accrued warranty                                                      1,043           912
+   Income taxes payable                                                  1,605         1,508
+                                                                      --------      --------
+         Total current liabilities                                      24,975        23,223
+
+LONG-TERM DEBT, net of current portion                                  11,544        10,619
+DEFERRED INCOME TAXES                                                      431           431
+OTHER NONCURRENT LIABILITIES                                               846         1,084
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED
+   SHARES, $.01 par value - authorized 50,000 shares; none issued           --            --
+SHAREHOLDERS' EQUITY:
+   Preferred stock, $.01 par value - authorized 950,000 shares;
+     none issued                                                            --            --
+   Common stock, $.01 par value - authorized 50,000,000 shares;
+     issued 4,319,418 shares and 4,271,300 shares                           43            43
+   Paid-in capital                                                      15,350        14,833
+   Retained earnings                                                    19,946        15,246
+   Cumulative translation adjustments                                       14          (766)
+                                                                      --------      --------
+                                                                        35,353        29,356
+                                                                      --------      --------
+   Treasury stock, 1,302,950 shares - at cost                          (14,995)      (10,464)
+                                                                      --------      --------
+         Total shareholders' equity                                     20,358        18,892
+                                                                      --------      --------
+         Total liabilities and shareholders' equity                   $ 58,154      $ 54,249
+                                                                      ========      ========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+                                       -1-
+
+
+<PAGE>   4
+
+
+
+
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                    (Dollars in Thousands except Share Data)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                              Three Months Ended          Nine Months Ended
+                                              ------------------          -----------------
+                                            October 3,   Sept.  27,    October 3,   Sept. 27,
+                                               1998         1997          1998        1997
+                                               ----         ----          ----        ----
+
+
+<S>                                           <C>          <C>          <C>          <C>    
+REVENUES                                      $21,244      $21,790      $65,065      $64,897
+
+COST OF REVENUES                               11,751       11,813       35,559      $35,767
+                                              -------      -------      -------      -------
+      Gross profit                              9,493        9,977       29,506       29,130
+OPERATING EXPENSES
+     Selling, general and administrative        6,456        7,016       20,512       21,042
+     Research and development                     661          644        2,080        2,050
+                                              -------      -------      -------      -------
+                                                7,117        7,660       22,592       23,092
+                                              -------      -------      -------      -------
+     Operating profit                           2,376        2,317        6,914        6,038
+
+INTEREST EXPENSE                                  166          281          522          915
+                                              -------      -------      -------      -------
+     Income before income taxes                 2,210        2,036        6,392        5,123
+
+INCOME TAX PROVISION                              632          575        1,692        1,360
+                                              -------      -------      -------      -------
+
+     Net income                                 1,578        1,461        4,700        3,763
+
+RETAINED EARNINGS
+     Beginning of period                       18,368       12,104       15,246        9,802
+                                              -------      -------      -------      -------
+     End of period                            $19,946      $13,565      $19,946      $13,565
+                                              =======      =======      =======      =======
+EARNINGS PER SHARE
+     Basic                                    $   .52      $   .46      $ 1 .48      $  1.19
+                                              =======      =======      =======      =======
+     Diluted                                  $   .51      $   .45      $ 1. 44      $  1.17
+                                              =======      =======      =======      =======
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+
+                                       -2-
+
+
+
+<PAGE>   5
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                            Nine Months Ended
+                                                                                            -----------------
+                                                                                          October 3,   Sept. 27,
+                                                                                            1998          1997
+                                                                                            ----          ----
+
+<S>                                                                                       <C>           <C>    
+OPERATING ACTIVITIES:
+   Net income                                                                             $ 4,700       $ 3,763
+   Adjustment to reconcile net income to net cash provided by operating activities:
+   Depreciation and amortization                                                            2,270         2,287
+   Amortization of deferred gain on sale/leaseback transaction                               (281)         (284)
+   Changes in assets and liabilities:
+         Accounts receivable, net                                                          (2,691)         (871)
+         Inventories                                                                         (832)        1,321
+         Prepaid expenses and other current assets                                           (300)          214
+         Other assets                                                                         218           (66)
+         Accounts payable                                                                     169           (95)
+         Accrued expenses and other current liabilities                                     2,528         3,229
+         Accrued warranty                                                                      95           226
+         Income taxes                                                                          73          (221)
+                                                                                          -------       -------
+   Net cash provided by operating activities                                                5,949         9,503
+                                                                                          -------       -------
+
+INVESTING ACTIVITIES:
+   Capital expenditures                                                                    (1,870)       (1,774)
+   Investment in patents                                                                      (94)         (151)
+                                                                                          -------       -------
+   Net cash used in investing activities                                                   (1,964)       (1,925)
+                                                                                          -------       -------
+
+FINANCING ACTIVITIES:
+   Net repayments under notes payable to banks                                             (1,393)       (5,420)
+   Principal payments on long-term debt                                                    (1,075)         (475)
+   Proceeds from issuance of long-term debt                                                 1,005           225
+   Proceeds from issuance of common stock                                                     517           421
+   Purchase of treasury shares                                                             (4,531)           --
+                                                                                          -------       -------
+   Net cash used in financing activities                                                   (5,477)       (5,249)
+                                                                                          -------       -------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+   CASH EQUIVALENTS                                                                           176          (264)
+                                                                                          -------       -------
+
+NET (DECREASE) INCREASE  IN CASH AND CASH EQUIVALENTS                                      (1,316)        2,065
+                                                                                          -------       -------
+
+CASH AND CASH EQUIVALENTS
+   Beginning of period                                                                      5,154         3,079
+                                                                                          -------       -------
+   End of period                                                                          $ 3,838       $ 5,144
+                                                                                          =======       =======
+</TABLE>
+
+
+
+                 See Notes to Consolidated Financial Statements
+
+                                       -3-
+
+
+
+<PAGE>   6
+
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 October 3, 1998
+                                   (Unaudited)
+
+1.       Basis of Presentation
+
+The accompanying unaudited financial statements have been prepared in accordance
+with the instructions for Form 10-Q and do not include all of the information
+and footnotes required by generally accepted accounting principles for complete
+financial statements. The consolidated financial statements include the accounts
+of K-Tron International, Inc. and its subsidiaries ("K-Tron" or the "Company").
+All intercompany transactions have been eliminated in consolidation. In the
+opinion of management, all adjustments (consisting of a normal recurring nature)
+considered necessary for a fair presentation of results for interim periods have
+been made. The results for the interim periods are not necessarily indicative of
+the results for a full year.
+
+The unaudited financial statements herein should be read in conjunction with the
+Company's Annual Report on Form 10-K for the year ended January 3, 1998 which
+was previously filed with the Securities and Exchange Commission.
+
+2.       Supplemental Disclosures of Cash Flow Information
+
+The Company considers all highly liquid short-term investments purchased with a
+maturity of three months or less to be cash equivalents. Cash paid in the first
+nine months of 1998 and 1997 for interest was $.5 million and $1.0 million,
+respectively, and for income taxes was $1.7 million and $1.5 million,
+respectively.
+
+3.       Earnings per Share
+
+In 1997, the Company adopted SFAS No. 128, "Earnings per Share." SFAS No. 128
+requires that the Company report Basic and Diluted Earnings Per Share. Basic
+Earnings Per Share represents net income less preferred dividends divided by the
+weighted average common shares outstanding. Diluted Earnings Per Share is
+calculated similarly, except that the denominator includes weighted average
+common shares outstanding plus the dilutive effect of options, warrants,
+convertible securities and other instruments with dilutive effects if exercised
+or converted.
+
+The Company's Basic and Diluted Earnings Per Share are calculated as follows:
+
+<TABLE>
+<CAPTION>
+                                             For the Three Months Ended October 3, 1998
+                                             ------------------------------------------
+                                               (In Thousands except Per Share Data)
+
+                                               Income Available
+                                                   To Common                Per Share
+                                                 Shareholders     Shares      Amount 
+                                                 ------------     ------      ------ 
+<S>                                            <C>                <C>       <C>     
+Basic             Net Income                        $1,578         3,019      $  .52
+
+                  Common Share Equivalent
+                    of Options Issued                   --            97        (.01)
+                                                    ------        ------      -------
+Diluted                                             $1,578         3,116      $  .51
+                                                    ======         =====      =======
+</TABLE>
+
+
+                                       -4-
+
+
+<PAGE>   7
+
+
+<TABLE>
+<CAPTION>
+
+                                           For the Three Months Ended September 27, 1997
+                                           ---------------------------------------------
+                                                (In Thousands except Per Share Data)
+
+                                               Income Available
+                                                   To Common                Per Share
+                                                 Shareholders     Shares      Amount 
+                                                 ------------     ------      ------ 
+<S>                                            <C>                <C>       <C>      
+Basic             Net Income                        $1,461         3,170      $   .46
+
+                  Common Share Equivalent
+                    of Options Issued                   --            57         (.01)
+                                                    ------         -----      -------
+Diluted                                             $1,461         3,227      $   .45
+                                                    ======         =====      =======
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                             For the Nine Months Ended October 3, 1998
+                                             -----------------------------------------
+                                                (In Thousands except Per Share Data)
+
+                                               Income Available
+                                                  to Common                  Per Share
+                                                 Shareholders      Shares      Amount
+                                                 ------------      ------      ------ 
+<S>                                            <C>                 <C>       <C>  
+Basic             Net Income                        $4,700         3,169       $1.48
+
+                  Common Share Equivalent
+                    of Options Issued                   --            97        (.04)
+                                                    ------         -----       -----
+
+Diluted                                             $4,700         3,266       $1.44
+                                                    ======         =====       ===== 
+</TABLE>
+<TABLE>
+<CAPTION>
+
+
+
+                                             For the Nine Months Ended September 27, 1997
+                                             --------------------------------------------
+                                                (In Thousands except Per Share Data)
+
+                                               Income Available
+                                                  to Common                  Per Share
+                                                 Shareholders      Shares      Amount
+                                                 ------------      ------      ------ 
+<S>                                            <C>                 <C>       <C>    
+Basic             Net Income                        $3,763         3,150       $1.19
+
+
+                  Common Share Equivalent
+                    of Options Issued                   --            57       $(.02)
+                                                    ------         -----       -----
+
+Diluted                                             $3,763         3,207       $1.17
+                                                    ======         =====       =====
+</TABLE>
+
+Diluted earnings per common share are based on the weighted average number of
+common and common equivalent shares outstanding during each year. Such average
+shares include the weighted average number of common shares outstanding plus the
+shares issuable upon exercise of stock options after the assumed repurchase of
+common shares with the related proceeds.
+
+
+                                       -5-
+
+
+<PAGE>   8
+
+
+
+
+4.       Impact of New Accounting Pronouncement
+
+In the first quarter of 1998, the Company adopted Statement of Financial
+Accounting Standards No. 130, "Reporting Comprehensive Income", which
+establishes standards for the reporting and display of comprehensive income and
+its components. Comprehensive income is the total of net income and all other
+non-owner changes in equity. For the three and nine month periods ended October
+3, 1998 and September 27, 1997, the following table sets forth the Company's
+comprehensive income:
+
+
+<TABLE>
+<CAPTION>
+                                                        (Dollars in Thousands)
+                                        -------------------------------------------------
+                                          Three Months Ended               Nine Months Ended
+                                          ------------------               -----------------
+                                       October 3,        Sept. 27,    October 3,    Sept. 27,
+                                         1998              1997          1998         1997
+                                         ----              ----          ----         ----
+<S>                                     <C>               <C>           <C>          <C>   
+Net Income                              $1,578            $1,461        $4,700       $3,763
+Cumulative Translation Adjustments       1,311               (17)          780         (684)
+                                        ------           -------        ------       ------
+Comprehensive Income                    $2,889            $1,444        $5,480       $3,079
+                                        ======            ======        ======       ======
+</TABLE>
+
+
+
+
+                                       -6-
+
+
+<PAGE>   9
+
+
+ITEM 2.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+          FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+Results of Operations
+
+         For the third quarter and first nine months of 1998, the Company
+reported net income of $1,578,000 and $4,700,000 respectively, compared to
+$1,461,000 and $3,763,000 in the same periods in 1997.
+
+         K-Tron is an international company with approximately 59% of its
+revenues derived from products manufactured and services performed from its
+facilities outside the United States, primarily in Europe. As such, the
+financial position and performance of the Company is sensitive to changes in
+foreign currency exchange rates ("foreign exchange rates").
+
+         The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues for the periods indicated:
+
+
+
+<TABLE>
+<CAPTION>
+                                                  Three Months Ended                          Nine Months Ended
+                                          ----------------------------------          --------------------------------
+                                          October 3, 1998     Sept. 27, 1997          October 3, 1998   Sept. 27, 1997
+                                          ---------------     --------------          ---------------   --------------
+
+<S>                                       <C>  <C>            <C>          <C>        <C>          <C>  <C>           
+Total revenues                                100.0%                100.0%                 100.0%               100.0%
+Cost of revenues                               55.3                  54.2                   54.7                 55.1 
+                                              -----                 -----                  -----                ----- 
+Gross profit                                   44.7                  45.8                   45.3                 44.9
+
+Selling, general & administrative              30.4                  32.2                   31.5                 32.5
+Research & development                          3.1                   3.0                    3.2                  3.1
+                                              -----                 -----                  -----                ----- 
+Operating income                               11.2                  10.6                   10.6                  9.3
+Interest                                         .8                   1.3                     .8                  1.4
+                                              -----                 -----                  -----                ----- 
+Income before income taxes                     10.4%                  9.3%                   9.8%                 7.9%
+                                              =====                 =====                  =====                ===== 
+
+                                               
+                                               
+Backlog at end of period (at                   October 1998                December 1997          September 1997   
+October 3, 1998 constant foreign               ------------                -------------          --------------              
+ exchange rates, in millions):                    24,852                      $18,826                 $19,273               
+                                                  ======                      =======                 =======
+                                                  
+</TABLE>
+
+
+         Translation of the Company's foreign revenues and results of operations
+into U.S. dollars is affected by changes in foreign exchange rates, particularly
+with respect to the Swiss franc and the Deutsche mark. In addition, revenues and
+income of the Company with respect to particular transactions may be affected by
+changes in foreign exchange rates where sales are made in other currencies,
+including in particular the U.S.
+
+
+
+                                      -7-
+
+
+
+
+<PAGE>   10
+
+dollar/Swiss franc, U.S. dollar/Deutsche mark and Swiss franc/Deutsche mark
+exchange rates. For the third quarter and first nine months of 1998 as well as
+the same periods in 1997, the changes in these exchange rates were as follows:
+
+<TABLE>
+<CAPTION>
+                                             Three Months Ended                   Nine Months Ended
+                                          ------------------------           ----------------------------
+                                          October 3,     Sept. 27,           October 3,         Sept. 27,
+                                              1998          1997               1998              1997
+                                              ----          ----               ----              ----
+<S>                                       <C>             <C>                <C>                 <C>  
+Average U.S. dollar equivalent of
+one Swiss franc                           $.688           $.671              $.678               $.687
+% change vs. prior year                            +2.5%                               -1.3%
+
+Average U.S. dollar equivalent of
+one Deutsche mark                         $.572           $.554              $.560               $.580
+% change vs. prior year                            +3.2%                               -3.4%
+
+Average Swiss franc equivalent of
+one Deutsche mark                          .831            .826               .826                .845
+% change vs. prior year                            +0.6 %                              -2.2%
+</TABLE>
+
+
+         Total revenues decreased by $.5 million or 2.5% in the third quarter of
+1998 and increased by $.2 million or 0.3% in the first nine months of 1998 when
+compared to the same periods in 1997. If the average foreign exchange rate
+translation for the third quarter and first nine months of 1998 were applied to
+the same periods in 1997, revenues would have decreased 3.0% for the quarter and
+increased 1.4% for first nine months. The third quarter 1998 revenue decline was
+primarily due to reduced sales in Asia and Russia.
+
+         Gross profit as a percent of revenues decreased to 44.7% in the third
+quarter of 1998 and improved to 45.3% for the first nine months of 1998, as
+compared to 45.8% and 44.9%, respectively, for the same periods in 1997. The
+change in gross margin in 1998 was primarily due to changes in the sales mix.
+
+         Selling, general and administrative (SG&A) expense decreased by $.6
+million or 8.0% in the third quarter of 1998 and by $.5 million or 2.5% for the
+first nine months of 1998, as compared to the same periods in 1997. The decrease
+in SG&A was primarily due to lower general administrative expenses.
+
+         Research and development (R&D) expenditures remained constant for the
+third quarter and first nine months of 1998, as compared to the same periods in
+1997. R&D expenses increased for the nine months of 1998 in local currencies due
+to the development of new product enhancements, but these increases were offset
+by lower foreign exchange rate translation.
+
+         Interest expense decreased by $.1 million or 40.9% for the third
+quarter of 1998 and by $.4 million or 43.0% for the first nine months of 1998,
+as compared to the same periods in 1997, primarily due to lower debt levels,
+lower interest rates on some loans and lower foreign exchange rate translation.
+
+
+                                       -8-
+
+
+<PAGE>   11
+
+
+         The effective tax rates for the third quarter and first nine months of
+1998 were 28.6% and 26.4%, respectively, compared to 28.2% and 26.5% for the
+same periods in 1997.
+
+         The backlog increased by 32.0% at the end of the third quarter when
+compared to the end of 1997 and increased by 28.9% when compared to the end of
+the third quarter in 1997, in each case at constant foreign exchange rates.
+
+Liquidity and Capital Resources
+
+      The Company's capitalization as of the end of the third quarter of 1998
+and as of the end of fiscal years 1997 and 1996 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                               October 3,     January 3,   December 28,
+(Dollars in Thousands)                            1998          1998           1996
+                                               ----------     ----------   ------------
+
+<S>                                            <C>            <C>           <C>    
+Short-term debt, including current
+   portion of long-term debt                    $ 1,319       $ 3,148       $   861
+
+Long-term debt                                   11,544        10,619        20,807
+                                                -------       -------       -------
+
+Total debt                                       12,863        13,767        21,668
+
+Shareholders' equity                             20,358        18,892        13,194
+                                                -------       -------       -------
+
+Total debt and shareholders' equity             $33,221       $32,659       $34,862
+                                                =======       =======       =======
+
+Percent total debt to total capitalization           39%           42%           62%
+
+Percent long-term debt to equity                     57%           56%          158%
+
+Percent total debt to equity                         63%           73%          164%
+</TABLE>
+
+
+         In June 1998, the Company's U.S. manufacturing subsidiary refinanced
+its bank debt. The new loan facilities consist of a mortgage loan with a maximum
+availability of $2.7 million and a two year secured revolving credit facility
+with maximum availability of $5.0 million. As of October 3, 1998, outstanding
+debt was $2.7 million (interest at 7.625% per annum) under the mortgage loan and
+$.8 million (interest at U.S. prime) under the revolving credit facility. In
+July 1998, the Company repurchased 250,000 shares of its common stock,
+representing approximately 7.7% of its outstanding common stock. The purchase
+price of $4,531,250, or $18.125 per share, was funded by a combination of cash
+in the amount of $1,981,250 and U.S. bank borrowings of $2,550,000.
+
+         Total debt decreased by $.9 million in the first nine months of 1998,
+and this decrease would have been $1.5 million using a constant foreign exchange
+rate. European debt decreased by $2.0 million ($2.6 million at a constant
+foreign exchange rate) and U.S. debt increased by $1.1 million. At October 3,
+1998, the Company had $4.2 million of availability under its U.S. loan
+agreements and $4.4 million of availability under its Swiss loan agreements.
+
+
+                                       -9-
+
+
+<PAGE>   12
+
+
+
+         At October 3, 1998, there was working capital of $11.3 million as
+compared to $9.4 million at January 3, 1998, and the ratio of current assets to
+current liabilities at those dates was 1.45 and 1.41, respectively.
+
+         In the first nine months of 1998 and 1997, the Company utilized
+earnings from operations and internally-generated funds to meet its working
+capital needs and reduce debt.
+
+         Net cash provided by operating activities was $5.9 million in the first
+nine months of 1998 as compared to $9.5 million in the same period of 1997. The
+lower operating cash flow was primarily from an increase in accounts receivable
+and inventories.
+
+         Net cash used in investing activities in the first nine months of 1998
+and 1997 was for capital additions.
+
+         Net cash used in financing activities in the first nine months of 1998
+was for the reduction of debt and purchase of treasury shares and was provided
+by operating activities and bank borrowings.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and Deutsche mark, caused a translation adjustment increase in
+shareholders' equity of $.8 million in the first nine months of 1998.
+
+Year 2000 Compliance
+
+         The Company has substantially completed an evaluation of its
+information technology infrastructure for Year 2000 compliance and is now
+implementing its Year 2000 compliance strategy. The Company does not expect that
+the cost to modify its information technology infrastructure to be Year 2000
+compliant will be material to its financial condition or results of operations .
+The Company does not anticipate any material disruptions in its operations as a
+result of any failure by the Company to be in compliance. The Company is also in
+the process of obtaining information concerning the Year 2000 compliance status
+of its suppliers and customers, and there can be no assurance that such
+suppliers and customers are or will be Year 2000 compliant. In the event that
+any of the Company's significant suppliers or customers does not successfully
+and timely achieve Year 2000 compliance, the Company's business operations could
+be adversely affected.
+
+
+
+
+                                      -10-
+
+
+<PAGE>   13
+
+
+
+                           PART II. OTHER INFORMATION
+
+
+Item 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+(a)      Exhibits
+
+
+            10.1   Amendment No. 1 to Employment Agreement dated October 5, 1998
+                   by and between K-Tron International, Inc. and Edward B.
+                   Cloues, II.
+            27.1   Financial Data Schedule
+
+
+
+
+(b)      Reports on Form 8-K
+
+         There were no reports on Form 8-K for the nine months ended October 3,
+         1998.
+
+
+
+
+
+
+                                      -11-
+
+
+
+<PAGE>   14
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Date: November 5, 1998                         K-TRON INTERNATIONAL, INC.
+
+
+                                            By: /s/ Robert L. Weinberg
+                                                --------------------------------
+                                                Robert L. Weinberg
+                                                Senior Executive Vice President
+                                                & Chief Financial Officer
+                                                (Duly authorized officer and
+                                                principal financial officer
+                                                of the registrant)
+
+
+Date: November 5, 1998                      By: /s/ Alan R. Sukoneck
+                                                --------------------------------
+                                                Alan R. Sukoneck
+                                                Vice President, Chief Accounting
+                                                & Tax Officer
+                                                (Duly authorized officer and
+                                                principal accounting officer
+                                                of the registrant)
+
+
+
+
+
+
+                                      -12-
+
+
+
+<PAGE>   15
+
+
+                                  EXHIBIT INDEX
+
+
+
+
+       Exhibit Number    Description
+       --------------    -----------
+
+       10.1              Amendment No. 1 to Employment Agreement dated
+                         October 5, 1998 by and between K-Tron
+                         International, Inc. and Edward B. Cloues, II.
+       27.1              Financial Data Schedule
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+
+                               AMENDMENT NO. 1 TO
+                              EMPLOYMENT AGREEMENT
+
+
+         THIS AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT (this "Amendment") is made
+and entered into on October 5, 1998 by and between K-TRON INTERNATIONAL, INC., a
+New Jersey corporation ("K-Tron"), and EDWARD B. CLOUES, II, a resident of
+Pennsylvania (the "Employee"). This Amendment amends and otherwise modifies the
+Employment Agreement ( the "Agreement") dated as of October 6, 1997 by and
+between K-Tron and the Employee. Terms used herein that are not defined herein
+shall have the meanings ascribed thereto in the Agreement.
+
+         WHEREAS, K-Tron and the Employee wish to amend and modify the Agreement
+in certain respects, effective as of January 2, 1998.
+
+         NOW, THEREFORE, the parties hereto, intending to be legally bound,
+hereby agree as follows:
+
+         1. The fifth sentence of Section 1.4 of the Agreement shall be deemed
+modified in the following respects: (a) the term life insurance policy having a
+death benefit of $1,000,000 shall be in addition to any group term life
+insurance which the Employee may be required to accept under any K-Tron group
+plan, and K-Tron shall reimburse the Employee for the estimated income taxes on
+the premiums paid for such $1,000,000 policy; and (b) the Employee and K-Tron
+acknowledge that the disability coverage referred to in Section 1.4 shall be
+satisfied by the QQ series Disability Income Policy in a lesser amount, with a
+one year waiting period, which the Employee has purchased from Northwestern
+Mutual Life.
+
+         2. Section 1.5 of the Agreement is amended and restated to read in its
+entirety as follows:
+
+          "1.5 Stock Grant. On January 2, 1998, K-Tron shall issue to the
+     Employee 10,000 fully vested shares of its Common Stock, which shares shall
+     be unregistered and contain an appropriate securities law restrictive
+     legend. On October 7, 1998, K-Tron shall issue to the Employee 7,500 shares
+     (the "October Shares") of its Common Stock as a restricted stock grant
+     under Section 6 of the K-Tron International, Inc. 1996 Equity Compensation
+     Plan, as amended (the "1996 Equity Compensation Plan"), with the grant to
+     provide that the restrictions shall lapse on January 5, 1999, provided that
+     the Employee is still employed by K-Tron on that date. On January 5, 1999,
+     K-Tron shall issue to the Employee 12,500 shares of its Common Stock as a
+     restricted stock grant under Section 6 of the 1996 Equity Compensation
+     Plan, with the grant to provide that 2,500 of such shares shall be fully
+     vested shares on that date and that the restrictions shall lapse as to the
+     other 10,000 shares (the "January 2000 Shares") on January 5, 2000,
+     provided that the Employee is still employed by K-Tron on those dates.
+     Notwithstanding the foregoing, the restrictions on the October Shares and
+     the January 2000 Shares shall lapse immediately if the Employment Term is
+     terminated by (a) K-Tron for any reason other than "cause" as defined in
+     Section 8.4(b) hereof or (b) the Employee either pursuant to Section 8.4(a)
+     hereof or in
+
+
+<PAGE>   2
+
+
+
+     connection with a Termination upon a Change of Control as described in
+     Section 9.1(c) hereof."
+
+         3. This Amendment shall be effective as of January 2, 1998 and shall be
+governed by and interpreted under the laws of the State of New Jersey, without
+giving effect to any conflict of laws provisions.
+
+         4. As amended and modified hereby, the Agreement is ratified and
+confirmed in all respects.
+
+         IN WITNESS WHEREOF, K-Tron and the Employee have executed this
+Amendment on October 5, 1998.
+
+
+[Corporate Seal]                      K-TRON INTERNATIONAL, INC.
+
+Attest:
+
+
+/s/Mary E. Vaccara                    By: /s/Robert L. Weinberg
+- ------------------                        --------------------------------------
+Mary E. Vaccara                           Robert L. Weinberg
+As its Secretary                          As its Senior Executive Vice President
+                                          and Chief Financial Officer
+
+
+                                      EMPLOYEE
+
+
+
+/s/Mary E. Vaccara                        /s/Edward B. Cloues, II
+- ------------------                        --------------------------------------
+Witness                                   Edward B. Cloues, II
+
+
+Approved as of October 5, 1998 
+by the Compensation and Human 
+Resources Committee of the 
+K-Tron Board of Directors:
+
+
+
+By: /s/Norman Cohen
+    ---------------
+    Norman Cohen
+    As its Chairman
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                           JAN-2-1999
+<PERIOD-END>                                OCT-3-1998
+<CASH>                                           3,838
+<SECURITIES>                                         0
+<RECEIVABLES>                                   20,019
+<ALLOWANCES>                                     1,275
+<INVENTORY>                                     11,228
+<CURRENT-ASSETS>                                36,305
+<PP&E>                                          43,202
+<DEPRECIATION>                                  27,028
+<TOTAL-ASSETS>                                  58,154
+<CURRENT-LIABILITIES>                           24,975
+<BONDS>                                         11,544
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            43
+<OTHER-SE>                                      20,315
+<TOTAL-LIABILITY-AND-EQUITY>                    58,154
+<SALES>                                         65,065
+<TOTAL-REVENUES>                                65,065
+<CGS>                                           35,559
+<TOTAL-COSTS>                                   35,559
+<OTHER-EXPENSES>                                22,592
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 522
+<INCOME-PRETAX>                                  6,392
+<INCOME-TAX>                                     1,692
+<INCOME-CONTINUING>                              4,700
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     4,700
+<EPS-PRIMARY>                                     1.48
+<EPS-DILUTED>                                     1.44
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

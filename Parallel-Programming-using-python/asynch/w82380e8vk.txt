@@ -1,0 +1,215 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w82380e8vk.txt
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. FORM 8-K DATED 1/2/03
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+        Date of report (Date of earliest event reported): January 2, 2003
+                                                          ---------------
+
+                           K-TRON INTERNATIONAL, INC.
+                           ---------------------------
+                 (Exact Name of Registrant Specified in Charter)
+
+<TABLE>
+<S>                            <C>                          <C>
+  New Jersey                        0-9576                      22-1759452
+---------------                ----------------              ----------------
+(State or Other                (Commission File              (I.R.S. Employer
+Jurisdiction of                     Number)                 Identification No.)
+ Incorporation)
+</TABLE>
+
+<TABLE>
+<S>                                                                   <C>
+             Routes 55 & 553
+              P.O. Box 888
+           Pitman, New Jersey                                         08071-0888
+----------------------------------------                              ----------
+(Address of Principal Executive Offices)                              (Zip Code)
+</TABLE>
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                           --------------
+
+                                 Not Applicable
+          -------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+<PAGE>
+ITEM 2. ACQUISITION OR DISPOSITION OF ASSETS.
+
+(a) On January 2, 2003, K-Tron International, Inc. ("K-Tron"), through its
+indirect, wholly-owned subsidiary PCC Acquisition Co., a Delaware corporation
+("Acquisition Co."), acquired all of the outstanding capital stock (the "PCC
+Stock") of Pennsylvania Crusher Corporation, a Delaware corporation ("PCC"),
+from John D. Whalen, Donald J. Carrozzino, Frank Wallitsch, Jr. and Nancy S.
+Hansen (the "Stockholders"). The acquisition of the PCC Stock was made pursuant
+to a Stock Purchase Agreement (the "PCC Stock Purchase Agreement") dated January
+2, 2003 by and among Acquisition Co. and the Stockholders. The PCC Stock
+Purchase Agreement is attached hereto as Exhibit 2.1 and incorporated herein by
+reference. On January 3, 2003, Acquisition Co. was merged with and into PCC,
+with PCC being the surviving corporation.
+
+      As a result of the purchase of the PCC Stock, PCC's wholly-owned
+subsidiary, Jeffrey Specialty Equipment Corporation, a Delaware corporation
+("Jeffrey"), is now also an indirect, wholly-owned subsidiary of K-Tron.
+
+      The purchase price paid for the PCC Stock was $23.5 million, subject to a
+post-closing adjustment based on PCC's consolidated stockholders' equity at
+December 31, 2002. Of this amount, $19.5 million was paid in cash to the
+Stockholders, and K-Tron issued an aggregate of $4 million in unsecured
+promissory notes to the Stockholders (the "Stockholder Notes"). The principal of
+the Stockholder Notes is payable in three equal, annual installments on the
+second, third and fourth anniversaries of the closing date. With respect to the
+payment of the cash portion of the purchase price and related acquisition
+expenses, $15 million of this amount was financed through a secured credit
+facility from National City Bank directly to PCC with no recourse to K-Tron.
+This credit facility is secured by all of the real property, personal property
+and other assets of PCC and Jeffrey, including a pledge by K-Tron Investment
+Co., a direct, wholly-owned subsidiary of K-Tron, of the stock of PCC. The total
+amount of the PCC facility with National City Bank is $17 million, leaving an
+additional $2 million of availability under the revolving credit line, subject
+to certain conditions, for working capital purposes. Additionally, K-Tron
+America, Inc., another K-Tron indirect, wholly-owned subsidiary ("K-Tron
+America"), borrowed $5 million from The Bank, a subsidiary of Fulton Financial
+Corporation, which money was used to pay part of the purchase price for the PCC
+Stock. This loan, which was combined with another $2.333 million
+then-outstanding loan from The Bank to K-Tron America, is secured by the real
+property, accounts receivable, inventory and equipment of K-Tron America (with
+limited exceptions), and its repayment by K-Tron America is guaranteed by
+K-Tron.
+
+(b) PCC has its headquarters in Broomall, Pennsylvania, and a manufacturing
+facility in Cuyahoga Falls, Ohio. It manufactures size reduction and related
+equipment which is sold to electric utilities to crush coal for use in
+coal-fired power generation plants and also to companies in other industries
+such as quarries where the crushing of material is required. Jeffrey is located
+in Woodruff, South Carolina, where it manufactures chip sizer mills, industrial
+hammermills and other size reduction equipment for use in the paper and pulp
+industries to crush wood in the production of paper and also in other industries
+for crushing applications. Jeffrey also makes large-scale vibratory feeders for
+coal, minerals,
+
+
+                                       2
+<PAGE>
+chemicals and other bulk materials. A significant portion of the revenues of
+both PCC and Jeffrey comes from the sale of spare parts. Following the
+acquisition, K-Tron will continue to operate both businesses.
+
+ITEM 7. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+
+(a) Financial statements for Pennsylvania Crusher Corporation have not been
+prepared but will be filed not later than March 18, 2003 pursuant to the
+instructions set forth in Item 7 of Form 8-K.
+
+(b) Pro forma financial statements reflecting the acquisition of all of the
+stock of Pennsylvania Crusher Corporation have not been prepared but will be
+filed not later than March 18, 2003 pursuant to the instructions set forth in
+Item 7 of Form 8-K.
+
+(c)      Exhibit No.        Exhibit
+         -----------        -------
+
+         2.1                Stock Purchase Agreement dated January 2, 2003 by
+                            and among John D. Whalen, Donald J. Carrozzino,
+                            Frank Wallitsch, Jr. and Nancy S. Hansen and PCC
+                            Acquisition Co. (1)
+
+         10.1               Credit Agreement dated January 3, 2003 among
+                            Pennsylvania Crusher Corporation, the Lenders party
+                            to that Credit Agreement and National City Bank, as
+                            Agent (1)
+
+         10.2               Form of the Stockholder Note issued to each of the
+                            individuals listed on Schedule 10.2, which notes are
+                            identical in all material respects except for the
+                            payee, the principal amount of the note and the
+                            amount of the installments to be made thereunder
+
+         10.3               Note dated December 20, 2002 from K-Tron America,
+                            Inc. in favor of The Bank
+
+         10.4               Loan Modification Agreement dated December 20, 2002
+                            between K-Tron America, Inc. and The Bank
+
+         99.1               Press Release dated January 6, 2003
+
+(1) The exhibits and disclosure letters to the Stock Purchase Agreement and the
+Credit Agreement have been omitted. Pursuant to Item 601(b)(2) of Regulation
+S-K, the Company agrees to furnish a copy of the exhibits and disclosure letters
+to the Securities and Exchange Commission upon request.
+
+
+                                       3
+<PAGE>
+                                    SIGNATURE
+
+      Pursuant to the requirements of the Securities and Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                        K-TRON INTERNATIONAL, INC.
+
+
+Date: January 15, 2003                  By: /s/ Edward B. Cloues, II
+      ----------------                      -----------------------------------
+                                            Edward B. Cloues, II
+                                            Chairman of the Board and Chief
+                                            Executive Officer
+
+
+                                       4
+<PAGE>
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit No.       Exhibit
+-----------       -------
+<S>               <C>
+2.1               Stock Purchase Agreement dated January 2, 2003 by and among
+                  John D. Whalen, Donald J. Carrozzino, Frank Wallitsch, Jr. and
+                  Nancy S. Hansen and PCC Acquisition Co. (exhibits and
+                  disclosure letter omitted)
+
+10.1              Credit Agreement dated January 3, 2003 among Pennsylvania
+                  Crusher Corporation, the Lenders party to that Credit
+                  Agreement and National City Bank, as Agent (exhibits and
+                  disclosure letter omitted)
+
+10.2              Form of the Stockholder Note issued to each of the individuals
+                  listed on Schedule 10.2, which notes are identical in all
+                  material respects except for the payee, the principal amount
+                  of the note and the amount of the installments to be made
+                  thereunder
+
+10.3              Note dated December 20, 2002 from K-Tron America, Inc. in
+                  favor of The Bank
+
+10.4              Loan Modification Agreement dated December 20, 2002 between
+                  K-Tron America, Inc. and The Bank
+
+99.1              Press Release dated January 6, 2003
+</TABLE>
+
+
+                                       5
+
+
+
+
+</TEXT>
+</DOCUMENT>

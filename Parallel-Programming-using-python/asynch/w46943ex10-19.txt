@@ -1,0 +1,74 @@
+<DOCUMENT>
+<TYPE>EX-10.19
+<SEQUENCE>2
+<FILENAME>w46943ex10-19.txt
+<DESCRIPTION>LOAN MODIFICATION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10.19
+
+                          THE BANK OF GLOUCESTER COUNTY
+                           LOAN MODIFICATION AGREEMENT
+                              K-TRON AMERICA, INC.
+
+Date:   June 21, 2000                                Loan #6039359-6600
+Original Amount: $5,000,000.00                       Maturity Date: July 3, 2002
+
+        WHEREAS, the undersigned Borrower executed the note referred to above on
+June 24, 1998, and
+
+        WHEREAS, the note, security agreement and commitment letter executed by
+the Borrower allow a modification of interest rate, due date or other terms
+without affecting the priority of The Bank of Gloucester County's lien.
+
+        NOW, therefore, in consideration of an annual fee of $12,500.00, the
+above referenced note is modified as follows:
+
+        IT IS HEREBY AGREED THAT THE ABOVE-NUMBERED NOTE SHALL BECOME DUE JULY
+        3, 2002. DURING THE TERMS OF THE RENEWAL PAYMENTS OF INTEREST ONLY SHALL
+        BE DUE EACH MONTH BEGINNING JULY 1, 2000 AND SHALL BE APPLIED TO
+        INTEREST AND THEN TO PRINCIPAL.
+
+        IT IS HEREBY AGREED THAT, EFFECTIVE ON THE DATE OF THIS AGREEMENT,
+        AMOUNTS BORROWED ON THIS LOAN SHALL BEAR INTEREST AT THE RATE OF 0.25%
+        BELOW THE WALL STREET JOURNAL'S PRIME RATE.
+
+        BORROWER AGREES THAT UNTIL ALL OBLIGATIONS HEREUNDER ARE FULLY PAID AND
+        DISCHARGED, BORROWER WILL NOT WITHOUT PRIOR WRITTEN CONSENT OF THE BANK:
+
+        1.      Permit the consolidated debt to net worth ratio of Guarantor
+                (K-Tron International, Inc.) to be more than 1.65 at fiscal
+                year-end 2000 or more than 1.60 at fiscal year-end 2001 and each
+                fiscal year thereafter.
+
+        2.      Permit the consolidated annual debt coverage ratio of Guarantor
+                at each fiscal year-end to be less than 1.50.
+
+<PAGE>   2
+        3.      Permit the consolidated net worth of Guarantor to be less than
+                $21,400,000 at fiscal year-end 2000 or less than $23,400,000 at
+                fiscal year-end 2001 and each fiscal year thereafter, excluding
+                any declines due to changes in foreign exchange rates subsequent
+                to January 1, 2000.
+
+        All terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+THE BANK OF GLOUCESTER COUNTY                             K-TRON AMERICA, INC.
+
+
+By: /s/ David J. Hanrahan, Sr.                   By: /s/ Kevin C. Bowen
+    ---------------------------------                ---------------------------
+     David J. Hanrahan, Sr.,                          Kevin C. Bowen, President
+     Vice President
+
+                                                 By: /s/ Patricia M. Moore
+                                                     ---------------------------
+                                                      Patricia M. Moore,
+                                                      Vice President--Finance
+
+</TEXT>
+</DOCUMENT>

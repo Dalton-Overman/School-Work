@@ -1,0 +1,11 @@
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.vbprojAssemblyReference.cache
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.Form1.resources
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.Resources.resources
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.vbproj.GenerateResource.cache
+H:\VB\ListBoxes\ListBoxes\bin\Debug\ListBoxes.exe.config
+H:\VB\ListBoxes\ListBoxes\bin\Debug\ListBoxes.exe
+H:\VB\ListBoxes\ListBoxes\bin\Debug\ListBoxes.pdb
+H:\VB\ListBoxes\ListBoxes\bin\Debug\ListBoxes.xml
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.exe
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.xml
+H:\VB\ListBoxes\ListBoxes\obj\Debug\ListBoxes.pdb

@@ -1,0 +1,461 @@
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>y52683sc13g.txt
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+           TO RULE 13d-1(b), (c), AND (d) AND AMENDMENTS THERETO FILED
+                             PURSUANT TO RULE 13d-2
+
+                    Under the Securities Exchange Act of 1934
+
+                           K-TRON INTERNATIONAL, INC.
+                                (Name of Issuer)
+
+                          COMMON STOCK, $0.01 PAR VALUE
+                         (Title of Class of Securities)
+
+                                   482730 10 8
+                                 (CUSIP Number)
+
+                                 AUGUST 9, 2001
+             (Date of Event Which Requires Filing of This Statement)
+
+                              Rory A. Greiss, Esq.
+                                Kaye Scholer LLP
+                                 425 Park Avenue
+                            New York, New York 10022
+                                 (212) 836-8261
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+         / / Rule 13d-1(b)
+         /X/ Rule 13d-1(c)
+         / / Rule 13d-1(d)
+
+
+
+
+<PAGE>   2
+
+
+
+
+                                  SCHEDULE 13G
+CUSIP NO. 482730 10 8                                          PAGE 2 OF 8 PAGES
+
+
+--------------------------------------------------------------------------------
+1.       NAME OF REPORTING PERSON
+
+         The Ravenswood Investment Company, L.P.
+
+         I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+         11-2474002
+--------------------------------------------------------------------------------
+2.       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a) /X/
+                                                              (b) / /
+
+--------------------------------------------------------------------------------
+3.       SEC USE ONLY
+
+--------------------------------------------------------------------------------
+4.       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         New York
+--------------------------------------------------------------------------------
+                   5.       SOLE VOTING POWER
+  NUMBER OF
+   SHARES                   57,900
+BENEFICIALLY
+ OWNED BY          -------------------------------------------------------------
+    EACH           6.       SHARED VOTING POWER
+  REPORTING
+   PERSON                   0
+    WITH           -------------------------------------------------------------
+                   7.       SOLE DISPOSITIVE POWER
+
+                            57,900
+                   -------------------------------------------------------------
+                   8.       SHARED DISPOSITIVE POWER
+
+                            0
+--------------------------------------------------------------------------------
+9.       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+         57,900
+--------------------------------------------------------------------------------
+10.      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                           / /
+--------------------------------------------------------------------------------
+11.      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+         2.37%
+--------------------------------------------------------------------------------
+12.      TYPE OF REPORTING PERSON*
+         IV, PN
+--------------------------------------------------------------------------------
+
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+
+<PAGE>   3
+                                  SCHEDULE 13G
+CUSIP NO. 482730 10 8                                          PAGE 3 OF 8 PAGES
+
+
+--------------------------------------------------------------------------------
+1.       NAME OF REPORTING PERSON
+
+
+         Robotti & Company, Incorporated
+
+         I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY)
+
+         11-2627501
+--------------------------------------------------------------------------------
+2.       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a) /X/
+                                                              (b) / /
+
+--------------------------------------------------------------------------------
+3.       SEC USE ONLY
+
+--------------------------------------------------------------------------------
+4.       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         New York
+--------------------------------------------------------------------------------
+                   5.       SOLE VOTING POWER
+  NUMBER OF
+   SHARES
+BENEFICIALLY                0
+ OWNED BY          -------------------------------------------------------------
+    EACH           6.       SHARED VOTING POWER
+  REPORTING
+   PERSON                   67,450
+    WITH           -------------------------------------------------------------
+                   7.       SOLE DISPOSITIVE POWER
+
+                            0
+                   -------------------------------------------------------------
+                   8.       SHARED DISPOSITIVE POWER
+
+                            67,450
+--------------------------------------------------------------------------------
+9.       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+         67,450
+--------------------------------------------------------------------------------
+10.      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                            / /
+--------------------------------------------------------------------------------
+11.      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+         2.77%
+--------------------------------------------------------------------------------
+12.      TYPE OF REPORTING PERSON*
+         CO, IV, BD
+--------------------------------------------------------------------------------
+
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+<PAGE>   4
+
+                                  SCHEDULE 13G
+CUSIP NO. 482730 10 8                                          PAGE 4 OF 8 PAGES
+
+
+
+
+--------------------------------------------------------------------------------
+1.       NAME OF REPORTING PERSON
+
+        Robert Robotti
+
+        I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY)
+
+--------------------------------------------------------------------------------
+2.       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a) /X/
+                                                              (b) / /
+
+--------------------------------------------------------------------------------
+3.       SEC USE ONLY
+
+--------------------------------------------------------------------------------
+4.       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+         United States
+--------------------------------------------------------------------------------
+                   5.       SOLE VOTING POWER
+  NUMBER OF
+   SHARES
+BENEFICIALLY                0
+ OWNED BY          -------------------------------------------------------------
+    EACH           6.       SHARED VOTING POWER
+  REPORTING
+   PERSON                   125,350
+    WITH           -------------------------------------------------------------
+                   7.       SOLE DISPOSITIVE POWER
+
+                            0
+                   -------------------------------------------------------------
+                   8.       SHARED DISPOSITIVE POWER
+
+                            125,350
+--------------------------------------------------------------------------------
+9.       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+         125,350
+--------------------------------------------------------------------------------
+10.      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                             / /
+--------------------------------------------------------------------------------
+11.      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+         5.15%
+--------------------------------------------------------------------------------
+12.      TYPE OF REPORTING PERSON*
+
+         IN
+--------------------------------------------------------------------------------
+
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT
+          INCLUDE BOTH SIDES OF THE COVER PAGE, RESPONSES TO ITEMS 1-7
+      (INCLUDING EXHIBITS) OF THE SCHEDULE, AND THE SIGNATURE ATTESTATION.
+
+
+
+
+
+
+
+
+<PAGE>   5
+
+
+
+ITEM 1(a).        NAME OF ISSUER.
+
+                  K-Tron International, Inc.
+
+ITEM 1(b).        ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+
+                  Routes 55 & 553
+                  P.O. Box 888
+                  Pitman, New Jersey 08071-0888
+
+ITEM 2(a).        NAME OF PERSONS FILING:
+
+                  This statement is filed by:
+
+                  (i)      The Ravenswood Investment Company,
+                           L.P.("Ravenswood"), a New York limited partnership;
+
+                  (ii)     Robotti & Company, Incorporated ("Robotti &
+                           Company"), a New York corporation; and
+
+                  (iii)    Robert Robotti ("Robotti"), a United States citizen.
+
+ITEM 2(b).        ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE:
+
+                  The principal place of business for Ravenswood, Robotti &
+                  Company and Robotti is 52 Vanderbilt Avenue, New York, New
+                  York 10017.
+
+ITEM 2(c).        CITIZENSHIP:
+
+                  See Item 2(a).
+
+ITEM 2(d).        TITLE OF CLASS OF SECURITIES:
+
+                  Common Stock, par value $0.01 per share (the "Common Stock").
+
+ITEM 2(e).        CUSIP NUMBER:
+
+                  482730 10 8
+
+ITEM 3.
+
+                  IF THIS STATEMENT IS FILED PURSUANT TO RULE 13d-1(b), OR
+                  13d-2(b) OR (c), CHECK WHETHER THE PERSON FILING IS A:
+
+                  Not applicable.
+
+
+                                PAGE 5 OF 8 PAGES
+
+<PAGE>   6
+
+
+
+ITEM 4.  OWNERSHIP:
+
+         The Ravenswood Investment Company, L.P.
+
+         (a)      Amount beneficially owned: 57,900 shares
+         (b)      Percent of class: 2.37%
+         (c)      Number of shares as to which such person has:
+                  (i)      Sole power to vote or to direct the vote: 57,900
+                           shares
+                  (ii)     Shared power to vote or to direct the vote: 0
+                  (iii)    Sole power to dispose or to direct the disposition
+                           of: 57,900 shares
+                  (iv)     Shared power to dispose or to direct the disposition
+                           of: 0
+
+         Robotti & Company, Incorporated
+
+         (a)      Amount beneficially owned: 67,450 shares
+         (b)      Percent of class: 2.77%
+         (c)      Number of shares as to which such person has:
+                  (i)      Sole power to vote or to direct the vote: 0
+                  (ii)     Shared power to vote or to direct the vote: 67,450
+                           shares
+                  (iii)    Sole power to dispose or to direct the disposition
+                           of: 0
+                  (iv)     Shared power to dispose or to direct the disposition
+                           of: 67,450 shares
+
+         Robert Robotti
+
+         (a)      Amount beneficially owned: 125,350 shares
+         (b)      Percent of class: 5.15%
+         (c)      Number of shares as to which such person has:
+                  (i)      Sole power to vote or to direct the vote: 0
+                  (ii)     Shared power to vote or to direct the vote: 125,350
+                           shares
+                  (iii)    Sole power to dispose or to direct the disposition
+                           of: 0
+                  (iv)     Shared power to dispose or to direct the disposition
+                           of: 125,350 shares
+
+ITEM 5.  OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS.
+
+         If this statement is being filed to report the fact that as of the date
+         hereof the reporting person has ceased to be the beneficial owner of
+         more than five percent of the class of securities, check the following
+         [ ].
+
+ITEM 6.  OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON.
+
+         Not applicable.
+
+ITEM 7.  IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE
+         SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY OR CONTROL
+         PERSON.
+
+         Not applicable.
+
+
+                                Page 6 of 8 Pages
+
+<PAGE>   7
+
+
+
+ITEM 8.  IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+
+         The Ravenswood Investment Company, L.P., a New York limited
+         partnership, is an investment partnership.
+
+         Robotti & Company, Incorporated, a New York corporation, is a
+         registered broker-dealer.
+
+         Robert Robotti, a United States citizen, is a director and the
+         president and treasurer of Robotti & Company. Robert Robotti is also a
+         general partner of Ravenswood.
+
+ITEM 9.  NOTICE OF DISSOLUTION OF GROUP.
+
+         Not applicable.
+
+ITEM 10. CERTIFICATIONS.
+
+         By signing below I certify that, to the best of my knowledge and
+         belief, the securities referred to above were not acquired and are not
+         held for the purpose of or with the effect of changing or influencing
+         the control of the issuer of the securities and were not acquired and
+         are not held in connection with or as a participant in any transaction
+         having that purpose or effect.
+
+                                Page 7 of 8 Pages
+
+<PAGE>   8
+
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+Dated:   August 16, 2001
+
+
+                                  THE RAVENSWOOD INVESTMENT
+                                  COMPANY, L.P.
+
+                                  By:      /s/ Robert Robotti
+                                           -------------------------------------
+                                           Name:    Robert Robotti
+                                           Title:   General Partner
+
+
+                                  ROBOTTI & COMPANY, INCORPORATED
+
+                                  By:      /s/ Robert Robotti
+                                           -------------------------------------
+                                           Name:    Robert Robotti
+                                           Title:   President and Treasurer
+
+
+
+                                  By:       /s/ Robert Robotti
+                                           -------------------------------------
+                                           Name:    Robert Robotti
+
+
+
+
+                                Page 8 of 8 Pages
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

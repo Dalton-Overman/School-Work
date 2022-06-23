@@ -1,0 +1,1138 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IMZWFQ4sQI7z25AIsqfGzciroy1HFm8WcPQ2CF7IXdsbyw/uoN7GeAT/CS7EeI7H
+ RzUKjVAZElPOJpeJuIKENA==
+
+<SEC-DOCUMENT>0000893220-06-001630.txt : 20060724
+<SEC-HEADER>0000893220-06-001630.hdr.sgml : 20060724
+<ACCEPTANCE-DATETIME>20060724082209
+ACCESSION NUMBER:		0000893220-06-001630
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20060724
+DATE AS OF CHANGE:		20060724
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		06975408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLOUES EDWARD B II
+		CENTRAL INDEX KEY:			0001145949
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 & 553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+		BUSINESS PHONE:		856 589 0500
+
+	MAIL ADDRESS:	
+		STREET 1:		K-TRON INTERNATIONAL INC
+		STREET 2:		ROUTES 55 &553
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>w23406sc13dza.htm
+<DESCRIPTION>SCHEDULE 13D/A K-TRON INTERNATIONAL, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13dza</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right">
+<TABLE style="font-size: 12pt" cellspacing="0" border="0" cellpadding="0" width="15%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="1%">&nbsp;</TD>
+<TD width="98%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000">&nbsp;</TD>
+<TD align="center" valign="top" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">OMB APPROVAL</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">OMB Number: 3235-0145</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" nowrap><DIV style="margin-left:0px; text-indent:-0px">Expires: February&nbsp;28, 2009</DIV>
+</TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Estimated average burden hours per response...15</DIV></TD>
+<TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px" valign="bottom">
+<TD nowrap align="left" colspan="3" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>SCHEDULE 13D/A</B>
+
+
+<P align="center" style="font-size: 12pt"><B>Under the Securities Exchange Act of 1934<BR>
+(Amendment No.&nbsp;2&nbsp;)<SUP style="font-size: 85%; vertical-align: text-top"><B>1</B></SUP></B>
+
+
+<DIV align="center">
+<DIV style="font-size: 24pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">K-Tron International, Inc.</DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name of Issuer)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Common Stock, par value $.01 per share</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Title of Class of Securities)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">482730108</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(CUSIP Number)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">Joanne
+R. Soslow, Esq.<BR>Morgan, Lewis &amp; Bockius LLP<BR>1701 Market Street<BR>Philadelphia, PA 19103-2921<BR>(215) 963-5000<BR></DIV>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name, Address and Telephone Number of Person Authorized to<BR>
+Receive Notices and Communications)
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 16pt; width: 100%; border-bottom: 1px solid #000000">July
+19, 2006</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Date of Event Which Requires Filing of this Statement)
+</DIV>
+
+<P align="left" style="font-size: 10pt">If the filing person has previously filed a statement on Schedule&nbsp;13G to report the acquisition that is the subject of this Schedule&nbsp;13D, and is filing this schedule because of &#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. <FONT face="wingdings" size="2">&#111;</FONT>
+
+<P align="left" style="font-size: 10pt"><B>Note: </B>Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See &#167;240.13d-7 for other parties to whom copies are to be sent.
+
+<P align="left" style="font-size: 10pt">* The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+
+<P align="left" style="font-size: 10pt">The information required on the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+<P align="left" style="font-size: 10pt"><B>Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB control number.</B>
+
+<P align="center" style="font-size: 10pt">(Page 1 of 6 pages)
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left"><SUP style="font-size: 85%; vertical-align: text-top">1</SUP></TD>
+    <TD>&nbsp;</TD>
+    <TD>The remainder of this cover page shall be
+filled out for a reporting person&#146;s initial filing on this form with
+respect to the subject class of securities, and for any subsequent
+amendment containing information which would alter the disclosures
+provided in a prior cover page.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>The information required in the remainder of this cover page shall
+not be deemed to be &#147;filed&#148; for the purpose of Section&nbsp;18 of
+the Securities Exchange Act of 1934 or otherwise subject to the
+liabilities of that section of the Act but shall be subject to all other
+provisions of the Act (however, see the Notes).</TD>
+</TR>
+
+</TABLE>
+
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="20%">&nbsp;</TD>
+<TD width="55%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="9%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+
+<TR valign="bottom">
+<TD valign="top" nowrap><DIV style="margin-left:0px; text-indent:-0px">CUSIP No.</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">482730108&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="left" valign="top">Page</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">2&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+<TD align="left" valign="top">of&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><DIV style="border: 1px solid #000000">6&nbsp;</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P>&nbsp;<DIV style="width: 100%; border: 1px solid black"><DIV align="center">
+
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="1" width="100%">
+<!-- Begin Table Head --><TR style="font-size: 1px">
+<TD width="5%">&nbsp;</TD>
+<TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+<TD width="83%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="4"><FONT style="font-size: 18pt"><B>1</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">NAMES OF REPORTING PERSONS<BR>
+</TD>
+</TR>
+<TR valign="bottom"> <TD style="border-left: 1px solid #000000">&nbsp;</TD> <TD colspan="4" align="left">&nbsp;</TD> </TR> <TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)<BR>
+<BR>Edward B. Cloues, II</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>2</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK THE APPROPRIATE BOX IF A MEMBER OF
+A GROUP*<BR><BR></TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(a)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#111;</FONT>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">(b)&nbsp;&nbsp;&nbsp;<FONT face="wingdings" size="2">&#254;</FONT>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>3</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SEC USE ONLY</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>4</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">SOURCE OF FUNDS</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="11" align="left">OO</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>5</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO ITEMS 2(d) OR 2(e)</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>6</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CITIZENSHIP OR PLACE OF ORGANIZATION</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">United States of America
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>7</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE VOTING POWER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;229,360 shares*</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">NUMBER OF</TD>
+<TD>&nbsp;</TD>
+<TD align="left">*Includes 93,710 shares underlying options presently exercisable, 8,000 shares subject to a restricted stock grant, which restricted shares are subject to forfeiture until April 14, 2008, 3,000 shares subject to a restricted
+ stock grant, which restricted shares are subject to forfeiture until May 13, 2009 and 3,000 shares subject to a restricted stock grant, which restricted shares are subject
+ to forfeiture until May 5, 2010.</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" colspan="3">SHARES</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>8</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED VOTING POWER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59,020 shares</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">BENEFICIALLY</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">OWNED BY</TD>
+<TD>&nbsp;</TD>
+<TD></TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+<TD align="center" colspan="3">EACH</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>9</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SOLE DISPOSITIVE POWER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;229,360 shares*</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">REPORTING</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="top">
+<TD align="center" colspan="3">PERSON<BR>WITH</TD>
+<TD>&nbsp;</TD>
+<TD align="left">*Includes 93,710 shares underlying options presently
+exercisable, 8,000 shares subject to a restricted stock
+grant, which restricted shares are subject to forfeiture
+until April 14, 2008, 3,000 shares subject to a restricted
+stock grant, which restricted shares are subject to
+forfeiture until May 13, 2009 and 3,000 shares subject to a
+restricted stock grant, which restricted shares are subject
+to forfeiture until May 5, 2010.</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD colspan="3">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD valign="middle" align="center" rowspan="3" style="border-left: 1px solid #000000; border-right: 1px solid #000000"><FONT style="font-size: 18pt"><B>10</B></FONT></TD>
+<TD>&nbsp;</TD>
+<TD align="left">SHARED DISPOSITIVE POWER</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD align="left">59,020 shares</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>11</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;288,380 shares*</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">*Includes 93,710 shares underlying options presently exercisable, 8,000 shares subject to a restricted stock grant, which
+restricted shares are subject to forfeiture until April 14, 2008, 3,000 shares subject to a restricted stock grant, which
+restricted shares are subject to forfeiture until May 13, 2009 and 3,000 shares subject to a restricted stock grant, which
+restricted shares are subject to forfeiture until May 5, 2010.</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>12</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">CHECK IF THE AGGREGATE AMOUNT IN ROW (11)&nbsp;EXCLUDES CERTAIN SHARES*</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left"><FONT face="wingdings" size="2">&#111;</FONT>
+</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>13</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">11.1&#37;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+<TD style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD valign="middle" align="center" rowspan="3"><FONT style="font-size: 18pt"><B>14</B></FONT></TD>
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">TYPE OF REPORTING PERSON*</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD style="border-left: 1px solid #000000">&nbsp;</TD>
+<TD colspan="4" align="left">IN</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>*SEE INSTRUCTIONS BEFORE FILLING OUT!</B>
+
+
+
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><B>CUSIP No.&nbsp;482730108</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>SCHEDULE 13D/A</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top"><B>Page 3 of 6</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;1.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Security and Issuer.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This statement relates to the common stock, $.01 par value (the &#147;Common Stock&#148;), of K-Tron
+International, Inc., a New Jersey corporation (the &#147;Issuer&#148;). The principal executive offices of
+the Issuer are located at Routes 55 &#038; 553, Pitman, New Jersey 08071-0888.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;2.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Identity and Background.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;This statement is being filed by Edward B. Cloues, II (the &#147;Filing Person&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;The principal business address of the Filing Person is Routes 55 &#038; 553, Pitman, New
+Jersey 08071-0888.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;The present principal occupation of the Filing Person is Chairman of the Board and Chief
+Executive Officer of the Issuer.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;During the last five years, the Filing Person has not been convicted in a criminal
+proceeding.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;During the last five years, the Filing Person has not been a party to a civil proceeding
+of a judicial or administrative body of competent jurisdiction as a result of which he was or is
+subject to a judgment, decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, Federal or State securities laws or finding any violation with
+respect to such laws.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;The Filing Person is a citizen of the United States of America.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;3.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Source and Amount of Funds or Other Consideration.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On July&nbsp;20, 2001, the Filing Person received a stock option grant from the Issuer to purchase
+40,000 shares of Common Stock (the &#147;Grant&#148;) at an exercise price of $12.20 per share. Pursuant to
+the terms of the Grant, on July&nbsp;19, 2006, the option to purchase 40,000 shares of Common Stock
+fully vested. The Grant expires on July&nbsp;19, 2011.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;4.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Purpose of Transaction.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Filing Person was Chairman of the Board and Chief Executive Officer of the Issuer prior to
+the vesting of the stock options described in Item&nbsp;5(c), and continues to serve in those
+capacities. Prior to the vesting of the Grant, the Filing Person held 121,650 shares of Common
+Stock in his own name (as well as options to purchase 53,710 shares of Common Stock that are
+presently exercisable, 8,000 shares subject to a restricted stock grant, which restricted shares
+are subject to forfeiture until April&nbsp;14, 2008, 3,000 shares subject to a restricted stock grant,
+which restricted shares are subject to forfeiture until May&nbsp;13, 2009 and 3,000 shares subject to a
+restricted stock grant, which restricted shares are subject to forfeiture until May&nbsp;5, 2010) and
+held indirect beneficial ownership in 59,020 shares of Common Stock through the Asset Management
+Durable General Power of Attorney of Jan W. Beebe, dated June&nbsp;28, 2001. Following the vesting of
+the Grant, the Filing Person now holds options to purchase 93,710 shares of Common Stock that are
+presently exercisable in his own name. The Filing Person may
+acquire additional securities of the Issuer directly or may, in the future, dispose of the
+securities he holds directly and indirectly. Except as set forth above, the Filing
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><B>CUSIP No.&nbsp;482730108</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>SCHEDULE 13D/A</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top"><B>Page 4 of 6</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Person has no
+plans or proposals that relate to or would result in any of the actions specified in clauses (a)
+through (j)&nbsp;of this Item&nbsp;4.
+</DIV>
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;5.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Interest in Securities of the Issuer.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;The Filing Person beneficially owns 288,380 shares of the Common Stock, including 93,710
+shares underlying stock options presently exercisable, 14,000 shares subject to restricted stock
+grants and 59,020 shares for which the Filing Person holds a power of attorney, which constitute
+11.1% of the outstanding shares of Common Stock, calculated in accordance with Rule&nbsp;13d-3(d)(i)(D).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;The Filing Person has sole power to vote or direct the vote and sole power to dispose or
+direct the disposition of 229,360 shares reported herein and shared power to vote or direct the
+vote and to dispose or direct the disposition of 59,020 shares reported herein. Power to vote and
+dispose of 59,020 shares is shared with Jan W. Beebe whose address is 777 North Post Oak Road,
+Suite&nbsp;439, Houston, Texas 77024. Mrs.&nbsp;Beebe is retired and is a citizen of the United States.
+During the last five years, Mrs.&nbsp;Beebe has not been convicted in a criminal proceeding. In
+addition, during the last five years, Mrs.&nbsp;Beebe has not been a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction as a result of which she was or is
+subject to a judgment, decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, Federal or State securities laws or finding any violation with
+respect to such laws. The Filing Person is not related to Mrs.&nbsp;Beebe.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;On July&nbsp;20, 2001, the Filing Person received a stock option grant from the Issuer to
+purchase 40,000 shares of Common Stock at an exercise price of $12.20 per share. Pursuant to the
+terms of the Grant, on July&nbsp;19, 2006, the option to purchase 40,000 shares of Common Stock fully
+vested. The Grant expires on July&nbsp;19, 2011.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;6.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Contracts, Arrangements, Understandings or Relationships With Respect to Securities of the Issuer.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Filing Person has been appointed Attorney-in-Fact by Jan W. Beebe (&#147;Beebe&#148;) pursuant to an
+Asset Management Durable General Power of Attorney dated June&nbsp;28, 2001 (the &#147;Beebe
+Power of Attorney&#148;). Under the Beebe Power of Attorney, the Filing Person is authorized to
+transact all of Beebe&#146;s business and manage all of Beebe&#146;s property and affairs, including: taking
+custody of Beebe&#146;s stocks; selling, surrendering or exchanging any such stocks; signing and
+delivering assignments or stock powers and other documents required for sale, assignment, surrender
+or exchange; purchasing stocks; providing instructions regarding the registration of stock and the
+mailing of dividends; representing Beebe at shareholders&#146; meetings and voting proxies on Beebe&#146;s
+behalf; and generally handling or managing Beebe&#146;s investments. Beebe shares the above powers with
+the Filing Person. Beebe currently holds 59,020 shares of
+Common Stock. As a result of the Beebe Power of Attorney, the Filing Person possesses
+indirect beneficial ownership of the 59,020 shares of Common Stock held by Beebe.
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><B>CUSIP No.&nbsp;482730108</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>SCHEDULE 13D/A</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top"><B>Page 5 of 6</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unless
+earlier revoked, the Beebe Power of Attorney terminates at the death of the principal. The
+Filing Person will hold the power granted under the Beebe Power of Attorney until such termination or
+until a successor agent is appointed.
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;7.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Material to be Filed as Exhibits.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">99.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>Asset Management Durable General Power of Attorney of Jan W. Beebe, dated June&nbsp;28, 2001.
+(Incorporated by reference herein from the 13D filed on July&nbsp;27, 2001.)</TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>Filed herewith.</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+    <TD width="5%"></TD>
+    <TD width="30%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><B>CUSIP No.&nbsp;482730108</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>SCHEDULE 13D/A</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top"><B>Page 6 of 6</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, I certify that the
+information set forth in this statement is true, complete and correct.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="51%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">July&nbsp;24, 2006
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Date)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Edward B. Cloues, II</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+
+<TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Signature)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Edward B. Cloues, II</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Name / Title)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

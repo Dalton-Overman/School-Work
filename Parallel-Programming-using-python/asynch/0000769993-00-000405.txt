@@ -1,0 +1,296 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UQHgljUsd3HUl978IZWWah7koljufC9hjM1ZXMl3hU3SgxRvV7NMQMftIRTg2hhF
+ w+I9dA14gyg1ICqTFmhSYg==
+
+<SEC-DOCUMENT>0000769993-00-000405.txt : 20000511
+<SEC-HEADER>0000769993-00-000405.hdr.sgml : 20000511
+ACCESSION NUMBER:		0000769993-00-000405
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20000510
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		624337
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS ASSET MANAGEMENT/
+		CENTRAL INDEX KEY:			0001088084
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GOLDMAN SACHS ASSET MANAGEMENT
+		STREET 2:		1 NEW YORK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2129027202
+
+	MAIL ADDRESS:	
+		STREET 1:		GOLDMAN SACHS ASSET MANAGEMENT
+		STREET 2:		1 NEW YORK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDMENT NO. 1 TO SCHEDULE 13G
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13G
+                    Under the Securities Exchange Act of 1934
+                                Amendment No. 1
+
+
+
+                           K-Tron International, Inc.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+
+                         Common Stock, $0.01 par value
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    482730108
+                  --------------------------------------------
+                                 (CUSIP Number)
+
+
+
+
+
+                                 April 28, 2000
+- -------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X] Rule 13d-1(b)
+
+[_] Rule 13d-1(c)
+
+[_] Rule 13d-1(d)
+
+
+
+                                Page 1 of 4 pages
+<PAGE>
+
+- -----------------------
+  CUSIP No. 482730108                   13G
+- -----------------------
+
+- ------------------------------------------------------------------------------
+ 1.   Name of Reporting Person
+      I.R.S. Identification No. of above Person
+
+           Goldman Sachs Asset Management, a separate operating division of
+           Goldman, Sachs & Co.
+
+- ------------------------------------------------------------------------------
+ 2.   Check the Appropriate Box if a Member of a Group
+                                                                (a) [_]
+                                                                (b) [_]
+
+- ------------------------------------------------------------------------------
+ 3.   SEC Use Only
+
+
+
+- ------------------------------------------------------------------------------
+ 4.   Citizenship or Place of Organization
+
+           New York
+
+- ------------------------------------------------------------------------------
+                     5.   Sole Voting Power
+
+     Number of                 34,902
+
+      Shares        ----------------------------------------------------------
+                     6.   Shared Voting Power
+   Beneficially
+                               0
+     Owned by
+                    ----------------------------------------------------------
+       Each          7.   Sole Dispositive Power
+
+    Reporting                  55,345
+
+      Person        ----------------------------------------------------------
+                     8.   Shared Dispositive Power
+       With:
+                               0
+
+- ------------------------------------------------------------------------------
+ 9.   Aggregate Amount Beneficially Owned by Each Reporting Person
+
+           55,345
+
+- ------------------------------------------------------------------------------
+10.   Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+
+                                                                    [_]
+
+- ------------------------------------------------------------------------------
+11.   Percent of Class Represented by Amount in Row (9)
+
+           2.3%
+- ------------------------------------------------------------------------------
+12.   Type of Reporting Person
+
+           IA
+
+- ------------------------------------------------------------------------------
+
+
+
+                                Page 2 of 4 pages
+
+<PAGE>
+
+
+Item 2(b).         Address of Principal Business Office or, if none, Residence:
+                   32 Old Slip, New York, NY  10005
+
+Item 4.            Ownership.*
+
+          (a).     Amount beneficially owned:
+                   See the response(s) to Item  9 on the attached cover page(s).
+
+          (b).     Percent of Class:
+                   See the response(s) to Item 11 on the attached cover page(s).
+
+          (c).     Number of shares as to which such person has:
+
+                   (i).     Sole power to  vote or to direct  the vote:  See the
+                            response(s) to Item 5 on the attached cover page(s).
+
+                   (ii).    Shared power to vote or to direct the vote:  See the
+                            response(s) to Item 6 on the attached cover page(s).
+
+                   (iii).   Sole power to  dispose or to direct  the disposition
+                            of:  See the response(s) to  Item 7  on the attached
+                            cover page(s).
+
+                   (iv).    Shared power to dispose or to direct the disposition
+                            of:  See the response(s) to  Item 8  on the attached
+                            cover page(s).
+
+Item 5.            Ownership of Five Percent or Less of a Class.*
+                   If this statement is being  filed to report the  fact that as
+                   of the date  hereof the reporting  persons have  ceased to be
+                   the  beneficial  owners of  more  than  five  percent  of the
+                   class of securities, check the following [X].
+
+Item 10.           Certification.
+                   By signing  below I certify that, to the best of my knowledge
+                   and belief,  the  securities  referred to above were acquired
+                   and are held in the ordinary  course of business and were not
+                   acquired  and are not  held  for the  purpose  of or with the
+                   effect of changing or  influencing  the control of the issuer
+                   of the  securities  and were not acquired and are not held in
+                   connection with or as a participant in any transaction having
+                   that purpose or effect.
+
+
+- --------------------------
+     * In accordance with Securities and Exchange Commission ("SEC") Release No.
+34-39538  (January 12, 1998),  this filing reflects the securities  beneficially
+owned by the asset  management  division  of  Goldman,  Sachs & Co.  (the "Asset
+Management  Division").  This  filing  does  not  reflect  securities,  if  any,
+beneficially  owned by any other  division  of  Goldman,  Sachs & Co.  The Asset
+Management   Division   disclaims   beneficial   ownership  of  the   securities
+beneficially  owned by (i) any client  accounts  with respect to which it or its
+employees  have  voting or  investment  discretion,  or both,  and (ii)  certain
+investment  entities,  of which its affiliate is the general  partner,  managing
+general partner or other manager,  to the extent  interests in such entities are
+held by persons other than the Asset Management Division.
+
+
+
+                               Page 3 of 4 pages
+<PAGE>
+
+
+                                    SIGNATURE
+
+            After reasonable inquiry and to the best of my knowledge
+            and belief,  I certify that the information set forth in
+            this statement is true, complete and correct.
+
+
+Date:  May 10, 2000
+
+
+                                GOLDMAN, SACHS & CO. on behalf of
+                                Goldman Sachs Asset Management
+
+
+                                By:  /s/ Roger S. Begelman
+                                     --------------------------------------
+                                Name:    Roger S. Begelman
+                                Title:   Attorney-in-fact
+
+
+
+
+                                Page 4 of 4 pages
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

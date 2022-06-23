@@ -1,0 +1,301 @@
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>b41841ktsc13ga.txt
+<DESCRIPTION>FLEETBOSTON FINANCIAL CORPORATION
+<TEXT>
+<PAGE>
+SEC 1745 POTENTIAL PERSONS WHO ARE TO RESPOND TO THE COLLECTION OF INFORMATION
+ (6-00)  CONTAINED IN THIS FORM ARE NOT REQUIRED TO RESPOND UNLESS THE FORM
+         DISPLAYS A CURRENTLY VALID OMB CONTROL NUMBER.
+
+                                                       OMB APPROVAL
+                                                       OMB Number: 3235-0145
+                                                       Expires: October 31, 2002
+                                                       Estimated average burden
+                                                       hours per response.  14.9
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                SCHEDULE 13G/A
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                             (AMENDMENT NO. 1 )*
+
+                            KTRON INTERNATIONAL, INC.
+                                (Name of Issuer)
+
+                                     COMMON
+                         (Title of Class of Securities)
+
+                                    482730108
+                                 (CUSIP Number)
+
+                                DECEMBER 31, 2001
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X]   Rule 13d-1(b)
+
+[ ]   Rule 13d-1(c)
+
+[ ]   Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+<PAGE>
+CUSIP No. 482730108
+
+
+--------------------------------------------------------------------------------
+          1.       Names of Reporting Persons.
+                   I.R.S. Identification Nos. of above persons (entities only).
+                   FLEETBOSTON FINANCIAL CORPORATION
+                   05-0341324
+
+--------------------------------------------------------------------------------
+          2.       Check the Appropriate Box if a Member of a Group (See
+                   Instructions)
+                   (a)   [ ]
+
+                   (b)   [ ]
+
+--------------------------------------------------------------------------------
+          3.       SEC Use Only
+
+
+
+--------------------------------------------------------------------------------
+          4.       Citizenship or Place of Organization.
+                   100 FEDERAL STREET
+                   BOSTON, MASSACHUSETTS 02110
+
+--------------------------------------------------------------------------------
+   Number Of         5.   Sole Voting Power   111,054
+
+     Shares          -----------------------------------------------------------
+                     6.   Shared Voting Power    0
+ Beneficially
+                     -----------------------------------------------------------
+    Owned by         7.   Sole Dispositive Power   146,494
+
+ Each Reporting      -----------------------------------------------------------
+                     8.   Shared Dispositive Power  0
+  Person With
+--------------------------------------------------------------------------------
+          9.       Aggregate Amount Beneficially Owned by Each Reporting
+                   Person 146,494
+
+--------------------------------------------------------------------------------
+          10.      Check if the Aggregate Amount in Row (11) Excludes Certain
+                   Shares (See Instructions)
+
+--------------------------------------------------------------------------------
+          11.      Percent of Class Represented by Amount in Row (11)  6.0286%
+
+--------------------------------------------------------------------------------
+          12.      Type of Reporting Person (See Instructions)   HC
+
+--------------------------------------------------------------------------------
+<PAGE>
+ITEM 1.
+
+            (a)          Name of Issuer  KTRON INTERNATIONAL, INC.
+
+            (b)          Address of Issuer's Principal Executive Offices
+                         ROUTE 55 & 553, P.O. BOX 888, PITMAN, NJ  08071-0888
+
+
+ITEM 2.
+
+                         Name of Person Filing  FLEETBOSTON FINANCIAL
+            (a)          CORPORATION
+
+
+                         Address of Principal Business Office or, if none,
+                         Residence
+            (b)          100 FEDERAL STREET
+                           BOSTON, MASSACHUSETTS 02110
+
+            (c)          Citizenship MASSACHUSETTS
+
+            (d)          Title of Class of Securities  COMMON
+
+            (e)          CUSIP Number  482730108
+
+ITEM 3.     IF THIS STATEMENT IS FILED PURSUANT TO SECTIONS 240.13d-1(b) OR
+            240.13d-2(b) OR (c), CHECK WHETHER THE PERSON FILING IS A:
+
+                                             Broker or dealer registered under
+                                             section 15 of the Act (15 U.S.C.
+            (a)          [ ]                 78o).
+
+            (b)          [ ]                 Bank as defined in section 3(a)(6)
+                                             of the Act (15 U.S.C. 78c).
+
+                                             Insurance company as defined in
+            (c)          [ ]                 section 3(a)(19) of the Act (15
+                                             U.S.C. 78c).
+
+            (d)          [ ]                 Investment company registered
+                                             under section 8 of the Investment
+                                             Company Act of 1940 (15 U.S.C.
+                                             80a-8).
+
+            (e)          [ ]                 An investment adviser in
+                                             accordance with
+                                             Section 240.13d-1(b)(1)(ii)(E);
+
+            (f)          [ ]                 An employee benefit plan or
+                                             endowment fund in accordance with
+                                             Section 240.13d-1(b)(1)(ii)(F);
+
+            (g)          [X]                 A parent holding company or
+                                             control person in accordance with
+                                             Section 240.13d-1(b)(1)(ii)(G);
+
+            (h)          [ ]                 A savings associations as defined
+                                             in Section 3(b) of the Federal
+                                             Deposit Insurance Act (12 U.S.C.
+                                             1813);
+
+            (i)          [ ]                 A church plan that is excluded
+                                             from the definition of an
+                                             investment company under section
+                                             3(c)(14) of the Investment Company
+                                             Act of 1940 (15 U.S.C. 80a-3);
+
+            (j)          [ ]                 Group, in accordance with
+                                             Section 240.13d-1(b)(1)(ii)(J).
+
+ITEM 4.     OWNERSHIP.
+
+Provide the following information regarding the aggregate number and percentage
+of the class of securities of the issuer identified in Item 1.
+
+            (a)          Amount beneficially owned:  146,494
+
+            (b)          Percent of class:   6.0286%
+
+            (c)          Number of shares as to which the person has:
+
+                                             Sole power to vote or to direct
+                                             the vote
+                         (i)                 111,054
+
+                                             Shared power to vote or to direct
+                         (ii)                the vote
+                                              0
+
+                         (iii)               Sole power to dispose or to direct
+                                             the disposition of  146,494
+
+                         (iv)                Shared power to dispose or to
+                                             direct the disposition of  0
+
+Instruction. For computations regarding securities which represent a right to
+acquire an underlying security see Section 240.13d-3(d)(1).
+
+
+ITEM 5.     OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+
+If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following []. Instruction:
+Dissolution of a group requires a response to this item.
+
+ITEM 6.     OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON.
+
+If any other person is known to have the right to receive or the power to direct
+the receipt of dividends from, or the proceeds from the sale of, such
+securities, a statement to that effect should be included in response to this
+item and, if such interest relates to more than five percent of the class, such
+person should be identified. A listing of the shareholders of an investment
+company registered under the Investment Company Act of 1940 or the beneficiaries
+of employee benefit plan, pension fund or endowment fund is not required.
+
+ITEM 7.     IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED
+            THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY
+
+If a parent holding company has filed this schedule, pursuant to Rule
+13d-1(b)(ii)(G), so indicate under Item 3(g) and attach an exhibit stating the
+identity and the Item 3 classification of the relevant subsidiary. If a parent
+holding company has filed this schedule pursuant to Rule 13d-1(c) or Rule
+13d-1(d), attach an exhibit stating the identification of the relevant
+subsidiary. EXHIBIT A ATTACHED
+<PAGE>
+ITEM 8.     IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP
+
+If a group has filed this schedule pursuant to Section 240.13d-1(b)(1)(ii)(J),
+so indicate under Item 3(j) and attach an exhibit stating the identity and Item
+3 classification of each member of the group. If a group has filed this schedule
+pursuant to Section 240.13d-1(c) or Section 240.13d-1(d), attach an exhibit
+stating the identity of each member of the group.
+
+ITEM 9.     NOTICE OF DISSOLUTION OF GROUP
+
+Notice of dissolution of a group may be furnished as an exhibit stating the date
+of the dissolution and that all further filings with respect to transactions in
+the security reported on will be filed, if required, by members of the group, in
+their individual capacity. See Item 5.
+
+ITEM 10.    CERTIFICATION
+
+            (a)          The following certification shall be included if the
+                         statement is filed pursuant to Section 240.13d-1(b):
+
+                            By signing below I certify that, to the best of my
+                            knowledge and belief, the securities referred to
+                            above were acquired and are held in the ordinary
+                            course of business and were not acquired and are not
+                            held for the purpose of or with the effect of
+                            changing or influencing the control of the issuer of
+                            the securities and were not acquired and are not
+                            held in connection with or as a participant in any
+                            transaction having that purpose or effect.
+
+            (b)          The following certification shall be included if the
+                         statement is filed pursuant to Section 240.13d-1(c):
+
+                            By signing below I certify that, to the best of my
+                            knowledge and belief, the securities referred to
+                            above were not acquired and are not held for the
+                            purpose of or with the effect of changing or
+                            influencing the control of the issuer of the
+                            securities and were not acquired and are not held in
+                            connection with or as a participant in any
+                            transaction having that purpose or effect.
+
+                                    SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+
+
+                              FEBRUARY 14, 2002
+                              -----------------
+                              Date
+
+                              /S/ ERNEST L. PUSCHAVER
+                              -----------------------
+                              Signature
+
+                              ERNEST L. PUSCHAVER, CHIEF ACCOUNTING OFFICER
+                              ---------------------------------------------
+                              Name/Title
+
+</TEXT>
+</DOCUMENT>

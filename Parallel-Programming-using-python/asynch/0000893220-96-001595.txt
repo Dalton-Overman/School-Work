@@ -1,0 +1,586 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GBwO9GVKo+ZIsiOy2gqcLP6NxmFnuTulnh9DOZyKq76t2eZUoMB2686ZiHqJa9WD
+ bmyJ73ViesyDRZtGubMnMQ==
+
+<SEC-DOCUMENT>0000893220-96-001595.txt : 19960921
+<SEC-HEADER>0000893220-96-001595.hdr.sgml : 19960921
+ACCESSION NUMBER:		0000893220-96-001595
+CONFORMED SUBMISSION TYPE:	424B1
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960919
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		424B1
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-11783
+		FILM NUMBER:		96632333
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>424B1
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL RULE 424(B)(1)
+<TEXT>
+
+<PAGE>   1
+
+                                               
+                                               FILED PURSUANT TO RULE 424(b)(1)
+                                               REGISTRATION NO. 333-11783
+
+PROSPECTUS
+
+
+                                 150,000 Shares
+
+                           K-TRON INTERNATIONAL, INC.
+
+                                  Common Stock
+                                ($.01 Par Value)
+
+                        -------------------------------
+
+
+                 The shares offered hereby (the "Shares") consist of up to
+150,000 shares of common stock, $.01 par value per share (the "Common Stock"),
+of K-Tron International, Inc., a New Jersey corporation (the "Company").  The
+Shares may be offered from time to time by the Selling Shareholder identified
+herein.  See "Selling Shareholder."  The Selling Shareholder offering the
+Shares covered by this Prospectus is a director of the Company.
+
+                 The Company will not receive any part of the proceeds from the
+sale of the Shares.  All expenses of registration incurred in connection
+herewith are being borne by the Selling Shareholder.
+
+                 The Selling Shareholder has not advised the Company of any
+specific plans for the distribution of the Shares covered by this Prospectus,
+but it is anticipated that the Shares will be sold from time to time in
+negotiated transactions and in transactions (which may include block
+transactions) on the Nasdaq National Market of The Nasdaq Stock Market at the
+market price then prevailing, although sales may also be made as described
+herein under "Plan of Distribution."  The Selling Shareholder and the brokers
+and dealers through whom sale of the Shares may be made may be deemed to be
+"underwriters" within the meaning of the Securities Act of 1933, as amended,
+and their commissions or discounts and other compensation may be regarded as
+underwriters' compensation.  See "Plan of Distribution."
+
+            THE SHARES OFFERED HEREBY INVOLVE A HIGH DEGREE OF RISK.
+          SEE "RISK FACTORS" COMMENCING ON PAGE 3 OF THIS PROSPECTUS.
+
+                 The Company's Common Stock is quoted on the Nasdaq National
+Market under the symbol "KTII."  On September 18, 1996, the last reported sale
+price of the Common Stock was $8.25 per share.
+
+                         -----------------------------
+
+
+    THESE SECURITIES HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE SECURITIES
+         AND EXCHANGE COMMISSION OR ANY STATE SECURITIES COMMISSION NOR
+          HAS THE SECURITIES AND EXCHANGE COMMISSION PASSED  UPON THE
+            ACCURACY OR ADEQUACY OF  THIS PROSPECTUS.  ANY REPRESEN-
+                 TATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
+
+                         -----------------------------
+
+             The date of this Prospectus is September 19, 1996.
+<PAGE>   2
+
+                             AVAILABLE INFORMATION
+
+         This Prospectus constitutes a part of a registration statement on Form
+S-3 (herein, together with all exhibits thereto, referred to as the
+"Registration Statement") filed by the Company with the Securities and Exchange
+Commission (the "Commission") under the Securities Act of 1933, as amended (the
+"Securities Act"), with respect to the securities offered hereby.  This
+Prospectus does not contain all the information set forth in the Registration
+Statement, certain parts of which are omitted in accordance with the rules and
+regulations of the Commission.  Reference is hereby made to the Registration
+Statement and to the exhibits thereto for further information with respect to
+the Company and the securities offered hereby.  Copies of the Registration
+Statement and the exhibits thereto are on file at the offices of the Commission
+and may be obtained upon payment of the prescribed fee or may be examined
+without charge at the public reference facilities of the Commission described
+below.
+
+         The Company is subject to the informational requirements of the
+Securities Exchange Act of 1934, as amended (the "Exchange Act"), and, in
+accordance therewith, files reports, proxy statements and other information
+with the Commission.  Such reports, proxy statements and other information can
+be inspected and copied at the public reference facilities maintained by the
+Commission at Room 1024, 450 Fifth Street, N.W., Washington, D.C. 20549 and at
+the Commission's regional offices located at Seven World Trade Center, New
+York, New York 10048 and Northwestern Atrium Center, 500 West Madison Street,
+Suite 1400, Chicago, Illinois 60661.  Copies of such material can be obtained
+in person from the Public Reference Section of the Commission at its principal
+office located at 450 Fifth Street, N.W., Washington, D.C. 20549, at prescribed
+rates.  Reports and proxy statements concerning the Company also may be
+inspected at the offices of the National Association of Securities Dealers,
+Inc., 1735 K Street, N.W., Washington, D.C.  20006.
+
+
+                INCORPORATION OF CERTAIN DOCUMENTS BY REFERENCE
+
+         The following documents or portions of documents filed by the Company
+(File No. 0-9576) with the Commission are incorporated herein by reference:
+
+                 (a)      The Company's Annual Report on Form 10-K for the
+         fiscal year ended December 30, 1995.
+
+                 (b)      The Company's Quarterly Reports on Form 10-Q for the
+         quarterly periods ended March 30, 1996 and June 29, 1996.
+
+                 (c)      The description of the Company's Common Stock, $.01
+         par value (the "Common Stock"), which is contained in the Company's
+         Registration Statement on Form 8-A filed with the Commission under the
+         Exchange Act, on March 19, 1981, including any amendment or report
+         filed for the purpose of updating such description.
+
+         All reports and other documents filed by the Company pursuant to
+Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act subsequent to the date
+of this Prospectus and prior to the filing of a post-effective amendment which
+indicates that all securities offered hereby have been sold or which
+deregisters all securities remaining unsold, shall be deemed to be incorporated
+by reference herein and to be a part hereof from the date of the filing of such
+reports and documents.  Any statement contained in a document, all or a portion
+of which is incorporated by reference herein, shall be deemed to be modified or
+superseded for purposes of this Prospectus to the extent that a statement
+contained or incorporated by reference herein modifies or supersedes such
+statement.  Any statement so modified or superseded shall not be deemed, except
+as so modified or superseded, to constitute a part of this Prospectus.
+
+         Upon request, the Company will provide without charge to each person
+to whom this Prospectus is delivered a copy of any or all of such documents
+which are incorporated herein by reference (other than exhibits to such
+documents unless such exhibits are specifically incorporated by reference into
+the documents that this Prospectus incorporates).  Written or oral requests for
+copies should be directed to Robert L. Weinberg, Senior Executive Vice
+President and Chief Financial Officer, K-Tron International, Inc., Routes 55
+and 553,  P.O. Box 888,  Pitman, New Jersey 08071-0888,  (609) 589-0500.
+
+
+
+
+
+                                       2
+<PAGE>   3
+                                  THE COMPANY
+
+                 Founded in 1964, the Company's principal operating businesses
+are conducted by subsidiaries which design, produce, market and sell
+gravimetric and volumetric feeders and related equipment for the handling of
+bulk solids in a wide variety of manufacturing processes.  The Company has
+manufacturing facilities in the United States and Switzerland, and its
+equipment is sold throughout the world.
+
+                 The Company's feeders control by weight or volume the rate at
+which ingredients are fed into the manufacturing processes of numerous
+products, primarily in the plastics, food, chemical, cement, glass and aluminum
+industries.  In addition, the Company designs, produces and sells electronic
+assemblies and controls, and it provides customer and employee training through
+its K-Tron Institute.
+
+                 The Company's principal executive offices are located at
+Routes 55 and 553, Pitman, New Jersey 08071, and its telephone number at that
+address is (609) 589-0500.
+
+
+                                  RISK FACTORS
+
+                 In addition to the other information in this Prospectus,
+prospective investors should consider the following risk factors in evaluating
+the Company and its business before purchasing any shares offered hereby.
+
+UNCERTAIN SWISS BANKING RELATIONSHIPS
+
+                 The Company's Swiss manufacturing subsidiary is in violation
+of certain equity guarantees contained in its loan agreements with several
+Swiss lenders which resulted in a default under such loan agreements.  The
+subsidiary has entered into a forbearance agreement with its Swiss lenders
+under which they have agreed to defer until March 31, 1997 the repayment of
+credit lines and the principal payments on fixed loans that become due prior to
+that date.  The Company and its subsidiary are exploring ways to refinance or
+reduce the subsidiary's bank indebtedness in Switzerland or to extend the
+forbearance agreement, but the defaults are continuing and have not been waived
+and there can be no assurance that the Company will be able to refinance or
+reduce its bank indebtedness in Switzerland or to extend the forbearance
+agreement or that, if alternative financing is available, it could be obtained
+on terms that would be favorable or acceptable to the Company.
+
+HIGH LEVERAGE; LIMITATIONS ASSOCIATED WITH EXISTING DEBT COVENANTS; REFINANCING
+RISK
+
+                 As of  June 29, 1996, the principal amount outstanding under
+the Swiss loan agreements was $24.2 million and the principal amount
+outstanding under the U.S. loan agreements was $5.8 million.  The Company's
+highly  leveraged financial position poses significant risks to the Company,
+including the risks that (i) a substantial portion of the cash flow from
+operations will be required to pay interest, (ii) the Company's ability to
+obtain future financing, for working capital, capital expenditures and other
+purposes, may  be impeded and (iii) the Company may be more vulnerable to
+economic downturns and less able to respond to competitive pressures.
+
+                 The Company's credit agreements restrict, among other things,
+the ability of the Company to incur additional indebtedness, pay dividends,
+prepay subordinated indebtedness, create liens, dispose of certain assets,
+enter into sale and leaseback transactions, engage in mergers or enter into
+transactions with affiliates.  These restrictions, in combination with the
+Company's high leverage, could limit the Company's ability to respond to
+opportunities and to changing market and economic conditions.  If the Company
+is unable to maintain compliance with the terms of its credit agreements it may
+be required to refinance its outstanding debt or obtain additional financing.
+There can be no assurance that any such refinancing would be possible or that
+any additional financing could be obtained on terms that would be favorable or
+acceptable to the Company.
+
+
+
+
+
+                                       3
+<PAGE>   4
+
+CYCLICAL INDUSTRY
+
+                 The markets for the Company's products are cyclical.  During
+periods of economic expansion, particularly when capital spending is
+increasing, the Company generally benefits from increased demand for its
+products.  During periods of economic contraction, the Company is generally
+adversely affected by declining demand for its products.  There can be no
+assurance that an increase in demand or an economic recovery will be sustained
+in the Company's markets.
+
+INTERNATIONAL SALES; FOREIGN EXCHANGE RISKS
+
+                 In fiscal 1995 and the six months ended June 29, 1996, 74% and
+68%, respectively, of  the Company's net sales to unaffiliated customers were
+made to customers outside of the United States.  The Company expects that
+international sales will continue to account for a significant portion of its
+net sales in future periods.  International sales are subject to fluctuations
+in exchange rates, which may have an adverse effect on the Company's business,
+operating results and financial condition.  Since the results of operations of
+the Company's subsidiaries are translated to United States dollars, the
+Company's results of operations are affected by fluctuations in exchange rates
+among the United States dollar, Swiss franc, German mark and French franc.  In
+addition, as the Company's subsidiaries sell into other countries, these
+transactions are affected by numerous cross exchange rates.
+
+COMPETITION
+
+                 The Company's products are sold in highly competitive markets
+in the United States, Europe and Asia.   The Company competes with companies of
+varying sizes, including foreign manufacturers and divisions or subsidiaries of
+larger companies.  Some of these competitors may have financial resources that
+are substantially greater than those of the Company.  The Company believes that
+over the past several years it has experienced increased price competition
+because of prevailing economic conditions in the Company's markets.
+Competitive pressures or other factors could cause the Company's products to
+lose market share or result in significant price erosion which would have an
+adverse effect on the Company's results of operations.
+
+DEPENDENCE ON SUPPLIERS
+
+                 Each product produced by the Company requires the supply of
+components specially engineered to meet the Company's requirements.  Supply of
+these components can be affected by numerous factors beyond the control of the
+Company.  While certain of the Company's components are obtained from a single
+or limited number of sources, the Company has potential alternate suppliers for
+most of the specialty components used in its assembly operations.  There can be
+no assurance, however, that the Company will not experience shortages or be
+forced to seek alternative sources of supply which may increase costs or
+adversely affect the Company's ability to fulfill orders.
+
+DEPENDENCE ON KEY PERSONNEL
+
+                 The Company  is dependent upon the continued services of
+certain key officers and management and operating personnel.  The loss of key
+personnel could have a material adverse effect on the Company.  The Company
+does not maintain "key man" insurance for any of its officers.  The Company's
+continued success also depends on its ability to attract and retain a skilled
+labor force.  There can be no assurance that the Company will be successful in
+attracting and retaining the personnel it requires to develop, manufacture and
+market its products or expand its operations.
+
+CERTAIN ANTI-TAKEOVER PROVISIONS
+
+                 The ability of the Board of Directors of the Company to issue
+shares of preferred stock without shareholder approval and a shareholder rights
+plan adopted by the Company may, alone or in combination, have certain
+anti-takeover effects, including inhibiting a change in control of the Company
+under circumstances that could give the shareholders the opportunity to realize
+a premium over the then-prevailing market prices.
+
+
+
+
+
+                                       4
+<PAGE>   5
+DIVIDEND POLICY
+
+                 The Company is not currently paying any cash dividends on its
+Common Stock and does not intend to do so for the foreseeable future.
+
+
+                                USE OF PROCEEDS
+
+                 The Company will not receive any proceeds from the sale of the
+Shares by the Selling Shareholder.
+
+
+                              SELLING SHAREHOLDER
+
+                 All of the Shares are being sold by Johannes Wirth (the
+"Selling Shareholder"), who will receive all of the proceeds from the sale of
+the Shares.  The Selling Shareholder is, and at all times since May 1978 has
+been, a director of the Company.  The Selling Shareholder's term as a director
+continues until the 1999 annual meeting of shareholders.
+
+                 The Shares are being registered to permit public secondary
+trading of the Shares, and the Selling Shareholder may offer the Shares for
+resale from time to time.  See "Plan of Distribution."  In recognition of the
+fact that the Selling Shareholder may wish to be legally permitted to sell his
+Shares when he deems appropriate, the Company has filed with the Commission,
+under the Securities Act, a Registration Statement on Form S-3, of which this
+Prospectus forms a part, with respect to the resale of the Shares from time to
+time on the Nasdaq National Market of The Nasdaq Stock Market or in
+privately-negotiated transactions and has agreed to prepare and file such
+amendments and supplements to the Registration Statement as may be necessary to
+keep the Registration Statement effective until the Shares are no longer
+required to be registered for the sale thereof by the Selling Shareholder.
+
+                 From April 1991 through December 1995, the Selling Shareholder
+was retained as a consultant by the Company.  Under this arrangement, he
+provided technical assistance and advice on such matters as were referred to
+him by the chief executive officer of the Company.  From April 1991 through
+February 28, 1995, Mr. Wirth devoted approximately 1,000 hours per year to such
+work and was paid an annual consulting fee of 100,000 Swiss francs ("Sfr.")
+plus Sfr. 10,000 for travel expenses.  Effective March 1, 1995, Mr. Wirth's
+annual consulting fee was reduced to Sfr. 50,000 plus Sfr. 5,000 for travel
+expenses, with a commensurate reduction in his hourly consulting commitment to
+approximately 500 hours per year, and at the end of 1995, Mr. Wirth's
+consulting arrangement with the Company terminated.  During 1995, Mr. Wirth
+received a consulting fee for these services of Sfr. 58,355 plus Sfr. 5,834 for
+travel expenses (an aggregate of $54,415 at an exchange rate of $.848 per Sfr.,
+which was the average $/Sfr. exchange rate for 1995).  Mr. Wirth may continue
+to provide consulting services to the Company in 1996 if requested by the chief
+executive officer of the Company's Swiss subsidiary.
+
+                 The following table sets forth certain information with
+respect to the Common Stock beneficially owned by the Selling Shareholder as of
+the date of this Prospectus.
+
+<TABLE>
+<CAPTION>
+                             Beneficial Ownership                                        Beneficial Ownership
+                               of Common Stock                                             of Common Stock
+                            Prior to the Offering                                          After Offering(1)         
+                       --------------------------------     Number of Shares to   ----------------------------------
+                       Number                Percent of     be Sold Under this    Number                  Percent of
+ Name                  of Shares               Class            Prospectus        of Shares                  Class  
+ ----                  ---------               -----            ----------        ---------               ----------
+ <S>                   <C>                     <C>                <C>              <C>                          <C>
+ Johannes Wirth        247,400                 7.9                150,000          97,400                       3.1
+</TABLE>
+
+- ------------------------------
+(1)      Assumes the sale of all of the Shares offered hereby.
+
+
+
+
+
+                                       5
+<PAGE>   6
+
+                              PLAN OF DISTRIBUTION
+
+                 The Shares offered hereby by the Selling Shareholder may be
+sold from time to time by the Selling Shareholder, or by pledgees, donees,
+transferees or other successors in interest.  Such sales may be made on one or
+more exchanges or in the over-the-counter market (including the Nasdaq National
+Market of The Nasdaq Stock Market), or otherwise at prices and at terms then
+prevailing or at prices related to the then-current market price, or in
+negotiated transactions.  The Shares may be sold by one or more of the
+following methods, without limitation:  (a) a block trade in which the
+broker-dealer so engaged will attempt to sell the Shares as agent but may
+position and resell a portion of the block as principal to facilitate the
+transaction; (b) purchases by a broker or dealer as principal and resale by
+such broker or dealer for its account pursuant to this Prospectus; (c) ordinary
+brokerage transactions and transactions in which the broker solicits
+purchasers; (d) an exchange distribution in accordance with the rules of such
+exchange; and (e) face-to-face transactions between the Selling Shareholder and
+purchasers without a broker-dealer.  In effecting sales, brokers or dealers
+engaged by the Selling Shareholder may arrange for other brokers or dealers to
+participate.  Such brokers or dealers may receive commissions or discounts from
+the Selling Shareholder in amounts to be negotiated immediately prior to the
+sale.  Such brokers or dealers and any other participating brokers or dealers
+may be deemed to be "underwriters" within the meaning of the Securities Act in
+connection with such sales.  In addition, any securities covered by this
+Prospectus that qualify for sale pursuant to Rule 144 might be sold under Rule
+144 rather than pursuant to this Prospectus.
+
+                 Upon the Company being notified by the Selling Shareholder
+that any material arrangement has been entered into with a broker or dealer for
+the sale of Shares through a block trade, special offering, exchange
+distribution or secondary distribution or a purchase by a broker or dealer, a
+supplemented Prospectus will be filed, if required, pursuant to Rule 424(c)
+under the Securities Act, disclosing (a) the name of each such broker-dealer,
+(b) the number of Shares involved, (c) the price at which such Shares were
+sold, (d) the commissions paid or discounts or concessions allowed to such
+broker-dealer(s), where applicable, (e) that such broker-dealer(s) did not
+conduct any investigation to verify the information set out or incorporated by
+reference in this Prospectus, as supplemented, and (f) other facts material to
+the transaction.
+
+                 The Selling Shareholder is bearing all costs relating to the
+registration of the Shares, including any commissions or other fees payable to
+broker-dealers in connection with any sale of the Shares.
+
+                 The Company and the Selling Shareholder have entered into an
+agreement whereby the Selling Shareholder has advised the Company that during
+such times as the Selling Shareholder may be deemed to be engaged in a
+distribution of the Common Stock, and therefore an "underwriter" under the
+Securities Act, he will comply with Rules 10b-2, 10b-6 and 10b-7 under the
+Exchange Act and therefore will, among other things:
+
+                          (a)     not engage in any stabilization activities in
+         connection with the Company's securities;
+  
+                          (b)     furnish each broker-dealer through which
+         Shares may be offered such copies of this Prospectus, as amended from
+         time to time, as may be required by such broker-dealer; and
+
+                          (c)     not bid for or purchase any securities of the
+         Company or attempt to induce any person to purchase any securities of
+         the Company other than as permitted under the Exchange Act.
+
+                 The Company has agreed to indemnify the Selling Shareholder
+and may indemnify certain persons who may be deemed to be "underwriters", in
+certain circumstances, against certain liabilities, including liabilities
+arising under the Securities Act.  The Selling Shareholder has agreed to
+indemnify the Company and its directors, officers and agents, and may indemnify
+certain "underwriters" that participate in transactions involving the sale of
+the Shares against certain liabilities, including liabilities arising under the
+Securities Act.
+
+                                 LEGAL OPINION
+
+                 The validity of the Shares offered hereby will be passed upon
+for the Company by Morgan, Lewis & Bockius LLP, Philadelphia, Pennsylvania.
+Edward B. Cloues, II, a director of the Company, is a partner of Morgan, Lewis
+& Bockius LLP.
+
+
+
+
+
+                                       6
+<PAGE>   7
+
+                                    EXPERTS
+
+         The consolidated financial statements of the Registrant and its
+subsidiaries as of December 30, 1995 and for the years ended December 30, 1995,
+December 31, 1994 and January 1, 1994, each included in the Registrant's Report
+on Form 10-K for the fiscal year ended December 30, 1995, have been
+incorporated by reference in this registration statement in reliance, with
+respect to the consolidated financial statements for the fiscal years ended
+December 30, 1995 and December 31, 1994, upon the report of Arthur Andersen
+LLP, independent public accountants, and with respect to the consolidated
+financial statements for the fiscal year ended January 1, 1994, upon the report
+of Deloitte & Touche LLP, independent auditors, all incorporated by reference
+herein, and upon the authority of each such firm as experts in accounting and
+auditing.
+
+
+
+
+
+                                       7
+<PAGE>   8
+<TABLE>
+<S>                                                                <C>
+=========================================================          ======================================================
+
+          No dealer, salesperson or other person has                          150,000 Shares
+ been authorized to give any information or to make
+ any representations other than those contained in
+ this Prospectus and, if given or made, such
+ information or representations must not be relied                      K-TRON INTERNATIONAL, INC.
+ upon as having been authorized by the Company or
+ the Selling Shareholder or by any other person.
+ This Prospectus does not constitute an offer to
+ sell, or a solicitation of an offer to buy a
+ security other than the shares of Common Stock
+ offered hereby, nor does it constitute an offer to
+ sell or a solicitation of an offer to buy any of
+ the securities offered hereby to any person in any                            COMMON STOCK
+ jurisdiction in which such offer or solicitation
+ would be unlawful.  Neither the delivery of this
+ Prospectus nor any offer or sale made hereunder
+ shall, under any circumstances, create any
+ implication that there has been no change in the
+ affairs of the Company or that information
+ contained herein is correct as of any time
+ subsequent to the date hereof.
+
+
+                                                                                             
+                   ---------------                                            ---------------
+                                                                                PROSPECTUS   
+                                                                              ---------------
+
+
+                  TABLE OF CONTENTS
+
+                                                Page
+                                                ----
+
+ Available Information . . . . . . . . . . . . .   2
+ Incorporation of Certain Documents
+    by Reference . . . . . . . . . . . . . . . .   2
+ The Company . . . . . . . . . . . . . . . . . .   3                        September 19, 1996
+ Risk Factors  . . . . . . . . . . . . . . . . .   3
+ Use of Proceeds . . . . . . . . . . . . . . . .   5
+ Selling Shareholder . . . . . . . . . . . . . .   5
+ Plan of Distribution  . . . . . . . . . . . . .   6
+ Legal Opinion . . . . . . . . . . . . . . . . .   6
+ Experts . . . . . . . . . . . . . . . . . . . .   7
+
+=========================================================          ======================================================
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

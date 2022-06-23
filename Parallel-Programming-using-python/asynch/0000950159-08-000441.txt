@@ -1,0 +1,611 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EuqENvFWpU1dH1L019bi5LGEHDKc5NzvQR2UuumSmesXiQOny6wpT4rddEIFsvxC
+ qyoxBS2xFWdKvaO4ELREsw==
+
+<SEC-DOCUMENT>0000950159-08-000441.txt : 20080306
+<SEC-HEADER>0000950159-08-000441.hdr.sgml : 20080306
+<ACCEPTANCE-DATETIME>20080306160824
+ACCESSION NUMBER:		0000950159-08-000441
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080229
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20080306
+DATE AS OF CHANGE:		20080306
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		08671091
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>krton8k.htm
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. 8-K
+<TEXT>
+<html>
+  <head>
+    <title>krton8k.htm</title>
+<!-- Licensed to: d8423k-->
+<!-- Document Created using EDGARizer 4.0.5.0 -->
+<!-- Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved -->
+</head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED
+STATES</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">WASHINGTON,
+D.C.&#160;&#160;20549</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">___________________________________________________________</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM
+8-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT
+REPORT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">PURSUANT
+TO SECTION 13 OR 15(d) OF THE</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+EXCHANGE ACT OF 1934</font><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date of
+report (Date of earliest event reported):&#160; &#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">February 29,
+2008</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">K-TRON INTERNATIONAL,
+INC.</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Exact
+Name of Registrant Specified in Charter)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">New
+      Jersey</font></font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">0-9576</font></font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">22-1759452</font></font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State
+      or Other</font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission
+      File</font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(I.R.S.
+      Employer</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jurisdiction
+      of</font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Number)</font></div>
+            </td>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification
+      No.)</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Incorporation)</font></div>
+            </td>
+            <td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="top" width="40%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">Routes
+      55 &amp; 553, P.O. Box 888, Pitman, New Jersey</font></div>
+            </td>
+            <td valign="top" width="40%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">08071-0888</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="40%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address
+      of Principal Executive Offices)</font></div>
+            </td>
+            <td valign="top" width="40%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip
+      Code)</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Registrant's
+telephone number, including area code:&#160; <font style="DISPLAY: inline; TEXT-DECORATION: underline">(856)
+589-0500</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">Not
+Applicable</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Former
+Name or Former Address, if Changed Since Last Report)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the Registrant under any of the following
+provisions (see General Instruction A.2. below):</font></div>
+    <div>&#160;</div>
+    <div><br>
+      <div>
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">[&#160;&#160;&#160;&#160;&#160;]</font></div>
+              </td>
+              <td align="left" valign="top" width="96%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Written
+      communications pursuant to Rule 425 under the Securities Act (17 CFR
+      230.425)</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td valign="top" width="96%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">[&#160;&#160;&#160;&#160;&#160;]</font></div>
+              </td>
+              <td align="left" valign="top" width="96%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Soliciting
+      material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+      240.14a-12)</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              <td valign="top" width="96%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">[&#160;&#160;&#160;&#160;&#160;]</font></div>
+              </td>
+              <td align="left" valign="top" width="96%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pre-commencement
+      communications pursuant to Rule 14d-2(b) under the Exchange
+      Act</font></div>
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(17
+      CFR 240.14d-2(b))</font></div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">[&#160;&#160;&#160;&#160;&#160;]</font></div>
+              </td>
+              <td align="left" valign="top" width="96%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pre-commencement
+      communications pursuant to Rule 13e-4(c) under the Exchange
+      Act</font></div>
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(17
+      CFR 240.13e-4(c))</font></div>
+              </td>
+            </tr>
+        </table>
+      </div><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item
+1.01.&#160;&#160;Entry into a Material Definitive Agreement.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Base
+Salaries</font>.&#160;&#160;On February 29, 2008, the Compensation and Human
+Resources Committee (the &#8220;Committee&#8221;) of the Board of Directors (the &#8220;Board&#8221;) of
+K-Tron International, Inc. (the &#8220;Company&#8221;) approved, effective March 31, 2008,
+increases of approximately 3.5% in the base salaries of each of the executive
+officers of the Company.&#160;&#160;The new base salaries will be:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div align="left">
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="bottom" width="26%" style="PADDING-LEFT: 0pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Name</font></font></div>
+            </td>
+            <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td colspan="2" valign="bottom" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Base</font></font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Salary
+      Amount</font></font></div>
+            </td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Edward
+      B. Cloues, II</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">530,700</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Kevin
+      C. Bowen</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">255,230</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Lukas
+      Guenthardt</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">225,630</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Donald
+      W. Melchiorre</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">241,025</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Ronald
+      R. Remick</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">244,000</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.5pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Annual Cash Incentive
+Awards</font>.&#160;&#160;On February 29, 2008, the Committee also approved
+annual cash incentive awards for 2007 payable to the same executive
+officers.&#160;&#160;During each of the past several years, including 2007,
+annual cash incentive awards, or bonuses, have been paid to the Company&#8217;s
+executive officers and other employees pursuant to bonus guidelines used in the
+preparation of the Company&#8217;s budget for that year.&#160;&#160;These guidelines
+create a bonus pool for the entire Company if the budgeted earnings per share
+are achieved.&#160;&#160;Under these guidelines, the target bonus for 2007 for
+Mr. Cloues, the Company&#8217;s Chairman and Chief Executive Officer, was 50% of base
+salary, and the target bonuses for the other executive officers were 30% of
+their base salaries.&#160;&#160;Despite these targets, the annual cash incentive
+award for any executive officer may be more or less than the applicable target,
+depending on the Company&#8217;s financial performance for the year, the Committee&#8217;s
+assessment of the executive officer&#8217;s contribution and such other factors as the
+Committee may choose to consider.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.5pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In 2007,
+the Board-approved budget for diluted earnings per share was $4.60, which
+included a bonus accrual based on the guidelines referred to
+above.&#160;&#160;This accrual, at the end of 2007 and based on the employee
+population believed eligible for a bonus, was $2,196,950.&#160;&#160;There was
+also the expectation that if diluted earnings per share exceeded $4.60, the
+bonus pool would, with the Committee&#8217;s approval, be increased to include 20% of
+the Company&#8217;s consolidated pre-tax, pre-bonus income in excess of the amount
+required to achieve the $4.60 EPS target.&#160;&#160;Using the Company&#8217;s actual
+tax rate for 2007, the pre-tax, pre-bonus income needed to achieve the $4.60 EPS
+target was $20,827,000.&#160;&#160;The actual pre-tax, pre-bonus income of the
+Company in 2007 was $35,438,000, or an excess of $14,611,000 over the amount
+needed to achieve the $4.60 EPS target and related bonus pool of
+$2,196,950.&#160;&#160;Given this financial performance, the Committee approved
+adding 20% of the excess amount, or $2,922,200, to the incentive compensation
+pool for 2007.&#160;&#160;As a result, the total incentive compensation pool for
+2007 was $5,119,150, or 133% higher than the target pool based upon the
+budget.&#160;&#160;The Company&#8217;s diluted earnings per share in 2007, after
+taking into account this higher bonus accrual, were $7.49, which exceeded the
+2007 budget by 62.8%.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.3pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+annual cash incentive awards for 2007 which the Committee approved for the
+executive officers were as follows:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.3pt" align="left"><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.3pt" align="left"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div align="left">
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="bottom" width="26%" style="PADDING-LEFT: 0pt; PADDING-BOTTOM: 2px">
+              <div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Name</font></font></div>
+            </td>
+            <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td colspan="2" valign="bottom" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Annual</font></font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Incentive
+      Award</font></font></div>
+            </td>
+            <td align="left" nowrap valign="bottom" width="62%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Edward
+      B. Cloues, II</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">725,000</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Kevin
+      C. Bowen</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">300,000</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Lukas
+      Guenthardt</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">240,000</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Donald
+      W. Melchiorre</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">283,500</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" width="26%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Ronald
+      R. Remick</font></div>
+            </td>
+            <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+            <td align="right" valign="bottom" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">275,000</font></td>
+            <td align="left" nowrap valign="bottom" width="62%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+determining Mr. Cloues&#8217; bonus, the Committee noted in particular (i) his
+leadership of the Company in 2007, (ii) the Company&#8217;s achievement in 2007 of
+record revenues, operating income, income before taxes, net income, earnings per
+share and EBITDA (the percentage increases in 2007 versus the record numbers
+achieved in 2006 included 65.6% for net income, 63.2% for diluted EPS and 36.2%
+for revenues), (iii)&#160;&#160;the completion of two successful acquisitions,
+one for the Size Reduction Group and one for the Process Group, (iv) the
+continued development of a strong and effective management team, (v) the
+steadily improving financial performance of the Company over the past six years,
+(vi) the performance of the Company&#8217;s stock over the past year (up 60.7%) and
+six years (up 1,070.7%) and (vii) several other organizational and operational
+accomplishments.&#160;&#160;The bonus awards made by the Committee to the other
+executive officers were recommended by Mr. Cloues and were based on his
+subjective assessment of their contributions to the Company in
+2007.&#160;&#160;This assessment was provided in writing to the Committee and
+was reviewed by the Committee with Mr. Cloues.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*&#160;&#160;&#160;*</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div><br><br>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div><br><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" colspan="2" valign="top" width="27%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">K-TRON
+      INTERNATIONAL, INC.</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td colspan="2" valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td colspan="2" valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="3%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:</font></div>
+            </td>
+            <td align="left" valign="top" width="64%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">EDWARD B. CLOUES,
+      II</font></font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="64%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Edward
+      B. Cloues, II</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="64%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chairman
+      of the Board and</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="64%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Executive Officer</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dated:
+March 6, 2008</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div><br>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>
+      <div style="TEXT-ALIGN: center">4
+
+        <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+      </div><br></div>
+  </body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

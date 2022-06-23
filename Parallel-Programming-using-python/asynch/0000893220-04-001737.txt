@@ -1,0 +1,1952 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PWpBlEEp6EYEACzkgzx1//3UXXD29UCr7dKyZGGGYmbGSASDnu+6x9uaYopj36bI
+ AEQ0s5P08sNJ+WXGXGA8UA==
+
+<SEC-DOCUMENT>0000893220-04-001737.txt : 20040816
+<SEC-HEADER>0000893220-04-001737.hdr.sgml : 20040816
+<ACCEPTANCE-DATETIME>20040816141852
+ACCESSION NUMBER:		0000893220-04-001737
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20040703
+FILED AS OF DATE:		20040816
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		04977831
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>w00582e10vq.txt
+<DESCRIPTION>FORM 10-Q FOR THE QUARTER ENDED JULY 3, 2004
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+    [X]         QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                             SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended July 3, 2004
+
+                                       OR
+
+    [ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                            SECURITIES EXCHANGE ACT OF 1934
+
+                For the transition period from ____________ to ______________
+
+                          Commission file number 0-9576
+
+                           K-TRON INTERNATIONAL, INC.
+- --------------------------------------------------------------------------------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+           New Jersey                                    22-1759452
+- -------------------------------               ----------------------------------
+(State or Other Jurisdiction of               (I.R.S. Employer Identification #)
+Incorporation or Organization)
+
+Routes 55 & 553, P.O. Box 888, Pitman, New Jersey                 08071-0888
+- -------------------------------------------------                 ----------
+    (Address of Principal Executive Offices)                      (Zip Code)
+
+Registrant's Telephone Number, Including Area Code (856) 589-0500
+
+                                 Not Applicable
+- --------------------------------------------------------------------------------
+   (Former Name, Former Address and Former Fiscal Year, if Changed Since Last
+                                     Report)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes [X] No [ ]
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+Yes [ ] No [X]
+
+The Registrant had 2,515,242 shares of Common Stock outstanding as of August 12,
+2004.
+
+<PAGE>
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                           Page No.
+                                                                           --------
+<S>                                                                        <C>
+PART I. FINANCIAL INFORMATION
+
+     Item 1. Financial Statements.
+
+             Consolidated Balance Sheets                                         1
+             July 3, 2004 (Unaudited) and January 3, 2004
+
+             Consolidated Statements of Income & Retained                        2
+             Earnings (Unaudited) for the Three and Six Months
+             Ended July 3, 2004 and June 28, 2003
+
+             Consolidated Statements of Cash Flows (Unaudited)                   3
+             for the Six Months Ended July 3, 2004 and
+             June 28, 2003
+
+             Notes to Consolidated Financial Statements                     4 - 10
+
+     Item 2. Management's Discussion and Analysis                          11 - 18
+             of Financial Condition and Results of Operations.
+
+     Item 3. Quantitative and Qualitative Disclosures About                     18
+             Market Risk.
+
+     Item 4. Controls and Procedures.                                      18 - 19
+
+PART II. OTHER INFORMATION
+
+     Item 4. Submission of Matters to a Vote of Security Holders.               19
+
+     Item 6. Exhibits and Reports on Form 8-K.                             19 - 20
+
+SIGNATURES                                                                      21
+</TABLE>
+
+<PAGE>
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS.
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                                      (Unaudited)
+                                                                                        July 3,      January 3,
+                                                                                         2004           2004
+                                                                                         ----           ----
+<S>                                                                                   <C>            <C>
+                                    ASSETS
+CURRENT ASSETS:
+  Cash and cash equivalents                                                            $  8,510       $  4,506
+  Accounts receivable, net of allowance for
+    doubtful accounts of $785 and $820                                                   19,610         19,273
+  Inventories, net                                                                       15,375         13,566
+  Deferred income taxes                                                                     442            442
+  Prepaid expenses and other current assets                                               2,166          1,698
+                                                                                       --------       --------
+      Total current assets                                                               46,103         39,485
+                                                                                       --------       --------
+
+PROPERTY, PLANT AND EQUIPMENT, net                                                       25,050         26,916
+PATENTS, net                                                                              1,813          1,893
+GOODWILL                                                                                  2,053          2,053
+OTHER INTANGIBLES, net                                                                   10,098         10,218
+NOTES RECEIVABLE AND OTHER ASSETS                                                         2,394          2,111
+DEFERRED INCOME TAXES                                                                       375            405
+                                                                                       --------       --------
+      Total assets                                                                     $ 87,886       $ 83,081
+                                                                                       ========       ========
+
+                     LIABILITIES & SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+  Notes payable                                                                        $    138       $     --
+  Current portion of long-term debt                                                       3,876          3,541
+  Accounts payable                                                                        6,342          6,361
+  Accrued expenses and other current liabilities                                          9,561          8,518
+  Accrued commissions                                                                     1,499          1,393
+  Customer advances                                                                       2,543          1,757
+  Deferred income taxes                                                                     794            794
+                                                                                       --------       --------
+      Total current liabilities                                                          24,753         22,364
+                                                                                       --------       --------
+
+LONG-TERM DEBT, net of current portion                                                   23,098         24,574
+DEFERRED INCOME TAXES                                                                       947            947
+OTHER NON-CURRENT LIABILITIES                                                                 7             82
+SERIES B JUNIOR PARTICIPATING PREFERRED SHARES,
+  $.01 par value - authorized 50,000 shares; none issued                                     --             --
+SHAREHOLDERS' EQUITY:
+  Preferred stock, $.01 par value - authorized 950,000 shares; none issued                   --             --
+  Common stock, $.01 par value - authorized 50,000,000 shares;
+    issued 4,504,316 shares and 4,449,928 shares                                             45             44
+  Paid-in capital                                                                        17,792         16,922
+  Retained earnings                                                                      45,302         42,491
+  Accumulated other comprehensive income                                                  3,456          3,171
+                                                                                       --------       --------
+                                                                                         66,595         62,628
+  Treasury stock, 2,002,574 shares - at cost                                            (27,514)       (27,514)
+                                                                                       --------       --------
+      Total shareholders' equity                                                         39,081         35,114
+                                                                                       --------       --------
+      Total liabilities and shareholders' equity                                       $ 87,886       $ 83,081
+                                                                                       ========       ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                      -1-
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME & RETAINED EARNINGS
+                  (Dollars in Thousands except Per Share Data)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                            Three Months Ended                   Six Months Ended
+                                                       -----------------------------       -----------------------------
+                                                         July 3,           June 28,          July 3,          June 28,
+                                                          2004               2003             2004               2003
+                                                       -----------       -----------       -----------       -----------
+<S>                                                    <C>               <C>               <C>               <C>
+REVENUES                                               $    27,062       $    22,661       $    53,383       $    46,059
+
+COST OF REVENUES                                            15,712            13,663            30,849            27,620
+                                                       -----------       -----------       -----------       -----------
+      Gross Profit                                          11,350             8,998            22,534            18,439
+
+OPERATING EXPENSES:
+ Selling, general & administrative                           8,462             6,682            16,734            13,947
+ Research and development                                      588               678             1,237             1,349
+                                                       -----------       -----------       -----------       -----------
+                                                             9,050             7,360            17,971            15,296
+                                                       -----------       -----------       -----------       -----------
+
+      Operating Income                                       2,300             1,638             4,563             3,143
+
+INTEREST (EXPENSE)                                            (348)             (400)             (714)             (780)
+GAIN ON SALE OF OFFICE BUILDING                                 --                --               164                --
+                                                       -----------       -----------       -----------       -----------
+
+      Income before income taxes                             1,952             1,238             4,013             2,363
+
+INCOME TAX PROVISION                                           563               373             1,202               663
+                                                       -----------       -----------       -----------       -----------
+
+NET INCOME                                                   1,389               865             2,811             1,700
+
+RETAINED EARNINGS
+ Beginning of period                                        43,913            39,603            42,491            38,768
+                                                       -----------       -----------       -----------       -----------
+ End of period                                         $    45,302       $    40,468       $    45,302       $    40,468
+                                                       ===========       ===========       ===========       ===========
+
+EARNINGS PER SHARE
+ Basic                                                 $      0.56       $      0.36       $      1.13       $      0.70
+                                                       ===========       ===========       ===========       ===========
+ Diluted                                               $      0.53       $      0.35       $      1.08       $      0.68
+                                                       ===========       ===========       ===========       ===========
+
+ Average common shares outstanding                       2,491,000         2,433,000         2,477,000         2,433,000
+                                                       ===========       ===========       ===========       ===========
+ Average common and common
+   equivalents shares outstanding                        2,617,000         2,493,000         2,599,000         2,489,000
+                                                       ===========       ===========       ===========       ===========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                      -2-
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                                   Six Months Ended
+                                                                                                -----------------------
+                                                                                                 July 3,       June 28,
+                                                                                                  2004           2003
+                                                                                                  ----           ----
+<S>                                                                                             <C>            <C>
+OPERATING ACTIVITIES:
+  Net income                                                                                    $  2,811       $  1,700
+  Adjustments to reconcile net income to net cash provided by operating activities:
+    Gain on disposition of asset                                                                    (164)            --
+    Depreciation and amortization                                                                  2,021          1,457
+    Changes in assets and liabilities:
+      Accounts receivable, net                                                                      (246)         3,338
+      Inventories                                                                                 (1,773)           367
+      Prepaid expenses and other current assets                                                     (334)           520
+      Other assets                                                                                   122            198
+      Accounts payable                                                                               258         (1,037)
+      Accrued expenses and other current liabilities                                               1,697         (1,340)
+                                                                                                --------       --------
+        Net cash provided by operating activities                                                  4,392          5,203
+                                                                                                --------       --------
+
+INVESTING ACTIVITIES:
+  Proceeds from disposition of assets                                                                996             --
+  Business acquired, net of cash acquired                                                             --        (18,988)
+  Capital expenditures                                                                              (712)        (1,769)
+  Other                                                                                              (49)            (8)
+                                                                                                --------       --------
+        Net cash provided by (used in) investing activities                                          235        (20,765)
+                                                                                                --------       --------
+
+FINANCING ACTIVITIES:
+  Net borrowings under notes payable to banks                                                      1,856            236
+  Proceeds from issuance of long-term debt                                                         4,000         20,000
+  Principal payments on long-term debt                                                            (6,873)        (1,603)
+  Proceeds from issuance of common stock                                                             352             36
+                                                                                                --------       --------
+        Net cash (used in) provided by financing activities                                         (665)        18,669
+                                                                                                --------       --------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+  CASH EQUIVALENTS                                                                                    42            149
+                                                                                                --------       --------
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS                                                          4,004          3,256
+                                                                                                --------       --------
+
+CASH AND CASH EQUIVALENTS
+  Beginning of period                                                                              4,506          2,694
+                                                                                                --------       --------
+  End of period                                                                                 $  8,510       $  5,950
+                                                                                                ========       ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+                                      -3-
+<PAGE>
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  July 3, 2004
+                                   (Unaudited)
+
+1.    Basis of Presentation
+
+      The accompanying unaudited consolidated financial statements have been
+      prepared in accordance with the instructions for Form 10-Q and do not
+      include all of the information and footnotes required by accounting
+      principles generally accepted in the United States of America for complete
+      financial statements. The consolidated financial statements include the
+      accounts of K-Tron International, Inc. and its subsidiaries ("K-Tron" or
+      the "Company"). All intercompany transactions have been eliminated in
+      consolidation. In the opinion of management, all adjustments (consisting
+      of a normal recurring nature) considered necessary for a fair presentation
+      of results for interim periods have been made.
+
+      Certain reclassifications were made to the prior year's consolidated
+      financial statements to conform them to the current period presentation.
+
+      The unaudited financial statements herein should be read in conjunction
+      with the Company's annual report on Form 10-K for the year ended January
+      3, 2004 which was previously filed with the Securities and Exchange
+      Commission.
+
+2.    New Accounting Pronouncements
+
+      In January 2003, the FASB issued Interpretation No. 46, "Consolidation of
+      Variable Interest Entities" (FIN 46). In general, a variable interest
+      entity is a corporation, partnership, trust or any other legal structure
+      used for business purposes that either (a) does not have equity investors
+      with voting rights or (b) has equity investors that do not provide
+      sufficient financial resources for the entity to support its activities.
+      FIN 46 requires certain variable interest entities to be consolidated by
+      the primary beneficiary of the entity if the investors do not have the
+      characteristics of a controlling financial interest or do not have
+      sufficient equity at risk for the entity to finance its activities without
+      additional subordinated financial support from other parties. The
+      consolidation requirements of FIN 46 apply immediately to variable
+      interest entities created after January 31, 2003. The adoption of the
+      provisions of FIN 46 effective February 1, 2003 did not have a material
+      impact on the Company's consolidated financial statements since the
+      Company currently does not have any variable interest entities. In
+      December 2003, the FASB issued FIN 46R with respect to variable interest
+      entities created before January 31, 2003 which, among other things,
+      revised the implementation date to the first fiscal year or interim period
+      ending after March 15, 2004, with the exception of Special Purpose
+      Entities ("SPEs"). The consolidation requirements apply to all SPEs in the
+      first fiscal year or interim period ending after December 15, 2003. The
+      Company's adoption of the provisions of FIN 46R effective January 3, 2004
+      did not have a material impact on the Company's consolidated financial
+      statements since the Company currently does not have any SPEs, nor does it
+      have any variable interest entities.
+
+                                      -4-
+<PAGE>
+
+3.    Supplemental Disclosures of Cash Flow Information
+
+      The Company considers all highly liquid short-term investments purchased
+      with an original maturity of three months or less to be cash equivalents.
+
+      Cash paid for interest in the six-month periods ended July 3, 2004 and
+      June 28, 2003 was $712,000 and $674,000, respectively, and for income
+      taxes was $568,000 and $228,000, respectively.
+
+4.    Inventories
+
+      Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                         July 3,      January 3,
+                          2004           2004
+                          ----           ----
+                            (in thousands)
+<S>                     <C>            <C>
+Components              $ 13,769       $ 13,676
+Work-in-process            3,225          1,635
+Finished goods                57             62
+Inventory reserves        (1,676)        (1,807)
+                        --------       --------
+                        $ 15,375       $ 13,566
+                        ========       ========
+</TABLE>
+
+5.    Intangible Assets
+
+<TABLE>
+<CAPTION>
+                                        July 3, 2004            January 3, 2004
+                                   ----------------------   -----------------------
+                                                  (in thousands)
+                                    Gross                     Gross
+                                  Carrying    Accumulated   Carrying    Accumulated
+                                   Amount    Amortization    Amount    Amortization
+                                   ------    ------------    ------    ------------
+<S>                               <C>        <C>            <C>        <C>
+Amortized intangible assets
+  Patents                          $ 2,790      $   977      $ 2,780      $   887
+  Drawings                           3,550          142        3,550           71
+  Customer Relationships             4,898           98        4,898           49
+                                   -------      -------      -------      -------
+                                   $11,238      $ 1,217      $11,228      $ 1,007
+                                   =======      =======      =======      =======
+
+Unamortized intangible assets
+  Trademarks and tradenames        $ 1,890                   $ 1,890
+                                   =======                   =======
+</TABLE>
+
+      The amortized intangible assets are being amortized on the straight-line
+      basis (half-year expense in the year of acquisition) over the expected
+      period of benefits, which is 17 to 50 years. The amortization expense of
+      intangible assets for the six-month periods ended July 3, 2004 and June
+      28, 2003 was $210,000 and $139,000, respectively.
+
+                                      -5-
+<PAGE>
+
+6.    Accrued Warranty
+
+      The Company offers a one-year product warranty on a majority of its
+      products. Warranty is accrued as a percentage of sales on a monthly basis
+      and is included in accrued expenses and other current liabilities. The
+      following is an analysis of accrued warranty for the six-month periods
+      ended July 3, 2004 and June 28, 2003.
+
+<TABLE>
+<CAPTION>
+                                           July 3,      June 28,
+                                            2004          2003
+                                            ----          ----
+                                              (in thousands)
+<S>                                        <C>          <C>
+Beginning balance                          $   967       $   687
+Accrued warranty of acquired business           --           553
+Accrual of warranty expense                    753           746
+Warranty costs incurred                       (770)         (918)
+Foreign exchange adjustment                      3            13
+                                           -------       -------
+Ending balance                             $   953       $ 1,081
+                                           =======       =======
+</TABLE>
+
+7.    Long-Term Debt
+
+      Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                       July 3,      January 3,
+                                                        2004           2004
+                                                        ----           ----
+                                                           (in thousands)
+<S>                                                   <C>           <C>
+U.S. mortgage, interest at 6.45%                      $  1,976       $  2,052
+U.S. line of credit, interest at 3.75%                   3,655          1,935
+U.S. term facilities, interest at 2.94% to 5.75%        20,892         18,317
+Unsecured notes payable, interest at 6%                     --          4,000
+Swiss facilities, interest at 1.7% to 2.1%                  --          1,211
+Other                                                      451            600
+                                                      --------       --------
+                                                        26,974         28,115
+Less current portion                                    (3,876)        (3,541)
+                                                      --------       --------
+                                                      $ 23,098       $ 24,574
+                                                      ========       ========
+</TABLE>
+
+8.    Earnings Per Share
+
+      The Company previously adopted SFAS No. 128, "Earnings Per Share", which
+      requires that the Company report Basic and Diluted Earnings Per Share.
+      Basic Earnings Per Share represents net income less preferred dividends
+      divided by the weighted average number of common shares outstanding.
+      Diluted Earnings Per Share is calculated similarly, except that the
+      denominator includes the weighted average number of common shares
+      outstanding plus the dilutive effect of options, warrants, convertible
+      securities and other instruments with dilutive effects if exercised.
+
+      The Company's Diluted Earnings Per Share shown in the table below are
+      based on the weighted average number of common and common equivalent
+      shares outstanding during a given time period. Such average shares include
+      the weighted average number of
+
+                                      -6-
+<PAGE>
+
+      common shares outstanding plus the shares issuable upon exercise of stock
+      options after the assumed repurchase of common shares with the related
+      proceeds.
+
+      The Company's Basic and Diluted Earnings Per Share are calculated as
+      follows:
+
+<TABLE>
+<CAPTION>
+                                              For the Three Months Ended July 3, 2004
+                                  -------------------------------------------------------------
+                                  Net Income Available
+(Dollars and Shares in Thousands       To Common                                       Earnings
+except Per Share Data)                Shareholders              Shares                Per Share
+                                      ------------              ------                ---------
+<S>                               <C>                           <C>                   <C>
+Basic                                    $1,389                  2,491                 $   0.56
+
+Common Share Equivalent
+  of Outstanding Options                     --                    126                    (0.03)
+                                         ------                 ------                 --------
+Diluted                                  $1,389                  2,617                 $   0.53
+                                         ======                 ======                 ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                             For the Three Months Ended June 28, 2003
+                                  -------------------------------------------------------------
+                                  Net Income Available
+(Dollars and Shares in Thousands       To Common                                       Earnings
+except Per Share Data)                Shareholders              Shares                Per Share
+                                      ------------              ------                ---------
+<S>                               <C>                           <C>                   <C>
+Basic                                    $  865                  2,433                 $   0.36
+
+Common Share Equivalent
+   of Outstanding Options                    --                     60                    (0.01)
+                                         ------                  -----                 --------
+Diluted                                  $  865                  2,493                 $   0.35
+                                         ======                  =====                 ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                             For the Six Months Ended July 3, 2004
+                                  -------------------------------------------------------------
+                                  Net Income Available
+(Dollars and Shares in Thousands       To Common                                       Earnings
+except Per Share Data)                Shareholders              Shares                Per Share
+                                      ------------              ------                ---------
+<S>                               <C>                           <C>                   <C>
+Basic                                    $2,811                  2,477                 $   1.13
+
+Common Share Equivalent
+  of Outstanding Options                     --                    122                    (0.05)
+                                         ------                  -----                 --------
+Diluted                                  $2,811                  2,599                 $   1.08
+                                         ======                  =====                 ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                             For the Six Months Ended June 28, 2003
+                                  -------------------------------------------------------------
+                                  Net Income Available
+(Dollars and Shares in Thousands       To Common                                       Earnings
+except Per Share Data)                Shareholders              Shares                Per Share
+                                      ------------              ------                ---------
+<S>                               <C>                           <C>                   <C>
+Basic                                    $1,700                  2,433                 $   0.70
+
+Common Share Equivalent
+   of Outstanding Options                    --                     56                    (0.02)
+                                         ------                  -----                 --------
+Diluted                                  $1,700                  2,489                 $   0.68
+                                         ======                  =====                 ========
+</TABLE>
+
+                                      -7-
+<PAGE>
+
+9.    Stock-Based Compensation
+
+      As permitted under SFAS No. 123, "Accounting for Stock-Based
+      Compensation", as amended by SFAS No. 148, "Accounting for Stock-Based
+      Compensation - Transition and Disclosure", the Company has elected to
+      continue to account for compensation cost using the intrinsic value-based
+      method of accounting as prescribed by Accounting Principles Board (APB)
+      Opinion No. 25, "Accounting for Stock Issued to Employees". SFAS No. 123
+      requires the Company to disclose pro forma net income and pro forma
+      earnings per share amounts, as if compensation expense were recognized for
+      options granted after fiscal year 1994. Using this approach, net income
+      and earnings per share would have been reduced to the pro forma amounts
+      indicated in the following table:
+
+<TABLE>
+<CAPTION>
+                                                 Three Months Ended           Six Months Ended
+                                              ------------------------    ------------------------
+                                               July 3,        June 28,     July 3,       June 28,
+                                                2004           2003         2004           2003
+                                                ----           ----         ----           ----
+                                                        (in thousands, except per share)
+<S>                                           <C>            <C>          <C>            <C>
+Net income - as reported                      $   1,389      $     865    $   2,811      $   1,700
+Net income - pro forma                            1,337            794        2,728          1,561
+Basic earnings per share - as reported             0.56           0.36         1.13           0.70
+Basic earnings per share - pro forma               0.54           0.33         1.10           0.64
+Diluted earnings per share - as reported           0.53           0.35         1.08           0.68
+Diluted earnings per share - pro forma             0.51           0.32         1.05           0.63
+</TABLE>
+
+      This pro forma impact may not be representative of the effects for future
+      years, and could increase if additional options are granted and amortized
+      over the vesting period. For disclosure purposes, the fair value of each
+      stock option granted is estimated on the date of grant using the
+      Black-Scholes option-pricing model with the following weighted average
+      assumptions: no dividend yield; expected volatility of 31.45% and 30.80%;
+      risk-free interest rate of 4.15% and 2.76%; and expected life of 6.00
+      years and 6.00 years for grants in 2004 and 2003, respectively.
+
+      The Black-Scholes option-pricing model was developed for use in estimating
+      the fair value of traded options that have no vesting restrictions and are
+      fully transferable. In addition, option-pricing models require the input
+      of subjective assumptions, including the expected stock price volatility.
+
+10.   Comprehensive Income
+
+      Comprehensive income is the total of net income, the change in the
+      unrealized gain or loss on the Company's interest rate swap, net of tax,
+      and the change in foreign currency translation adjustments, all for a
+      given period, which are the Company's only non-owner changes in equity.
+      For the three and six-month periods ending July 3, 2004 and June 28, 2003,
+      the following table sets forth the Company's comprehensive income:
+
+                                      -8-
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                        Three Months Ended          Six Months Ended
+                                       --------------------       --------------------
+                                       July 3,     June 28,       July 3,      June 28,
+                                         2004        2003          2004         2003
+                                         ----        ----          ----         ----
+                                                       (in thousands)
+<S>                                    <C>         <C>            <C>          <C>
+Net income                             $ 1,389      $   865       $ 2,811      $ 1,700
+Unrealized gain (loss) on
+  interest rate swap, net of tax            61          (80)           45         (178)
+Foreign currency translation gain        1,266          341           240          674
+                                       -------      -------       -------      -------
+Comprehensive income                   $ 2,716      $ 1,126       $ 3,096      $ 2,196
+                                       =======      =======       =======      =======
+</TABLE>
+
+11.   Management Segment Information
+
+      The Company has adopted the provisions of SFAS No. 131, "Disclosures About
+      Segments of an Enterprise and Related Information". SFAS No. 131
+      introduced a model for segment reporting called the management approach.
+      The management approach is based on the way that the chief operating
+      decision-maker organizes segments within a company for making operating
+      decisions and assessing performance. The Company is engaged in one
+      business segment, material handling equipment and systems. The Company
+      operates in two primary geographic locations, North and South America (the
+      "Americas") and Europe, the Middle East, Africa and Asia ("EMEA/Asia").
+
+      For the three and six months ended July 3, 2004 and June 28, 2003, the
+      following table sets forth the Company's geographic information:
+
+<TABLE>
+<CAPTION>
+                                                          EMEA/
+                                              Americas    Asia     Eliminations   Consolidated
+                                              --------    ----     ------------   ------------
+                                                            (in thousands)
+<S>                                           <C>       <C>        <C>            <C>
+THREE MONTHS ENDED
+     July 3, 2004
+     Revenues
+         Sales to unaffiliated customers      $ 15,098  $ 11,964     $     --       $ 27,062
+         Sales to affiliates                       965       855       (1,820)            --
+                                              --------  --------     --------       --------
+                    Total sales               $ 16,063  $ 12,819     $ (1,820)      $ 27,062
+                                              ========  ========     ========       ========
+
+     Operating income (loss)                  $  1,164  $  1,173     $    (37)      $  2,300
+                                              ========  ========     ========
+     Interest expense                                                                   (348)
+                                                                                    --------
+     Income before income taxes                                                     $  1,952
+                                                                                    ========
+</TABLE>
+
+                                      -9-
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                           EMEA/
+                                              Americas     Asia     Eliminations   Consolidated
+                                              --------     ----     ------------   ------------
+                                                             (in thousands)
+<S>                                           <C>        <C>        <C>            <C>
+THREE MONTHS ENDED
+     June 28, 2003
+     Revenues
+         Sales to unaffiliated customers      $ 13,191   $  9,470     $     --       $ 22,661
+         Sales to affiliates                       563        450       (1,013)            --
+                                              --------   --------     --------       --------
+                    Total sales               $ 13,754   $  9,920     $ (1,013)      $ 22,661
+                                              ========   ========     ========       ========
+
+     Operating income (loss)                  $  1,135   $    503     $     --       $  1,638
+                                              ========   ========     ========
+     Interest expense                                                                    (400)
+                                                                                     --------
+     Income before income taxes                                                      $  1,238
+                                                                                     ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                               EMEA/
+                                              Americas         Asia     Eliminations    Consolidated
+                                              --------         ----     ------------    ------------
+                                                                 (in thousands)
+<S>                                           <C>            <C>        <C>             <C>
+SIX MONTHS ENDED
+     July 3, 2004
+     Revenues
+         Sales to unaffiliated customers      $ 29,891       $ 23,492      $     --       $ 53,383
+         Sales to affiliates                     1,660          1,681        (3,341)            --
+                                              --------       --------      --------       --------
+                    Total sales               $ 31,551       $ 25,173      $ (3,341)      $ 53,383
+                                              ========       ========      ========       ========
+
+     Operating income (loss)                  $  2,528       $  2,106      $    (71)      $  4,563
+                                              ========       ========      ========
+     Interest expense                                                                         (714)
+     Gain on sale of office building                                                           164
+                                                                                          --------
+     Income before income taxes                                                           $  4,013
+                                                                                          ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                               EMEA/
+                                              Americas         Asia     Eliminations    Consolidated
+                                              --------         ----     ------------    ------------
+                                                                 (in thousands)
+<S>                                           <C>            <C>        <C>             <C>
+SIX MONTHS ENDED
+     June 28, 2003
+     Revenues
+         Sales to unaffiliated customers      $ 26,408       $ 19,651    $       --       $ 46,059
+         Sales to affiliates                     1,312          1,018        (2,330)            --
+                                              --------       --------      --------       --------
+                    Total sales               $ 27,720       $ 20,669      $ (2,330)      $ 46,059
+                                              ========       ========      ========       ========
+
+     Operating income (loss)                  $  1,808       $  1,354      $    (19)      $  3,143
+                                              ========       ========      ========
+     Interest expense                                                                         (780)
+                                                                                          --------
+     Income before income taxes                                                           $  2,363
+                                                                                          ========
+</TABLE>
+
+                                      -10-
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS.
+
+INTRODUCTION
+
+      We are engaged in one principal business segment - material handling
+equipment and systems. We operate in two primary geographic locations - North
+and South America (the "Americas") and Europe, the Middle East, Africa and Asia
+("EMEA/Asia").
+
+      We have three main business lines within the material handling equipment
+and systems segment. They are our feeding, size reduction and pneumatic
+conveying business lines.
+
+      The following provides information that management believes is relevant to
+an assessment and understanding of our consolidated results of operations and
+financial condition. The discussion should be read in conjunction with our
+consolidated financial statements and accompanying notes. All references in this
+Item 2 to the second quarter or first six months of 2004 or 2003 mean the fiscal
+quarter or six-month period ended July 3, 2004 or June 28, 2003, as the case may
+be.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+      Management's discussion and analysis of our financial condition and
+results of operations is based on the accounting policies used and disclosed in
+our 2003 consolidated financial statements and accompanying notes that were
+prepared in accordance with accounting principles generally accepted in the
+United States of America and included as part of our annual report on Form 10-K
+for the year ended January 3, 2004 (the "2003 Form 10-K"). The preparation of
+those financial statements required management to make estimates and assumptions
+that affected the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the dates of the financial statements and
+the reported amounts of revenues and expenses during the reporting periods.
+Actual results could differ from those estimates.
+
+      The significant accounting policies of the Company are described in Note 2
+to the 2003 consolidated financial statements, and the critical accounting
+policies and estimates are described in Management's Discussion and Analysis
+included in our 2003 Form 10-K. Information concerning our implementation and
+the impact of new accounting standards issued by the Financial Accounting
+Standards Board (FASB) is included in the notes to the 2003 consolidated
+financial statements. We did not adopt an accounting policy in the first six
+months of 2004 that had a material impact on our financial condition, liquidity
+or results of operations.
+
+                                      -11-
+<PAGE>
+
+RESULTS OF OPERATIONS
+
+Overview
+
+      For the second quarter and first six months of 2004, we reported revenues
+of $27,062,000 and $53,383,000 and net income of $1,389,000 and $2,811,000,
+respectively, compared to revenues of $22,661,000 and $46,059,000 and net income
+of $865,000 and $1,700,000 for the same periods in 2003. The increases in second
+quarter and first six months of 2004 revenues and net income compared with the
+same periods in 2003 were primarily the result of improved business conditions
+in all three of our main business lines, and also reflected the positive effect
+of a weaker U.S. dollar when translating the revenues and profits of our foreign
+operations into U.S. dollars. First six months of 2004 net income also benefited
+from the profit contribution from the first quarter sale of an office building
+by one of our United Kingdom subsidiaries.
+
+Foreign Exchange Rates
+
+      We are an international company, and we derived 44% and 43% of our
+revenues for the first six months of 2004 and 2003, respectively, from products
+manufactured in, and services performed from, our facilities located outside the
+United States, primarily in Europe. Since we operate globally, we are sensitive
+to changes in foreign currency exchange rates ("foreign exchange rates"), which
+can affect both the translation of financial statement items into U.S. dollars
+as well as transactions where the revenues and related expenses may initially be
+accounted for in different currencies, such as sales made from our Swiss
+manufacturing facility in currencies other than the Swiss franc.
+
+      Since we have received substantial revenues in recent years from
+activities in foreign jurisdictions, our results can be significantly affected
+by changes in foreign exchange rates, particularly in U.S. dollar exchange rates
+with respect to the Swiss franc, euro and British pound sterling and, to a
+lesser degree, the Singapore dollar and other currencies. When the U.S. dollar
+weakens against these currencies, the U.S. dollar value of non-U.S. dollar-based
+sales increases. When the U.S. dollar strengthens against these currencies, the
+U.S. dollar value of non-U.S. dollar-based sales decreases. Correspondingly, the
+U.S. dollar value of non-U.S. dollar-based costs increases when the U.S. dollar
+weakens and decreases when the U.S. dollar strengthens. Overall, our revenues in
+U.S. dollars generally benefit from a weaker dollar and are adversely affected
+by a stronger dollar relative to major currencies worldwide, especially those
+identified above. In particular, a general weakening of the U.S. dollar against
+other currencies would positively affect our revenues, gross profit and
+operating income as expressed in U.S. dollars (provided that the gross profit
+and operating income numbers from foreign operations are not losses, since in
+the case of a loss, the effect would be to increase the loss), whereas a general
+strengthening of the U.S. dollar against such currencies would have the opposite
+effect. In addition, our revenues and income with respect to particular
+transactions may be affected by changes in foreign exchange rates where sales
+are made in currencies other than the functional currency of the facility
+manufacturing the product subject to the sale.
+
+                                      -12-
+<PAGE>
+
+      For the second quarter and first six months of 2004 and 2003, the changes
+in certain key exchange rates affecting the Company were as follows:
+
+<TABLE>
+<CAPTION>
+                                                     Three Months Ended                     Six Months Ended
+                                                ----------------------------          ----------------------------
+                                                July 3,             June 28,          July 3,             June 28,
+                                                 2004                 2003             2004                 2003
+                                                 ----                 ----             ----                 ----
+<S>                                             <C>         <C>     <C>               <C>        <C>      <C>
+Average U.S. dollar equivalent of
+ one Swiss franc                                 0.787                0.749            0.790                0.740
+% change vs. prior year                                     +5.1%                                 +6.8%
+
+Average U.S. dollar equivalent of
+ one euro                                        1.207                1.138            1.226                1.106
+% change vs. prior year                                     +6.1%                                +10.9%
+
+Average U.S. dollar equivalent of
+ one British pound sterling                      1.809                1.619            1.823                1.611
+% change vs. prior year                                    +11.7%                                +13.2%
+
+Average Swiss franc equivalent of
+ one euro                                        1.534                1.519            1.552                1.495
+% change vs. prior year                                     +1.0%                                 +3.8%
+
+Average Swiss franc equivalent of
+ one British pound sterling                      2.299                2.162            2.308                2.177
+% change vs. prior year                                     +6.3%                                 +6.0%
+</TABLE>
+
+Presentation of Results and Analysis
+
+      The following table sets forth our results of operations, expressed as a
+percentage of total revenues for the periods indicated, as well as our backlog
+at the end of such periods:
+
+<TABLE>
+<CAPTION>
+                                        Three Months Ended       Six Months Ended
+                                        -------------------     -------------------
+                                        July 3,    June 28,     July 3,    June 28,
+                                         2004        2003        2004        2003
+                                         ----        ----        ----        ----
+<S>                                     <C>        <C>          <C>        <C>
+Total revenues                           100.0%      100.0%      100.0%      100.0%
+Cost of revenues                          58.1        60.3        57.8        60.0
+                                         -----       -----       -----       -----
+Gross profit                              41.9        39.7        42.2        40.0
+Selling, general and administrative       31.2        29.5        31.4        30.3
+Research and development                   2.2         3.0         2.3         2.9
+                                         -----       -----       -----       -----
+Operating income                           8.5         7.2         8.5         6.8
+Interest                                   1.3         1.7         1.3         1.7
+Gain on sale of office building             --          --         0.3          --
+                                         -----       -----       -----       -----
+Income before income taxes                 7.2%        5.5%        7.5%        5.1%
+                                         =====       =====       =====       =====
+</TABLE>
+
+                                      -13-
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                 July 3, 2004     January 3, 2004     June 28, 2003
+                                 ------------     ---------------     -------------
+<S>                              <C>              <C>                 <C>
+Backlog (at July 3, 2004
+ exchange rates, in thousands
+ of dollars)                       $21,445           $17,385             $15,763
+                                   =======           =======             =======
+</TABLE>
+
+      Total revenues increased by $4,401,000 or 19.4% in the second quarter of
+2004 and by $7,324,000 or 15.9% in the first six months of 2004 compared to the
+same periods in 2003. These increases in revenues were primarily attributable to
+improved business conditions in all three of our main business lines, feeding,
+size reduction and pneumatic conveying, and, to a lesser degree, to the positive
+effect of a weaker U.S. dollar when translating the revenues of foreign
+operations into U.S. dollars. The favorable impact of foreign currency
+translation accounted for approximately 15% of the $4,401,000 revenue increase
+in the second quarter and approximately 23% of the $7,324,000 revenue increase
+in the first six months of 2004 compared to the same periods in 2003.
+
+      Gross profit as a percent of total revenues increased to 41.9% in the
+second quarter of 2004 and 42.2% in the first six months of 2004 from 39.7% and
+40.0%, respectively, for the same periods in 2003. These increases in gross
+profit were primarily due to higher revenues, which led to fixed costs being
+absorbed over a larger revenue base, and to geographic and product sales mix.
+
+      Selling, general and administrative (SG&A) expenses increased by
+$1,780,000 or 26.6% in the second quarter of 2004 and by $2,787,000 or 20.0% in
+the first six months of 2004 compared to the same periods in 2003. These
+increases in SG&A were primarily the result of higher sales commissions due to
+increased revenues, a higher bonus accrual, the effect of a weaker U.S. dollar
+and an increase in depreciation and amortization expense related to the
+implementation of software systems within our feeding business line. As a
+percent of total revenues, SG&A was 31.2% in the second quarter of 2004 and
+31.4% in the first six months of 2004 compared to 29.5% and 30.3%, respectively,
+for the same periods in 2003.
+
+      Research and development (R&D) expenditures decreased by $90,000 or 13.3%
+in the second quarter of 2004 and by $112,000 or 8.3% in the first six months of
+2004 compared to the same periods in 2003. These decreases were primarily due to
+lower prototype expenditures and a small reduction in staff partially offset by
+the effect of a weaker U.S. dollar. R&D expense as a percent of total revenues
+was 2.2% in the second quarter of 2004 and 2.3% in the first six months of 2004
+compared to 3.0% and 2.9%, respectively, for the same periods in 2003.
+
+      Interest expense decreased by $52,000 or 13.0% in the second quarter of
+2004 and by $66,000 or 8.5% in the first six months of 2004 compared to the same
+periods in 2003. These decreases primarily reflected debt reductions. Interest
+expense as a percent of total revenues was 1.3% in the second quarter and first
+six months of 2004 compared to 1.7% for the same periods in 2003.
+
+      In the first quarter of 2004, one of our United Kingdom subsidiaries sold
+its office building for $996,000 and realized a pre-tax gain of $164,000. All
+employees were relocated to a nearby office building that is leased by another
+United Kingdom subsidiary.
+
+                                      -14-
+<PAGE>
+
+      Income before income taxes was $1,952,000 in the second quarter of 2004
+and $4,013,000 in the first six months of 2004 compared to $1,238,000 and
+$2,363,000, respectively, for the same periods in 2003. Income before income
+taxes improved versus the same periods in 2003 as a result of the items
+discussed above.
+
+      The effective tax rate for the second quarter and first six months of 2004
+was 28.8% and 30.0%, respectively, compared to 30.1% and 28.1% for the same
+periods in 2003. The decrease in the effective tax rate in the second quarter of
+2004 compared to the same period in 2003 was due to a higher percentage of
+foreign taxable income in the second quarter of 2004, while the increase in the
+effective tax rate for the first six months of 2004 compared to the same period
+in 2003 was the result of a higher percentage of U.S. taxable income in the
+first six months of 2004.
+
+      Our backlog at constant foreign exchange rates increased by $4,060,000 or
+23.4% and $5,682,000 or 36.0% at the end of the second quarter of 2004 compared
+to the backlog at January 3, 2004 and June 28, 2003, respectively. This increase
+in our backlog resulted from the improved business conditions previously
+described.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Capitalization
+
+      Our capitalization at the end of the second quarter of 2004 and at the end
+of fiscal years 2003 and 2002 is summarized below:
+
+<TABLE>
+<CAPTION>
+                                             July 3,   January 3,  December 28,
+(Dollars in Thousands)                        2004       2004         2002
+                                             -------    -------     -------
+<S>                                          <C>       <C>         <C>
+Short-term debt, including current
+  portion of long-term debt                  $ 4,014    $ 3,541     $ 2,005
+Long-term debt                                23,098     24,574       6,499
+                                             -------    -------     -------
+Total debt                                    27,112     28,115       8,504
+Shareholders' equity                          39,081     35,114      28,419
+                                             -------    -------     -------
+Total debt and shareholders' equity          $66,193    $63,229     $36,923
+                                             =======    =======     =======
+  (total capitalization)
+Percent total debt to total capitalization        41%        44%         23%
+Percent long-term debt to equity                  59%        70%         23%
+Percent total debt to equity                      69%        80%         30%
+</TABLE>
+
+      Total debt decreased by $1,003,000 in the first six months of 2004
+($1,017,000 at constant foreign exchange rates). At July 3, 2004 and subject to
+certain conditions which may limit the amount that may be borrowed at any
+particular time, we had $4,845,000 of unused borrowing capacity under our U.S.
+loan agreements and $10,597,000 of unused borrowing capacity under our foreign
+loan agreements.
+
+                                      -15-
+<PAGE>
+
+      In June 2004, we prepaid $4,000,000 of unsecured promissory notes bearing
+interest at 6% per annum that were payable to the former stockholders of
+Pennsylvania Crusher Corporation which we acquired in January 2003. These notes
+were payable in three equal annual installments beginning in January 2005. The
+payoff was financed with a $4,000,000 term loan from a U.S. bank, repayable over
+60 months, with 48 monthly principal payments of $50,000 beginning January 2005,
+11 monthly principal payments of $133,333 beginning January 2009 and a final
+principal payment of $133,337 in December 2009. Interest is payable monthly
+beginning July 2004 at a fixed rate of 5.75% on principal of $1,600,000 and at a
+variable rate of one-month LIBOR plus 1.85% (2.94% as of July 3, 2004) on the
+remaining principal of $2,400,000. The term loan is guaranteed by the U.S.
+manufacturing subsidiary for our feeder line and contains the same annual
+consolidated financial covenants that already exist with the lender.
+
+      In June 2004, the same U.S. bank extended the term of a $5,000,000 secured
+revolving credit facility with the same U.S. manufacturing subsidiary through
+July 2006.
+
+Other Items
+
+      At July 3, 2004, working capital was $21,350,000 compared to $17,121,000
+at January 3, 2004, and the ratio of current assets to current liabilities at
+those dates was 1.86 and 1.77, respectively. The working capital increase during
+the first six months of 2004 was primarily from an increase in cash from
+operating activities and from the sale of the U.K. office building previously
+described.
+
+      In the first six months of 2004 and 2003, we utilized internally generated
+funds and our lines of credit to meet our working capital needs.
+
+      Net cash provided by operating activities was $4,392,000 in the first six
+months of 2004 compared to $5,203,000 in the same period of 2004. The decrease
+in operating cash flow during the first six months of 2004 compared to the same
+period in 2003 was primarily due to an increase in accounts receivable,
+inventories and prepaid expenses resulting from the stronger business conditions
+and higher revenues discussed above, partially offset by increases in net
+income, depreciation and amortization, accounts payable and accrued expenses.
+
+      Net cash provided by investing activities in the first six months of 2004
+was primarily from the disposition of the U.K. office building noted above,
+partially offset by capital additions. Net cash used in investing activities for
+the first six months of 2003 was for the acquisition of Pennsylvania Crusher
+Corporation in January 2003 and capital additions.
+
+      Cash used in financing activities in the first six months of 2004 was for
+net debt reductions, which were partially offset by the proceeds of stock option
+exercises, while cash provided by financing activities in the first six months
+of 2003 was from borrowings related to the acquisition of Pennsylvania Crusher
+Corporation in January 2003.
+
+      Of the total increase in shareholders' equity of $3,967,000 in the first
+six months of 2004, $2,811,000 was from net income, $240,000 was from changes in
+foreign exchange rates, particularly the strengthening of the Swiss franc and
+euro versus the U.S. dollar, $871,000 was from the issuance of common stock
+related to the exercise of stock options, and $45,000 was from an unrealized
+gain net of taxes on an interest rate swap.
+
+                                      -16-
+<PAGE>
+
+Future Payments Under Contractual Obligations
+
+      We are obligated to make future payments under various contracts such as
+debt agreements and lease agreements, and we are subject to certain other
+commitments and contingencies. There have been no material changes to Future
+Payments Under Contractual Obligations as reflected in the Liquidity and Capital
+Resources section of Management's Discussion and Analysis in the Company's 2003
+Form 10-K except for the $4,000,000 debt refinancing and $5,000,000 revolving
+credit facility extension, each of which occurred in June 2004 and was described
+above. Refer to Notes 9 and 16 to the consolidated financial statements in the
+2003 Form 10-K for additional information on long-term debt and commitments and
+contingencies.
+
+FORWARD-LOOKING STATEMENTS AND RISK FACTORS
+
+      The Private Securities Litigation Reform Act of 1995 (the "Act") provides
+a safe harbor for forward-looking statements made by us or on our behalf. We and
+our representatives may from time to time make written or oral statements that
+are "forward-looking," including statements contained in this report and other
+filings with the Securities and Exchange Commission, reports to our shareholders
+and news releases. All statements that express expectations, estimates,
+forecasts or projections are forward-looking statements within the meaning of
+the Act. In addition, other written or oral statements which constitute
+forward-looking statements may be made by us or on our behalf. Words such as
+"expects," "anticipates," "intends," "plans," "believes," "seeks," "estimates,"
+"projects," "forecasts," "may," "should," variations of such words and similar
+expressions are intended to identify such forward-looking statements. These
+statements are not guarantees of future performance and involve certain risks,
+uncertainties and assumptions which are difficult to predict. Therefore, actual
+outcomes and results may differ materially from what is expressed or forecasted
+in or suggested by such forward-looking statements. The forward-looking
+statements contained in this report include but are not limited to statements
+regarding the effect of changes in foreign exchange rates on our business. We
+undertake no obligation to update publicly any forward-looking statements,
+whether as a result of new information, future events or otherwise.
+
+      A wide range of factors could materially affect our future performance and
+financial and competitive position, including the following: (i) increasing
+price and product/service competition by domestic and foreign competitors,
+including new entrants; (ii) the mix of products/services sold by us; (iii)
+rapid technological changes and developments and our ability to continue to
+introduce competitive new products on a timely and cost-effective basis; (iv)
+changes in U.S. and global financial and currency markets, including significant
+interest rate and foreign currency exchange rate fluctuations; (v) protection
+and validity of patents and other intellectual property rights held by us and
+our competitors; (vi) the cyclical nature of our business as an industrial
+capital goods supplier; (vii) possible future litigation and governmental
+proceedings; (viii) the availability of financing and financial resources in the
+amounts, at the times and on the terms required to support our future business,
+including for debt refinancings, capacity expansions and possible acquisitions;
+(ix) the loss of key customers, employees or suppliers; (x) the failure to carry
+out marketing and sales plans; (xi) the failure to integrate acquired businesses
+without substantial costs, delays or other operational or financial problems;
+(xii) economic, business and regulatory conditions and changes which may affect
+the level of new investments and purchases made by our customers, including
+economic and business
+
+                                      -17-
+<PAGE>
+
+conditions that are less favorable than expected; (xiii) domestic and
+international political and economic conditions; and (xiv) the outcome of any
+legal proceedings in which we are involved.
+
+      This list of factors that may affect our future performance and financial
+and competitive position and also the accuracy of forward-looking statements is
+illustrative, but it is by no means exhaustive. Accordingly, all forward-looking
+statements should be evaluated with the understanding of their inherent
+uncertainty.
+
+ITEM 3.       QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+      The Company is currently exposed to certain market risks related to (i)
+fluctuations in foreign exchange rates and (ii) interest rate changes.
+
+Foreign Exchange Rate Risk
+
+      See "Management's Discussion and Analysis of Financial Condition and
+Results of Operations -- Results of Operations -- Foreign Exchange Rates" in
+Item 2 of this report.
+
+Interest Rate Risk
+
+      The Company has several credit facilities or loans that require the
+Company to pay interest at a rate which may change periodically. These variable
+rate obligations expose the Company to the risk of increased interest expense in
+the event of increases in short-term interest rates. As of July 3, 2004,
+approximately $12,336,000 of the Company's total debt of $27,112,000 was subject
+to variable interest rates.
+
+ITEM 4.       CONTROLS AND PROCEDURES.
+
+      (a)   Evaluation of Disclosure Controls and Procedures
+
+      An evaluation of the effectiveness of the design and operation of our
+disclosure controls and procedures as of the end of the period covered by this
+report was carried out by us under the supervision and with the participation of
+the Company's management, including the Chief Executive Officer and Chief
+Financial Officer. Based on that evaluation, the Chief Executive Officer and
+Chief Financial Officer concluded that our disclosure controls and procedures
+have been designed and are functioning effectively to provide reasonable
+assurance that the information required to be disclosed by us in reports filed
+under the Securities and Exchange Act of 1934 is recorded, processed, summarized
+and reported within the time periods specified in the Securities and Exchange
+Commission's rules and forms. A controls system, no matter how well designed and
+operated, cannot provide absolute assurance that the objectives of the controls
+system are met, and no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within a company have
+been detected. Subsequent to the date of the most recent evaluation of our
+internal controls, there were no significant changes in our internal controls,
+including any corrective actions with regard to significant deficiencies and
+material weaknesses.
+
+                                      -18-
+<PAGE>
+
+      (b)   Change in Internal Control over Financial Reporting
+
+      No change in the Company's internal control over financial reporting
+occurred during the Company's most recent fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+                           PART II. OTHER INFORMATION
+
+ITEM 4.       SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+      (a)   The Annual Meeting of Shareholders of the Company was held on May
+            14, 2004.
+
+      (b)   Not applicable
+
+      (c)   Shareholders of the Company were asked to vote on a proposal to
+            elect two Class III directors. The Board of Directors nominated
+            Norman Cohen and Richard J. Pinola as the Class III directors. There
+            were no other nominations. Messrs. Cohen and Pinola were then
+            elected as the Class III directors, with the result of the vote
+            being as follows:
+
+<TABLE>
+<CAPTION>
+                                      Number of Votes
+                                      ---------------
+                               For                       Withheld
+                               ---                       --------
+<S>                         <C>                          <C>
+Norman Cohen                2,027,025                     54,190
+Richard J. Pinola           2,027,345                     53,870
+</TABLE>
+
+            Directors are elected by a plurality of the votes cast; therefore,
+            votes cast in the election could not be recorded against or as an
+            abstention, nor could broker non-votes be recorded.
+
+ITEM 6.       EXHIBITS AND REPORTS ON FORM 8-K.
+
+      (a)   Exhibits.
+
+            31.1  Chief Executive Officer Certification pursuant to Rule
+                  13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934,
+                  as adopted pursuant to Section 302 of the Sarbanes-Oxley Act
+                  of 2002
+
+            31.2  Chief Financial Officer Certification pursuant to Rule
+                  13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934,
+                  as adopted pursuant to Section 302 of the Sarbanes-Oxley Act
+                  of 2002
+
+            32    Chief Executive Officer and Chief Financial Officer
+                  Certification pursuant to 18 U.S.C. Section 1350, as adopted
+                  pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+            10.1  Note dated June 9, 2004 from K-Tron International, Inc. in
+                  favor of The Bank
+
+            10.2  Loan Modification/Renewal Agreement dated June 9, 2004 between
+                  K-Tron America, Inc. and The Bank
+
+                                      -19-
+<PAGE>
+
+      (b)   Reports on Form 8-K.
+
+            Current Report on Form 8-K dated April 27, 2004 and furnished to the
+            Securities and Exchange Commission on April 29, 2004 reporting first
+            quarter 2004 financial results.
+
+                                      -20-
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                   K-TRON INTERNATIONAL, INC.
+
+Date: August 16, 2004              By:    RONALD R. REMICK
+                                          ----------------
+                                          Ronald R. Remick
+                                          Senior Vice President & Chief
+                                          Financial Officer
+                                          (Duly authorized officer and principal
+                                          financial officer of the registrant)
+
+                                   By:    ALAN R. SUKONECK
+                                          ----------------
+                                          Alan R. Sukoneck
+                                          Vice President, Chief Accounting
+                                          & Tax Officer
+                                          (Duly authorized officer and principal
+                                          accounting officer of the registrant)
+
+                                      -21-
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number                               Description
+- ------                               -----------
+<S>         <C>
+31.1        Chief Executive Officer Certification pursuant to Rule 13a-14(a) or
+            15d-14(a) of the Securities Exchange Act of 1934, as adopted
+            pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2        Chief Financial Officer Certification pursuant to Rule 13a-14(a) or
+            15d-14(a) of the Securities Exchange Act of 1934, as adopted
+            pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32          Chief Executive Officer and Chief Financial Officer Certification
+            pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+            906 of the Sarbanes-Oxley Act of 2002
+
+10.1        Note dated June 9, 2004 from K-Tron International, Inc. in favor of
+            The Bank
+
+10.2        Loan Modification/Renewal Agreement dated June 9, 2004 between
+            K-Tron America, Inc. and The Bank
+</TABLE>
+
+                                      -22-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>w00582exv10w1.txt
+<DESCRIPTION>NOTE DATED JUNE 9 BETWEEN K-TRON AND THE BANK
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.1
+
+                                                Prepared by:
+
+                                                /s/ JEFFREY G. ALBERTSON
+                                                ------------------------
+                                                Albertson Ward
+                                                36 Euclid Street, P.O. Box 685
+                                                Woodbury, NJ 08096
+                                                (856)853-7770
+
+                                      NOTE
+
+$4,000,000.00                                            WOODBURY, NEW JERSEY
+                                                         JUNE 9, 2004
+
+      BETWEEN the Borrower K-TRON INTERNATIONAL, INC., A NEW JERSEY CORPORATION,
+whose address is Routes 55 and 553, P.O. Box 888, Pitman, New Jersey 08071-0888,
+referred to as "Borrower".
+
+      AND the Lender, THE BANK, whose address is 100 Park Avenue, Woodbury, New
+Jersey 08096, referred to as "THE BANK".
+
+      The phrase "THE BANK" means the original Lender and anyone else who takes
+this Note by transfer.
+
+      BORROWER'S PROMISE TO PAY PRINCIPAL AND INTEREST. In return for a loan to
+be funded by THE BANK to Borrower on this date, Borrower promises to
+pay$4,000,000.00 (called "principal"), plus interest, to the order of THE BANK.
+Of this amount, Borrower will borrow $1,600,000.00 at a per annum fixed
+interest rate of 5.75%; and shall borrow the balance thereof, being
+$2,400,000.00, on a floating rate basis equal to the one (1) month LIBOR rate
+plus 185 basis points. The proceeds of the loan will be used to repay
+approximately $4,000,000.00 of debt owed by Borrower to the former stockholders
+of Pennsylvania Crusher Corporation. Interest will be charged on the outstanding
+principal balance due on this Note from time to time as required herein until
+all principal has been paid. Interest shall be calculated hereunder for the
+actual number of days that principal is outstanding based on a year of 360 days.
+
+      PAYMENTS. All payments made hereunder shall be paid on the sixth (6th) day
+of each month beginning July 6, 2004. The loan shall be repaid as follows:
+Interest-only payments shall be made monthly beginning July 6, 2004 through
+December 6, 2004. Thereafter, forty-eight (48) principal payments of
+
+<PAGE>
+
+$50,000.00, plus interest, shall be due monthly beginning January 6, 2005
+through December 6, 2008 . Thereafter, eleven (11) principal payments of
+$133,333.00, plus interest, shall be due monthly beginning January 6, 2009
+through November 6, 2009, with one final payment of all outstanding principal
+and interest due December 6, 2009. All scheduled principal and interest payments
+shall be applied to the variable and fixed interest rate portions of the loan in
+the same ratio as those floating and fixed rate portions bear to each other
+(initially 60/40). Borrower will pay all amounts owed under this Note no later
+than DECEMBER 6, 2009. All payments will be made to THE BANK at the address
+shown above or to a different place if required by THE BANK.
+
+      LIBOR RATE. For the floating rate portion of the Note, the variable
+interest rate will equal the one (1) month LIBOR rate plus 185 basis points. The
+rate of interest shall be established on the twenty-fifth (25th) day of each
+calendar month, during the term of this Note, or the next business day
+thereafter, with such rate of interest to be effective on the first business day
+of the next calendar month. For purposes of this Note, the one (1) month LIBOR
+rate shall be defined as the London Interbank Offered Rate (LIBOR) for
+maturities of one (1) month, expressed as an annual yield, as reported in the
+Wall Street Journal or a comparable source on the date the quote by THE BANK is
+given (the "LIBOR Index Rate"). The rate of interest so established shall remain
+in effect until the first business day of the succeeding calendar month, at
+which time the rate of interest shall be reestablished as provided herein. The
+interest rate established at time of funding under the terms of this Note shall
+be the same as if established on the first of said month.
+
+      SECURITY. As security for this instrument, Borrower's subsidiary, K-Tron
+America, Inc., has delivered its Guaranty; a third mortgage bearing even date
+herewith covering premises designated on the official tax map as Lot 3.01, Block
+249, Township of Mantua, Gloucester County, New Jersey, which Mortgage is about
+to be recorded in the office of the Clerk of Gloucester County; and a third lien
+security interest, subject only to THE BANK'S first and second lien perfected
+security interests, in the accounts receivable, inventory, and equipment now
+owned or hereafter acquired by Guarantor located at Routes 55
+
+                                     - 2 -
+
+<PAGE>
+
+and 553, Pitman, New Jersey 08071. The provisions of any mortgage or security
+agreement given as security for this Note are incorporated herein by reference.
+
+      COVENANTS AND CONDITIONS:
+
+      1.    Borrower has provided to THE BANK acceptable current financial
+statements and will provide annual updates on the Borrower and Guarantor. The
+updates for financial statements and tax returns are to be submitted within
+thirty (30) days of the date requested by THE BANK, but not earlier than the
+dates that any such statements are required by the U.S. Securities and Exchange
+Commission. Should the Borrower or Guarantor fail to submit required financial
+information within the required time period,THE BANK may, at its sole option,
+increase the interest rate on this Note by one-half (1/2) of one (1) percent per
+annum.
+
+      2.    The Borrower and the Guarantor must continue to maintain with THE
+BANK a meaningful deposit relationship.
+
+      3.    Borrower and Guarantor agree that until all obligations hereunder
+are fully paid and discharged, Borrower will not without the prior written
+consent of THE BANK:
+
+            A.    Permit the consolidated debt to net worth ratio of Borrower to
+be more than 1.25 at fiscal year-end 2004 and each fiscal year-end thereafter.
+
+            B.    Permit the consolidated net worth of Borrower to be less than
+$34 million at fiscal year-end 2004 and each fiscal year-end thereafter.
+
+            C.    Both of the above covenants set forth in paragraphs A and B
+above shall be calculated exclusive of declines due to changes in foreign
+exchange rates subsequent to January 3, 2004.
+
+            D.    Permit the consolidated annual debt coverage ratio of Borrower
+at each fiscal year end to be less than 1.50.
+
+            E.    Each of covenants set forth in paragraphs A, B, and D above
+shall be calculated without taking into account Pennsylvania Crusher Corporation
+and its subsidiaries.
+
+                                     - 3 -
+
+<PAGE>
+
+            F.    Permit upstreaming of funds from Guarantor to Borrower or
+K-Tron Technologies, Inc. or downstreaming of funds from Borrower to
+Pennsylvania Crusher Corporation or its subsidiaries, except for (i) management
+fees consistent with past practice and royalties paid in the ordinary course of
+business, (ii) dividends or other advances paid or made to enable Borrower to
+pay any obligation to THE BANK in connection with this or any other loan, and
+(iii) the settlement of inter-company accounts in the ordinary course of
+business consistent with past practice.
+
+            G.    Permit any merger or acquisition by Borrower or its
+subsidiaries involving consideration of more than $4 million without the written
+approval of THE BANK.
+
+      PREPAYMENT: As to the amount borrowed under the fixed interest rate
+portion of this Note, Borrower shall have the right at any time during the term
+hereof to prepay all or a part of the principal balance of such portion then
+outstanding under this Note upon payment of the premiums and charges, if any,
+hereinafter set forth. A principal prepayment requiring such a premium or charge
+shall be deemed to have occurred upon Borrower's payment to THE BANK in any Loan
+Year of any sum in reduction of the principal which exceeds one-third (1/3) of
+the original principal amount borrowed under the fixed interest rate portion,
+excluding principal payments (including scheduled amortization) the Borrower is
+obligated to make under any other terms or provisions of this Note or any other
+document constituting a part of the loan transaction evidenced by this Note.
+Upon the occurrence of such a principal prepayment, including prepayment of the
+entire debt, THE BANK shall be entitled to charge and Borrower shall be
+obligated to pay, in addition to interest and all other charges then properly
+due, a prepayment premium equal to 2% of the amount prepaid. The term "Loan
+Year" as used herein is defined as any period of one year commencing on the date
+of the Note or on any anniversary of such date. Except as provided above, there
+shall be no prepayment premium or charge on a prepayment of any amount borrowed
+under the fixed interest rate portion.
+
+      At no time will there by a prepayment penalty on the variable interest
+rate portion of the loan, which portion may be prepaid in full or in part at any
+time.
+
+                                     - 4 -
+
+<PAGE>
+
+      LATE CHARGE: The effective date of the receipt by the holder of any
+installment of this Note shall be the day on which the holder receives cash or
+collected funds at the place of payment as specified herein in payment of any
+such installment. Borrower shall be entitled to a FIFTEEN (15) DAY grace period
+after which period a "late charge" of $0.05 FOR EACH $1.00 OVERDUE may be
+charged by the holder for the purpose of defraying the expense incident to
+handling such delinquent payment.
+
+      DEFAULT: If any installment of this Note or interest payment is not paid
+within 15 days of the date and at the place herein specified and after THE BANK
+has given Borrower 15 days' written notice to cure said default, THE BANK may at
+its option, and without further notice declare this Note to be in default and
+the entire principal balance then remaining unpaid together with all interest
+which shall have accrued on the unpaid principal balance from and after the date
+of such default shall be due and payable in full without notice.
+
+      It shall be a default of this Note if Borrower shall default in any
+payment of principal or interest on any indebtedness or contingent obligation
+for money borrowed (other than Borrower's obligations under this Note) or any
+other event shall occur, the effect of which is to permit such indebtedness or
+contingent obligation to be declared or such indebtedness or contingent
+obligation shall otherwise become due prior to its stated maturity, provided,
+however, that this provision shall not apply concerning obligations other than
+Borrower's obligations under this Note unless the amount involved exceeds
+$50,000.00.
+
+      If a default shall occur in this loan and not be cured as provided in the
+loan documents or otherwise agreed to by THE BANK, THE BANK shall, after
+declaring the loan to be in default, have the right to increase the interest
+rate TWO (2%) PERCENT PER YEAR in excess of the note rate. This provision is in
+addition to any late charges that may be due.
+
+      ATTORNEY'S FEE: If this Note is placed in the hands of an attorney for
+collection because of a default in the terms hereof or in the terms of any
+documents given as security for the within obligation, the undersigned agrees to
+pay the reasonable fees and costs of such attorney, whether or not legal action
+is
+
+                                     - 5 -
+
+<PAGE>
+
+instituted and further consents that if a judgment is entered in any action the
+amount of such fees shall form a part of such judgment in addition to any fees
+allowed by Statute or Rule of the Court.
+
+      COMMITMENT LETTER COMPLIANCE: This Note is contingent upon Borrower's
+compliance with all of the terms and conditions contained in the commitment
+letter issued by THE BANK to Borrower on May 28, 2004. Upon breach of any term
+or condition contained therein,THE BANK shall have the right to declare this
+loan in default and demand payment in full of the principal balance remaining
+unpaid, together with all interest which shall have accrued thereon. Further,
+providing the said commitment letter so provides, THE BANK reserves the right to
+increase the interest rate in accordance with the provisions of the loan
+commitment for failure of the Borrower or any guarantor to submit required
+financial information within thirty days of the date of request by THE BANK.
+Should there be any conflict between the provisions of said commitment letter
+and this Note, the provisions of this Note shall apply.
+
+      PAYMENT AT MATURITY: THIS LOAN IS PAYABLE IN FULL AT MATURITY OR UPON
+DEMAND IN THE EVENT OF A DEFAULT HEREUNDER OR UNDER THE TERMS OF ANY OTHER
+APPLICABLE LOAN INSTRUMENT. YOU MUST REPAY THE ENTIRE PRINCIPAL BALANCE OF THE
+LOAN AND UNPAID INTEREST THEN DUE. THE BANK IS UNDER NO OBLIGATION TO REFINANCE
+THE LOAN AT THAT TIME. YOU WILL THEREFORE BE REQUIRED TO MAKE PAYMENT OUT OF
+OTHER ASSETS YOU MAY OWN OR YOU WILL HAVE TO FIND A LENDER WILLING TO LEND YOU
+THE MONEY. IF YOU REFINANCE THIS LOAN AT MATURITY, YOU MAY HAVE TO PAY SOME OR
+ALL OF THE CLOSING COSTS NORMALLY ASSOCIATED WITH A NEW LOAN EVEN IF YOU OBTAIN
+REFINANCING FROM THE BANK.
+
+                                     - 6 -
+
+<PAGE>
+
+      WAIVER OF PRESENTMENT: EACH AND ALL PARTIES hereto whether maker,
+endorsers, sureties, guarantor or otherwise do hereby jointly and severally
+waive presentment and demand for payment, notice of dishonor, protest and notice
+of protest.
+
+      IN WITNESS WHEREOF, the Borrower hereunder has hereunto set its hand and
+seal the day and year first above written.
+
+Attest:                               K-Tron International, Inc.
+                                      By:
+
+/s/ Mary E. Vaccara                   /s/ Edward B. Cloues, II
+- -----------------------------         ------------------------------------------
+Mary E. Vaccara, Secretary            Edward B. Cloues, II, Chairman and Chief
+                                      Executive Office
+
+Sworn to and Subscribed
+before me on June 9, 2004
+
+___________________________
+JEFFREY G. ALBERTSON, ESQ.
+     ATTORNEY AT LAW
+  STATE OF NEW JERSEY
+
+                                     - 7 -
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>w00582exv10w2.txt
+<DESCRIPTION>LOAN MODIFICATION/RENEWAL AGREEMENT
+<TEXT>
+<PAGE>
+                                                                  Exhibit   10.2
+                                    THE BANK
+                      LOAN MODIFICATION/RENEWAL AGREEMENT
+
+                              K-TRON AMERICA, INC.
+                                 Routes 55 & 553
+                                Pitman, NJ 08071
+
+Date: June 9, 2004                                  Loan #6039359-6600
+Original Amount: $5,000,000.00                      Annual Fee: $12,500.00
+Current Balance: $3,230,000.00                      Maturity Date: July 05, 2006
+
+WHEREAS, the undersigned borrower executed the note referred to above on June
+24, 1998, and,
+
+WHEREAS, the note, security agreement and commitment letter executed by the
+borrower allow a modification of interest rate, due date or other terms or
+conditions without affecting the priority of The Bank's lien.
+
+NOW, therefore, in consideration of an annual fee of $12,500.00, the above
+referenced note is extended and modified as follows:
+
+      IT IS HEREBY AGREED THAT THE ABOVE NUMBERED NOTE SHALL BECOME DUE JULY 5,
+      2006. DURING THE TERMS OF THE RENEWAL, PAYMENTS OF INTEREST ONLY SHALL BE
+      DUE EACH MONTH BEGINNING July 1, 2004 AND SHALL BE APPLIED TO INTEREST AND
+      THEN TO PRINCIPAL.
+
+All terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+                                         ACCEPTED BY:
+                                         K-TRON AMERICA, INC.
+
+THE BANK                                 /s/ Kevin C. Bowen             6/9/04
+                                         ---------------------------------------
+By: /s/ David J. Hanrahan                Kevin C. Bowen, President       Date
+- ----------------------------------
+David J. Hanrahan, Sr.                   /s/ Mary Vaccara               6-9-04
+Executive Vice President                 ---------------------------------------
+                                         Mary Vaccara, Secretary         Date
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>5
+<FILENAME>w00582exv31w1.txt
+<DESCRIPTION>CEO CERTIFICATION PURSUANT TO SECTION 302
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 31.1
+
+                                  CERTIFICATION
+
+I, Edward B. Cloues, II, certify that:
+
+1.    I have reviewed the Quarterly Report on Form 10-Q for the period ended
+      July 3, 2004 of K-Tron International, Inc.;
+
+2.    Based on my knowledge, this report does not contain any untrue statement
+      of a material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+3.    Based on my knowledge, the financial statements, and other financial
+      information included in this report, fairly present in all material
+      respects the financial condition, results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4.    The registrant's other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+      and have:
+
+              (a) Designed such disclosure controls and procedures, or caused
+         such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+              (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+              (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+5.    The registrant's other certifying officer and I have disclosed, based on
+      our most recent evaluation of internal control over financial reporting,
+      to the registrant's auditors and the audit committee of registrant's board
+      of directors:
+
+              (a) All significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting which
+         are reasonably likely to adversely affect the registrant's ability to
+         record, process, summarize and report financial information; and
+<PAGE>
+
+              (b) Any fraud, whether or not material, that involves management
+         or other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+
+Date: August 16, 2004
+
+                                            EDWARD B. CLOUES, II
+                                            ---------------------------
+                                            Edward B. Cloues, II
+                                            Chairman and Chief Executive Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>6
+<FILENAME>w00582exv31w2.txt
+<DESCRIPTION>CFO CERTIFICATION PURSUANT TO SECTION 302
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 31.2
+
+                                  CERTIFICATION
+
+I, Ronald R. Remick, certify that:
+
+1.    I have reviewed the Quarterly Report on Form 10-Q for the period ended
+      July 3, 2004 of K-Tron International, Inc.;
+
+2.    Based on my knowledge, this report does not contain any untrue statement
+      of a material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+3.    Based on my knowledge, the financial statements, and other financial
+      information included in this report, fairly present in all material
+      respects the financial condition, results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4.    The registrant's other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+      and have:
+
+              (a) Designed such disclosure controls and procedures, or caused
+         such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+              (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+              (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+5.   The registrant's other certifying officer and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of registrant's board of
+     directors:
+
+              (a) All significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting which
+         are reasonably likely to adversely affect the registrant's ability to
+         record, process, summarize and report financial information; and
+
+<PAGE>
+
+              (b) Any fraud, whether or not material, that involves management
+         or other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+
+Date: August 16, 2004
+
+                               RONALD R. REMICK
+                               ----------------
+                               Ronald R. Remick
+                               Senior Vice President and Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>7
+<FILENAME>w00582exv32.txt
+<DESCRIPTION>CEO AND CFO CERTIFICATION PURSUANT TO SECTION 906
+<TEXT>
+<PAGE>
+
+                                                                      Exhibit 32
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of K-Tron International, Inc. (the
+"Company") on Form 10-Q for the period ended July 3, 2004 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Edward
+B. Cloues, II, Chairman of the Board of Directors and Chief Executive Officer of
+the Company, and I, Ronald R. Remick, Senior Vice President, Chief Financial
+Officer and Treasurer of the Company, each certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that, to my knowledge:
+
+1.    The Report fully complies with the requirements of section 13(a) or 15(d)
+      of the Securities Exchange Act of 1934; and
+
+2.    The information contained in the Report fairly presents, in all material
+      respects, the financial condition and results of operations of the
+      Company.
+
+RONALD R. REMICK                            EDWARD B. CLOUES, II
+- ----------------                            --------------------
+Ronald R. Remick                            Edward B. Cloues, II
+Senior Vice President, Chief Financial      Chairman and Chief Executive Officer
+  Officer and Treasurer
+Date: August 16, 2004                       Date: August 16, 2004
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

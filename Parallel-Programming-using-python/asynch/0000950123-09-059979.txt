@@ -1,0 +1,1399 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DqyNeEoopvKy6WlAiKcI4zswAbO7SXs9SB2iow0zq5QM+dU37qjZA945ICUrbnKY
+ v3b4DPPgok7sP4o8w77dng==
+
+<SEC-DOCUMENT>0000950123-09-059979.txt : 20091109
+<SEC-HEADER>0000950123-09-059979.hdr.sgml : 20091109
+<ACCEPTANCE-DATETIME>20091109132913
+ACCESSION NUMBER:		0000950123-09-059979
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20091109
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091109
+DATE AS OF CHANGE:		20091109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		091167490
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>c92289e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="margin-left: 0.25in; width: 7.2in;font-family: 'Times New Roman',Times,serif">
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 OR 15(d) of The Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Date of Report (Date of earliest event reported): November 9, 2009</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>K-TRON INTERNATIONAL, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="32%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="32%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="32%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD nowrap align="center" valign="top"><B>New Jersey
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>0-9576
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>22-1759452</B></TD>
+</TR>
+<TR style="font-size: 1px">
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(Commission File Number)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="48%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD align="center" valign="top"><B><BR>
+Routes 55 &#38; 553 <BR>P.O. Box 888 <BR>Pitman, New Jersey
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>&nbsp;<BR><BR><BR>08071-0888</B></TD>
+</TR>
+<TR style="font-size: 1px">
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: <B>(856) 589-0500</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Not Applicable</B></DIV>
+
+<DIV align="center" style="font-size: 10pt"><FONT style="border-top: 1px solid #000000">(Former name or former address, if changed since last report.)</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio --> </DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Item&nbsp;2.02 Results of Operations and Financial Condition.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">On November&nbsp;9, 2009, K-Tron International, Inc. issued a press release announcing its third
+quarter financial results. The press release is being furnished with this Current Report on Form
+8-K as Exhibit&nbsp;99.1 and is incorporated herein by reference.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">The information in this Form 8-K and the exhibit attached hereto shall not be deemed &#147;filed&#148;
+for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, nor shall it be deemed
+incorporated by reference in any filing under the Securities Act of 1933, except as shall be
+expressly set forth by specific reference in such filing.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(a)&nbsp;Financial Statements of Businesses Acquired.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(b)&nbsp;Pro Forma Financial Information.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(c)&nbsp;Shell Company Transactions.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">None.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%"><I>(d)&nbsp;Exhibits.</I>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release dated November&nbsp;9, 2009 issued by
+K-Tron International, Inc.</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-2-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>K-TRON INTERNATIONAL, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">ROBERT E. WISNIEWSKI
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Robert E. Wisniewski&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Senior Vice President,<BR>
+Chief Financial Officer and Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">Dated: November&nbsp;9, 2009
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-3-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><U>Exhibit&nbsp;Index</U>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit Number</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+    <TD valign="top"><DIV style="margin-left:30px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release dated November&nbsp;9, 2009 issued by K-Tron
+International, Inc.</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>c92289exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><IMG src="c92289c9228901.gif" alt="(K-TRON INTERNATIONAL LOGO)">
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 10pt">EXHIBIT 99.1
+</DIV>
+
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="3%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">For Release:</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Immediately</DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="7%"></TD>
+    <TD width="4%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">Contact:</TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Robert E. Wisniewski, Senior
+Vice President and Chief Financial Officer<BR>
+Tel: (856)&nbsp;256-3311 E-mail: <U>rwisniewski@ktron.com</U></DIV></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>K-TRON REPORTS THIRD QUARTER 2009 RESULTS</B>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 10pt"><B>STRONG OPERATING CASH FLOW PRODUCES $13.357 MILLION INCREASE<BR>
+IN CASH AND $2.0 MILLION REDUCTION IN DEBT DURING THE QUARTER</B>
+
+</DIV>
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Pitman, New Jersey &#151;  November&nbsp;9, 2009 </B> &#151; K-Tron International, Inc. (NASDAQ-GS: KTII) today
+reported net income of $6.768&nbsp;million and diluted earnings per share (&#147;EPS&#148;) of $2.34 for its
+fiscal third quarter ended October&nbsp;3, 2009, nearly unchanged from the same period in 2008.
+Revenues were $47.321&nbsp;million in this year&#146;s third quarter, a decline of 20.6&nbsp;percent from last
+year.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For the first nine months of 2009, K-Tron reported net income of $16.473&nbsp;million, diluted EPS of
+$5.75 and revenues of $147.044&nbsp;million, compared to net income of $19.576&nbsp;million, diluted EPS of
+$6.84 and revenues of $177.239&nbsp;million in the first nine months of 2008. The percentage decreases
+in 2009 versus the prior year were 15.9&nbsp;percent for net income, 15.9&nbsp;percent for EPS and 17.0
+percent for revenues.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The third quarter and first nine months of 2009 results included a $2.972&nbsp;million pre-tax gain from
+the September&nbsp;2009 sale of the Company&#146;s 19.9&nbsp;percent equity investment in a French material
+handling company (which investment had been recorded as an &#147;other asset&#148; on the Company&#146;s balance
+sheet). Also, net income and EPS in both 2009 periods were adversely affected by higher effective
+income tax rates this year as compared to 2008 (35.0&nbsp;percent for the third quarter and 34.7&nbsp;percent
+for the first nine months of 2009 versus 27.1&nbsp;percent and 28.7&nbsp;percent for the same periods last
+year).
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The Company noted that if the average foreign currency exchange rates for the third quarter and
+first nine months of 2008 were applied to the same periods of 2009, the Company&#146;s revenues would
+have decreased approximately 20.5&nbsp;percent for the third quarter of 2009 instead of 20.6&nbsp;percent and
+15.3&nbsp;percent for the first nine months of 2009 instead of 17.0&nbsp;percent.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">With respect to liquidity and capital resources, the Company highlighted a significant increase in
+cash and a reduction in debt during the third quarter, noting that cash grew by $13.357&nbsp;million to
+$63.0&nbsp;million while debt was paid down by $2.0&nbsp;million to $18.0&nbsp;million. As a result, the Company
+had cash in excess of debt of $45.0&nbsp;million at the end of the third quarter. The Company also said
+that it had retired an additional $8.0&nbsp;million of debt in October and expects to end the year with debt of
+only $8.0&nbsp;million as compared to $23.662&nbsp;million at the beginning of the year.
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Commenting on the Company&#146;s performance, K-Tron Chairman and Chief Executive Officer Edward B.
+Cloues, II said, &#147;The third quarter of 2009 was a very positive one for the Company, despite the
+challenging global environment. Our net income and EPS, helped by the sale of our investment in a
+French material handling company, matched last year&#146;s record third quarter numbers, and our strong
+operating cash flow enabled us to pay down debt while increasing our cash to a record $63.0
+million.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">&#147;Although our backlog declined by $5.0&nbsp;million, or 9.1%, in the third quarter on a constant foreign
+currency exchange basis, we believe that our bookings may have bottomed out in the quarter and
+expect that they will begin to grow again in the fourth quarter. While we still do not anticipate
+any significant recovery before mid-2010 in many of our key markets, we are encouraged by how
+relatively well we have performed this year under very difficult circumstances and look forward to
+a gradually improving business environment. We also believe, as we said last quarter, that the
+cost reduction initiatives implemented by us earlier in the year will enable the Company to
+continue to deliver good earnings and cash flow despite the tough conditions we still face, and our
+strong cash balance, good cash flow and low-cost borrowing availability position us well to take
+advantage of acquisition and other growth opportunities that may present themselves as the global
+economy begins to recover.&#148;
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">On another matter, the Company noted that for the third straight year it had been named to <I>Forbes
+Magazine&#146;s </I>list of the 200 Best Small Companies. K-Tron was ranked number 75 this year, following
+rankings of 13 and 19 in 2008 and 2007. Candidates must have annual revenue between $5&nbsp;million and
+$750&nbsp;million, be publicly traded for at least a year and have a stock price no lower than $5.
+Rankings are based on earnings growth, sales growth and return on equity in the past 12&nbsp;months and
+over five years.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">K-Tron International, Inc. and its subsidiaries design, produce, market and service material
+handling equipment and systems for a wide variety of industrial markets. The Company has
+manufacturing facilities in the United States, Switzerland and the People&#146;s Republic of China, and
+its equipment is sold throughout the world.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">* * * * *
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>SAFE HARBOR</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Certain statements in this release, including those with respect to (a)&nbsp;economic conditions and
+prospects, (b)&nbsp;revenue, profit, cash flow, debt, bookings and business environment expectations
+and (c)&nbsp;future growth and acquisition opportunities, relate to future events and expectations and
+as such constitute forward-looking statements involving known and unknown factors that may cause
+the actual results of K-Tron International, Inc. to be different from those expressed or implied in
+the forward-looking statements. In this context, words such as &#147;believe,&#148; &#147;would,&#148; &#147;expect,&#148;
+&#147;should&#148; and other similar words and phrases often identify forward-looking statements made on
+behalf of the Company. It is important to note that actual results of the Company may differ
+materially from those described or implied in such forward-looking statements based on a number of
+factors and uncertainties, including, but not limited to, (i)&nbsp;adverse changes in general economic
+conditions; (ii)&nbsp;adverse changes in the industries the Company serves, including plastics
+compounding, base resin production, food, pharmaceutical, chemical, power generation, mining, pulp
+and paper, wood
+and forest products and biomass energy generation, and in demand for equipment, spare parts and
+services from
+customers in those industries; (iii)&nbsp;the Company&#146;s ability to manage its costs; (iv)
+the Company&#146;s ability to generate cash from operations and manage its liquidity needs; (v)&nbsp;material
+adverse changes in customers&#146; access to liquidity and capital; (vi)&nbsp;currency exchange or interest
+rate changes; (vii)&nbsp;epidemic diseases; (viii)&nbsp;changes in laws, regulations and tax rates; and (ix)
+other general economic, business and financing conditions and risk factors described in more detail
+in the Company&#146;s Form 10-K filed with the Securities and Exchange Commission on March&nbsp;13, 2009. We
+do not undertake to update our forward-looking statements to reflect events or circumstances after
+the date hereof.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">(Financial Data Follows)
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">K-TRON INTERNATIONAL, INC. &#038; SUBSIDIARIES<BR>
+FINANCIAL SUMMARY<BR>
+(Unaudited)<BR>
+(Dollars in thousands, except share data)
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="44%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid #000000">Three Months Ended</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid #000000">Nine Months Ended</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">October 3,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">September 27,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">October 3,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">September 27,</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">2008</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">2008</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">47,321</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">59,631</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">147,044</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">177,239</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Operating income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7,688</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">9,462</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">23,097</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">28,253</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Interest expense, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(252</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(179</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(846</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(804</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gain on sale of investment</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,972</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,972</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Income before income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,408</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,283</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">25,223</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">27,449</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,640</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,516</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,750</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,873</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">6,768</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">6,767</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">16,473</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">19,576</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Basic earnings per share</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.39</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.44</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5.85</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">7.14</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Diluted earnings per share</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.34</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.34</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5.75</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">6.84</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Weighted average number
+of common shares
+outstanding (basic)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,831,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,769,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,816,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,740,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Weighted average number
+of common and common
+equivalent shares
+outstanding (diluted)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,887,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,891,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,865,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,860,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>c92289c9228901.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c92289c9228901.gif
+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
+(MW633T```#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

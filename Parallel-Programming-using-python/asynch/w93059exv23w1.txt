@@ -1,0 +1,30 @@
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>5
+<FILENAME>w93059exv23w1.txt
+<DESCRIPTION>CONSENT OF GRANT THORNTON LLP
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 23.1
+
+         CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Board of Directors and Shareholders
+K-Tron International, Inc.
+
+We have issued our report dated February 11, 2004, accompanying the consolidated
+financial statements and schedules incorporated by reference in the Annual
+Report of K-Tron International, Inc. and Subsidiaries on Form 10-K for the year
+ended January 3, 2004. We hereby consent to the incorporation by reference of
+said report in the Registration Statements of K-Tron International, Inc. and
+Subsidiaries on Forms S-8 (File No. 333-52523, effective May 13, 1998; File No.
+333-26531 effective May 6, 1997; File No. 33-07921, effective February 15, 1991
+and File No. 33-39039 effective February 15, 1991).
+
+Philadelphia, Pennsylvania                    GRANT THORNTON LLP
+March 29, 2004
+
+
+</TEXT>
+</DOCUMENT>

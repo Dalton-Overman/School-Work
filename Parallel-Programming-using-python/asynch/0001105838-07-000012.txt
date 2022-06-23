@@ -1,0 +1,6202 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S9aIsOGM5mHiU7wpOiVRHFDNFNH0uAgjK1U0+fyb9jBNFki1cEUJM/QgYJy0tWpm
+ MpNNJkTjxlbb1MysHcCStg==
+
+<SEC-DOCUMENT>0001105838-07-000012.txt : 20070315
+<SEC-HEADER>0001105838-07-000012.hdr.sgml : 20070315
+<ACCEPTANCE-DATETIME>20070315155312
+ACCESSION NUMBER:		0001105838-07-000012
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20070315
+DATE AS OF CHANGE:		20070315
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		07696528
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROBOTTI ROBERT
+		CENTRAL INDEX KEY:			0001105838
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ROBOTTI & COMPANY, INC
+		STREET 2:		52 VANDERBILT AVENUE, SUITE 503
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-986-4800
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>ktii13ga6_robotti12312006.htm
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. SC 13G/A NO. 6 - R. ROBOTTI 12/31/2006
+<TEXT>
+<html>
+<head>
+<title>K-Tron International SC 13G/A #6 - R. Robotti 12/31/2006</title>
+</head>
+<body bgcolor="white" link="blue" vlink="purple">
+<div>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="646">
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>UNITED STATES</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>Washington, D.C. 20549</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>SCHEDULE&nbsp;13G/A</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>Under the Securities Exchange Act of 1934</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>(Amendment No. 6)*</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>K-Tron International, Inc.</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center">(Name of Issuer)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>Common Stock, $0.01 par value</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center">(Title of Class of Securities)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>482730 10 8</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center">(CUSIP Number)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center"><b>December 31, 2006</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p align="center">(Date of Event Which Requires Filing of this Statement)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p>Check the appropriate box to designate the rule pursuant to which this Schedule is filed:</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>Rule 13d-1(b)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+</tr>
+
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>[<b>X</b>]</p>
+</td>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>Rule 13d-1(c)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+</tr>
+
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td valign="bottom"></td>
+<td valign="bottom">
+<p>Rule 13d-1(d)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p>*The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a
+prior cover page.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom">
+<p>The information required in the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that section of the Act but shall be subject to
+all other provisions of the Act (however, see the Notes).</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="bottom"></td>
+</tr>
+</table>
+</div>
+
+<br clear="all" />
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="636">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 2 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Person.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>United States&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 248,115</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 248,115</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>9.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>248,115</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>9.3%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> IN, HC</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="636">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 3 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Persons.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>New York&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 173,815</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 173,815</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>9.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>173,815</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>6.5%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>&nbsp; CO, HC</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="637">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 4 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Person.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Robotti &amp; Company, LLC</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4..</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>New York&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 4,460</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 4,460</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>9.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>4,460</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>Less than 1%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> OO, BD</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="637">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 4 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Person.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Robotti &amp; Company Advisors, LLC</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>New York&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 169,355</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 169,355</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>9.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>169,355</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>6.3%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> OO, IA</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="636">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 6 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Persons.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Kenneth R. Wasiak</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>United States&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>9.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> IN, HC</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="637">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 7 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Person.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Ravenswood Management Company, L.L.C.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>New York&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>9.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>OO</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="637">
+<tr>
+<td colspan="11" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="9" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 8 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>1.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Name of Reporting Persons.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>The Ravenswood Investment Company, L.P.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>I.R.S. Identification Nos. of above persons (entities only).</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>2.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check the Appropriate Box if a Member of a Group (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(a)</p>
+</td>
+<td valign="top">
+<p>[&nbsp;&nbsp; ]</p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right">&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>(b)</p>
+</td>
+<td valign="top">
+<p>[X]<b>&nbsp;</b></p>
+</td>
+<td colspan="6" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>3.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>SEC Use Only</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>4.</p>
+</td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>Citizenship or Place of Organization</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="8" valign="top">
+<p>New York&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Number of</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>5.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Voting Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Shares</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Beneficially</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>6.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Voting Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Owned by</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Each</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>7.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Sole Dispositive Power: -0-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Reporting</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>Person With</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>8.</p>
+</td>
+<td colspan="3" valign="top">
+<p>Shared Dispositive Power: 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>9.</p>
+</td>
+<td colspan="2" valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Aggregate Amount Beneficially Owned by Each Reporting Person</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td colspan="2" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b> 74,300</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>10.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Check if the Aggregate Amount in Row (9) Excludes Certain Shares [&nbsp;&nbsp;]</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>11.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Percent of Class Represented by Amount in Row (9)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>12.</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td colspan="8" valign="top">
+<p>Type of Reporting Person (See Instructions)</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right"><b>&nbsp;</b></p>
+</td>
+<td valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+<td colspan="8" valign="top">
+<p>PN</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="11" valign="top"></td>
+</tr>
+</table>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="625">
+<tr>
+<td colspan="5" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 9 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>&nbsp;<b>Item 1(a).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Name of Issuer:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>K-Tron International, Inc.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 1(b).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Address of Issuer's Principal Executive Offices:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Routes 55 and 553, P.O. Box 888, Pitman, New Jersey 08071-0888</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 2(a).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Name of Persons Filing:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>This statement is filed by (collectively, the "Reporting Persons")</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Robert E. Robotti ("Robotti"), a United States citizen;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Robotti &amp; Company, Incorporated ("ROBT"), a New York corporation;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Robotti &amp; Company, LLC ("Robotti&nbsp; &amp; Company"), a New York limited liability company and broker-dealer registered under Section 15 of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act");</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Robotti &amp; Company Advisors, LLC ("Robotti Advisors"), a New York limited liability company and investment advisor registered under the Investment Advisers Act of 1940;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(v)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenneth R. Wasiak ("Wasiak"), a United States citizen;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(vi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ravenswood Management Company, L.L.C. ("RMC"), a limited liability company and the general partner of The Ravenswood Investment Company, L.P.; and</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(vii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ravenswood Investment Company, L.P. ("RIC"), a New York limited partnership.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 2(b).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Address of Principal Business Office or, if None, Residence:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>The principal business address of each of Mr. Robotti, ROBT, Robotti &amp; Company and Robotti Advisors is 52 Vanderbilt Avenue, 4<sup>th</sup> Floor, New York, New York 10017-3808.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>The principal business address of each of RMC and RIC is 104 Gloucester Road, Massapequa, New York, 11758.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>The principal business address of Mr. Wasiak is 515 Madison Avenue, New York, New York 10022</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 2(c).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Citizenship:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>See Item 2(a)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 2(d).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Title of Class of Securities:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Common Stock, $0.01 par value (the "Common Stock")</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 2(e).</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>CUSIP Number</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>482730 10 8</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 3.</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>If this Statement is Filed Pursuant to Rule 13d-1(b), or 13d-2(b) or (c), Check Whether the</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p><b>Person Filing is a:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Not Applicable</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="625">
+<tr>
+<td colspan="8" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 10 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="8" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 4.</b></p>
+</td>
+<td colspan="7" valign="top">
+<p><b>Ownership</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top">
+<p>(i) Mr. Robotti: (1) (2) (3) (4)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(a) Amount beneficially owned: 248,115 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(b) Percent of class: 9.3%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(c) Number of shares as to which such person has:</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 248,115 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 248,115 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top">
+<p>(ii) ROBT: (1) (2) (3)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(a) Amount beneficially owned: 173,815 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(b) Percent of class: 6.5%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(c) Number of shares as to which such person has:</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 173,815 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 173,815 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top">
+<p>(iii) Robotti &amp; Company: (1) (2)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(a) Amount beneficially owned: 4,460 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(b) Percent of class: less than one percent</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(c) Number of shares as to which such person has:</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 4,460 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 4,460 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top">
+<p>(iv) Robotti Advisors: (1) (3)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(a) Amount beneficially owned: 169,355 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(b) Percent of class: 6.3%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="6" valign="top">
+<p>(c) Number of shares as to which such person has:</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 169,355 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 169,355 shares</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="8" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="7" valign="top">
+<p>(v) Mr. Wasiak: (1) (4)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(a) Amount beneficially owned: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(b) Percent of class: 2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(c) Number of shares as to which such person has:</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="2" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="2" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td colspan="2" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="8" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="625">
+<tr>
+<td colspan="6" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 11 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="5" valign="top">
+<p>(vii) RMC: (1) (4)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(a) Amount beneficially owned: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(b) Percent of class: 2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(c) Number of shares as to which such person has</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="5" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="5" valign="top">
+<p>(viii) RIC: (1) (4)</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(a) Amount beneficially owned: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(b) Percent of class: 2.8%</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>(c) Number of shares as to which such person has</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" valign="top">
+<p>(i) Sole power to vote or direct the vote: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(ii) Shared power to vote of to direct the vote: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iii) Sole power to dispose or to direct the disposition of: 0 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>(iv) Shared power to dispose or to direct the disposition of: 74,300 shares</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Based on 2,670,259 shares of Common Stock, $0.01 par value, outstanding as of March 5, 2007, as disclosed in the Issuer's Annual Report on Form 10-K, for the year ended December 31,
+2006.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)&nbsp; Each of the Reporting Persons disclaims beneficial ownership of the securities reported herein by the other Reporting Persons and any other person named herein.&nbsp; Each of
+the Reporting Persons disclaims membership in a "group" within the meaning of Section 13(d)(4) of the Securities Exchange Act of 1934 (the "Exchange Act") or rule 13d-5(b)(1) of the Exchange Act with any other Reporting Person or other person.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Mr. Robotti and ROBT share with Robotti &amp; Company the power to vote or direct the vote, and share the power to dispose or to direct the disposition, of 4,460 shares of Common
+Stock owned by the discretionary customers of Robotti &amp; Company.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Mr. Robotti and ROBT share with Robotti Advisors the power to vote or direct the vote, and share the power to dispose or to direct the disposition, of 169,355 shares of Common Stock
+owned by the advisory clients of Robotti Advisors.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Each of Messrs. Robotti and Wasiak and RMC share with RIC the power to vote or direct the vote, and share the power to dispose or to direct the disposition, of 74,300 shares of
+Common Stock owned by RIC.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 5.</b></p>
+</td>
+<td colspan="5" valign="top">
+<p><b>Ownership of Five Percent or Less of a Class.</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>Not Applicable.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 6.</b></p>
+</td>
+<td colspan="5" valign="top">
+<p><b>Ownership of More than Five Percent on Behalf of Another Person.</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>Not Applicable.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 7.</b></p>
+</td>
+<td colspan="5" valign="top">
+<p><b>Identification and Classification of the Subsidiary Which Acquired the</b> <b>Security Being Reported on by the Parent Holding Company or Control</b> <b>Person.</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top">
+<p>Not Applicable.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="4" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="625">
+<tr>
+<td colspan="5" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p align="right">Page 12 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="5" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 8.</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Identification and Classification of Members of the Group.</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>See Item 2 and Note (1) in Item 4.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 9.</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Notice of Dissolution of Group.</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Not Applicable.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p><b>Item 10.</b></p>
+</td>
+<td colspan="4" valign="top">
+<p><b>Certifications:</b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>By signing below we certify that, to the best of our knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or
+influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="650">
+<tr>
+<td colspan="7" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td colspan="4" valign="top"></td>
+<td valign="top">
+<p align="right">Page 13 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p align="center">SIGNATURE</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>After reasonable inquiry and to the best of our knowledge and belief, we certify that the information set forth in this statement is true, complete and correct.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>Date: March 15, 2007</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="top"></td>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Robert E. Robotti</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company, LLC</p>
+</td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company Advisors, LLC</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>/s/ Kenneth R. Wasiak</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Kenneth R. Wasiak</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>Ravenswood Management Company, L.L.C.</p>
+</td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>The Ravenswood Investment Company, L.P.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Ravenswood Management Company, L.L.C.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Its General Partner</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: Managing Member</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: Managing Member</p>
+</td>
+</tr>
+</table>
+
+<p></p>
+
+<p></p>
+
+<br clear="all" />
+
+
+<p></p>
+
+<p></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="650">
+<tr>
+<td colspan="7" valign="top">
+<p align="center">Schedule 13G</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p>CUSIP No. 482730 10 8</p>
+</td>
+<td colspan="4" valign="top"></td>
+<td valign="top">
+<p align="right">Page 14 of 14 Pages</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p align="center">JOINT FILING AGREEMENT</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>The undersigned hereby agree that the Statement on Schedule 13G/A Amendment No. 6 dated March 15, 2007 with respect to the shares of Common Stock, $.01 par value per share, of K-Tron International, Inc., and any further amendments thereto executed by each or any
+of us shall be jointly filed on behalf of each of us pursuant to and in&nbsp; accordance&nbsp; with the provisions of Rule&nbsp; 13d-1(k)(1)(iii)&nbsp; under the Securities Exchange Act of 1934, as amended.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top">
+<p>This Agreement may be executed in separate counterparts, each of which shall be deemed an original, but all of which shall constitute one and the same instrument.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="4" valign="top"></td>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Robert E. Robotti</p>
+</td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top">
+<p>&nbsp;</p>
+</td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company, LLC</p>
+</td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>Robotti &amp; Company Advisors, LLC</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top"></td>
+<td valign="top"></td>
+<td colspan="3" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Robotti &amp; Company, Incorporated</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: President and Treasurer</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>/s/ Kenneth R. Wasiak</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Kenneth R. Wasiak</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<p>Ravenswood Management Company, L.L.C.</p>
+</td>
+<td valign="top"></td>
+<td colspan="3" valign="top">
+<p>The Ravenswood Investment Company, L.P.</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>Ravenswood Management Company, L.L.C.</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Its General Partner</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: Managing Member</p>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td colspan="7" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top">
+<p>By:</p>
+</td>
+<td colspan="2" valign="top">
+<p>/s/ Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Name: Robert E. Robotti</p>
+</td>
+</tr>
+
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td colspan="2" valign="top">
+<p>Title: Managing Member</p>
+</td>
+</tr>
+</table>
+
+<p></p>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>2
+<FILENAME>ktii13ga6_robotti12312006.pdf
+<DESCRIPTION>PDF COPY: K-TRON INTERNATIONAL, INC. SC 13G/A NO. 6 - R. ROBOTTI 12/31/2006
+<TEXT>
+<PDF>
+begin 644 ktii13ga6_robotti12312006.pdf
+M)5!$1BTQ+C0-)>+CS],-"C0W(#`@;V)J#3P\+TQI;F5A<FEZ960@,2],(#0P
+M,C`W+T\@-#DO12`W,#$V+TX@,30O5"`S.3(R,"]((%L@-34V(#(R,UT^/@UE
+M;F1O8FH-("`@("`@("`@("`@("`@("`@#0IX<F5F#0HT-R`Q,PT*,#`P,#`P
+M,#`Q-B`P,#`P,"!N#0HP,#`P,#`P-S<Y(#`P,#`P(&X-"C`P,#`P,#`X-C`@
+M,#`P,#`@;@T*,#`P,#`P,#DY,"`P,#`P,"!N#0HP,#`P,#`Q,3$R(#`P,#`P
+M(&X-"C`P,#`P,#$V,#0@,#`P,#`@;@T*,#`P,#`P,C`X,B`P,#`P,"!N#0HP
+M,#`P,#`R,3$W(#`P,#`P(&X-"C`P,#`P,#(S-C`@,#`P,#`@;@T*,#`P,#`P
+M,C8P.2`P,#`P,"!N#0HP,#`P,#`R-C@V(#`P,#`P(&X-"C`P,#`P,#0S,C,@
+M,#`P,#`@;@T*,#`P,#`P,#4U-B`P,#`P,"!N#0IT<F%I;&5R#0H\/"]3:7IE
+M(#8P+U!R978@,SDR,#DO4F]O="`T."`P(%(O26YF;R`T-B`P(%(O241;/#="
+M0S)!,34Y13DU-4$T.$%%,S<X-3$T1#@P.$(W.$5"/CPS.#,T,#=!0T-"0D9#
+M-S1".#9",S!$-38R,C-%-S!$,#Y=/CX-"G-T87)T>')E9@T*,`T*)25%3T8-
+M"B`@("`@("`@("`@("`-"C4Y(#`@;V)J#3P\+TQE;F=T:"`Q,S4O1FEL=&5R
+M+T9L871E1&5C;V1E+TD@,C0Y+TP@,C,S+U,@,3DR/CYS=')E86T-"GC:8F!@
+M8&9@8*H%D6RV#+P,",`+%&,!0HX'8&Y?A5C#'LX)GHT5`@OJ;2JF\J<P,`I.
+M_O,?!`X`Y5F"DBM=U<RG$$<!-30P,'`03^&P'LF]7%#,P*#,P,/Z(5QFXFX&
+MA@N\"5HI6DE@80T&AO;Y0)H)B&V!6(^!87H$D&8$XD\``08`6_XU/`T*96YD
+M<W1R96%M#65N9&]B:@TT."`P(&]B:@T\/"]-971A9&%T82`T-2`P(%(O4&%G
+M97,@-#(@,"!2+U1Y<&4O0V%T86QO9R]086=E3&%B96QS(#0P(#`@4CX^#65N
+M9&]B:@TT.2`P(&]B:@T\/"]#<F]P0F]X6S`@,"`V,3(@-SDR72]087)E;G0@
+M-#,@,"!2+T-O;G1E;G1S(#4W(#`@4B]2;W1A=&4@,"]-961I84)O>%LP(#`@
+M-C$R(#<Y,ETO4F5S;W5R8V5S(#4P(#`@4B]4>7!E+U!A9V4^/@UE;F1O8FH-
+M-3`@,"!O8FH-/#PO0V]L;W)3<&%C93P\+T-S-B`U,R`P(%(^/B]&;VYT/#PO
+M5%0R(#4Q(#`@4B]45#0@-3(@,"!2/CXO4')O8U-E=%LO4$1&+U1E>'1=+T5X
+M=$=3=&%T93P\+T=3,2`U-B`P(%(^/CX^#65N9&]B:@TU,2`P(&]B:@T\/"]3
+M=6)T>7!E+U1R=654>7!E+T9O;G1$97-C<FEP=&]R(#4T(#`@4B],87-T0VAA
+M<B`Q,C(O5VED=&AS6S(U,"`P(#0P."`P(#4P,"`X,S,@-S<X(#$X,"`S,S,@
+M,S,S(#4P,"`P(#(U,"`S,S,@,C4P(#(W."`U,#`@-3`P(#4P,"`U,#`@-3`P
+M(#4P,"`U,#`@-3`P(#4P,"`U,#`@,C<X(#(W."`P(#`@,"`P(#`@-S(R(#8V
+M-R`V-C<@-S(R(#8Q,2`U-38@-S(R(#<R,B`S,S,@,S@Y(#<R,B`V,3$@.#@Y
+M(#<R,B`W,C(@-34V(#`@-C8W(#4U-B`V,3$@-S(R(#<R,B`Y-#0@-S(R(#<R
+M,B`P(#,S,R`P(#,S,R`P(#`@,"`T-#0@-3`P(#0T-"`U,#`@-#0T(#,S,R`U
+M,#`@-3`P(#(W."`R-S@@-3`P(#(W."`W-S@@-3`P(#4P,"`U,#`@-3`P(#,S
+M,R`S.#D@,C<X(#4P,"`U,#`@-S(R(#4P,"`U,#`@-#0T72]"87-E1F]N="]4
+M:6UE<TYE=U)O;6%N4%--5"]&:7)S=$-H87(@,S(O16YC;V1I;F<O5VEN06YS
+M:45N8V]D:6YG+U1Y<&4O1F]N=#X^#65N9&]B:@TU,B`P(&]B:@T\/"]3=6)T
+M>7!E+U1R=654>7!E+T9O;G1$97-C<FEP=&]R(#4U(#`@4B],87-T0VAA<B`Q
+M,C(O5VED=&AS6S(U,"`P(#`@,"`U,#`@,"`P(#(W."`S,S,@,S,S(#4P,"`P
+M(#(U,"`S,S,@,C4P(#(W."`U,#`@-3`P(#4P,"`U,#`@-3`P(#4P,"`U,#`@
+M-3`P(#4P,"`U,#`@,S,S(#`@,"`P(#`@,"`P(#<R,B`V-C<@-S(R(#<R,B`V
+M-C<@-C$Q(#<W."`W-S@@,S@Y(#`@-S<X(#8V-R`Y-#0@-S(R(#<W."`V,3$@
+M,"`W,C(@-34V(#8V-R`W,C(@,"`Q,#`P(#<R,B`P(#`@,"`P(#`@,"`P(#`@
+M-3`P(#4U-B`T-#0@-34V(#0T-"`S,S,@-3`P(#4U-B`R-S@@,"`U-38@,C<X
+M(#@S,R`U-38@-3`P(#4U-B`U-38@-#0T(#,X.2`S,S,@-34V(#4P,"`W,C(@
+M-3`P(#4P,"`T-#1=+T)A<V5&;VYT+U1I;65S3F5W4F]M86Y04RU";VQD350O
+M1FER<W1#:&%R(#,R+T5N8V]D:6YG+U=I;D%N<VE%;F-O9&EN9R]4>7!E+T9O
+M;G0^/@UE;F1O8FH--3,@,"!O8FH-6R])0T-"87-E9"`U."`P(%)=#65N9&]B
+M:@TU-"`P(&]B:@T\/"]3=&5M5B`X,B]&;VYT3F%M92]4:6UE<TYE=U)O;6%N
+M4%--5"]&;VYT4W1R971C:"].;W)M86PO1F]N=%=E:6=H="`T,#`O1FQA9W,@
+M,S0O1&5S8V5N="`M,C$V+T9O;G1"0F]X6RTU-C@@+3,P-R`R,#`P(#$P,#==
+M+T%S8V5N="`X.3$O1F]N=$9A;6EL>2A4:6UE<R!.97<@4F]M86XI+T-A<$AE
+M:6=H="`V-38O6$AE:6=H="`M-30V+U1Y<&4O1F]N=$1E<V-R:7!T;W(O271A
+M;&EC06YG;&4@,#X^#65N9&]B:@TU-2`P(&]B:@T\/"]3=&5M5B`Q,S8O1F]N
+M=$YA;64O5&EM97-.97=2;VUA;E!3+4)O;&1-5"]&;VYT4W1R971C:"].;W)M
+M86PO1F]N=%=E:6=H="`W,#`O1FQA9W,@,S0O1&5S8V5N="`M,C$V+T9O;G1"
+M0F]X6RTU-3@@+3,P-R`R,#`P(#$P,C9=+T%S8V5N="`X.3$O1F]N=$9A;6EL
+M>2A4:6UE<R!.97<@4F]M86XI+T-A<$AE:6=H="`V-38O6$AE:6=H="`M-30V
+M+U1Y<&4O1F]N=$1E<V-R:7!T;W(O271A;&EC06YG;&4@,#X^#65N9&]B:@TU
+M-B`P(&]B:@T\/"]/4$T@,2]/4"!F86QS92]O<"!F86QS92]4>7!E+T5X=$=3
+M=&%T92]302!F86QS92]332`P+C`R/CX-96YD;V)J#34W(#`@;V)J#3P\+TQE
+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
+M>7!E+U!A9V5S+TMI9'-;-#D@,"!2(#$@,"!2(#0@,"!2(#<@,"!2(#$P(#`@
+M4B`Q,R`P(%(@,38@,"!2(#$Y(#`@4B`R,B`P(%(@,C4@,"!273X^#65N9&]B
+M:@TT-"`P(&]B:@T\/"]087)E;G0@-#(@,"!2+T-O=6YT(#0O5'EP92]086=E
+M<R]+:61S6S(X(#`@4B`S,2`P(%(@,S0@,"!2(#,W(#`@4ET^/@UE;F1O8FH-
+M-#4@,"!O8FH-/#PO4W5B='EP92]834PO3&5N9W1H(#,V,#DO5'EP92]-971A
+M9&%T83X^<W1R96%M#0H\/WAP86-K970@8F5G:6X](N^[OR(@:60](E<U33!-
+M<$-E:&E(>G)E4WI.5&-Z:V,Y9"(_/@H\>#IX;7!M971A('AM;&YS.G@](F%D
+M;V)E.FYS.FUE=&$O(B!X.GAM<'1K/2)!9&]B92!835`@0V]R92`T+C`M8S,Q
+M-B`T-"XR-3,Y,C$L(%-U;B!/8W0@,#$@,C`P-B`Q-SHQ-#HS.2(^"B`@(#QR
+M9&8Z4D1&('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R
+M,BUR9&8M<WEN=&%X+6YS(R(^"B`@("`@(#QR9&8Z1&5S8W)I<'1I;VX@<F1F
+M.F%B;W5T/2(B"B`@("`@("`@("`@('AM;&YS.F1C/2)H='1P.B\O<'5R;"YO
+M<F<O9&,O96QE;65N=',O,2XQ+R(^"B`@("`@("`@(#QD8SIF;W)M870^87!P
+M;&EC871I;VXO<&1F/"]D8SIF;W)M870^"B`@("`@("`@(#QD8SIT:71L93X*
+M("`@("`@("`@("`@/')D9CI!;'0^"B`@("`@("`@("`@("`@(#QR9&8Z;&D@
+M>&UL.FQA;F<](G@M9&5F875L="(^36EC<F]S;V9T(%=O<F0@+2!K=&EI,3-G
+M839?<F]B;W1T:3$R,S$R,#`V+F1O8SPO<F1F.FQI/@H@("`@("`@("`@("`\
+M+W)D9CI!;'0^"B`@("`@("`@(#PO9&,Z=&ET;&4^"B`@("`@("`@(#QD8SIC
+M<F5A=&]R/@H@("`@("`@("`@("`\<F1F.E-E<3X*("`@("`@("`@("`@("`@
+M/')D9CIL:3Y6:6-T;W)"/"]R9&8Z;&D^"B`@("`@("`@("`@(#PO<F1F.E-E
+M<3X*("`@("`@("`@/"]D8SIC<F5A=&]R/@H@("`@("`\+W)D9CI$97-C<FEP
+M=&EO;CX*("`@("`@/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](B(*("`@
+M("`@("`@("`@>&UL;G,Z>&%P/2)H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q
+M+C`O(CX*("`@("`@("`@/'AA<#I#<F5A=&5$871E/C(P,#<M,#,M,354,34Z
+M,C,Z,S4M,#0Z,#`\+WAA<#I#<F5A=&5$871E/@H@("`@("`@("`\>&%P.D-R
+M96%T;W)4;V]L/E!38W)I<'0U+F1L;"!697)S:6]N(#4N,CPO>&%P.D-R96%T
+M;W)4;V]L/@H@("`@("`@("`\>&%P.DUO9&EF>41A=&4^,C`P-RTP,RTQ-50Q
+M-3HR,SHS-2TP-#HP,#PO>&%P.DUO9&EF>41A=&4^"B`@("`@(#PO<F1F.D1E
+M<V-R:7!T:6]N/@H@("`@("`\<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB
+M(@H@("`@("`@("`@("!X;6QN<SIP9&8](FAT='`Z+R]N<RYA9&]B92YC;VTO
+M<&1F+S$N,R\B/@H@("`@("`@("`\<&1F.E!R;V1U8V5R/D%C<F]B870@1&ES
+M=&EL;&5R(#@N,"XP("A7:6YD;W=S*3PO<&1F.E!R;V1U8V5R/@H@("`@("`\
+M+W)D9CI$97-C<FEP=&EO;CX*("`@("`@/')D9CI$97-C<FEP=&EO;B!R9&8Z
+M86)O=70](B(*("`@("`@("`@("`@>&UL;G,Z>&%P34T](FAT='`Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,"]M;2\B/@H@("`@("`@("`\>&%P34TZ1&]C=6UE
+M;G1)1#YU=6ED.C@W-F,X96(W+3!B.30M-#-C-2UB,64V+3=A-S8Q9&(T93,S
+M,#PO>&%P34TZ1&]C=6UE;G1)1#X*("`@("`@("`@/'AA<$U-.DEN<W1A;F-E
+M240^=75I9#HV8F8T-3(U92UD-31C+30X-CDM.#5A-BTT,35A-V$P.#EA8V,\
+M+WAA<$U-.DEN<W1A;F-E240^"B`@("`@(#PO<F1F.D1E<V-R:7!T:6]N/@H@
+M("`\+W)D9CI21$8^"CPO>#IX;7!M971A/@H@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@"CP_>'!A8VME="!E;F0](G<B/SX-"F5N9'-T<F5A;0UE;F1O8FH--#8@
+M,"!O8FH-/#PO0W)E871I;VY$871E*$0Z,C`P-S`S,34Q-3(S,S4M,#0G,#`G
+M*2]!=71H;W(H5FEC=&]R0BDO0W)E871O<BA04V-R:7!T-2YD;&P@5F5R<VEO
+M;B`U+C(I+U!R;V1U8V5R*$%C<F]B870@1&ES=&EL;&5R(#@N,"XP(%PH5VEN
+M9&]W<UPI*2]-;V1$871E*$0Z,C`P-S`S,34Q-3(S,S4M,#0G,#`G*2]4:71L
+M92A-:6-R;W-O9G0@5V]R9"`M(&MT:6DQ,V=A-E]R;V)O='1I,3(S,3(P,#8N
+M9&]C*3X^#65N9&]B:@UX<F5F#0HP(#0W#0HP,#`P,#`P,#`P(#8U-3,U(&8-
+M"C`P,#`P,#<P,38@,#`P,#`@;@T*,#`P,#`P-S$T,R`P,#`P,"!N#0HP,#`P
+M,#`W,C8T(#`P,#`P(&X-"C`P,#`P,#@W,#,@,#`P,#`@;@T*,#`P,#`P.#@S
+M,"`P,#`P,"!N#0HP,#`P,#`X.34Q(#`P,#`P(&X-"C`P,#`P,3`S.30@,#`P
+M,#`@;@T*,#`P,#`Q,#4R,2`P,#`P,"!N#0HP,#`P,#$P-C0R(#`P,#`P(&X-
+M"C`P,#`P,3(Q-#0@,#`P,#`@;@T*,#`P,#`Q,C(W-"`P,#`P,"!N#0HP,#`P
+M,#$R,SDV(#`P,#`P(&X-"C`P,#`P,3,X.#@@,#`P,#`@;@T*,#`P,#`Q-#`Q
+M."`P,#`P,"!N#0HP,#`P,#$T,30P(#`P,#`P(&X-"C`P,#`P,34U-SD@,#`P
+M,#`@;@T*,#`P,#`Q-3<P.2`P,#`P,"!N#0HP,#`P,#$U.#,Q(#`P,#`P(&X-
+M"C`P,#`P,3<S,#D@,#`P,#`@;@T*,#`P,#`Q-S0S.2`P,#`P,"!N#0HP,#`P
+M,#$W-38Q(#`P,#`P(&X-"C`P,#`P,3DP,S,@,#`P,#`@;@T*,#`P,#`Q.3$V
+M,R`P,#`P,"!N#0HP,#`P,#$Y,C@U(#`P,#`P(&X-"C`P,#`P,C(U-C4@,#`P
+M,#`@;@T*,#`P,#`R,C8Y-2`P,#`P,"!N#0HP,#`P,#(R.#$W(#`P,#`P(&X-
+M"C`P,#`P,C0W-3@@,#`P,#`@;@T*,#`P,#`R-#@X."`P,#`P,"!N#0HP,#`P
+M,#(U,#$P(#`P,#`P(&X-"C`P,#`P,C@S,C4@,#`P,#`@;@T*,#`P,#`R.#0U
+M-2`P,#`P,"!N#0HP,#`P,#(X-3<W(#`P,#`P(&X-"C`P,#`P,CDY,C(@,#`P
+M,#`@;@T*,#`P,#`S,#`U,B`P,#`P,"!N#0HP,#`P,#,P,3<T(#`P,#`P(&X-
+M"C`P,#`P,S(P-C8@,#`P,#`@;@T*,#`P,#`S,C$Y-B`P,#`P,"!N#0HP,#`P
+M,#,R,S$X(#`P,#`P(&X-"C`P,#`P,S0Y-#(@,#`P,#`@;@T*,#`P,#`S-#DW
+M."`P,#`P,"!N#0HP,#`P,#,U,#`S(#`P,#`P(&X-"C`P,#`P,S4P-C0@,#`P
+M,#`@;@T*,#`P,#`S-3$Y,B`P,#`P,"!N#0HP,#`P,#,U,C@P(#`P,#`P(&X-
+M"C`P,#`P,S@Y-C<@,#`P,#`@;@T*=')A:6QE<@T*/#PO4VEZ92`T-SX^#0IS
+6=&%R='AR968-"C$Q-@T*)25%3T8-"C\_
+`
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

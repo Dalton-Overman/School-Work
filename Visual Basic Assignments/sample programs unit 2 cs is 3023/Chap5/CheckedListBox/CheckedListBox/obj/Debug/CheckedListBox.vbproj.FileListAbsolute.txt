@@ -1,0 +1,37 @@
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\bin\Debug\CheckedListBox.xml
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.Resources.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.vbproj.GenerateResource.Cache
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.xml
+C:\Users\Tony\AppData\Local\Temporary Projects\CheckedListBox\obj\Debug\CheckedListBox.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+D:\sovb15\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.exe
+D:\sovb15\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.xml
+D:\sovb15\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.pdb
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.exe
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.pdb
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\bin\Debug\CheckedListBox.xml
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.vbprojResolveAssemblyReference.cache
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.Resources.resources
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.vbproj.GenerateResource.Cache
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.exe
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.xml
+D:\sovb 8e\student sample programs\Chap5\CheckedListBox\CheckedListBox\obj\Debug\CheckedListBox.pdb

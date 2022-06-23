@@ -1,0 +1,329 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Actd+saZsSbdFEArwCfcXCVQK+RnsY16ZtRbmTlUTIZaHcyqbnUiwoI5WO6/a4MG
+ lZrBiJhhJaAwq5C5ZUP9vw==
+
+<SEC-DOCUMENT>0000950159-05-000545.txt : 20050505
+<SEC-HEADER>0000950159-05-000545.hdr.sgml : 20050505
+<ACCEPTANCE-DATETIME>20050505135321
+ACCESSION NUMBER:		0000950159-05-000545
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20050504
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20050505
+DATE AS OF CHANGE:		20050505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		05802706
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.txt
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                  -------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+          Date of report (Date of earliest event reported): May 4, 2005
+
+
+                           K-TRON INTERNATIONAL, INC.
+                 (Exact Name of Registrant Specified in Charter)
+
+- ----------------------------- -------------------------- -----------------------
+
+      New Jersey                      0-9576                  22-1759452
+     --------------               --------------              --------------
+    (State or Other              (Commission File           (I.R.S. Employer
+    Jurisdiction of                   Number)              Identification No.)
+    Incorporation)
+
+
+                   Routes 55 & 553
+                     P.O. Box 888
+                   Pitman, New Jersey                           08071-0888
+- -------------------------------------------------            -------------------
+         (Address of Principal Executive Offices)                (Zip Code)
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                           --------------
+
+                                 Not Applicable
+          ------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+[ ]  Written communications  pursuant to Rule 425 under the Securities Act (17
+     CFR 230.425)
+[ ]  Soliciting  material  pursuant to Rule 14a-12 under the Exchange Act (17
+     CFR 240.14a-12)
+[ ]  Pre-commencement  communications  pursuant  to Rule  14d-2(b)  under the
+     Exchange Act (17 CFR 240.14d-2(b))
+[ ]  Pre-commencement  communications  pursuant  to Rule  13e-4(c)  under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+
+Item 2.02  Results of Operations and Financial Condition.
+
+           On May 4, 2005, K-Tron International, Inc. issued a press release
+announcing its first quarter 2005 financial results. The press release is being
+furnished with this Current Report on Form 8-K as Exhibit 99.1 and is
+incorporated herein by reference.
+
+           The information in this Form 8-K and the exhibit attached hereto
+shall not be deemed "filed" for purposes of Section 18 of the Securities
+Exchange Act of 1934, nor shall it be deemed incorporated by reference in any
+filing under the Securities Act of 1933, except as shall be expressly set forth
+by specific reference in such filing.
+
+
+
+                                      -2-
+
+
+<PAGE>
+
+
+                                    SIGNATURE
+
+
+            Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                            K-TRON INTERNATIONAL, INC.
+
+
+                                            By   EDWARD B. CLOUES, II
+                                                 -------------------------------
+                                                 Edward B. Cloues, II
+                                                 Chairman of the Board and Chief
+                                                 Executive Officer
+
+
+
+Dated: May 5, 2005
+
+
+                                      -3-
+
+<PAGE>
+
+
+
+                                  Exhibit Index
+
+
+        Exhibit
+        -------
+
+         99.1      Press Release, dated May 4, 2005 issued by K-Tron
+                   International, Inc.
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                    Exhibit 99.1
+[GRAPHIC OMITTED]
+- --------------------------------------------------------------------------------
+K-TRON INTERNATIONAL, INC.                                              NEWS
+Routes 55 & 553, PO Box 888
+Pitman, NJ 08071-0888
+(856) 589-0500
+FAX (856) 582-7968
+www.ktron.com
+E-mail: ktii@ktron.com
+
+
+
+For Release:   Immediately
+
+Contact:       Ronald Remick, Senior Vice President and Chief Financial Officer
+                     Tel: (856) 256-3311          E-mail: remick@ktron.com
+
+
+                  K-TRON REPORTS RECORD FIRST QUARTER EARNINGS
+
+Pitman, New Jersey - - May 4, 2005 - - K-Tron International, Inc. (NASDAQ-KTII)
+today reported first quarter 2005 net income of $1.643 million, or $0.61 per
+share (diluted), on revenues of $28.55 million compared to net income of $1.422
+million, or $0.55 per share (diluted), on revenues of $26.32 million for the
+same period in 2004.
+
+In announcing these results, the Company pointed out that approximately 28.5
+percent of the $2.23 million revenue increase in the first quarter of 2005
+compared to the same period in 2004 was from foreign exchange.
+
+Commenting on the Company's results, K-Tron Chairman and Chief Executive Officer
+Edward B. Cloues, II said, "K-Tron posted record first quarter net income and
+earnings per share, while our $25.84 million backlog at the end of the quarter
+was up 20.1 percent from $21.51 million at the end of 2004 on a constant foreign
+exchange basis. First quarter revenues were 8.5 percent higher than the same
+quarter a year ago, while net income and earnings per share increased by 15.5
+percent and 10.9 percent. Results for the first quarter of last year benefited
+from the sale of a small Company-owned office building in England which produced
+$164 thousand of income before income taxes. Excluding the gain on that sale,
+income before income taxes would have increased from $1.897 million in the first
+quarter of 2004 to $2.528 million in the first quarter of 2005, or 33.3 percent.
+
+K-Tron's first quarter year-over-year improvement was primarily attributable to
+stronger business conditions and increased spending by our customers in the
+Americas, especially with respect to our size reduction business line, and also
+by customers of our pneumatic conveying business line, which more than offset
+lower spending by overseas customers of our feeding business line. Part of our
+revenue growth was also due to the positive effect of a weaker U.S. dollar on
+the translation of foreign revenues into U.S. dollars."
+
+In addition to his comments on financial results, Mr. Cloues said that the
+Company's total debt, all of which was in U.S. dollars, was reduced by $1.45
+million in the first quarter of 2005 from $22.78 million to $21.33 million,
+while cash decreased by $759 thousand to $11.68 million. Of
+
+
+<PAGE>
+
+
+the $759 thousand cash reduction, $554 thousand was due to an unfavorable change
+in foreign exchange rates during the first quarter. As a result of debt
+declining more than cash did, net debt (debt minus cash) decreased by $690
+thousand during the first quarter of 2005, from $10.34 million at the end of
+2004 to $9.65 million at the end of the 2005 first quarter.
+
+K-Tron International, Inc. and its subsidiaries design, produce, market and
+service material handling equipment and systems for a wide variety of industrial
+markets. The Company has manufacturing facilities in the United States,
+Switzerland, the United Kingdom and Canada, and its equipment is sold throughout
+the world.
+
+                                    * * * * *
+
+                            (Financial Data Follows)
+
+
+
+                                       2
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                                         <C>            <C>
+
+
+                    K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                                FINANCIAL SUMMARY
+              (Unaudited) (Dollars in thousands, except share data)
+
+                                                                Three Months Ended
+                                                                ------------------
+                                                              April 2,       April 3,
+                                                                2005           2004
+                                                                ----           ----
+
+Revenues                                                    $    28,552    $    26,321
+                                                            ============   ============
+
+Operating income                                            $     2,791    $     2,263
+
+Interest (expense)                                                 (263)          (366)
+
+Gain on sale of office building                                     --             164
+                                                            ------------   ------------
+
+Income before income taxes                                        2,528          2,061
+
+Income taxes                                                        885            639
+                                                            ------------   ------------
+
+Net income                                                  $     1,643    $     1,422
+                                                            ============   ============
+
+Basic earnings per share                                    $      0.65    $      0.58
+                                                            ============   ============
+
+Diluted earnings per share                                  $      0.61    $      0.55
+                                                            ============   ============
+
+Weighted average number of common shares outstanding
+(basic)                                                       2,535,000      2,461,000
+                                                            ============   ============
+Weighted average number of common & common equivalent
+shares outstanding (diluted)                                  2,693,000      2,583,000
+                                                            ============   ============
+
+
+
+
+                                       3
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

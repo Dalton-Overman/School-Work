@@ -1,0 +1,870 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CkwF4YdZmSYY8QxCwwOXF8auPinMHxpkvCJejidtkZdAQT+Jklpdw7kwNCg78uBC
+ wLoDqqnzb1a28aLKTj150g==
+
+<SEC-DOCUMENT>0001341004-10-000056.txt : 20100111
+<SEC-HEADER>0001341004-10-000056.hdr.sgml : 20100111
+<ACCEPTANCE-DATETIME>20100111164150
+ACCESSION NUMBER:		0001341004-10-000056
+CONFORMED SUBMISSION TYPE:	DFAN14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20100111
+DATE AS OF CHANGE:		20100111
+EFFECTIVENESS DATE:		20100111
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		DFAN14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		10520624
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hillenbrand, Inc.
+		CENTRAL INDEX KEY:			0001417398
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS MANUFACTURING INDUSTRIES [3990]
+		IRS NUMBER:				261342272
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		DFAN14A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BATESVILLE BOULEVARD
+		CITY:			BATESVILLE
+		STATE:			IN
+		ZIP:			47006
+		BUSINESS PHONE:		(812)931-2304
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BATESVILLE BOULEVARD
+		CITY:			BATESVILLE
+		STATE:			IN
+		ZIP:			47006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Batesville Holdings, Inc.
+		DATE OF NAME CHANGE:	20071102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DFAN14A
+<SEQUENCE>1
+<FILENAME>dfan14a.htm
+<TEXT>
+<html>
+<head>
+    <title>dfan14a.htm</title>
+<!-- Licensed to: skadden arps-->
+<!-- Document Created using EDGARizer 5.1.5.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">UNITED
+STATES</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">WASHINGTON,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">SCHEDULE
+14A</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">(Rule 14A-101</font>)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Proxy
+Statement Pursuant to Section 14(a) of the</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Securities
+Exchange Act of 1934</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">(Amendment
+No. __)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Filed
+by the Registrant&#160;&#160;<font style="DISPLAY: inline;" face="Wingdings 2, serif">&#163;</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Filed
+by a Party other than the Registrant&#160;&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold;" face="Wingdings 2, serif">S</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Check
+appropriate box:</font></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Preliminary
+      Proxy Statement</font></div>
+            </td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Confidential,
+      For Use of the Commission Only (as permitted by Rule
+      14a-6(e)(2))</font></div>
+            </td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Definitive
+      Proxy Statement</font></div>
+            </td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Definitive
+      Additional Materials</font></div>
+            </td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">S</font></div>
+            </td>
+            <td align="left" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Soliciting
+      Material under Rule 14a-12</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+            <td valign="top" width="78%" style="BORDER-BOTTOM: black 0.5pt solid">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">K-TRON
+      INTERNATIONAL, INC.</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="78%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(Name
+      of Registrant as Specified in Its Charter)</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="78%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="78%" style="BORDER-BOTTOM: black 0.5pt solid">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">HILLENBRAND,
+      INC.</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="78%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(Name
+      of Person(s) Filing Proxy Statement, if Other Than the
+      Registrant)</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Payment
+of filing fee (Check the appropriate box):</font></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">S</font></div>
+            </td>
+            <td align="left" colspan="2" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">No
+      fee required.</font></div>
+            </td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" colspan="2" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Fee
+      computed on table below per Exchange Act Rules 14a-6(i)(1) and
+      0-11.</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(1)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Title
+      of each class of securities to which transaction
+  applies:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(2)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Aggregate
+      number of securities to which transaction applies:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(3)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Per
+      unit price or other underlying value of transaction computed pursuant to
+      Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is
+      calculated and state how it was determined):</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(4)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Proposed
+      maximum aggregate value of transaction:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(5)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Total
+      fee paid:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" colspan="2" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Fee
+      paid previously with preliminary materials:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td colspan="2" valign="top" width="72%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td align="left" valign="top" width="6%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: wingdings 2, serif">&#163;</font></div>
+            </td>
+            <td align="left" colspan="2" valign="top" width="72%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Check
+      box if any part of the fee is offset as provided by Exchange Act Rule
+      0-11(a)(2) and identify the filing for which the offsetting fee was paid
+      previously.&#160;&#160;Identify the previous filing by registration
+      statement number, or the form or schedule and the date of its
+      filing.</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(1)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Amount
+      Previously Paid:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(2)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Form,
+      Schedule or Registration Statement No.:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(3)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Filing
+      Party:</font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+            <td align="left" valign="top" width="4%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">(4)</font></div>
+            </td>
+            <td align="left" valign="top" width="68%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman, serif">Date
+      Filed:</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div><br></div>
+    <div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+    </div>
+    <div><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Filed
+by Hillenbrand, Inc.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pursuant
+to Rule 14a-12</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">of
+the Securities Exchange Act of 1934</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Subject
+Company: K-Tron International, Inc.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Commission
+File No: 000-09576</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The
+following is the text of a press release issued by Hillenbrand, Inc. on January
+11, 2010:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div><br></div>
+    <div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div style="TEXT-ALIGN: center"><img src="dfan14a0.jpg" alt=""></div>
+    <div><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman, serif">HILLENBRAND,
+INC. TO HOST INVESTOR LUNCHEONS</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman, serif">IN
+NEW YORK CITY AND BOSTON</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">BATESVILLE, Ind., Jan. 11, 2010
+</font>&#8211; /PR Newswire-First Call/ &#8211; Hillenbrand, Inc. (NYSE: HI) will be hosting
+an investor luncheon from noon to 1:30 PM in New York, New York on January 14,
+2010, and in Boston, Massachusetts on January 15, 2010, to discuss the
+definitive agreement for Hillenbrand, Inc. to acquire K-Tron International, Inc.
+(Nasdaq: KTII).</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">You
+are cordially invited to join us. The luncheons will provide an opportunity to
+hear from and meet members of the Hillenbrand and K-Tron management teams (Ken
+Camp-CEO Hillenbrand, Cindy Lucchese-CFO Hillenbrand, Mark Lanning-IRO
+Hillenbrand and Lukas Guenthardt-SVP Corp. Development K-Tron). The luncheons
+will feature a presentation about the combination and discuss how it will better
+position Hillenbrand, Inc. for immediate and long-term growth and enhanced
+profitability.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">In
+connection with these luncheons, Hillenbrand has prepared investor presentations
+containing information about the K-Tron transaction.&#160;&#160;These investor
+presentations are being filed with the SEC and being made available on the
+Investor Relations section of the Company&#8217;s web site at <font style="DISPLAY: inline; COLOR: #0000ff; TEXT-DECORATION: underline">www.hillenbrandinc.com</font>.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline">To RSVP for one of the luncheons please contact Mary
+Bischoff, Hillenbrand Investor Relations at </font><font style="DISPLAY: inline; COLOR: #0000ff; TEXT-DECORATION: underline">mary.bischoff@hillenbrand.com</font><font style="DISPLAY: inline"> or 812-931-5082.&#160; </font></font><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Please
+indicate the names of those that will be attending from your firm and indicate
+which location (New York or Boston) you prefer, so we can accommodate you. After
+we receive your RSVP, you will receive a confirmation for your
+attendance.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; TEXT-DECORATION: underline">NEW YORK
+CITY</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">LUNCHEON
+AGENDA</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Registration</font>: 11:30 AM to
+Noon, Peacock Alley, Main Lobby</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Executive Presentations and Question
+&amp; Answer Session</font>: Noon to 1:30 PM, Peacock Alley Private Dining Room,
+Main Lobby</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">LOCATION</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Venue:</font> Waldorf
+Astoria</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Address:</font> 301 Park Avenue, New
+York, NY 10022-6897</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Tel:</font> (212)
+872-1275</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Hotel Information:</font>
+http://waldorfnewyork.com/index.cfm</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div><br></div>
+    <div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div style="TEXT-ALIGN: center"><img src="dfan14a0.jpg" alt=""><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; TEXT-DECORATION: underline">BOSTON</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">LUNCHEON
+AGENDA</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Registration</font>: 11:30 AM to
+Noon, Oliver Room Foyer, Third Floor</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Executive Presentations and Question
+&amp; Answer Session</font>: Noon to 1:30 PM, Oliver Room, Third
+Floor</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">LOCATION</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Venue:</font> Hilton Boston/
+Financial District</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Address:</font> 89 Broad Street,
+Boston Massachusetts</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Tel:</font> (617)
+556-0006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Hotel Information:</font>
+http://www1.hilton.com/en_US/hi/hotel/BOSFDHF-Hilton-Boston-Financial-District-Massachusetts/index.do</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">About
+Hillenbrand, Inc.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">Hillenbrand,
+Inc. (<font style="DISPLAY: inline; COLOR: #0000ff; TEXT-DECORATION: underline">www.HillenbrandInc.com</font>)
+is the holding company for Batesville Casket Company, a leader in the North
+American death care industry through the sale of funeral services products,
+including burial caskets, cremation caskets, containers and urns, selection room
+display fixturing, and other personalization and memorialization products.
+HI-INC-F</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Additional
+Information and Where to Find it</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">This
+press release may be deemed to be solicitation material in respect of the
+proposed acquisition of K-Tron by Hillenbrand.&#160;&#160;In connection with the
+proposed acquisition, K-Tron plans to file a proxy statement with the SEC. <font style="DISPLAY: inline; FONT-WEIGHT: bold">INVESTORS AND SECURITY HOLDERS OF
+K-TRON ARE ADVISED TO READ THE PROXY STATEMENT AND ANY OTHER RELEVANT DOCUMENTS
+FILED WITH THE SEC WHEN THEY BECOME AVAILABLE BECAUSE THOSE DOCUMENTS WILL
+CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED ACQUISITION.</font> The final
+proxy statement will be mailed to shareholders of K-Tron. Investors and security
+holders may obtain a free copy of the proxy statement when it becomes available,
+and other documents filed by K-Tron with the SEC, at the SEC&#8217;s web site at
+http://www.sec.gov. Free copies of the proxy statement, when it becomes
+available, and K-Tron&#8217;s other filings with the SEC may also be obtained from
+K-Tron by directing a request to K-Tron International, Inc., Attention: Investor
+Relations, Route 55 and 553, P.O. Box 888, Pitman, N.J. 08071, or by calling
+856-589-0500.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Hillenbrand,
+K-Tron and their respective directors, executive officers and other members of
+their management and employees may be deemed to be soliciting proxies from
+K-Tron shareholders in favor of the proposed acquisition. Information regarding
+Hillenbrand&#8217;s directors and executive officers is available in its 2009 Annual
+Report on Form 10-K filed with the SEC on November 24, 2009, and definitive
+proxy statement relating to its 2010 Annual Meeting of Shareholders filed with
+the SEC on January 5, 2010.&#160;&#160;Information regarding K-Tron&#8217;s directors
+and executive officers is available in its 2008 Annual Report on Form 10-K filed
+with the SEC on March 13, 2009, and definitive proxy statement relating to its
+2009 Annual Meeting of Shareholders filed with the SEC on April 6, 2009.
+Additional information regarding the interests of such potential </font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div><br></div>
+      <div>
+        <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+          <div id="FTR">
+            <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          </div>
+          <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+            <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+            <div style="WIDTH: 100%; TEXT-ALIGN: center">
+              <hr style="COLOR: black" noshade size="2">
+            </div>
+          </div>
+          <div id="HDR">
+            <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          </div>
+        </div>
+      </div>
+      <div style="TEXT-ALIGN: center"><br><img src="dfan14a0.jpg" alt=""></div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">participants
+will be included in the proxy statement and the other relevant documents filed
+with the SEC when they become available.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">CONTACT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Investor
+Relations for Hillenbrand, Inc.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Mark
+R. Lanning, Vice President of Investor Relations and Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Phone:
+812-934-7256</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">E-mail:
+<font style="DISPLAY: inline; COLOR: #0000ff; TEXT-DECORATION: underline">mrlanning@hillenbrand.com</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">#
+# #</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+  </body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>dfan14a0.jpg
+<TEXT>
+begin 644 dfan14a0.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_X0!F17AI9@``24DJ``@````$`!H!!0`!
+M````/@```!L!!0`!````1@```"@!`P`!`````@```#$!`@`0````3@``````
+M``!@`````0```&`````!````4&%I;G0N3D54('8U+C`P`/_;`$,``@$!`0$!
+M`@$!`0("`@("!`,"`@("!00$`P0&!08&!@4&!@8'"0@&!PD'!@8("P@)"@H*
+M"@H&"`L,"PH,"0H*"O_;`$,!`@("`@("!0,#!0H'!@<*"@H*"@H*"@H*"@H*
+M"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"O_``!$(`#$!
+M]`,!(@`"$0$#$0'_Q``?```!!0$!`0$!`0```````````0(#!`4&!P@)"@O_
+MQ`"U$``"`0,#`@0#!04$!````7T!`@,`!!$%$B$Q008346$'(G$4,H&1H0@C
+M0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-45597
+M6%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJ
+MLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X
+M^?K_Q``?`0`#`0$!`0$!`0$!`````````0(#!`4&!P@)"@O_Q`"U$0`"`0($
+M!`,$!P4$!``!`G<``0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B
+M<M$*%B0TX27Q%Q@9&B8G*"DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G
+M:&EJ<W1U=G=X>7J"@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>X
+MN;K"P\3%QL?(R<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@`,`P$`
+M`A$#$0`_`/W\HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`*K:S-J-MI5Q
+M<:19)<W20LUM;R3>6LK@$JI?!V@G`S@XSG!JS2.<"@3V/C3X2_\`!4_X@_%3
+M]M?4?V#W_8TUG2?&/AJWBOO&5W=^+;1['3+"1(G2XBD12UR669"J!4)R0VTB
+MOK#XCZQXP\/^"M0UKP#X/3Q!K%M`7L=%DU%;07CC_EGYS*PCR,\D$9&.,Y'Y
+M?Z-^TC\#OV8_^#BGX_\`C+X[_$6U\.Z=>_#/0;6TGN;>:7SI?L=@Q4")'(P!
+MG)P*^R/^'O/_``3F?Y?^&G=,]@-)O_\`XQ7HXS#.%2#ITW9QB^KU:3?XG#A<
+M0IPDJDM>:2Z='9&!_P`$_/\`@IQJG[?GCSQ=X<\-_LOZ[X5TGP+J,VD>)=;U
+MO7+63R=7C*[K-(HLF0!229<@#Y<`YR/K.OS-_P"#=GQ!8^(](_:A\5>$KB.^
+MM[[]H'5+G3I-Q1)T>WA9#DKE0<CJ,C/3M7OWP(_X*1_$CXS?ML^*?V(+[]E[
+M^Q=<\`65M>>-]8;QG%<6MI!<PB6V:V`MU:Y+[E!!$6W)ZD8)CL(J>*JQI1M&
+M'GMMW\W8,)B.;#TW4>LO^#V\D?6E%?(C?\%+_B?;_M\:?_P3YO\`]DJ9/$]Y
+MIK:X^L1>-('L8]!$WEF]SY`<R_\`3#:/F(&_'S5]2^-]4\5:-X3OM4\%>'(-
+M7U:"V9[#2[F_^RI=2@?+&9MC^6#TW;6QZ5Q5*-2DTI+=77HSKA5A43<>FAK4
+M5\K_`+`__!1_Q3^W1\1O'G@^T_9LO?">G?#C7)]!\2:MJ/B6"Y/]L1,`]M%%
+M''^\0*2WG;@/N@*<DCH?^"CG[<NO_P#!/?X'7'[1M[\$I?%WA3271?$<MCK\
+M=K=6/FRQPPM'%)&PG#22`-AU*\'#<XT^JU_K"HV][:UUU\[V)6(I.C[6_NGT
+M/17R'K'_``40_:I\+^#O#WQ0\4?\$Z]8@\+:W?:5%<:I9_$"QN9;"WO;F"!;
+MB2!8PS!!.K%5).`>@R1!^W5_P5GTS_@G9\4O"6@?M&_`V^B\$^,M7DM-/\=:
+M+K<=T+:.-8C+-<6GEK(FPS+E5+Y4$@EL(7#"5ZLU""NW>UFNGS)GBJ-.#E)V
+M2MT?4^PZ*\X^)GQJ\66'P6M_C'^SSX#L?B1#<VD=]:VEEXDBLUO+)HS();>9
+MD>.1B-NU25#;OOC'/C7@O_@H3\9O'_[!_P#PW9X;_9(8Z;+IDFNV7AJ\\;0Q
+M7<^A);-.;PO]G*+*57B#G((/F`_+6<:%6:NEUMT6O;4N5>G%V?:_R/JRBOAK
+MPG_P51_:8\=_L7I_P4`\)?L5:9>_#Y-*NM6O=.B^(G_$YATZW=Q-.L)LA$[*
+ML;N8_,!P."3@5Z/\3?\`@I#I^A?L+Z1_P4'^#OPGNO&?@:[\/+KFKV[:M'87
+M]C9%1DK&Z.LLB,2KIO7&PD%JU>"Q*DE;=\NZW[;D+%47&]^E]NG<^GJ*^&[W
+M_@K[\4?!O[.NA_MF_%+]A+Q#IWPCUK3;349?$^A^+;34KS3K*Y91%<7%D$C9
+M5_>)G8[D;O09K[.\">-?#?Q'\&Z7X^\':O%J&DZS80WNF7T'W+BWE0/'(N>Q
+M5@?QK.IAZU**E):-M=]5NM.I=.O3J2M%Z[_)FM17SO\`$;_@I+\!OAK^W?X+
+M_8(UG4U?Q/XPT>YNDN$E'EV5PBK)!:R>CS1B5U&01MCX/F#'K?QE\8_$;P-X
+M%N?$WPO^&\/BS4K7YSHLNM+8-+$`2Q21XW4OP,*VT'/++4RI5(<O,K<RNO-`
+MJU.7-9WMN=;17RQ_P3/_`."L?P"_X*9>$-5N_AY977AWQ1H,O_$Z\':Q.C74
+M,#']U<H5P)87!'S`?*W!'*EM&;]MOX[V7[9VF_L=:G^R2T4VI:;<:U%XLC\:
+MPO9?V/%<+`UQL\@2>?N=/W!4#YO]81S6E3"XBC4E3G&SCNF3#$T:L%*#NGM_
+M7^9]+45\??%K_@I-\;/A]^W7HG[`^C_LI6%WX@\4Z5<:QX;\07OCP16-SIL1
+ME!ED5+1Y(I<Q,#%@@9'SD5JZ]_P4:\9_L]_&+PQ\*_VY/@''X"T[QMJRZ7X4
+M\>Z%XD&K:'/?OGR[2YD:&"2SD?!VET*'!^8!6(:PF(=K+=76JU0OK5%7;>B=
+MF^ESZLHI$8.NX=#2US'0?(_[?'_!3OQ)^P5X]\.^%_%G[*VL^)=.\<:U#HW@
+MG6-"\1VJB^U&01XMYHI0K6YW/@-\ZD*3D'Y:^H/A_K'BG7_!FFZSXV\*IH>K
+M7-G')J&D1Z@MTMI*1EHA,JJ)`#QN"C/H*_/?_@X.`/B;]E#/_1Q&E?\`HR*O
+MJ7]O7]L'QM^Q#\$-1_:#M/@<_C+PWH%EY_B`6/B".UN[4&6.)"D4D3"5<R#=
+MA@R@<*U=\\/&5"A[->]._7=WLO(X8UI0K57-^[&WY79[W17B_P"R1^V[\*_V
+MY?V;(/VAOV;;F+5?/M7230K^Z%O/8Z@B9:RN2H<PL&P"VU@58.H8$9YO]E3]
+MM3XO_M$?&_QW\'O&'[+5QX+3X<7D6G>)=5NO%D%XK:A+;PW445ND40,L36\R
+M2>82A&X*4SG;RRH58.2DK..]]SHC7I246G=/8^C**^<M)_;=\<?&_P"(/B3P
+M5^QU\';+QIIOA#4GTS7_`!EKGB/^S-*_M!/]9:6KI!.]TT9^5V"JBMP&8@@7
+M?@M^VWK7C7]I:;]D/XO?`K6?!GC>V\,S:\)/MD5[I-_8I-'");2[4(TOSR89
+M6BC9"G(PRDKV52STVWVO]Q7MJ;:UW/H"BBBLS0****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`*;
+M)PN:=4&I67]HV$UB+F2$RQ,@EA;#ID$;E/8CJ*!/8_-W]GC3[/4/^#DK]H=K
+MVSBFC7X4Z#CS4#`'[+8#O^-?HVWAWP^HW#1+-3ZBW7_"OD[P+_P1E^`WPU_:
+M"NOVIO!OQZ^,5MX[U$J-9U^7X@2S2:G"&1O(N%D5EEA_=H/+8;0%&`,#'U%\
+M1/!#?$'P)J7@?_A*]7T8ZE:-!_:^A7GV>]MLC'F128.Q_1L<5V8RM2KU(N#=
+ME&*U79)=_(YL+2J4:<E+JV_O=S\^O^#>M/+O?VJ/EP/^&C]7Q_WZAJ]^QPV?
+M^#@G]K1O3P3X4_\`2*"O</V0O^"3/P)_8A\?7OC[X&_%;XF1MK%W)=^(M*U?
+MQE)=V.KW+J5,]Q#(I5Y1G/F##9`YQQ5WX5?\$O\`X5?!_P#:7UK]K3PO\:/B
+M3+XQ\3/$/$]SJ'B99H-6@B`$5O-"T6SRT4;5"A2HX!'-=-;%T)UJ\XWM.*2T
+MZWB]=?[OXF%+"UH4Z47;W&V_N:[>9X+J[#_B)JTI\\?\,Q7'_IQ6OT#N=>T:
+M#5H=!FU.!+VXA>6"T:91))&A4.ZKG+*I=`2!QO7/45\R>-_^"5?@_P`:?M2Z
+MK^V3%^TY\4=(\>7^E/I-GJ6CZM:11Z=IK.'^Q11&V*F(,H;YPS$C)8GFMOX)
+M?\$Z=#^$?Q-USXY^(?VCOB1XW\<ZKX=FT2P\4>,-8AN)-&M)&#LMG`D*P1$N
+MJ.?W9!*+D$#%<V)JT*\8ZV:BE:W5?/8VH4JM)RT6LF]^_P`CY[_X(-X7XA?M
+M>9/_`#<UK'_H"5TW_!Q/KFD:E_P2-^+]A8:A!<36$NCQ7L,4RLT#G4K-PC@'
+M*,49&P<':P/0UT_PP_X(^^'O@;8^)HO@E^VA\9_#%WXRUR;6?%-]9:[92/J%
+M_*`)+AA+:,J.P`!*!>@]!3_$G_!%O]G7QM^S[>_LY>-OBU\3=4T?7_$,FN>-
+M;^Y\6L;WQ/?,(@)+V8IF0(((PB+M5=HXX%=/UK#_`-HQQ%W92B[6[6OU\C#Z
+MOB/J+H66S5[_`/`.9^%'PC_;_P##VM?!#XJ_%C]J/P[X@^&&B0/?>*-$T_PQ
+M%HBZ?9MHTXAGN)3.PGBB=D4H0`"PD/W,C<_X*">`_AY\;_VSOV8OA]X^T*QU
+MWPWKZ>,[?4+"Z198+NWDTB$8/4$$'(/T(K9U/_@D)\(/$VB:;X(\>_M(?&[Q
+M+X4T[R5;P?KOQ.NY].O8XL;8;A#S-'\HRC$@@8(QQ74?&W_@FW\-?CA\<]`_
+M:$U'XS_$G0-=\)6I@\)P^&/%;6EIHZO$(I?)@"%/WB`!]P;<.#P`*Q]O3]JI
+MM[)[)+O;KY[FOL)^SY;:776^UN_H?&/A7Q5\4?\`@@S\7)/V?_BUJ^I>(?V5
+M/'M[-%X%\6W.Z>7P'?S;B+*Y;J+9F).?JX^82!O?_P!FG;_Q#_:&`PY_9EFP
+M0>O_`!)I*^I_C%\`_AE^T#\'M4^!GQF\.0^(?#^M::;+4[74%!,RD8\S(`VR
+M`X8.N"K`$8(%<)?_`+"/PQE_8XTG]A[0O&OBW1/!VD^'X-$CN=%ULV]_-I\<
+M?E>0\X7)5T^5L`$CO5UL;3Q$(RFK3YDY-;.W7U[]R(X2=)RC%^[9I)]+]/3L
+M?GO_`,$\OV+/VO?VE?\`@COX6\/>%OV^[KPWX7\0^%[VV7P=+X)L/L:VIN)E
+M>UENXE2[,4@W!V64/M=@#71_#?\`:5TO]I;_`(-N?B+K&E_"33?!:>%_!6J^
+M&FT71"_V`&S81B2W,A9MC+M)#,Q#;AN.,GZ>\$?\$??@MX!^%MM\!=`_:%^,
+M\/@*TM7MHO!\'Q&N(+0P.Q9X2T063RV+-E-^"&(QBN\^*?\`P3J_9\^(O[+5
+MM^QIX?CUCP5\/H8A!/HG@C4/L'VJWP=T,CA2S(S'<W(+$<D\YUECZ4JW,U_R
+M\YUI:RO=K3>^F_8SA@JD*5HZ/DY=[Z_\`_-#XP^(_P!K'P?_`,$FO@-I'Q^\
+M6Z--^S5XO\-^']+^)=[\/_#DMOKWA_2)(81"999YITEB+A5EDC2-\_*@&\8_
+M4/Q%\6/@7^QY^Q4/BCX7NHI_`O@WP9;/X>73)Q.+ZV6%$LX8&SB5IB8HXR#\
+MQD7'6H_A5^PM\)/AI^S/>_LAZKK6O^+_``%=Z.=(BT?QCJ*WIMM/,/DBUCD*
+M!O+"?=W$E>,$8%>.V?\`P1.^`=I\)=%^`R_M"_&<^#?#FI07^@^'3\09/(L)
+MH9/-@\LA-^V-_F12Q52`0,@8RK8C#8B*4DU:3>B5FF]VOYNGH:TJ%>C*\;.Z
+M2U>S7Z=3X1_:<_9A_P""A7BC]F&^^/\`K/["D^G_`!6T3QX_Q4;XG0_$JTN;
+MJ*:%1(+1+!;8.8$M8HHEMQ(3FWCY8\']7OV4/VEO"G[7/[(7A7]I#PC(BVGB
+MOPNMY)`KAC:W'EE9[=C_`'HYEDC/NAK=U_X$#Q+\![KX%:G\4_%92\TXV5SX
+MGCU)$U5XR?F;SEC`#E<J6"@X)[\UXE\"O^"27P9_9L^"7B']GGX-?''XJZ/X
+M4\1P%)M.C\9LYLF=P\TEJ[(6MFE^8/L(!#L<`G-.MBZ6)PRA/24975EI9VNM
+M7Y75O/N%/#5:%9RAJFM;]UL]CXH^"_\`P3J^(_C/_@GA\`OV_P#]A#5D\,_'
+MWP1X$MW0)A;?Q;9+NWZ==KD!RR@JK-P<A6(&UD]F_8+_`&^/"'[?O[?_`(1\
+M=VOAZZ\.>+O#OP5UK2?B#X,U"-DN-#U2/5K,21$,`3&2"48\XR&`96`^O?V/
+M_P!C7P7^Q;\/U^%/PV^(WC+5_#EM$D6D:3XJUS[<FEQJ6.R!F0.JG=]TL0,#
+M`%)X;_8<_9]\&_M<:K^VMX0\*G3?&VO>&_[%UR>SDV07\(D1Q++&!AIAY:+Y
+MG4JH!S@8JICZ=6$XU$V]>5]4F]GW7;L_+0F.#J4YPE!VVYET=NJ\SY+_`&FB
+M!_P<9?`!NW_"F-6_]'7M=3_P<4:?H7B+_@F%XD\'F`7'B36/$^AVG@:TB&;B
+M?5FU"'8D('/F&+S^G.W=VS7K7Q3_`."9?PI^*_[5%O\`MDZG\6_B%IOCG3],
+M.G:->Z1XD$,&FVC*0\$,)C*;&+,S!@<EB:Z/P=^P5\'M%^).F_&+XB>(/%/Q
+M!\3Z)O.@ZGX\UY[]=*9AAGM;?"P6[L``72,,1P36<<73IU*-6-[TTOO3;^[4
+M?U6I*G5INUIMOY.W^1T'ACXS_#WX3:1\//A#\9_BEI&G^-?$>DV]KIVF:CJ$
+M<=SJEW'`IE$2,07.X-TZG@<UZ:&!7=7PS_P5>_9!T?\`:G^//[/T7P]^&^H'
+MX@>'OB39:S-XZM;.1(='T"S<SW,4UP/E)DE\D1PY+%BS`!0Q/W+"N(@K>G.:
+MY*L:2IQE%ZN]UVU.JG*ISRC):+;[C\X?^#@L^9XH_90B0$L?VA]+P!_UTBKW
+MS_@L<JR?\$T/B>#@@Z98\?\`<0M:7]L'_@DS\`OVW_B?IWQ2^-?Q-^)(N=#N
+M([GPWIVB^,YK.TT>Y0)BXMHT&(Y=R*Q<?-D9S6_\>?\`@G;X#_:3_9]TG]FW
+MXM_&WXE:AH.G/NOKF/Q48KS6,.'C%Y,B!I@C*I7..5!.2`:ZUB*/+05W[C=]
+M/.^FIS2P]:3K7M[UK?=;70^2/VI?V7_C-_P3"^+[?\%,_P!@#PO+JGA75+:*
+M;XY_"&Q!$.I6H&9-2M(P,).F6<X'!W-@JTBMZ%^P5^T%X<_:TT[]K'X_?LP:
+MX^H0^*=<L;CPM<;-DB7G_"(Z;&L3K_#(DZE&'.&4X)'-?9GPC^%'_"J_A]!\
+M/KSQ]X@\51VX9%U/Q7?+=7DD9)PDDH5?,`!QE@6(ZDUR'[+_`.Q'\`?V/+SQ
+MM+\!?#,FC6GCSQ.VO:OI<<V;:"[:)(V\A,?ND.P-L'`).,#BB6-C4P[C45YJ
+MR4N\4T[/TMH_D"PDH5KP=HN[:[-K=?JCYP_X-S_&'A;Q+_P2[\*6FD3K_:NE
+M:[J]IXI@8_OH=1^W2R2"8'E7*21O@\X<'O7U_JGAGX6:A\7]&\7ZK;V#>,=+
+MT6^@T>1IP+J.PGD@-SM3.3&7AM]QP0&5>03SX%XC_P""3WPBT_XTZY\>?V=O
+MC)\0?A#KGBJY-QXKA^'^MI%8ZO.229IK2>*6'S22Q+JH;+,<Y))]7^`_[(WP
+MQ^!%WJ7B2SO];\2>)];B2+6_%_B[5Y-0U*]C3)6(RR'Y(E)8K%&%C7<<*,UC
+MBZM"OB)U8-KF;=NU^AK0IUJ=*,)6?+I?T.N^'?Q@^%_Q:;6$^&OCO2];;P_J
+M\NEZVNG7B2FRO(\%X9`I^5@"#@]CFNDKQG]E#]@3]E[]BC5?&&L_L[?#F+0I
+M_'&M-J6NF.5G!<Y*Q1@_ZN%-S;(Q\J[CBO9JYY\G.^2]O,WAS\BY]_(****@
+ML****`"BBB@`HHHH`****`"BBB@`HHHH`****`*M[KFCZ:XBU'5+:!F&0LTZ
+MJ2/7DU#_`,);X6_Z&.P_\#$_QKXB_P""JW_!%R3_`(*9_%7PW\3#^T[J_@8>
+M'M`;3!8:?I(N$GS,\OF$^:F#\^,>U?+/_$)@?^DA7B;_`,)H?_)->E0P^63I
+M*52NXR>ZY&[?.Z."K7QT:C4*5UWYDOT/V#_X2WPM_P!#'8?^!B?XT?\`"6^%
+MO^ACL/\`P,3_`!K\?/\`B$P/_20KQ-_X30_^2:/^(3`_])"O$W_A-#_Y)K;Z
+MID__`$$O_P`%O_Y(S^L9E_SX_P#)E_D?L'_PEOA;_H8[#_P,3_&C_A+?"W_0
+MQV'_`(&)_C7X^?\`$)@?^DA7B;_PFA_\DT?\0F!_Z2%>)O\`PFA_\DT?5,G_
+M`.@E_P#@M_\`R0?6,R_Y\?\`DR_R/V#_`.$M\+?]#'8?^!B?XT?\);X6_P"A
+MCL/_``,3_&OQ\_XA,#_TD*\3?^$T/_DFC_B$P/\`TD*\3?\`A-#_`.2:/JF3
+M_P#02_\`P6__`)(/K&9?\^/_`"9?Y'[!_P#"6^%O^ACL/_`Q/\:/^$M\+?\`
+M0QV'_@8G^-?CY_Q"8'_I(5XF_P#":'_R31_Q"8'_`*2%>)O_``FA_P#)-'U3
+M)_\`H)?_`(+?_P`D'UC,O^?'_DR_R/V#_P"$M\+?]#'8?^!B?XT?\);X6_Z&
+M.P_\#$_QK\?/^(3`_P#20KQ-_P"$T/\`Y)H_XA,#_P!)"O$W_A-#_P"2:/JF
+M3_\`02__``6__D@^L9E_SX_\F7^1^P?_``EOA;_H8[#_`,#$_P`:/^$M\+?]
+M#'8?^!B?XU^/G_$)@?\`I(5XF_\`":'_`,DT?\0F!_Z2%>)O_":'_P`DT?5,
+MG_Z"7_X+?_R0?6,R_P"?'_DR_P`C]@_^$M\+?]#'8?\`@8G^-'_"6^%O^ACL
+M/_`Q/\:_'S_B$P/_`$D*\3?^$T/_`))H_P"(3`_])"O$W_A-#_Y)H^J9/_T$
+MO_P6_P#Y(/K&9?\`/C_R9?Y'[!_\);X6_P"ACL/_``,3_&C_`(2WPM_T,=A_
+MX&)_C7X^?\0F!_Z2%>)O_":'_P`DT?\`$)@?^DA7B;_PFA_\DT?5,G_Z"7_X
+M+?\`\D'UC,O^?'_DR_R/V#_X2WPM_P!#'8?^!B?XT?\`"6^%O^ACL/\`P,3_
+M`!K\?/\`B$P/_20KQ-_X30_^2:/^(3`_])"O$W_A-#_Y)H^J9/\`]!+_`/!;
+M_P#D@^L9E_SX_P#)E_D?L'_PEOA;_H8[#_P,3_&C_A+?"W_0QV'_`(&)_C7X
+M^?\`$)@?^DA7B;_PFA_\DT?\0F!_Z2%>)O\`PFA_\DT?5,G_`.@E_P#@M_\`
+MR0?6,R_Y\?\`DR_R/V#_`.$M\+?]#'8?^!B?XT?\);X6_P"ACL/_``,3_&OQ
+M\_XA,#_TD*\3?^$T/_DFC_B$P/\`TD*\3?\`A-#_`.2:/JF3_P#02_\`P6__
+M`)(/K&9?\^/_`"9?Y'[!_P#"6^%O^ACL/_`Q/\:/^$M\+?\`0QV'_@8G^-?C
+MY_Q"8'_I(5XF_P#":'_R31_Q"8'_`*2%>)O_``FA_P#)-'U3)_\`H)?_`(+?
+M_P`D'UC,O^?'_DR_R/V#_P"$M\+?]#'8?^!B?XT?\);X6_Z&.P_\#$_QK\?/
+M^(3`_P#20KQ-_P"$T/\`Y)H_XA,#_P!)"O$W_A-#_P"2:/JF3_\`02__``6_
+M_D@^L9E_SX_\F7^1^P?_``EOA;_H8[#_`,#$_P`:/^$M\+?]#'8?^!B?XU^/
+MG_$)@?\`I(5XF_\`":'_`,DT?\0F!_Z2%>)O_":'_P`DT?5,G_Z"7_X+?_R0
+M?6,R_P"?'_DR_P`C]@_^$M\+?]#'8?\`@8G^-'_"6^%O^ACL/_`Q/\:_'S_B
+M$P/_`$D*\3?^$T/_`))H_P"(3`_])"O$W_A-#_Y)H^J9/_T$O_P6_P#Y(/K&
+M9?\`/C_R9?Y'[!_\);X6_P"ACL/_``,3_&C_`(2WPM_T,=A_X&)_C7X^?\0F
+M!_Z2%>)O_":'_P`DT?\`$)@?^DA7B;_PFA_\DT?5,G_Z"7_X+?\`\D'UC,O^
+M?'_DR_R/V#_X2WPM_P!#'8?^!B?XT?\`"6^%O^ACL/\`P,3_`!K\?/\`B$P/
+M_20KQ-_X30_^2:/^(3`_])"O$W_A-#_Y)H^J9/\`]!+_`/!;_P#D@^L9E_SX
+M_P#)E_D?L'_PEOA;_H8[#_P,3_&C_A+?"W_0QV'_`(&)_C7X^?\`$)@?^DA7
+MB;_PFA_\DT?\0F!_Z2%>)O\`PFA_\DT?5,G_`.@E_P#@M_\`R0?6,R_Y\?\`
+MDR_R/V"_X2OPKNW?\)%89]?MB?XTO_"6^%O^ACL/_`Q/\:_'S_B$P/\`TD*\
+M3?\`A-#_`.2:/^(3`_\`20KQ-_X30_\`DFCZID__`$$O_P`%O_Y(/K&9?\^/
+M_)E_D?L'_P`);X6_Z&.P_P#`Q/\`&C_A+?"W_0QV'_@8G^-?CY_Q"8'_`*2%
+M>)O_``FA_P#)-'_$)@?^DA7B;_PFA_\`)-'U3)_^@E_^"W_\D'UC,O\`GQ_Y
+M,O\`(_8/_A+?"W_0QV'_`(&)_C1_PEOA;_H8[#_P,3_&OQ\_XA,#_P!)"O$W
+M_A-#_P"2:/\`B$P/_20KQ-_X30_^2:/JF3_]!+_\%O\`^2#ZQF7_`#X_\F7^
+M1^P?_"6^%O\`H8[#_P`#$_QH_P"$M\+?]#'8?^!B?XU^/G_$)@?^DA7B;_PF
+MA_\`)-'_`!"8'_I(5XF_\)H?_)-'U3)_^@E_^"W_`/)!]8S+_GQ_Y,O\C]@_
+M^$M\+?\`0QV'_@8G^-'_``EOA;_H8[#_`,#$_P`:_'S_`(A,#_TD*\3?^$T/
+M_DFC_B$P/_20KQ-_X30_^2:/JF3_`/02_P#P6_\`Y(/K&9?\^/\`R9?Y'[!_
+M\);X6_Z&.P_\#$_QH_X2WPM_T,=A_P"!B?XU^/G_`!"8'_I(5XF_\)H?_)-'
+M_$)@?^DA7B;_`,)H?_)-'U3)_P#H)?\`X+?_`,D'UC,O^?'_`),O\C]@_P#A
+M+?"W_0QV'_@8G^-'_"6^%O\`H8[#_P`#$_QK\?/^(3`_])"O$W_A-#_Y)H_X
+MA,#_`-)"O$W_`(30_P#DFCZID_\`T$O_`,%O_P"2#ZQF7_/C_P`F7^1^P?\`
+MPEOA;_H8[#_P,3_&C_A+?"W_`$,=A_X&)_C7X^?\0F!_Z2%>)O\`PFA_\DT?
+M\0F!_P"DA7B;_P`)H?\`R31]4R?_`*"7_P""W_\`)!]8S+_GQ_Y,O\C]@_\`
+MA+?"W_0QV'_@8G^-'_"6^%O^ACL/_`Q/\:_'S_B$P/\`TD*\3?\`A-#_`.2:
+M/^(3`_\`20KQ-_X30_\`DFCZID__`$$O_P`%O_Y(/K&9?\^/_)E_D?L'_P`)
+M;X6_Z&.P_P#`Q/\`&C_A+?"W_0QV'_@8G^-?CY_Q"8'_`*2%>)O_``FA_P#)
+M-'_$)@?^DA7B;_PFA_\`)-'U3)_^@E_^"W_\D'UC,O\`GQ_Y,O\`(_8/_A+?
+M"W_0QV'_`(&)_C1_PEOA;_H8[#_P,3_&OQ\_XA,#_P!)"O$W_A-#_P"2:/\`
+MB$P/_20KQ-_X30_^2:/JF3_]!+_\%O\`^2#ZQF7_`#X_\F7^1^P?_"6^%O\`
+MH8[#_P`#$_QIUOXF\.W=PEK:Z[9R2N<)''<HS,<9X`//0U^/7_$)@?\`I(7X
+MF_\`";'_`,DUZ=^QC_P;=#]D?]J3P7^TJW[:6O\`B0^#]4>]31;K0A%'=%H)
+M(2I?SVV\2$YP>E9U<-E4:;<,0V^BY&K_`#N7"OF$II2HV7?F7^1^HM%(HPH!
+M]**\L]`6BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`__
+!V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

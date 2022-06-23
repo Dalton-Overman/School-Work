@@ -1,0 +1,11 @@
+H:\VB\CardFlip\CardFlip\bin\Debug\CardFlip.exe.config
+H:\VB\CardFlip\CardFlip\bin\Debug\CardFlip.exe
+H:\VB\CardFlip\CardFlip\bin\Debug\CardFlip.pdb
+H:\VB\CardFlip\CardFlip\bin\Debug\CardFlip.xml
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.vbprojAssemblyReference.cache
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.Form1.resources
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.Resources.resources
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.vbproj.GenerateResource.cache
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.exe
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.xml
+H:\VB\CardFlip\CardFlip\obj\Debug\CardFlip.pdb

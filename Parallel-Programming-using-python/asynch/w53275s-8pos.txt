@@ -1,0 +1,123 @@
+<DOCUMENT>
+<TYPE>S-8 POS
+<SEQUENCE>1
+<FILENAME>w53275s-8pos.txt
+<DESCRIPTION>FORM S-8 K-TRON INTERNATIONAL, INC.
+<TEXT>
+<PAGE>   1
+                                                         Registration No.33-8043
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                         Post-Effective Amendment No. 1
+                                       To
+                                    FORM S-8
+                             Registration Statement
+                                      under
+                           The Securities Act of 1933
+
+
+                           K-TRON INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                                                     <C>
+         New Jersey                                                                   22-1759452
+(State or other jurisdiction of                                         (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+
+Routes 55 & 553, Pitman, New Jersey                                                     08071
+(Address of Principal Executive Offices)                                            (Zip Code)
+</TABLE>
+
+
+                         1981 K-Tron International, Inc.
+                          Employee Stock Purchase Plan
+                            (Full title of the plan)
+
+
+                              Edward B. Cloues, II
+                      Chairman and Chief Executive Officer
+                           K-Tron International, Inc.
+                                Routes 55 and 553
+                          Pitman, New Jersey 08071-0888
+                     (Name and address of agent for service)
+
+
+                                 (856) 589-0500
+          (Telephone number, including area code, of agent for service)
+
+
+                                   Copies to:
+                            Timothy Maxwell, Esquire
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                      Philadelphia, Pennsylvania 19103-2921
+                                 (215) 963-5000
+<PAGE>   2
+      This post-effective amendment is being filed to deregister the 38,472
+shares of K-Tron International, Inc. common stock, par value $.01 per share,
+that remain unsold upon the termination of the 1981 K-Tron International, Inc.
+Employee Stock Purchase Plan.
+
+
+<PAGE>   3
+                                   SIGNATURES
+
+      Pursuant to the requirements of the Securities Act of 1933, the Registrant
+certifies that it has reasonable grounds to believe that it meets all of the
+requirements for filing on Form S-8 and has duly caused this registration
+statement to be signed on its behalf by the undersigned, thereunto duly
+authorized, in Pitman, New Jersey on this 21st day of September, 2001.
+
+                                    K-Tron International, Inc.
+
+
+                                    By:  /s/ Edward B. Cloues, II
+                                        ---------------------------------------
+                                           Edward B. Cloues, II
+                                           Chairman and Chief Executive Officer
+
+      Pursuant to the requirements of the Securities Act of 1933, this
+registration statement has been signed below by the following persons in the
+capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+Signature                        Title                     Date
+
+<S>                              <C>                       <C>
+/s/ Edward B. Cloues, II         Chairman, Chief           September 21, 2001
+----------------------------     Executive Officer and
+Edward B. Cloues, II             Director
+
+
+/s/ Ronald R. Remick             Senior Vice President     September 21, 2001
+----------------------------     and Chief Financial
+Ronald R. Remick                 Officer
+
+
+/s/ Norman Cohen                 Director                  September 21, 2001
+----------------------------
+Norman Cohen
+
+/s/ Robert A. Engel              Director                  September 21, 2001
+----------------------------
+Robert A. Engel
+
+/s/ Richard J. Pinola            Director                  September 21, 2001
+----------------------------
+Richard J. Pinola
+
+/s/ Dr. Hans-Jurg Schurmann      Director                  September 21, 2001
+----------------------------
+Dr. Hans-Jurg Schurmann
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

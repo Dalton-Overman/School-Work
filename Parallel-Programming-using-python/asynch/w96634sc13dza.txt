@@ -1,0 +1,301 @@
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>w96634sc13dza.txt
+<DESCRIPTION>K-TRON INTERNATIONAL SCHEDULE 13D/A
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                 SCHEDULE 13D/A
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+                 TO RULES 13d-1(A) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13d-2(a)
+                               (AMENDMENT NO. 1)(1)
+
+                           K-Tron International, Inc.
+                           --------------------------
+                                (Name of Issuer)
+
+                     Common Stock, par value $.01 per share
+                     --------------------------------------
+                         (Title of Class of Securities)
+
+                                    482730108
+                                    ---------
+                                 (CUSIP Number)
+
+                                 April 14, 2004
+                                 --------------
+             (Date of Event Which Requires Filing of this Statement)
+
+                             Joanne R. Soslow, Esq.
+                           Morgan, Lewis & Bockius LLP
+                               1701 Market Street
+                           Philadelphia, PA 19103-2921
+                                 (215) 963-5000
+                                 --------------
+            (Name, Address and Telephone Number of Person Authorized
+                     to Receive Notices and Communications)
+
+      If the filing person has previously filed a statement on schedule 13G to
+report the acquisition that is the subject of this Schedule 13D, and is filing
+this Schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box ____
+
+Note:  Schedules filed in paper format shall include a signed original and
+two copies of the Schedule including all exhibits.  See Rule 13d-7 for
+other parties to whom copies are to be sent.
+
+                               (Page 1 of 6 pages)
+
+--------
+1     The remainder of this cover page shall be filled out for a reporting
+      person's initial filing on this form with respect to the subject class of
+      securities, and for any subsequent amendment containing information which
+      would alter the disclosures provided in a prior cover page.
+
+      The information required in the remainder of this cover page shall not be
+      deemed to be "filed" for the purpose of Section 18 of the Securities
+      Exchange Act of 1934 or otherwise subject to the liabilities of that
+      section of the Act but shall be subject to all other provisions of the Act
+      (however, see the Notes).
+<PAGE>
+CUSIP NO. 482730108          SCHEDULE 13D/A                          PAGE 2 OF 6
+
+--------------------------------------------------------------------------------
+1             NAMES OF REPORTING PERSONS
+              I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+                      Edward B. Cloues, II
+--------------------------------------------------------------------------------
+2             CHECK THE APPROPRIATE BOX IF A
+              MEMBER OF A GROUP*                                (A)
+                                                                (B)  X
+--------------------------------------------------------------------------------
+3             SEC USE ONLY
+--------------------------------------------------------------------------------
+4             SOURCE OF FUNDS                             OO
+--------------------------------------------------------------------------------
+5             CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+              TO ITEM 2(D) OR 2(E)                               _____
+--------------------------------------------------------------------------------
+6             CITIZENSHIP OR PLACE OF ORGANIZATION   United States of America
+--------------------------------------------------------------------------------
+NUMBER OF     7   SOLE VOTING POWER            183,360 shares*
+SHARES
+BENEFIC-          *Includes 80,000 shares underlying options presently
+IALLY             exercisable and 8,000 shares subject to a restricted stock
+OWNED BY          grant, which restricted shares are subject to forfeiture
+EACH              until April 14, 2008.
+REPORTING     ------------------------------------------------------------------
+PERSON WITH   8   SHARED VOTING POWER          60,220
+              ------------------------------------------------------------------
+              9   SOLE DISPOSITIVE POWER       183,360*
+
+                  *Includes 80,000 shares underlying options presently
+                  exercisable and 8,000 shares subject to a restricted stock
+                  grant, which restricted shares are subject to forfeiture until
+                  April 14, 2008.
+              ------------------------------------------------------------------
+              10  SHARED DISPOSITIVE POWER     60,220
+--------------------------------------------------------------------------------
+11            AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+              243,580*
+--------------------------------------------------------------------------------
+              *Includes 80,000 shares underlying options and 8,000 shares
+              subject to a restricted stock grant, which restricted shares are
+              subject to forfeiture until April 14, 2008.
+--------------------------------------------------------------------------------
+12            CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN
+              SHARES*
+
+--------------------------------------------------------------------------------
+13            PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)   9.5%
+--------------------------------------------------------------------------------
+14            TYPE OF REPORTING PERSON*          IN
+--------------------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+CUSIP NO. 482730108          SCHEDULE 13D/A                          PAGE 3 OF 6
+
+ITEM 1. SECURITY AND ISSUER.
+
+      This statement relates to the common stock, $.01 par value (the "Common
+Stock"), of K-Tron International, Inc., a New Jersey corporation (the "Issuer").
+The principal executive offices of the Issuer are located at Routes 55 & 553,
+Pitman, New Jersey 08071-0888.
+
+ITEM 2. IDENTITY AND BACKGROUND.
+
+      (a) This statement is being filed by Edward B. Cloues, II (the "Filing
+Person").
+
+      (b) The principal business address of the Filing Person is Routes 55 &
+553, Pitman, New Jersey 08071-0888.
+
+      (c) The present principal occupation of the Filing Person is Chairman of
+the Board and Chief Executive Officer of the Issuer.
+
+      (d) During the last five years, the Filing Person has not been convicted
+in a criminal proceeding (excluding traffic violations or similar misdemeanors).
+
+      (e) During the last five years, the Filing Person has not been a party to
+a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which he was or is subject to a judgment, decree or
+final order enjoining future violations of, or prohibiting or mandating
+activities subject to, Federal or State securities laws or finding any violation
+with respect to such laws.
+
+      (f) The Filing Person is a citizen of the United States of America.
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+      The Filing Person obtained the 8,000 shares of Common Stock described in
+Item 5(a) pursuant to a restricted stock grant (the "Grant") on April 14, 2004
+by the Issuer at a price of $21.53 per share.
+
+ITEM 4. PURPOSE OF TRANSACTION.
+
+      The Filing Person was Chairman of the Board and Chief Executive Officer of
+the Issuer prior to receipt of the restricted stock grant of Common Stock
+described in Item 5(c), and continues to serve in those capacities. Prior to the
+Grant, the Filing Person held 95,360 shares of Common Stock in his own name (as
+well as options to purchase 80,000 shares of Common Stock that are presently
+exercisable) and held indirect beneficial ownership in (i) 59,020 shares of
+Common Stock through the Asset Management Durable General Power of Attorney of
+Jan W. Beebe, dated June 28, 2001, and (ii) 1,200 shares of Common Stock through
+the Durable Power of Attorney of Alfred S. Cloues, Jr., dated May 22, 1995.
+Following the Grant, the Filing Person now holds 103,360 shares in his own name.
+The Filing Person may acquire additional securities of the Issuer directly or
+may, in the future, dispose of the securities he holds directly and indirectly.
+Except as set forth above, the Filing Person has no plans or proposals that
+relate to or would result in any of the actions specified in clauses (a) through
+(j) of this Item 4.
+<PAGE>
+CUSIP NO. 482730108          SCHEDULE 13D/A                          PAGE 4 OF 6
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER.
+
+      (a) The Filing Person beneficially owns 243,580 shares of the Common
+Stock, including 80,000 shares underlying stock options presently exercisable,
+8,000 shares subject to a restricted stock grant and 60,220 shares for which the
+Filing Person holds powers-of-attorney, which constitute 9.5% of the outstanding
+shares of Common Stock, calculated in accordance with Rule 13d-3(d)(i)(D).
+
+      (b) The Filing Person has sole power to vote or direct the vote and sole
+power to dispose or direct the disposition of 183,360 shares reported herein and
+shared power to vote or direct the vote and to dispose or direct the disposition
+of 60,220 shares reported herein. Power to vote and dispose of 59,020 shares is
+shared with Jan W. Beebe whose address is 777 North Post Oak Road, Suite 439,
+Houston, Texas 77024. Mrs. Beebe is retired and is a citizen of the United
+States. During the last five years, Mrs. Beebe has not been convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors). In
+addition, during the last five years, Mrs. Beebe has not been a party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction as a
+result of which she was or is subject to a judgment, decree or final order
+enjoining future violations of, or prohibiting or mandating activities subject
+to, Federal or State securities laws or finding any violation with respect to
+such laws. The Filing Person is not related to Mrs. Beebe. Power to vote and
+dispose of 1,200 shares is shared with Alfred S. Cloues, Jr., the Filing
+Person's father, whose address is Apt. C140, Langdon Place, 136 A Arch Street,
+Keene, New Hampshire 03431. Mr. Cloues is retired and is a citizen of the United
+States. During the last five years, Mr. Cloues has not been convicted in a
+criminal proceeding (excluding traffic violations or similar misdemeanors). In
+addition, during the last five years, Mr. Cloues has not been a party to a civil
+proceeding of a judicial or administrative body of competent jurisdiction as a
+result of which he was or is subject to a judgment, decree or final order
+enjoining future violations of, or prohibiting or mandating activities subject
+to, Federal or State securities laws or finding any violation with respect to
+such laws.
+
+      (c) The Filing Person obtained the 8,000 shares of Common Stock described
+in Item 5(a) pursuant to a restricted stock grant (the "Grant") on April 14,
+2004 by the Issuer at a price of $21.53 per share.
+
+      (d) Not applicable.
+
+      (e) Not applicable.
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+SECURITIES OF THE ISSUER.
+
+      The Filing Person has been appointed Attorney-in-Fact by Jan W. Beebe
+("Beebe") pursuant to an Asset Management Durable General Power of Attorney
+dated June 28, 2001 (the "Beebe Power-of-Attorney"). Under the Beebe
+Power-of-Attorney, the Filing Person is authorized to transact all of Beebe's
+business and manage all of Beebe's property and affairs, including: taking
+custody of Beebe's stocks; selling, surrendering or exchanging any such stocks;
+signing and delivering assignments or stock powers and other documents required
+for sale, assignment, surrender or exchange; purchasing stocks; providing
+instructions regarding the
+<PAGE>
+CUSIP NO. 482730108          SCHEDULE 13D/A                          PAGE 5 OF 6
+
+registration of stock and the mailing of dividends; representing Beebe at
+shareholders' meetings and voting proxies on Beebe's behalf; and generally
+handling or managing Beebe's investments. Beebe shares the above powers with the
+Filing Person. Beebe currently holds 59,020 shares of Common Stock. As a result
+of the Beebe Power of Attorney, the Filing Person possesses indirect beneficial
+ownership of the 59,020 shares of Common Stock held by Beebe.
+
+      The Filing Person has been appointed Attorney-in-Fact by Alfred S. Cloues,
+Jr. ("Cloues") pursuant to a Durable Power of Attorney dated May 22, 1995 (the
+"Cloues Power of Attorney"). Under the Cloues Power of Attorney, the Filing
+Person is authorized to deal generally in all respects without restriction in
+and with any property in which Cloues may have an interest and to exercise in
+all respects management of and control over such property. This would include
+representing Cloues at shareholders' meetings and voting proxies on Cloues'
+behalf. Cloues shares the above powers with the Filing Person. Cloues currently
+holds 1,200 shares of Common Stock. As a result of the Cloues Power of Attorney,
+the Filing Person possesses indirect beneficial ownership of the 1,200 shares of
+Common Stock held by Cloues.
+
+      Unless earlier revoked, each Power of Attorney terminates at the death of
+the respective principal. The Filing Person will hold all of the powers granted
+under the Powers-of-Attorney until such termination or until a successor agent
+is appointed.
+
+ITEM 7. MATERIAL TO BE FILED AS EXHIBITS.
+
+99.1  Asset Management Durable General Power of Attorney of Jan W. Beebe, dated
+      June 28, 2001. (Incorporated by reference herein from the 13D filed on
+      July 27, 2001.)
+
+99.2  Durable Power of Attorney of Alfred S. Cloues, Jr., dated May 22, 1995.*
+
+-------
+*     Filed herewith.
+<PAGE>
+CUSIP NO. 482730108          SCHEDULE 13D/A                          PAGE 6 OF 6
+
+
+
+
+
+                                    SIGNATURE
+
+      After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                          April 23, 2004
+                                          ------------------------------
+                                                      (Date)
+
+                                          /s/ Edward B. Cloues, II
+                                          ------------------------------
+                                                   (Signature)
+
+                                          Edward B. Cloues, II
+                                          ------------------------------
+                                                  (Name / Title)
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

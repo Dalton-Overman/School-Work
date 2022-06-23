@@ -1,0 +1,70 @@
+<DOCUMENT>
+<TYPE>EX-10.18
+<SEQUENCE>7
+<FILENAME>w58583ex10-18.txt
+<DESCRIPTION>LOAN MODIFICATION AGREEMENT BETWEEN K-TRON & BANK
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.18
+
+                          THE BANK OF GLOUCESTER COUNTY
+
+                           LOAN MODIFICATION AGREEMENT
+
+                              K-TRON AMERICA, INC.
+
+Date: June 25, 2001                                       Loan #6039359-6600
+Original Amount:  $5,000,000.00                      Annual Fee:  $12,500.00
+Maturity Date:  July 03, 2003
+
+
+      WHEREAS, the undersigned borrower executed the note referred to above
+on June 24, 1998, And,
+
+      WHEREAS, the note, security agreement and commitment letter executed by
+the borrower allow a modification of interest rate, due date or other terms or
+conditions without affecting the priority of The Bank of Gloucester County's
+lien.
+
+      NOW, therefore, in consideration of an annual fee of $12,500.00, the above
+referenced note is extended and modified as follows:
+
+      IT IS HEREBY AGREED THAT THE ABOVE NUMBERED NOTE SHALL BECOME DUE JULY 3,
+      2003. DURING THE TERMS OF THE RENEWAL, PAYMENTS OF INTEREST ONLY SHALL BE
+      DUE EACH MONTH BEGINNING JULY 01, 2001 AND SHALL BE APPLIED TO INTEREST
+      AND THEN TO PRINCIPAL.
+
+      BORROWER AGREES THAT UNTIL ALL OBLIGATIONS HEREUNDER ARE FULLY PAID AND
+      DISCHARGED, BORROWER WILL NOT WITHOUT PRIOR WRITTEN CONSENT OF THE BANK:
+
+      1.    Permit the consolidated debt to net worth ratio of Guarantor
+            (K-Tron International, Inc.) to be more than 1.60 at fiscal
+            year-end 2001 and each fiscal year thereafter.
+
+      2.    Permit the consolidated annual debt coverage ratio of Guarantor at
+            each fiscal year-end to be less than 1.50.
+
+      3.    Permit the consolidated net worth of Guarantor to be less than
+            $23,400,000.00 at fiscal year-end 2001 and each fiscal year
+            thereafter, excluding any declines due to changes in foreign
+            exchange rates subsequent to January 1, 2000.
+
+      All terms and conditions of the original note, commitment letter and any
+security thereto attached is fully incorporated herein and fully ratified except
+as specifically modified by this modification agreement.
+
+                                          ACCEPTED BY:
+                                          K-TRON AMERICA, INC.
+
+THE BANK OF GLOUCESTER  COUNTY              /s/ Kevin Bowen      6/22/01
+                                          -----------------------------------
+                                          KEVIN C. BOWEN, PRESIDENT/DATE
+By: /s/ David J. Hanrahan, Sr.
+   ---------------------------------
+     David J. Hanrahan, Sr., VP             /s/ Patricia M. Moore
+                                          -----------------------------------
+                                          PATRICIA M. MOORE/VP/FINANCE/DATE
+
+
+</TEXT>
+</DOCUMENT>

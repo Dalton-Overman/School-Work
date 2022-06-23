@@ -1,0 +1,11 @@
+H:\VB\Tutorial 2.2\Tutorial 2.2\bin\Debug\Tutorial 2.2.exe.config
+H:\VB\Tutorial 2.2\Tutorial 2.2\bin\Debug\Tutorial 2.2.exe
+H:\VB\Tutorial 2.2\Tutorial 2.2\bin\Debug\Tutorial 2.2.pdb
+H:\VB\Tutorial 2.2\Tutorial 2.2\bin\Debug\Tutorial 2.2.xml
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial 2.2.vbprojAssemblyReference.cache
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial_2._2.Form1.resources
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial_2._2.Resources.resources
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial 2.2.vbproj.GenerateResource.cache
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial 2.2.exe
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial 2.2.xml
+H:\VB\Tutorial 2.2\Tutorial 2.2\obj\Debug\Tutorial 2.2.pdb

@@ -1,0 +1,47 @@
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>gtii.txt
+<DESCRIPTION>KTII 13G MARCH 2008 5% INITIAL FILING
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.F. 20549
+
+
+
+SCHEDULE 13G
+
+
+K-TRON INTERNATIONAL, INC
+Common Stock
+482730108
+
+Item 1.	a.	K-Tron International, Inc.
+		b.	Routes 55& 553
+			Pitman, NJ 08070
+
+Item 2.	a.	D.F. Dent & Company, Inc.
+		b.	2 East Read Street, 6th Floor
+			Baltimore, Maryland 21202
+		c.	Incorporated in the State of Maryland
+		d.	Common stock
+		e.	482730108
+Item 3.		Investment adviser registered under section 203 of the
+			Investment Advisers Act of 1940
+
+Item 4.	a.	136,454
+		b.	5.04%
+		c.	1.	136,454
+			2.	      0
+			3.	136,454
+			4.	       0
+Item 5.		N/A
+Item 6.		N/A
+Item 7.		N/A
+Item 8.		N/A
+Item 9.		N/A
+
+
+</TEXT>
+</DOCUMENT>

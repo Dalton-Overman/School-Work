@@ -1,0 +1,697 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LbpYid4ZfBWCDqxN/zYzHTU5dKSl+rz/FrkdanMW07evlbh0sB74No7U5AKtkat7
+ qbcoYB0c58V39dPUeeQJHg==
+
+<SEC-DOCUMENT>0000893220-05-002784.txt : 20051130
+<SEC-HEADER>0000893220-05-002784.hdr.sgml : 20051130
+<ACCEPTANCE-DATETIME>20051130103137
+ACCESSION NUMBER:		0000893220-05-002784
+CONFORMED SUBMISSION TYPE:	S-8 POS
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20051130
+DATE AS OF CHANGE:		20051130
+EFFECTIVENESS DATE:		20051130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		S-8 POS
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	002-71931
+		FILM NUMBER:		051233429
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8 POS
+<SEQUENCE>1
+<FILENAME>w15021bsv8pos.htm
+<DESCRIPTION>FORM S-8 FOR K-TRON INTERNATIONAL, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sv8pos</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Registration No.&nbsp;2-71931</B>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; margin-top: 6pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED
+STATES<br>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>POST EFFECTIVE AMENDMENT NO. 1 TO</B></DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM S-8</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>REGISTRATION STATEMENT<BR>
+UNDER<BR>
+THE SECURITIES ACT OF 1933</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><FONT style="border-bottom: 1px solid #00000"><B>K-TRON INTERNATIONAL, INC.</B></FONT>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Exact Name of Registrant as Specified in Charter)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">New Jersey</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+(State or Other Jurisdiction of Incorporation or Organization)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">22-1759452</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(I.R.S. Employer Identification No.)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Routes 55 &#038; 553, P.O. Box 888, Pitman, New Jersey
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">08071-0888</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="3" valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of Principal Executive Offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">1980 Stock Option Plan</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+(Full Title of the Plan)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Edward B. Cloues, II<BR>
+Chief Executive Officer<BR>
+K-Tron International, Inc.<BR>
+Routes 55 and 553<BR>
+Pitman, New Jersey 08071-0888</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+(Name and Address of Agent for Service)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">(856)&nbsp;589-0500</DIV>
+
+<DIV align="center" style="font-size: 10pt"><DIV style="border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+Telephone Number, Including Area Code, of Agent For Service.</DIV>
+
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>DEREGISTRATION</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Registration Statement on Form S-8 (Registration No.&nbsp;2-71931) (the &#147;Registration
+Statement&#148;) of K-Tron International, Inc. (the &#147;Company&#148;) pertaining to the registration of 271,500
+shares of the Company&#146;s Common Stock, par value $0.01 per share (the &#147;Common Stock&#148;), in connection
+with the Company&#146;s 1980 Stock Option Plan (the &#147;Plan&#148;) was filed with the Securities and Exchange
+Commission on April&nbsp;23, 1981. The Plan has terminated in accordance with its terms and 58,700
+shares of the Company&#146;s Common Stock registered in connection with the Plan were never issued.
+Pursuant to Item&nbsp;512(a)(3) of Regulation&nbsp;S-K, this Post Effective Amendment No.&nbsp;1 to Form S-8 is
+being filed in order to deregister and withdraw from registration 58,700 shares of the Company&#146;s
+Common Stock remaining unissued under the Registration Statement as of the date hereof.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">24.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certified Resolutions of the Board of Directors.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 " SIGNATURES" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities and Exchange Act of 1933, the registrant
+certifies that it has reasonable grounds to believe that it meets all of the requirements for
+filing this Post Effective Amendment No.&nbsp;1 to Registration Statement on Form S-8 and has duly
+caused this Post Effective Amendment No.&nbsp;1 to be signed on its behalf by the undersigned, thereunto
+duly authorized, in Pitman, New Jersey, on this 21st day of November, 2005.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">K-TRON INTERNATIONAL, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: November 21, 2005&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Edward B. Cloues, II
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Edward B. Cloues, II&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="left">Chairman of the Board and
+Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Act of 1933, this Post Effective Amendment No.
+1 to Registration Statement on Form S-8 has been signed by the following persons in the capacities
+and on the date indicated.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each person in so signing also makes, constitutes and appoints Edward B. Cloues, II, Chairman
+and Chief Executive Officer of K-Tron International, Inc., and Ronald R. Remick, Senior Vice
+President, Chief Financial Officer and Treasurer of K-Tron International, Inc., and each of them
+acting alone, as his true and lawful attorneys-in-fact, in his name, place and stead, to execute
+and cause to be filed with the Securities and Exchange Commission any or all amendments to this
+Post Effective Amendment No.&nbsp;1 to Registration Statement on Form S-8.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="34%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Signature</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Date</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Capacity</TD>
+</TR>
+<TR style="font-size: 6pt"><TD>&nbsp;</TD></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">/s/ Edward B. Cloues, II
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Edward B. Cloues, II</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chief Executive Officer
+(principal executive
+officer) and Chairman of
+the Board of Directors</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">/s/ Ronald R. Remick
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Ronald R. Remick</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Vice President,
+Chief Financial Officer
+and Treasurer (principal
+financial officer)</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">/s/ Alan R. Sukoneck
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Alan R. Sukoneck</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President, Chief
+Accounting and Tax Officer
+(principal accounting
+officer)</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">&nbsp;<BR>
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Norman Cohen</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">/s/ Robert A. Engel
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Robert A. Engel</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">/s/ Edward T. Hurd
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Edward T. Hurd</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1em">
+    <TD align="left" valign="top">/s/ Richard J. Pinola
+<DIV style="font-size: 1pt; border-bottom: 1px solid #000000">&nbsp;</DIV>
+Richard J. Pinola</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">
+November 21, 2005
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "EXHIBIT INDEX" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">24.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certified Resolutions of the Board of Directors.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>w15021bexv24w1.htm
+<DESCRIPTION>CERTIFIED RESOLUTIONS OF THE BOARD OF DIRECTORS
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv24w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><U>Exhibit&nbsp;24.1</U>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">CERTIFICATE
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I, Mary E. Vaccara, Secretary of K-Tron International, Inc., a New Jersey corporation (the
+&#147;Company&#148;), DO HEREBY CERTIFY that attached as <U>Exhibit&nbsp;A</U> is a true and correct copy of
+certain resolutions duly adopted at a meeting of the Board of Directors of the Company, duly held
+and convened on October&nbsp;27, 2005, at which meeting a duly constituted quorum of the Board of
+Directors was present and acting throughout and that such resolutions have not been modified,
+rescinded or revoked and are at present in full force and effect.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the undersigned has executed this Certificate this 21st day of November,
+2005.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">K-TRON INTERNATIONAL, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Mary E. Vaccara
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Mary E. Vaccara&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Secretary&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U>Exhibit&nbsp;A</U>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, on April&nbsp;23, 1981, the Company filed with the Securities and Exchange Commission (the
+&#147;Commission&#148;) a Registration Statement on Form S-8 (Registration No.&nbsp;2-71931) (the &#147;1980 (2-71931)
+Registration Statement&#148;), for the purpose of registering under the Securities Act of 1933, as
+amended (the &#147;Act&#148;), the issuance by the Company of up to 271,500 shares of its Common Stock, $0.01
+par value per share (the &#147;Common Stock&#148;), issuable pursuant to the 1980 Stock Option Plan (the
+&#147;1980 Plan&#148;), of which 58,700 shares have not been issued (the &#147;1980 (2-71931) Shares&#148;); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, on August&nbsp;13, 1982, the Company filed with the Commission a Registration Statement on
+Form S-8 (Registration No.&nbsp;2-78839) (the &#147;1980 (2-78839) Registration Statement&#148;), for the purpose
+of registering under the Act, the issuance by the Company of up to 150,000 shares of its Common
+Stock, issuable pursuant to the 1980 Plan, of which 150,000 shares have not been issued (the &#147;1980
+(2-78839) Shares&#148;); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, on February&nbsp;15, 1991, the Company filed with the Commission a Registration Statement
+on Form S-8 (Registration No.&nbsp;33-39040) (the &#147;1984/1988 Registration Statement&#148;), for the purpose
+of registering under the Act, the issuance by the Company of up to 120,000 shares of Common Stock,
+issuable pursuant to each of the 1984 Stock Option Plan for Non-Employee Directors and the 1988
+Stock Option Plan for Non-Employee Directors (together, the &#147;1984/1988 Plans&#148;), of which 90,000
+shares have not been issued (the &#147;1984/1988 Shares&#148;); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, on February&nbsp;15, 1991, the Company filed with the Commission a Registration Statement
+on Form S-8 (Registration No.&nbsp;33-39039) (the &#147;1986 Registration Statement&#148;), for the purpose of
+registering under the Act, the issuance by the Company of up to 300,000 shares of its Common Stock,
+issuable pursuant to the 1986 Stock Option Plan (the &#147;1986 Plan&#148;), of which 273,881 shares have not
+been issued; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, pursuant to Item&nbsp;512(a)(3) of Regulation&nbsp;S-K, the Company has an obligation to remove
+from registration by means of a post effective amendment any securities registered on a
+registration statement on Form S-8 which remain unissued at the termination of the stock option
+plan; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, each of the 1980 Plan, 1984/1988 Plans and 1986 Plan have terminated in accordance
+with their respective terms; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, an aggregate of 572,581 shares of Common Stock remain unissued under the 1980 Plan,
+1984/1988 Plans and 1986 Plan as of the date hereof; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Board of Directors of the Company believes it is in the best interest of the
+Company to approve (i)&nbsp;the deregistration of each of the 1980 (2-71931) Shares, 1980 (2-78839)
+Shares, 1984/1988 Shares and 1986 Shares with the Commission, and (ii)&nbsp;the release from reservation
+of an aggregate of 572,581 shares of Common Stock, representing the shares to be deregistered under
+the 1980 Plan, 1984/1988 Plans and 1986 Plan.
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOW, THEREFORE, BE IT RESOLVED, that Edward B. Cloues, II, as Chairman of the Board and Chief
+Executive Officer of the Company, be, and he is, hereby authorized, empowered and directed, on
+behalf of and in the name of the Company, to execute and cause to be filed with the Commission a
+Post Effective Amendment to the 1980 (2-71931) Registration Statement, a Post Effective Amendment
+to the 1980 (2-78839) Registration Statement, a Post Effective Amendment to the 1984/1988
+Registration Statement and a Post Effective Amendment to the 1986 Registration Statement
+(collectively, the &#147;Post Effective Amendments&#148;) for the purpose of deregistering under the Act each
+of the 1980 (2-71931) Shares, 1980 (2-78839) Shares, 1984/1988 Shares and 1986 Shares,
+respectively, such Post Effective Amendments to each of the 1980 (2-71931) Registration Statement,
+1980 (2-78839) Registration Statement), 1984/1988 Registration Statement and 1986 Registration
+Statement, respectively, to be substantially in the forms presented to the Board of Directors of
+the Company, with such changes therein as Mr.&nbsp;Cloues, in his sole discretion, deems necessary or
+appropriate, as conclusively evidenced by his execution thereof; and it is further
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that each of the Chief Executive Officer and Chief Financial Officer of the Company,
+acting for and on behalf of the Company, be, and any of them acting singly is, hereby authorized,
+empowered and directed to cause to be executed and filed with the Commission such further amendment
+or supplement or amendments or supplements to each of the 1980 (2-71931) Registration Statement,
+the 1980 (2-78839) Registration Statement, the 1984/1988 Registration Statement and the 1986
+Registration Statement as such officer may deem necessary or desirable, or as may be required by
+the Commission, each such amendment to be in such form as the officer executing the same on the
+Company&#146;s behalf shall approve, as conclusively evidenced by such officer&#146;s execution thereof, and
+to do such other acts or things and execute such other documents as any of them may deem necessary
+or appropriate to cause each of the 1980 (2-71931) Registration Statement, the 1980 (2-78839)
+Registration Statement, the 1984/1988 Registration Statement and the 1986 Registration Statement,
+as amended, to comply with and to become effective under the Act and the rules and regulations
+thereunder, and the doing by such officers or any of them of any act, or the execution by such
+officers or any of them of such documents, in connection with the foregoing matters shall
+conclusively establish their authority therefor from the Company and the approval and ratification
+by the Company of the action so taken and the documents so executed; and it is further
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that for the purpose of facilitating the signing, filing, amending and supplementing
+of each of the aforesaid 1980 (2-71931) Registration Statement, 1980 (2-78839) Registration
+Statement, 1984/1988 Registration Statement and 1986 Registration Statement, respectively, Edward
+B. Cloues, II and Ronald R. Remick be, and each of them acting singly is, hereby designated an
+attorney and agent for and of the Company, and the officers and directors of the Company are
+authorized to grant, as such officers and directors, their several powers of attorney to each of
+said persons by executing and delivering to such persons powers of attorney appearing on the
+signature pages of each of the Post Effective Amendments; and it is further
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that for the purpose of deregistering the Common Stock of the Company under the Act
+pursuant to each of the Post Effective Amendments, Edward B. Cloues, II is hereby appointed as the
+Company&#146;s agent for service of process; and it is further
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that each of the officers of the Company be, and any of them acting singly is,
+hereby authorized, empowered and directed to cause the Company to pay any and all expenses and fees
+arising in connection with the deregistration of such 1980 (2-71931) Shares, 1980 (2-78839) Shares,
+1984/1988 Shares and 1986 Shares of its Common Stock under the Act and any filing of applications
+under the securities or blue sky laws of the various states and jurisdictions of the United States,
+and otherwise in connection with the foregoing resolutions; and it is further
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that the Company shall release from reservation an aggregate of 572,581 shares of
+Common Stock, representing the 1980 (2-71931) Shares, 1980 (2-78839) Shares, 1984/1988 Shares and
+1986 Shares; and it is further
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOLVED, that each of the officers of the Company be, and any of them acting singly is,
+hereby authorized and empowered, on behalf of the Company and in its name, to make all such
+arrangements, to do and perform all such acts and things, and to execute and deliver all such
+officer&#146;s certificates and such other instruments and documents as they or any of them may deem
+necessary or appropriate in order to effectuate fully the purpose of each and all of the foregoing
+resolutions, and any and all actions taken heretofore and hereafter to accomplish such purposes,
+all or singular, be, and they are, hereby approved, ratified and confirmed.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,275 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w53970e8-k.txt
+<DESCRIPTION>K-TRON INTERNATIONAL, INC. FORM 8-K DATED 10/16/01
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+       Date of report (Date of earliest event reported): October 16, 2001
+                                                         ----------------
+
+
+                           K-TRON INTERNATIONAL, INC.
+                           --------------------------
+                 (Exact Name of Registrant Specified in Charter)
+<TABLE>
+<CAPTION>
+<S>                               <C>                       <C>
+        New Jersey                     0-9576                   22-1759452
+        -----------                    -------                  ----------
+      (State or Other             (Commission File           (I.R.S. Employer
+      Jurisdiction of                  Number)              Identification No.)
+      Incorporation)
+</TABLE>
+
+
+
+         Routes 55 and 553
+         Pitman, New Jersey                               08071-0888
+----------------------------------------                  ----------
+(Address of Principal Executive Offices)                  (Zip Code)
+
+
+
+       Registrant's telephone number, including area code: (856) 589-0500
+                                                           ---------------
+
+
+                                 Not Applicable
+          -------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+<PAGE>
+ITEM 5.           OTHER EVENTS.
+
+         On October 16, 2001, the Board of Directors of K-Tron International,
+Inc. (the "Company") declared a dividend distribution of one Right for each
+outstanding share of Common Stock, $.01 par value (each, a "Common Share"), of
+the Company to shareholders of record at the close of business on October 29,
+2001. Each Right entitles the registered holder, upon the occurrence of certain
+events, to purchase from the Company a unit consisting of one one-hundredth of a
+share (a "Unit") of the Series B Junior Participating Preferred Shares, par
+value $.01 per share, of the Company (the "Preferred Shares"), or a combination
+of securities and assets of equivalent value, at a purchase price pursuant to
+the exercise of a Right of $55.00 per Unit, subject to adjustment (the "Purchase
+Price"). The description and terms of the Rights are set forth in a Rights
+Agreement dated as of October 16, 2001 (the "Rights Agreement") between the
+Company and American Stock Transfer & Trust Company, as Rights Agent. This
+Rights Agreement replaces a similar rights agreement that expired on October 14,
+2001.
+
+         Initially, ownership of the Rights will be evidenced by the Common
+Share certificates representing shares then outstanding, and no separate Rights
+Certificates will be distributed. In certain circumstances, the Rights will
+separate from the Common Shares on a Distribution Date which will occur at the
+close of business on the date that is the earlier of (i) 10 days following a
+public announcement that a person or group of affiliated or associated persons
+(an "Acquiring Person") has acquired, or obtained the right to acquire,
+beneficial ownership of 15% or more of the outstanding Common Shares (the "Stock
+Acquisition Date"), or (ii) on the tenth Business Day (or such later date as may
+be fixed by the Board of the Company) after the commencement of a tender offer
+or exchange offer that would result in a person or group beneficially owning 15%
+or more of the outstanding Common Shares, in each case unless the transaction is
+a tender offer or exchange offer for all Common Shares of the Company and the
+Board of Directors has determined that the price is fair and the transaction is
+otherwise in the best interest of the Company and its shareholders. Until the
+Distribution Date, (a) the Rights will be evidenced by the Common Share
+certificates and will be transferred with and only with such Common Share
+certificates, (b) new Common Share certificates issued after October 29, 2001
+will contain a notation incorporating the Rights Agreement by reference and (c)
+the surrender for transfer of any certificate for Common Shares outstanding will
+also constitute the transfer of the Rights associated with the Common Shares
+represented by such certificate.
+
+         The Rights are not exercisable until the Distribution Date and will
+expire at the close of business on October 29, 2011, unless the Rights Agreement
+is extended by the Board by the amendment of the Rights Agreement, unless
+earlier redeemed by the Company as described below or unless a transaction under
+Section 13(d) of the Rights Agreement (relating to consolidation, merger or sale
+or transfer of assets or earning power) has occurred.
+
+         As soon as practicable after the Distribution Date, Rights Certificates
+will be mailed to holders of record of the Common Shares as of the close of
+business on the Distribution Date and, thereafter, the separate Rights
+Certificates alone will represent the
+
+
+                                       2
+<PAGE>
+Rights. Rights may be issued after the Distribution Date and prior to their
+redemption or expiration only in cases approved by the Board or in connection
+with the exercise of stock options, stock appreciation rights, grants or awards
+that are outstanding on the Distribution Date under any benefit plan or
+arrangement for employees or directors.
+
+         Except in the circumstances described below, after the Distribution
+Date each Right will be exercisable into one one-hundredth of a Preferred Share
+(a "Preferred Share Fraction"). Each Preferred Share Fraction carries voting and
+dividend rights that are intended to produce the equivalent of one Common Share.
+The voting and dividend rights of the Preferred Shares are subject to adjustment
+in the event of dividends, subdivisions and combinations with respect to the
+Common Shares of the Company. In lieu of issuing certificates for Preferred
+Share Fractions which are less than an integral multiple of one Preferred Share
+(i.e., 100 Preferred Share Fractions), the Company may pay cash representing the
+current market value of the Preferred Share Fractions. On the Stock Acquisition
+Date, the Rights of the Acquiring Person and certain transferees of the
+Acquiring Person will be void. Thereafter, commencing on the Distribution Date,
+each other holder of a Right will have the right to purchase Common Shares (or,
+in certain circumstances, cash, property or other securities of the Company)
+having twice the value of the exercise price of the Right based on the average
+market price for the Common Shares during the 30 previous trading days (that is,
+at a price per share equal to one-half of their average market price during such
+30 prior trading days). If, for example, the Purchase Price is $55.00 and the
+average market price for the Common Shares is $20.00, the holder of each valid
+Right would be entitled to purchase 5.5 Common Shares for $55.00, or $10.00 per
+share. In lieu of requiring payment of the Purchase Price upon exercise of the
+Rights, the Company may permit the holders simply to surrender the Rights, in
+which event they will be entitled to receive one-half the number of Common
+Shares (or other property, as the case may be) that they would have received
+upon payment of the full Purchase Price. Notwithstanding any of the foregoing,
+the Rights will be exercisable following the Stock Acquisition Date only when
+the Rights are no longer redeemable by the Company as discussed below.
+
+         At any time after a Person becomes an Acquiring Person and prior to the
+acquisition by such Person or group of fifty percent (50%) or more of the
+outstanding Common Shares, the Board may exchange all or part of the Rights
+(other than Rights held by such Person or group which may have become void), in
+whole or in part, at an exchange ratio of one Common Share per Right (subject to
+adjustment).
+
+         At any time until the expiration of ten days following the Stock
+Acquisition Date, the Company may redeem the Rights in whole, but not in part,
+at a price of $.01 per Right. That ten-day redemption period may be extended by
+the Board of Directors so long as the Rights are still redeemable. Immediately
+upon the action of the Board of Directors ordering redemption of the Rights, the
+Rights will terminate and the only right of the holders of Rights will be to
+receive the $.01 redemption price.
+
+         In the event that, at any time following the Stock Acquisition Date,
+(i) the Company is acquired in a merger or other business combination
+transaction in which the
+
+
+                                       3
+<PAGE>
+Company is not the surviving corporation (other than a merger with a subsidiary
+of the Company in circumstances where the benefits of the Rights will not be
+substantially diminished), or (ii) 50% or more of the Company's assets, cash
+flow or earning power is sold or transferred, each holder of a valid Right shall
+thereafter have the right to receive, upon exercise, common shares of the
+acquiring company having a value equal to twice the exercise price of the Right
+based on average market price of such shares during the 30 trading days prior to
+the consummation of the merger or sale (that is, at a price per share equal to
+one-half of their average market price during such 30 prior trading days).
+Again, provision is made to permit surrender of the Rights in exchange for
+one-half of the value otherwise purchasable.
+
+         The Purchase Price payable and the number of Units of Preferred Share
+Fractions or other securities or property issuable upon exercise of the Rights
+are subject to adjustment from time to time to prevent dilution (i) in the event
+of a stock dividend on, or a subdivision, combination or reclassification of,
+the Preferred Shares, (ii) if holders of the Preferred Shares are granted
+certain rights or warrants to subscribe for Preferred Shares or convertible
+securities at less than the current market price of the Preferred Shares, or
+(iii) upon the distribution to holders of the Preferred Shares of evidences of
+indebtedness or assets (excluding regular quarterly dividends) or of
+subscription rights or warrants (other than those referred to above).
+
+         With certain exceptions, no adjustment in the Purchase Price will be
+required until cumulative adjustments amount to at least 1% of the Purchase
+Price. No fractional Units will be issued and, in lieu thereof, an adjustment in
+cash will be made based on the market price of the Preferred Shares on the last
+trading date prior to the date of exercise. Until a Right is exercised, the
+holder thereof, as such, will have no rights as a shareholder of the Company,
+including, without limitation, the right to vote or to receive dividends.
+Any of the provisions of the Rights Agreement may be amended by the Board of
+Directors of the Company prior to the Distribution Date. After the Distribution
+Date, the provisions of the Rights Agreement may be amended by the Board in
+order to cure any ambiguity, to make changes that do not adversely affect the
+interests of holders of Rights (excluding the interests of any Acquiring Person)
+or to shorten or lengthen any time period under the Rights Agreement.
+
+         While the distribution of the Rights will not be taxable to
+shareholders or to the Company, shareholders may, depending upon the
+circumstances, recognize taxable income in the event that the Rights become
+exercisable for Preferred Shares (or other consideration) of the Company or for
+common shares of the acquiring company as set forth above.
+
+         The foregoing description is qualified in its entirety by reference to
+the description of the Rights and their terms set forth in the Rights Agreement,
+a copy of which is filed herewith and incorporated herein by reference.
+
+
+
+                                       4
+<PAGE>
+ITEM 7.      FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+
+<TABLE>
+<CAPTION>
+Exhibit No.                Exhibit
+-----------                -------
+<S>                        <C>
+4.1                        Rights Agreement, dated as of October 16, 2001, between K-Tron
+                           International, Inc. and American Stock Transfer & Trust Company,
+                           as Rights Agent, including the form of Rights Certificate attached
+                           as Exhibit B.
+</TABLE>
+
+
+
+
+                                       5
+<PAGE>
+                                    SIGNATURE
+
+         Pursuant to the requirements of the Securities and Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+                                              K-TRON INTERNATIONAL, INC.
+
+
+Date:   October 16, 2001                      By:/s/ Edward B. Cloues, II
+      -------------------                        -------------------------------
+                                                 Edward B. Cloues, II
+                                                 Chairman of the Board and Chief
+                                                 Executive Officer
+
+
+
+                                       6
+<PAGE>
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit No.                Exhibit
+-----------                -------
+<S>                        <C>
+4.1                        Rights Agreement, dated as of October 16, 2001, between K-Tron
+                           International, Inc. and American Stock Transfer & Trust Company,
+                           as Rights Agent, including the form of Rights Certificate attached
+                           as Exhibit B.
+</TABLE>
+
+
+
+
+
+                                       7
+
+</TEXT>
+</DOCUMENT>

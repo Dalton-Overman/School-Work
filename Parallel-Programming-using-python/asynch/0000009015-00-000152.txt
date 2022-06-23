@@ -1,0 +1,277 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ImYpbziO+zmffHPLd7hZWwywTgGvQrVarrEdVSRImnf6vqdbLfqEEaL/3P8sEHRH
+ 0m1p8K52YvePhPnQbYP0cQ==
+
+<SEC-DOCUMENT>0000009015-00-000152.txt : 20001212
+<SEC-HEADER>0000009015-00-000152.hdr.sgml : 20001212
+ACCESSION NUMBER:		0000009015-00-000152
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20001211
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		786778
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BABSON DAVID L & CO INC
+		CENTRAL INDEX KEY:			0000009015
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				004105478
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MEMORIAL DRIVE
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142-1300
+		BUSINESS PHONE:		6177237540
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>13G AMENDMENT
+<TEXT>
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C.  20549
+
+SCHEDULE 13G
+
+(Under the Securities Exchange Act of 1934)
+(Amendment No. 8)*
+
+K Tron International, Inc.
+- ------------------------------------------------------
+(Name of Issuer)
+
+COMMON STOCK
+- ---------------------------------
+(Title of Class of Securities)
+
+482730108
+- -----------------------
+(Cusip Number)
+
+
+NOVEMBER 30, 2000
+_____________________________________
+(Date of event which requires filing of this statement)
+
+Check the appropriate box to designate the rule pursuant
+to which this schedule is filed:
+
+[X]  Rule 13d-1    (b)
+[ ]  Rule 13d-1    (c)
+[ ]  Rule 13d-1    (d)
+
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing of this form with respect to the
+subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided in
+a prior cover page.
+
+The information required in the remainder of this cover page shall
+not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to the
+liabilities of that section of the Act, but shall be subject to all
+other provisions of the Act (however, see the Notes.)
+
+[Continued on the following page(s)]
+Page 1 of 4 Pages
+
+CUSIP No.	482730108		Page 2 of 4 Pages
+- ----------------------------------------------------------------
+1.	Name of reporting person
+ 	S.S. or I.R.S. identification no. of above person
+
+	David L. Babson & Company Inc.
+	04-1054788
+- ----------------------------------------------------------------
+2.	Check the appropriate box if a member of a group
+	(a)(   )
+	(b)( X )
+- ----------------------------------------------------------------
+3.	SEC use only
+
+- ----------------------------------------------------------------
+4.	Citizenship or place of organization
+	Massachusetts
+
+- ----------------------------------------------------------------
+
+Number of shares beneficially owned by each reporting person:
+5	Sole Voting Power
+  119,243.00
+- ----------------------------
+6.	Shared Voting Power
+      	0
+- -----------------------------
+7	Sole Dispositive Power
+   119,243.00
+- -----------------------------
+8.	Shared Dispositive Power
+       	0
+- ---------------------------------------------------------------
+9.	Aggregate amount beneficially owned by each reporting person
+
+	119,243.00
+	---------------------------------------------------------------
+10.	Check if the aggregate amount in row (9) excludes certain shares*
+
+- ----------------------------------------------------------------
+11.	Percent of class represented by amount in row 9
+     	4.90%
+- ----------------------------------------------------------------
+12.	Type of Reporting person
+	IA
+
+Page 3 of 4 Pages 					Cusip #:482730108
+
+SCHEDULE 13G
+
+ITEM 1(A):  NAME OF ISSUER:
+
+K Tron International, Inc.
+
+1(B):  ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+
+Routes 55 and 553
+P.O. Box 888
+Pitman, NJ 08071-0888
+
+ITEM 2(A):  NAME OF PERSON FILING:
+
+David L. Babson & Company Inc. ("DLB")
+
+ITEM 2(B):  ADDRESS OF PRINCIPAL BUSINESS OFFICE:
+
+One Memorial Drive
+Cambridge, Massachusetts  02142-1300
+
+ITEM 2(C):  CITIZENSHIP:
+
+See Item 4 of Cover Page
+
+ITEM 2(D):  TITLE OF CLASS OF SECURITIES:
+
+See Cover Page
+
+ITEM 2(E):  CUSIP NUMBER:
+
+See Cover Page
+
+ITEM 3:  TYPE OF REPORTING PERSON:
+
+See Item 12 of Cover Page
+
+ITEM 4:  OWNERSHIP:
+
+(a)	AMOUNT BENEFICIALLY OWNED:  DLB, in its capacity as
+investment adviser, may be deemed the beneficial owner of 119,243.00
+shares of common stock of the Issuer which are owned by numerous
+investment advisory clients.
+
+(b)	PERCENT OF CLASS: 4.90%
+
+(c)	For information on voting and dispositive power with respect to the
+above listed shares, see Items 5 - 8 of Cover Page.
+
+Page 4 of 4 Pages				Cusip #:482730108
+
+
+ITEM 5:  OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS:
+
+If this statement is being filed to report the fact that as of the
+date hereof the reporting person has ceased to be the beneficial
+owner of more than five percent of the class of securities
+check the following [X]
+
+ITEM 6:  OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON:
+
+Not Applicable
+
+ITEM 7: IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH
+	ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING
+	COMPANY:
+
+Not Applicable
+
+ITEM 8:  IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP:
+
+Not Applicable
+
+ITEM 9:  NOTICE OF DISSOLUTION OF GROUP:
+
+Not Applicable
+
+ITEM 10:  CERTIFICATION:
+
+By signing below I certify that, to the best of my knowledge and
+belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the purpose of
+and do not have the effect of changing or influencing the control of
+the issuer of such securities and were not acquired in connection
+with or as a participant in any transaction having such purpose or
+effect.
+
+SIGNATURE:
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct.
+
+		Date: December 8, 2000
+		Signature:  --//John E. Deitelbaum//--
+		Name/Title:  JOHN E. DEITELBAUM
+		Counsel
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

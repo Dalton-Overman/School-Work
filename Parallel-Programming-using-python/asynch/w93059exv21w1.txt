@@ -1,0 +1,34 @@
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>4
+<FILENAME>w93059exv21w1.txt
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 21.1
+
+                           K-TRON INTERNATIONAL, INC.
+                              LIST OF SUBSIDIARIES
+
+Name of Subsidiary                                      State or Jurisdiction
+                                                        of Incorporation
+
+K-Tron Investment Co.                                   Delaware
+     Pneumatic Conveying Systems Inc.                   Canada
+     K-Tron America, Inc.                               Delaware
+            Colormax Limited                            United Kingdom
+            Pneumatic Conveying Systems Limited         United Kingdom
+     K-Tron (Schweiz) AG                                Switzerland
+            K-Tron Asia Pte Ltd                         Singapore
+            K-Tron China Limited                        Hong Kong
+            K-Tron Deutschland GmbH                     Germany
+            K-Tron France S.a.r.l.                      France
+            K-Tron Great Britain Ltd.                   United Kingdom
+     Pennsylvania Crusher Corporation                   Delaware
+            Jeffrey Specialty Equipment Corporation     Delaware
+K-Tron Technologies, Inc.                               Delaware
+
+
+</TEXT>
+</DOCUMENT>

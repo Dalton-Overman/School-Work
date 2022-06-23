@@ -1,0 +1,663 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TnDyY5sdGD6Dcp53I1p+QLUUYD9uQGRqlVwZ5RzGMCHbS5Ae3kyL/qkWs5dbUmDF
+ EwIQ+Yfz3ZtuSOQ5fykfyw==
+
+<SEC-DOCUMENT>0000950159-05-000602.txt : 20050516
+<SEC-HEADER>0000950159-05-000602.hdr.sgml : 20050516
+<ACCEPTANCE-DATETIME>20050516105725
+ACCESSION NUMBER:		0000950159-05-000602
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050513
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20050516
+DATE AS OF CHANGE:		20050516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		05832009
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ktron8k.htm
+<DESCRIPTION>KTRON8K
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+ktron8k
+</TITLE>
+<!-- Licensed to: TSGT-->
+<!-- Document Created using EDGARIZER HTML 3.0.0.1704 -->
+<!-- Copyright 2005 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</HEAD><BODY id=38 bgColor=#ffffff>
+<DIV>
+<HR style="MARGIN-TOP: -5px" color=#000000 noShade SIZE=4>
+
+<HR style="MARGIN-TOP: -10px" color=#000000 noShade SIZE=1>
+</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>UNITED
+STATES</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES
+AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>WASHINGTON,
+D.C. 20549</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">___________________________________________________________</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FORM
+8-K</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CURRENT
+REPORT</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>PURSUANT
+TO SECTION 13 OR 15(d) OF THE</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES
+EXCHANGE ACT OF 1934</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Date
+of report (Date of earliest event reported): </FONT><FONT id=TAB2
+style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>May
+13, 2005</U></FONT><FONT id=TAB2
+style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT id=TAB2
+style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>K-TRON
+INTERNATIONAL, INC.</U></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Exact
+Name of Registrant Specified in Charter)</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV><BR>
+<DIV><BR>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TR>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left>&nbsp;</DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>New
+      Jersey </U></FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(State
+      or Other</FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Jurisdiction
+      of</FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Incorporation)</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center>&nbsp;</DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>0-9576
+      </U></FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Commission
+      File</FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Number)</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center>&nbsp;</DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>22-1759452
+      </U></FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(I.R.S.
+      Employer</FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Identification
+      No.)</FONT></DIV></TD></TR></TABLE></DIV>
+<DIV></DIV></DIV>
+<DIV></DIV></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV><BR>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TR>
+    <TD vAlign=top align=middle width="53%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>Routes
+      55 &amp; 553, P.O. Box 888, Pitman, New Jersey</U></FONT></DIV></TD>
+    <TD vAlign=top align=middle width="25%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>08071-0888</U></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="53%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Address
+      of Principal Executive Offices)</FONT></DIV></TD>
+    <TD vAlign=top align=middle width="25%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Zip
+      Code)</FONT></DIV></TD></TR></TABLE></DIV>
+<DIV></DIV></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Registrant's
+telephone number, including area code: </FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>(856)
+589-0500</U></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>Not
+Applicable</U></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Former
+Name or Former Address, if Changed Since Last Report)</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the Registrant under any of the following
+provisions (</FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><EM>see</EM></FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">
+General Instruction A.2. below):</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TR>
+    <TD vAlign=top align=middle width="11%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&#9633;</FONT></DIV></TD>
+    <TD vAlign=top align=left width="67%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Written
+      communications pursuant to Rule 425 under the Securities Act (17 CFR
+      230.425)</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">&nbsp;</TD>
+    <TD vAlign=top align=left width="67%">&nbsp;</TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&#9633;</FONT></DIV></TD>
+    <TD vAlign=top align=left width="67%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Soliciting
+      material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+      240.14a-12)</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">&nbsp;</TD>
+    <TD vAlign=top align=left width="67%">&nbsp;</TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&#9633;</FONT></DIV></TD>
+    <TD vAlign=top align=left width="67%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement
+      communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+      240.14d-2(b))</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">&nbsp;</TD>
+    <TD vAlign=top align=left width="67%">&nbsp;</TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width="11%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&#9633;</FONT></DIV></TD>
+    <TD vAlign=top align=left width="67%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement
+      communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+      240.13e-4(c))</FONT></DIV></TD></TR></TABLE></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left>&nbsp;</DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left>&nbsp;</DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR>&nbsp;</DIV>
+<DIV>
+<HR style="MARGIN-TOP: -5px" color=#000000 noShade SIZE=1>
+
+<HR style="MARGIN-TOP: -13px" color=#000000 noShade SIZE=4>
+</DIV>
+<DIV id=PGBRK style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=FTR>
+<DIV id=GLFTR style="WIDTH: 100%" align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman"></FONT></DIV></DIV>
+<DIV id=PN style="PAGE-BREAK-AFTER: always">
+<DIV style="WIDTH: 100%; TEXT-ALIGN: center"><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt" face="Times New Roman"></FONT></DIV>
+<DIV style="WIDTH: 100%; TEXT-ALIGN: center"></DIV></DIV>
+<DIV id=HDR>
+<DIV id=GLHDR style="WIDTH: 100%" align=right><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman"></FONT></DIV></DIV></DIV>
+<DIV></DIV><BR>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Item
+1.01. Entry into a Material Definitive Agreement.</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">1.
+</FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>Director
+Compensation</U></FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">.
+On May 13, 2005, the Board of Directors (the &#8220;Board&#8221;) of K-Tron International,
+Inc. (the &#8220;Company&#8221;) approved certain changes in the compensation arrangements
+for the Company&#8217;s non-employee directors, effective as of May 1, 2005 for annual
+periods from May 1 to April 30. These changes had been recommended to the Board
+by its Compensation and Human Resources Committee. The compensation of the
+Company&#8217;s non-employee directors, as so changed, is as follows:</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Each
+non-employee director receives an annual cash retainer of $18,000 and an annual
+nonqualified stock option grant to purchase 1,000 shares of the Company&#8217;s Common
+Stock at an option price per share equal to the last reported sale price of a
+share of Common Stock as quoted on the Nasdaq National Market on the date of
+grant, which is the date of the annual meeting of shareholders. These options
+are fully vested on the grant date and have a ten-year term. The Chairperson of
+the Audit Committee receives an additional annual cash retainer of $10,000, and
+each other Audit Committee member receives an additional annual cash retainer of
+$5,000. The Chairperson of the Compensation and Human Resources Committee
+receives an additional annual cash retainer of $5,000, and each other member of
+that Committee receives an additional annual cash retainer of $2,500. The
+members of the Executive Committee receive an additional annual cash retainer of
+$1,000. All annual retainers are paid on a quarterly basis. In addition to these
+annual retainers, each non-employee director receives $1,000 cash for each Board
+of Directors meeting which he or she attends, but there are no committee meeting
+fees. Directors appointed between May 1 and April 30, or who cease to be
+directors in that period, receive a pro-rated portion of the annual cash
+retainer fees described above.</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">2.
+</FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>Restricted
+Stock</U></FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">.
+On May 13, 2005, the Compensation and Human Resources Committee of the Board
+approved the grant of shares of restricted Common Stock to the executive
+officers of the Company in the amounts indicated below:</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV align=left>
+<TABLE cellSpacing=0 cellPadding=0 width="80%">
+  <TR>
+    <TD vAlign=top align=middle width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center>&nbsp;</DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Name</U></STRONG></FONT></DIV></TD>
+    <TD vAlign=top align=middle width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Shares
+      of</U></STRONG></FONT></DIV>
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Restricted
+      Stock</U></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Edward
+      B. Cloues, II</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">3,000</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Kevin
+      C. Bowen</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">1,500</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Ronald
+      R. Remick</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">1,500</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Donald
+      W. Melchiorre</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">1,500</FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=top align=left width="20%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=left><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Lukas
+      Guenthardt</FONT></DIV></TD>
+    <TD vAlign=top align=left width="19%">
+      <DIV
+      style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+      align=center><FONT
+      style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">1,500</FONT></DIV></TD></TR></TABLE></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">The
+restricted stock awards were made </FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">under
+the Company&#8217;s 1996 Equity Compensation Plan, as amended (the &#8220;Plan&#8221;), and will
+vest on May 13, 2009 if the recipient&#8217;s employment by the Company or a
+subsidiary has not terminated for any reason before that date, and they are
+subject to acceleration in the event of a change of control prior to that date
+as provided in the Plan. </FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left>&nbsp;</DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center>2</DIV>
+<DIV id=PGBRK style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=FTR>
+<DIV id=GLFTR style="WIDTH: 100%" align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman"></FONT></DIV></DIV>
+<DIV id=PN style="PAGE-BREAK-AFTER: always">
+<DIV style="WIDTH: 100%; TEXT-ALIGN: center"><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt" face="Times New Roman"></FONT></DIV>
+<DIV style="WIDTH: 100%; TEXT-ALIGN: center">
+<HR color=#000000 noShade SIZE=2>
+</DIV></DIV>
+<DIV id=HDR>
+<DIV id=GLHDR style="WIDTH: 100%" align=right><FONT
+style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman"></FONT></DIV></DIV></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR>&nbsp;</DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=justify><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SIGNATURES</STRONG></FONT></DIV><BR>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=center></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>K-TRON
+INTERNATIONAL, INC.</STRONG></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Registrant)</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">By:
+</FONT><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>EDWARD
+B. CLOUES, II</U></FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Edward
+B. Cloues, II</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Chairman
+of the Board and</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 252pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Chief
+Executive Officer</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><FONT
+style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Dated:
+May 16, 2005</FONT></DIV>
+<DIV
+style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"
+align=left><BR></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"
+align=center>3</DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"
+align=center>&nbsp;</DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align=center>
+<DIV>
+<HR align=left width="100%" color=#000000 noShade SIZE=2>
+</DIV></DIV></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

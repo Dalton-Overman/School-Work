@@ -1,0 +1,23 @@
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>3
+<FILENAME>b41841ktex99-a.txt
+<DESCRIPTION>STATEMENT RE SUBSIDIARY ACQUIRING SECURITIES
+<TEXT>
+<PAGE>
+                            KTRON INTERNATIONAL, INC.
+
+
+                                    EXHIBIT A
+<TABLE>
+<CAPTION>
+SUBSIDIARY ACQUIRING SECURITIES                              CLASSIFICATION
+--------------------------------------------------------------------------------
+<S>                                                          <C>
+Fleet National Bank                                               Bank
+Fleet Investment Advisors, Inc.                                   Bank
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>

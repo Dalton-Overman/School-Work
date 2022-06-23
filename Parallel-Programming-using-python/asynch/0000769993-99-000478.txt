@@ -1,0 +1,425 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SL4m6XucUESMFsCgNZ/5DnUp/XaUZn+QoJ43oedWW1IPAFwh7Wg4VezYy+uil45g
+ l0q5+xXdoydZ+AwzHb7gpg==
+
+<SEC-DOCUMENT>0000769993-99-000478.txt : 19990913
+<SEC-HEADER>0000769993-99-000478.hdr.sgml : 19990913
+ACCESSION NUMBER:		0000769993-99-000478
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990910
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33401
+		FILM NUMBER:		99709271
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS ASSET MANAGEMENT/
+		CENTRAL INDEX KEY:			0001088084
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GOLDMAN SACHS ASSET MANAGEMENT
+		STREET 2:		1 NEW YORK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2129027202
+
+	MAIL ADDRESS:	
+		STREET 1:		GOLDMAN SACHS ASSET MANAGEMENT
+		STREET 2:		1 NEW YORK PLAZA
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                  SCHEDULE 13G
+                    Under the Securities Exchange Act of 1934
+
+
+
+
+                           K-Tron International, Inc.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+
+                         Common Stock, $0.01 par value
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    482730108
+                  --------------------------------------------
+                                 (CUSIP Number)
+
+
+
+
+
+                                 August 31, 1999
+- -------------------------------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+Check the  appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X] Rule 13d-1(b)
+
+[_] Rule 13d-1(c)
+
+[_] Rule 13d-1(d)
+
+
+
+                                Page 1 of 7 pages
+<PAGE>
+
+- -----------------------
+  CUSIP No. 482730108                   13G
+- -----------------------
+
+- ------------------------------------------------------------------------------
+ 1.   Name of Reporting Person
+      I.R.S. Identification No. of above Person
+
+           Goldman Sachs Asset Management, a separate operating division of
+           Goldman, Sachs & Co.
+
+- ------------------------------------------------------------------------------
+ 2.   Check the Appropriate Box if a Member of a Group
+                                                                (a) [_]
+                                                                (b) [_]
+
+- ------------------------------------------------------------------------------
+ 3.   SEC Use Only
+
+
+
+- ------------------------------------------------------------------------------
+ 4.   Citizenship or Place of Organization
+
+           New York
+
+- ------------------------------------------------------------------------------
+                     5.   Sole Voting Power
+
+     Number of                 311,100
+
+      Shares        ----------------------------------------------------------
+                     6.   Shared Voting Power
+   Beneficially
+                               0
+     Owned by
+                    ----------------------------------------------------------
+       Each          7.   Sole Dispositive Power
+
+    Reporting                  311,100
+
+      Person        ----------------------------------------------------------
+                     8.   Shared Dispositive Power
+       With:
+                               0
+
+- ------------------------------------------------------------------------------
+ 9.   Aggregate Amount Beneficially Owned by Each Reporting Person
+
+           311,100
+
+- ------------------------------------------------------------------------------
+10.   Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+
+                                                                    [_]
+
+- ------------------------------------------------------------------------------
+11.   Percent of Class Represented by Amount in Row (9)
+
+           10.5%
+- ------------------------------------------------------------------------------
+12.   Type of Reporting Person
+
+           IA
+
+- ------------------------------------------------------------------------------
+
+
+
+                                Page 2 of 7 pages
+<PAGE>
+
+Item 1(a).         Name of Issuer:
+                   K-Tron International, Inc.
+
+Item 1(b).         Address of Issuer's Principal Executive Offices:
+                   Routes 55 & 553
+                   P.O. Box 888
+                   Pitman, NJ  08071-0888
+
+Item 2(a).         Name of Persons Filing:
+                   Goldman Sachs Asset Management
+
+Item 2(b).         Address of Principal Business Office or, if none, Residence:
+                   1 New York Plaza, New York, NY  10004
+
+Item 2(c).         Citizenship:
+                   Goldman Sachs Asset Management - New York
+
+Item 2(d).         Title of Class of Securities:
+                   Common Stock, $0.01 par value
+
+Item 2(e).         CUSIP Number:
+                   482730108
+
+Item 3.            If this statement is filed pursuant to Rules 13d-1(b) or
+                   13d-2(b) or (c), check whether the person filing is a :
+
+          (a).[_]  Broker or dealer registered under Section 15 of the Act
+                   (15 U.S.C. 78o).
+
+          (b).[_]  Bank as defined in Section 3(a)(6) of the Act
+                   (15 U.S.C. 78c).
+
+          (c).[_]  Insurance company as defined in Section 3(a)(19) of the Act
+                   (15 U.S.C. 78c).
+
+          (d).[ ]  Investment company registered under Section 8 of the
+                   Investment Company Act of 1940 (15 U.S.C. 80a-8).
+
+
+          (e).[X]  An investment adviser in accordance with
+                   Rule 13d-1(b)(1)(ii)(E);
+                              Goldman Sachs Asset Management, a separate
+                              operating division of Goldman, Sachs & Co.
+
+          (f).[_]  An employee benefit plan or endowment fund in accordance
+                   with Rule 13d-1(b)(1)(ii)(F);
+
+          (g).[_]  A parent holding company or control person in accordance
+                   with Rule 13d-1(b)(1)(ii)(G);
+
+          (h).[_]  A savings association as defined in Section 3(b) of the
+                   Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+          (i).[_]  A church plan that is excluded from the definition of an
+                   investment company under Section 3(c)(14) of the
+                   Investment Company Act of 1940 (15 U.S.C. 80a-3);
+
+          (j).[_]  Group, in accordance with Rule 13d-1(b)(1)(ii)(J).
+
+
+
+                                Page 3 of 7 pages
+<PAGE>
+
+Item 4.            Ownership.*
+
+          (a).     Amount beneficially owned:
+                   See the response(s) to Item  9 on the attached cover page(s).
+
+          (b).     Percent of Class:
+                   See the response(s) to Item 11 on the attached cover page(s).
+
+          (c).     Number of shares as to which such person has:
+
+                   (i).     Sole power to  vote or to direct  the vote:  See the
+                            response(s) to Item 5 on the attached cover page(s).
+
+                   (ii).    Shared power to vote or to direct the vote:  See the
+                            response(s) to Item 6 on the attached cover page(s).
+
+                   (iii).   Sole power to  dispose or to direct  the disposition
+                            of:  See the response(s) to  Item 7  on the attached
+                            cover page(s).
+
+                   (iv).    Shared power to dispose or to direct the disposition
+                            of:  See the response(s) to  Item 8  on the attached
+                            cover page(s).
+
+Item 5.            Ownership of Five Percent or Less of a Class.
+                             Not Applicable
+
+Item 6.            Ownership of More than Five Percent on behalf of another
+                   Person.
+                             Not Applicable
+
+Item 7.            Identification  and  Classification  of the Subsidiary  Which
+                   Acquired the Security Being Reported on by the Parent Holding
+                   Company.
+                             Not Applicable
+
+Item 8.            Identification and Classification of Members of the Group.
+                             Not Applicable
+
+Item 9.            Notice of Dissolution of Group.
+                             Not Applicable
+
+Item 10.           Certification.
+                   By signing  below I certify that, to the best of my knowledge
+                   and belief,  the  securities  referred to above were acquired
+                   and are held in the ordinary  course of business and were not
+                   acquired  and are not  held  for the  purpose  of or with the
+                   effect of changing or  influencing  the control of the issuer
+                   of the  securities  and were not acquired and are not held in
+                   connection with or as a participant in any transaction having
+                   that purpose or effect.
+
+
+- --------------------------
+     * In accordance with Securities and Exchange Commission ("SEC") Release No.
+34-39538  (January 12, 1998),  this filing reflects the securities  beneficially
+owned by the asset  management  division  of  Goldman,  Sachs & Co.  (the "Asset
+Management  Division").  This  filing  does  not  reflect  securities,  if  any,
+beneficially  owned by any other  division  of  Goldman,  Sachs & Co.  The Asset
+Management   Division   disclaims   beneficial   ownership  of  the   securities
+beneficially  owned by (i) any client  accounts  with respect to which it or its
+employees  have  voting or  investment  discretion,  or both,  and (ii)  certain
+investment  entities,  of which its affiliate is the general  partner,  managing
+general partner or other manager,  to the extent  interests in such entities are
+held by persons other than the Asset Management Division.
+
+
+
+                               Page 4 of 7 pages
+<PAGE>
+
+
+                                    SIGNATURE
+
+            After reasonable inquiry and to the best of my knowledge
+            and belief,  I certify that the information set forth in
+            this statement is true, complete and correct.
+
+
+Date:  September 10, 1999
+
+
+                                GOLDMAN, SACHS & CO. on behalf of
+                                Goldman Sachs Asset Management
+
+
+                                By:  /s/ Hans L. Reich
+                                     --------------------------------------
+                                Name:    Hans L. Reich
+                                Title:   Attorney-in-fact
+
+
+
+
+                                Page 5 of 7 pages
+<PAGE>
+
+
+                                INDEX TO EXHIBITS
+
+
+
+
+Exhibit No.             Exhibit
+- -----------             -------
+
+ 99.1                  Power of Attorney,  dated December 21, 1998,  relating to
+                       Goldman, Sachs & Co.
+
+
+
+
+                                Page 6 of 7 pages
+<PAGE>
+
+
+                                                                   Exibit (99.1)
+
+
+
+                                POWER OF ATTORNEY
+
+
+     This power of attorney will expire on December 31, 2000.
+
+     KNOW  ALL  PERSONS  BY  THESE  PRESENTS  that  GOLDMAN,  SACHS  & CO.  (the
+"Company")  does hereby make,  constitute  and appoint each of Hans L. Reich and
+Roger S. Begelman, acting individually, its true and lawful attorney, to execute
+and  deliver  in its  name and on its  behalf  whether  the  Company  is  acting
+individually or as representative of others,  any and all filings required to be
+made by the  Company  under the  Securities  Exchange  Act of 1934,  as amended,
+giving and granting unto each said  attorney-in-fact  power and authority to act
+in the premises as fully and to all intents and purposes as the Company might or
+could do if  personally  present by one of its  authorized  signatories,  hereby
+ratifying and  confirming  all that said  attorney-in-fact  shall lawfully do or
+cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF,  the undersigned has duly subscribed  these presents as
+of December 21, 1998.
+
+
+GOLDMAN, SACHS & CO.
+
+By: The Goldman, Sachs & Co. L.L.C.
+
+
+By:/s/ Robert J. Katz
+- ---------------------------------
+Name:  Robert J. Katz
+Title: Executive Vice President
+
+
+
+                                Page 7 of 7 pages
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

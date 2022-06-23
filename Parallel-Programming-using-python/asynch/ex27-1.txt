@@ -1,0 +1,53 @@
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<FILENAME>ex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          JAN-02-2000
+<PERIOD-END>                               JUL-01-2000
+<CASH>                                             901
+<SECURITIES>                                         0
+<RECEIVABLES>                                   19,337
+<ALLOWANCES>                                       816
+<INVENTORY>                                     11,031
+<CURRENT-ASSETS>                                32,343
+<PP&E>                                          41,783
+<DEPRECIATION>                                  26,821
+<TOTAL-ASSETS>                                  51,409
+<CURRENT-LIABILITIES>                           19,644
+<BONDS>                                         12,619
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            44
+<OTHER-SE>                                      18,688
+<TOTAL-LIABILITY-AND-EQUITY>                    51,409
+<SALES>                                         42,372
+<TOTAL-REVENUES>                                42,372
+<CGS>                                           22,639
+<TOTAL-COSTS>                                   22,639
+<OTHER-EXPENSES>                                14,724
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 455
+<INCOME-PRETAX>                                  4,554
+<INCOME-TAX>                                     1,349
+<INCOME-CONTINUING>                              3,205
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,205
+<EPS-BASIC>                                       1.21
+<EPS-DILUTED>                                     1.19
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>

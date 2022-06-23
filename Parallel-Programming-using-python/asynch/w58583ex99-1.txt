@@ -1,0 +1,49 @@
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>11
+<FILENAME>w58583ex99-1.txt
+<DESCRIPTION>LETTER RESPONSIVE TO TEMPORARY NOTE 3T
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+[K-TRON INTERNATIONAL, INC. LETTERHEAD]                           [K-TRON LOGO]
+
+March 20, 2002
+
+
+Securities and Exchange Commission
+Washington, DC  20549
+
+         Re:      Letter responsive to Temporary Note 3T to Article 3 of
+                  Regulation S-X
+
+Dear Sir or Madam:
+
+In compliance with Temporary Note 3T to Article 3 of Regulation S-X, I am
+writing to inform you that Arthur Andersen LLP ("Andersen") has represented to
+K-Tron International, Inc. ("K-Tron") that Andersen's audit of the consolidated
+balance sheets of K-Tron and its subsidiaries as of December 29, 2001 and
+December 30, 2000, and the related consolidated statements of income, changes in
+shareholders' equity and cash flows for each of the three fiscal years in the
+period ended December 29, 2001, was subject to Andersen's quality control system
+for the U.S. accounting and auditing practice to provide reasonable assurance
+that the engagement was conducted in compliance with professional standards and
+that there was appropriate continuity of Andersen personnel working on the
+audit, availability of national office consultation and availability of
+personnel at foreign affiliates of Andersen to conduct the relevant portions of
+the audit.
+
+
+Sincerely,
+
+/s/ Edward B. Cloues, II
+-------------------------
+Edward B. Cloues, II
+Chairman of the Board and
+Chief Executive Officer
+
+
+
+</TEXT>
+</DOCUMENT>
